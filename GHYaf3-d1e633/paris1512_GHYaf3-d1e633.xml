@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#Wodeham">Adam Wodeham</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-03-03">March 3, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#Pa" n="93-v"/>
+            <cb ed="#Pa" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="GHYaf3-d1e633"><!-- GHYaf3-l2q2 -->
+            <head xml:id="GHYaf3-d1e633-Hd1e108">Quaestio 2</head>
+            <head xml:id="GHYaf3-d1e633-Hd1e111" type="question-title">
+      Utrum profectus vel augmentum gratiae fiat per compositionem gratiae novae cum gratia praecedenti.
+    </head>
+            <p xml:id="GHYaf3-d1e633-d1e114">
+               <lb ed="#P" n="90"/>SEcundo quaero vtrum 
+      <lb ed="#P" n="91"/>profectus vel augmentum gratie 
+      <lb ed="#P" n="92"/>fiat per compositionem noue gratie 
+      <lb ed="#P" n="93"/>tum gra praecedenti. Uidetur quod non 
+      <lb ed="#P" n="94"/>quia omnen recipiens denudari 
+      <lb ed="#P" n="95"/>debet a natura recepti. Con 
+      <lb ed="#P" n="96"/>tra motus alterationis est 
+      acqui<lb ed="#P" n="97" break="no"/>sitio partis post partem ipsius 
+      <lb ed="#P" n="98"/>perfectionis ad quam vadit. 
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e136">
+               <lb ed="#P" n="99"/>⁋ In ista questione prarimo ponam aliquas conclusiones. 
+      <lb ed="#P" n="100"/>Secundo obiiciam contra eas.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e143">
+      ⁋ Circa primum articulum po 
+      <lb ed="#P" n="101"/>no octo conclusiones quarum prima est quod in omni cremento for 
+      <lb ed="#P" n="102"/>mali quae continue et successiue habetur forma perfectior 
+      <lb ed="#P" n="103"/>secum intensionem quam ante ibi ex praecedente aliqua et 
+      no<lb ed="#P" n="104" break="no"/>ua et nouitur priori vnita fit forma vna perfectior seu in  
+      <lb ed="#P" n="105"/>tensior modus ponendi ponitur sufficientur ab okam in pede 
+      <lb ed="#P" n="106"/>responsionis propiie q. 6 di. 17 primi quaere ibi si vis per 
+      <lb ed="#P" n="107"/>per exemplum de vera augmentatione substantiali quae ex 
+      pri<lb ed="#P" n="108" break="no"/>mo de generatione est per additionem noue rei.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e164">
+      ⁋ Ista conclu 
+      <lb ed="#P" n="109"/>sio patet quia in ista augmentatione forma praecedens non cor 
+      <lb ed="#P" n="110"/>rumpitur ex quinta quaestione di. 17 primi ibi etiam continue fit 
+      <lb ed="#P" n="111"/>aliqud nouiter vel ex praexistenti vnitur cui prius non vnie 
+      <lb ed="#P" n="112"/>batur ita quod tunc habetur forma prior et forma noua in  
+      <lb ed="#P" n="113"/>eodem subiecto adequato ex q. pecedenti et cum non semper 
+      <lb ed="#P" n="114"/>oporteat quod forma preueniens sit perfectior quam forma 
+      prae<lb ed="#P" n="115" break="no"/>cedens nec praecedens vnquam fiat perfectior quam prius oportet 
+      <lb ed="#P" n="116"/>fforma quae est ibi perfectior componatur et resultet ex gra 
+      <lb ed="#P" n="117"/>du adueniente et gradu cui aduenit.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e186">
+      ⁋ Item vnitas et 
+      <lb ed="#P" n="118"/>continuitas motus requirit vnitatem forme secundem quam est 
+      <lb ed="#P" n="119"/>motus hoc autem saluari non potest sine compositione forme 
+      <lb ed="#P" n="120"/>alicuius ex parte praecedenti et nouitur acquisita. Item aliter 
+      <lb ed="#P" n="121"/>agens irronnale corrumperet stati formam quam 
+      produxe<lb ed="#P" n="122" break="no"/>rat et per consequens valeret ad opposita falsitas patet d. 
+      me<lb ed="#P" n="123" break="no"/>tha.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e202">
+      ⁋ Item si non vel hoc esset quia multa accidentia eius 
+      <lb ed="#P" n="124"/>dem speciei adinuicem disticta non possunt si cut recipi in eodem sub 
+      <lb ed="#P" n="125"/>iecto adequato vel quia non possunt vniriad compositionem 
+      re<lb ed="#P" n="126" break="no"/>sultantem patet falsitas de lulibus duarum candellam in 
+      me<lb ed="#P" n="127" break="no"/>dio eode falsitas secundi patet in alteratione continua. Item 
+      <lb ed="#P" n="128"/>per accessum suum continuu sol vel etiam candella plus fa 
+      <lb ed="#P" n="129"/>cit de luine in parte ad quam sic continue accidit et hoc non  
+      <lb ed="#P" n="130"/>acit corrumpendo lumen praecedens propter impossibilia il 
+      <lb ed="#P" n="131"/>lata contra hoc q. 5 di. 17 primi li. nec sine productione¬ 
+      <!--231.xml-->
+      <pb ed="#J" n="94-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>noui luminis ex questionem precedenti. Item simul 
+      <lb ed="#P" n="2"/>posset homo intelligere sortem et platonem distincte 
+      <lb ed="#P" n="3"/>vtrumque quia potest scire sortem distingui a plai. per 
+      no<lb ed="#P" n="4" break="no"/>ticias simplices compositionum et diuisionum preceden 
+      <lb ed="#P" n="5"/>tes igitur Item noticia sensitiua non est vnibilis 
+      <lb ed="#P" n="6"/>igitur tantum repraesentatiua vnius igitur quando vi 
+      <lb ed="#P" n="7"/>dentur duo alba tunc sunt in potentia visiua simul 
+      <lb ed="#P" n="8"/>due visiones. Ex hoc patet aliunde quia licet 
+      po<lb ed="#P" n="9" break="no"/>natur obstaculum aliquod inter oculum et vnum 
+      <lb ed="#P" n="10"/>istorum non propter hoc desinit aliud videre Item 
+      <lb ed="#P" n="11"/>diligat aliquis duos homines duobus actibus 
+      di<lb ed="#P" n="12" break="no"/>ligendi ex istis actibus generantur duo habitus quia 
+      <lb ed="#P" n="13"/>talis posset perdere inclinationem ad diligendum 
+      <lb ed="#P" n="14"/>vnum istorum stante inclinatione diligendi 
+      alte<lb ed="#P" n="15" break="no"/>rum igitur quando inclinatur ad diligendum 
+      di<lb ed="#P" n="16" break="no"/>stincte vtrumque habet distinctos habitus etc.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e263">
+      ⁋ Item 
+      <lb ed="#P" n="17"/>vnus oculus posset videre alterum sibi similem et 
+      <lb ed="#P" n="18"/>econuerso sed hoc non nisi simul in medio esset spe 
+      <lb ed="#P" n="19"/>cies vtriusque eodem modo quando omnes parietes sunt 
+      <lb ed="#P" n="20"/>vniformiter albi vel quilibet eorum cauebit in 
+      me<lb ed="#P" n="21" break="no"/>dio spem sui et tunc multa indiuidua eiusdem speciei 
+      <lb ed="#P" n="22"/>simul erunt vel nullus et hoc non quia oculus in me 
+      <lb ed="#P" n="23"/>dio potest naturaliter videre quemcumque istorum quod non 
+      <lb ed="#P" n="24"/>si t sine specie rei visibilis.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e283">
+      ⁋ Item in speculo posito 
+      <lb ed="#P" n="25"/>in tali medio patet quod quemsibet istorum parietum 
+      <lb ed="#P" n="26"/>equaliter representat.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e290">
+      ⁋ Item lumen reflexum est a 
+      <lb ed="#P" n="27"/>liud a lumine incidente cum sit debilius igitur cum 
+      <lb ed="#P" n="28"/>in aliqua parte medii concurrant patet propositum 
+      <lb ed="#P" n="29"/>Ex his arguitur ad propositum non repugnat plura acci 
+      <lb ed="#P" n="30"/>dentia eiusdem speciei esse simul sed hoc non posset esse 
+      <lb ed="#P" n="31"/>nisi ex eis fiat vnum quia de illis que non constitu 
+      <lb ed="#P" n="32"/>unt vnum dicitur quinto methaphi. quod accidentia 
+      <lb ed="#P" n="33"/>plura eiusdem speciei non perficiunt simul idem subiectum 
+      <lb ed="#P" n="34"/>Aliter tamen potest glosari illa auctoritas quinto 
+      <lb ed="#P" n="35"/>metha. posita scilicet quod de eodem substatio non possunt simul 
+      <lb ed="#P" n="36"/>predicari duo termini accidentales eiusdem quor 
+      <lb ed="#P" n="37"/>uterque totum subiectum denominet non sunt sinoni 
+      <lb ed="#P" n="38"/>mi Item de sensu et sensato in fine dicit quod impossi 
+      <lb ed="#P" n="39"/>bile est duos visus esse in eodem simul quia hoc 
+      <lb ed="#P" n="40"/>estsimile ac si quis diceret plures gramma. sunt simul 
+      <lb ed="#P" n="41"/>in eodem.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e326">
+      ⁋ Secunda conclusio si aliqua forma 
+      pro<lb ed="#P" n="42" break="no"/>ducitur subito sicut patet de lumine esse et multis 
+      <lb ed="#P" n="43"/>aliis et deinde intendatur forma in eodem subiecto 
+      <lb ed="#P" n="44"/>remanente prima ibi fit vere vnum compositum ex 
+      prio<lb ed="#P" n="45" break="no"/>ri et posteriori probatur quia ex predictis talia in 
+      <lb ed="#P" n="46"/>diuidua eiusdem speciei nata sunt componere aliquod  
+      <lb ed="#P" n="47"/>vnum et accidentia naturalia agunt secundum 
+      vl<lb ed="#P" n="48" break="no"/>timum potentie sue et deus talibus cooperatur si 
+      <lb ed="#P" n="49"/>cut gener aliter aliis actiuis igitur si ista sunt 
+      re<lb ed="#P" n="50" break="no"/>aliter vnibilia in eadem parte subiecti quando 
+      fi<lb ed="#P" n="51" break="no"/>unt ibi naturaliter. naturaliter vniuntur.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e350">
+      ⁋ Tertia con 
+      <lb ed="#P" n="52"/>clusio quod pars prior et posterior sic adinuicem compo 
+      <lb ed="#P" n="53"/>nentes sunt eiusdem speciei specialissime in eadem augmen 
+      <lb ed="#P" n="54"/>tatione tali alteratiua formali alioquin cum talis al 
+      <lb ed="#P" n="55"/>teratio possit esse sine continua interruptione essent ibi 
+      <lb ed="#P" n="56"/>sinite species in fine componentes vnam formam consequens est 
+      <lb ed="#P" n="57"/>impossibile quia si posterior semper esset perfectior pater 
+      <lb ed="#P" n="58"/>quod tota forma composita perficeretur perfectione equi 
+      <lb ed="#P" n="59"/>ualenter infini ta semper posterior est imperfectior 
+      <lb ed="#P" n="60"/>tunc accepta aliqua forma eiusdem speciei que sit a se 
+      <lb ed="#P" n="61"/>quitur quod infinite sunt prius generate quarum 
+      quae<lb ed="#P" n="62" break="no"/>libet est perfectior a et sequitur idem quod prius et 
+      <lb ed="#P" n="63"/>primo consequentia patet quia nihil est ibi dare 
+      a<lb ed="#P" n="64" break="no"/>liquam formam eiusdem speciei cuius pars acquiritur ante 
+      <lb ed="#P" n="65"/>partem et tunc habetur perfectior eiusdem speciei con 
+      <lb ed="#P" n="66"/>posita et habens partem et partem eiusdem rationis et 
+      <!--231.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>hoc est iutentum et etiam qua ratione dabitur hoc de 
+      <lb ed="#P" n="68"/>parte dabitur hoc de toto maxime cum passum et a 
+      <lb ed="#P" n="69"/>gens sint entia naturalia et omnia concurrentia sunt 
+      e<lb ed="#P" n="70" break="no"/>iusdem speciei specialissime sicut prius quare igitur non 
+      <lb ed="#P" n="71"/>semper agerent rem eiusdem speciei Item perfectius 
+      <lb ed="#P" n="72"/>et imperfectius non diuersificant spem
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e402">
+      ⁋ Ex hac se 
+      <lb ed="#P" n="73"/>quitur quarta conclusio quod gradus adueniens seu 
+      <lb ed="#P" n="74"/>posterior ita potest esse et intelligi priori non existente 
+      <lb ed="#P" n="75"/>vel non intellecto sicut prior fine posteriori hec con 
+      <lb ed="#P" n="76"/>clusio ponitur contra pe. aureo. nec indiget proba 
+      <lb ed="#P" n="77"/>tione nisi quia ex quo sunt eiusdem speciei specialissime es 
+      <lb ed="#P" n="78"/>sentialis et absolute et totaliter distinguuntur quia 
+      <lb ed="#P" n="79"/>prior de facto fuit in rerum natura sine 
+      posterio<lb ed="#P" n="80" break="no"/>ri igitur non plus essentialiter dependet vnus ab a 
+      <lb ed="#P" n="81"/>lio quam econuerso et sicut vnus gradus non dependet 
+      <lb ed="#P" n="82"/>ab alio in essendo ita nec in cognoscendo Item spe 
+      <lb ed="#P" n="83"/>cialiter de intellectione intuitiua vnius quod sit pos 
+      <lb ed="#P" n="84"/>sibilis sine intellectione intuitiua alterius probo quia 
+      <lb ed="#P" n="85"/>deus non ex hoc quod aliquam entita tem absolutam producit 
+      <lb ed="#P" n="86"/>in me sicut charitatem necessitatur ad aliud 
+      abso<lb ed="#P" n="87" break="no"/>lutum producendum vel corrumpendum in angelo 
+      i<lb ed="#P" n="88" break="no"/>gitur posset augmentare in me charitatem nulla fa 
+      <lb ed="#P" n="89"/>cta mutatione secundum aliquid absolutum in an 
+      <lb ed="#P" n="90"/>gelo et per consequens conseruare poterit eandem no 
+      <lb ed="#P" n="91"/>ticiam intuitiuam in angelo qua precise ponit 
+      chari<lb ed="#P" n="92" break="no"/>tatem prionem et non partem oppositam licet per 
+      di<lb ed="#P" n="93" break="no"/>uinam potentiam posset vna pars gradualis 
+      intuiti<lb ed="#P" n="94" break="no"/>ue videri alia non visa tamen per potentiam creature 
+      <lb ed="#P" n="95"/>non potest quia partes equaliter approximantur 
+      <lb ed="#P" n="96"/>passo et naturaliter agunt quantum est de se igitur non 
+      <lb ed="#P" n="97"/>plus videtur intuitiue vna pars gradualis quam aima 
+      <lb ed="#P" n="98"/>vt patet de gradibus charitatis in anima Sexta 
+      <lb ed="#P" n="99"/>conclusio ad hoc quod subiectum aliquod sit magis tale 
+      <lb ed="#P" n="100"/>puta calidius vel albius quam prius non oportet ab  
+      <lb ed="#P" n="101"/>solute licet naturaliter hoc oporteat quod aliqua for 
+      <lb ed="#P" n="102"/>ma intendatur quia ad hoc quod subiectu aliquod sit 
+      <lb ed="#P" n="103"/>magis tale quam prius sufficit quod recipiat plus de for 
+      <lb ed="#P" n="104"/>na tali quam prius manente priori. Sed hoc fieri potest 
+      <lb ed="#P" n="105"/>fine hoc quod aliqua forma fiat intensior alia quia ad  
+      <lb ed="#P" n="106"/>hoc quod aliquis sit magis sciens quam aute non oportet 
+      <lb ed="#P" n="107"/>quod scientia sua intendatur sed sufficit vel hec quod vel 
+      <lb ed="#P" n="108"/>quod aliam scientiam recipiat priori non amissa. minor proba 
+      <lb ed="#P" n="109"/>tur quia alia est vnio charitatis dare vel alterius 
+      <lb ed="#P" n="110"/>forme ad partem suam in constituendo compositum ex eis 
+      <lb ed="#P" n="111"/>et alia vnius vel alterius earum ad commune 
+      sub<lb ed="#P" n="112" break="no"/>iectum vtriusque nec hec prima requirit secundam 
+      <lb ed="#P" n="113"/>vt patet in charitate separata si daretur nec secun 
+      <lb ed="#P" n="114"/>da requirit primam cum aliquando de facto vniatur sub 
+      <lb ed="#P" n="115"/>iecto alia nondum exesente igitur deus posset 
+      manute<lb ed="#P" n="116" break="no"/>nere vtramque vnionem ad subiectum fine vnione 
+      ista<lb ed="#P" n="117" break="no"/>rum adinuicem et hoc facto subiectum erit magis 
+      <lb ed="#P" n="118"/>tale et tamen non oportebit propter hoc formam 
+      ali<lb ed="#P" n="119" break="no"/>quam tunc esse intensionem praehabita.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e506">
+      ⁋ Septima 
+      con<lb ed="#P" n="120" break="no"/>clusio quod forma aliqua perficiente subiectum 
+      ali<lb ed="#P" n="121" break="no"/>quod potest continue fieri forma perfectior et 
+      perfe<lb ed="#P" n="122" break="no"/>tior et tamen subiectum non oportet propter hoc esse 
+      <lb ed="#P" n="123"/>continue magis et magis tale probatur per conuer 
+      <lb ed="#P" n="124"/>sam probationis precedentis scilicet si forma inexistens 
+      <lb ed="#P" n="125"/>subiecto fiat intensior per appositionem continuam 
+      <lb ed="#P" n="126"/>alterius et alterius forme fine hoc forme vnientes adue 
+      <lb ed="#P" n="127"/>niantur et vniantur informatiue subiecto.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e526">
+      ⁋ Octava 
+      <lb ed="#P" n="128"/>conclusio non obstante vnione conclusionis sexte ad  
+      <lb ed="#P" n="129"/>hoc quod subiectum continue fiat magis tale secundum 
+      <lb ed="#P" n="130"/>qualitatem vel qualitates continue in eo receptas 
+      <lb ed="#P" n="131"/>necesse est infinitas partes componere non solum 
+      <lb ed="#P" n="132"/>cum subiecto sed adinuicem quia alioquin oporte¬ 
+      <!--232.xml-->
+      <pb ed="#J" n="94-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>ret subiectum illudfactum contiue magis tale omnem formam 
+      <lb ed="#P" n="2"/>quam recipit in tali processu continuo indiuisibilitur et 
+      <lb ed="#P" n="3"/>sicut recipere et tunc subiectum in fine talis processus 
+      <lb ed="#P" n="4"/>esset infinite tale secundum formas talitr acquisitas eo 
+      <lb ed="#P" n="5"/>quod oportebit in quolibet instanti aliquid produci a 
+      <lb ed="#P" n="6"/>licuius certe magnitudinis et si nullum continuum 
+      <lb ed="#P" n="7"/>est alteri tunc acquisita in fine productionis erunt 
+      <lb ed="#P" n="8"/>simpliciter infinita Contra dicta instatur primo sic 
+      <lb ed="#P" n="9"/>in indiuiduis eiusdem rationis non est ordo 
+      essen<lb ed="#P" n="10" break="no"/>tialis igitur vnum non est secundum suam essentiam per 
+      <lb ed="#P" n="11"/>fectius alio quod tamen oporteret si vnum quali 
+      <lb ed="#P" n="12"/>tative seu gradualiter componeretur ex alio intali specie 
+      <lb ed="#P" n="13"/>igitur etc.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e574">
+      ⁋ Item ex duobus in actu non fit vnum 
+      se<lb ed="#P" n="14" break="no"/>ptimo metha. igitur etc. Probatur posse diuidi in 
+      <lb ed="#P" n="15"/>partes eiusdem rationis inexistentes quarum quelibe 
+      <lb ed="#P" n="16"/>posset esse hoc aliquid soli quanto conuenit quinto me 
+      <lb ed="#P" n="17"/>thait. sed charitas non est quanta igitur Irtem sicut ar 
+      <lb ed="#P" n="18"/>guit henricus quinto quolibetorum q. 10 simile ad 
+      <lb ed="#P" n="19"/>ditum simili non augmentat ipsum intensiue sicut te 
+      <lb ed="#P" n="20"/>pidum additum tepido. Item natura sub determis 
+      <lb ed="#P" n="21"/>to gradu est species specialissima vel habet spem spe 
+      <lb ed="#P" n="22"/>cialissimam tali gradui solum modo et gradibus 
+      equa<lb ed="#P" n="23" break="no"/>libus conuenientem per se et in quid igitur probatur 
+      <lb ed="#P" n="24"/>tunc nihis est auctum quia nec praeexistens nec adue 
+      <lb ed="#P" n="25"/>niens nec aggregatum.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e604">
+      ⁋ Item tunc quelibet for 
+      <lb ed="#P" n="26"/>ma augmentabilis componeretur ex infinitis 
+      parti<lb ed="#P" n="27" break="no"/>bus quarum nulla est alia nec pars alterius 
+      ea<lb ed="#P" n="28" break="no"/>rundem quia intempore mensurante motum sunt mul 
+      <lb ed="#P" n="29"/>ta instantia et in quolibet est aliquod nouum quod 
+      <lb ed="#P" n="30"/>non prefuit falsitas probatur quia tunc subiectum 
+      <lb ed="#P" n="31"/>esset infinite tale Uerbi gratia album vel virtuo 
+      <lb ed="#P" n="32"/>sum quia data aliqua certa parte quelibet pars 
+      <lb ed="#P" n="33"/>posterior est intensior ista data. Item tunc vnum 
+      <lb ed="#P" n="34"/>indiuiduum eiusdem speciei dependeret essentialiter 
+      <lb ed="#P" n="35"/>ab alio ab ipso totaliter distincto a quo tamen non 
+      <lb ed="#P" n="36"/>camretur. consequentia probatur quia si agens approxia 
+      <lb ed="#P" n="37"/>tum passo possit educere multas formas eiusdem 
+      <lb ed="#P" n="38"/>rationis aut igitur eque prius omnes et tunc vel 
+      <lb ed="#P" n="39"/>educeret omnes vel nullam Aut primo vnam et post a 
+      <lb ed="#P" n="40"/>liam et tunc erit ibi ordo et dependentia essentialis 
+      <lb ed="#P" n="41"/>quod est inconveniens et probatur etiam falsitas ex 
+      <lb ed="#P" n="42"/>hoc quia tamen quodlibet producendorum nihil sit 
+      <lb ed="#P" n="43"/>nulla videtur ratio quare agens naturale non 
+      po<lb ed="#P" n="44" break="no"/>tens praeligere productionem vnius prius quam alte 
+      <lb ed="#P" n="45"/>rius magis producat hoc ab eo producibilium in  
+      <lb ed="#P" n="46"/>finitorum in hoc passo quam istud
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e652">
+      ⁋ Item si infinitum 
+      <lb ed="#P" n="47"/>producitur pars forme ante partem talis 
+      altera<lb ed="#P" n="48" break="no"/>tio numquam inciperet et hoc iterum aliter improbatur 
+      <lb ed="#P" n="49"/>quia aliquod agens potest per miraculum esse 
+      equae<lb ed="#P" n="50" break="no"/>liter presens toti passo igitur potest eque primo a 
+      <lb ed="#P" n="51"/>gere in quodlibet illius igitur pari ratione aliqua 
+      <lb ed="#P" n="52"/>pars forme secundum intensionem tota simul indu 
+      <lb ed="#P" n="53"/>citur. Item positis duobus speculis planis sibi 
+      ob<lb ed="#P" n="54" break="no"/>iectis quorum alterum sit de sse luminosum pro 
+      <lb ed="#P" n="55"/>tendens radium ad secundum speculum in quo fi 
+      <lb ed="#P" n="56"/>at reflexio econuerso ad primum tunc siue radium 
+      <lb ed="#P" n="57"/>reflexus sit idem cum incidente siue non tum quia radi 
+      <lb ed="#P" n="58"/>us incidens ex reflexione fit fortior et reflectitur 
+      <lb ed="#P" n="59"/>econuerso ad primum et iterum pari ratione ad  
+      <lb ed="#P" n="60"/>secundum et sic in infinitum sequitur quod ibi fiat lumen 
+      <lb ed="#P" n="61"/>intensionis infinite. Probatur ponatur aliquod 
+      <lb ed="#P" n="62"/>luminosum agere in aliquod medium tunc illumi 
+      <lb ed="#P" n="63"/>nat illud subito vt patet ex libro de sensu et 
+      sensa<lb ed="#P" n="64" break="no"/>to secundo de anima et per commentatonem sexto phi 
+      <lb ed="#P" n="65"/>sicorum sit igitur lumen tantum in isto instanti et ac 
+      <lb ed="#P" n="66"/>cedat luminosum continue per aliquod tempus 
+      <!--232.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>versus medium tunc in eodem in quolibet instanti 
+      hu<lb ed="#P" n="68" break="no"/>ius temporis causabit aliquod lumen et omnia per te 
+      <lb ed="#P" n="69"/>manent aut igitur per te posterius semper tantur 
+      <lb ed="#P" n="70"/>est perfectius precedente quolibet aut equale 
+      si<lb ed="#P" n="71" break="no"/>bi vel imperfectius etc. supra pro te ipso arguisti. 
+      <lb ed="#P" n="72"/>Item quando de nigro fit album signetur totum tem 
+      <lb ed="#P" n="73"/>pus per quod est nigrum et totum per quod erit al 
+      <lb ed="#P" n="74"/>bum tunc in instanti medio erit album eo quod instans 
+      <lb ed="#P" n="75"/>medium attribuitur passioni posteriori octauo phi 
+      <lb ed="#P" n="76"/>sicorum igitur albedo qua in illo instanti erit 
+      al<lb ed="#P" n="77" break="no"/>bum subito acquiretur Item ponat ur quod in vna ho 
+      <lb ed="#P" n="78"/>ra debeat corrupi in aliquo subiecto frigiditas de 
+      <lb ed="#P" n="79"/>cem graduum et vniformiter introducatur 
+      calidi<lb ed="#P" n="80" break="no"/>tas 2 graduum et quod in instanti medio am nihiletur 
+      <lb ed="#P" n="81"/>subiectum et quicquid est ibi vel precise amnihilatur 
+      <lb ed="#P" n="82"/>ibi medietas caliditatis inducende vel plus et hoc 
+      <lb ed="#P" n="83"/>non quia adhuc num quam fuit medietas producta nec 
+      <lb ed="#P" n="84"/>plus ea nihil illud quod destruitur in isto instanti 
+      <lb ed="#P" n="85"/>est minus mediate et cum non possit esse minus 
+      <lb ed="#P" n="86"/>diuisibiliter erit minus indiuisibiliter igitur in ta 
+      <lb ed="#P" n="87"/>li forma erit aliqua pars indiuisibilis assignanda 
+      <lb ed="#P" n="88"/>que fuisset acquisita si in instanti medio non fuisset 
+      <lb ed="#P" n="89"/>facta talis destructio et etiam precise in tali casu 
+      <lb ed="#P" n="90"/>annihilaretur medietas frigiditatis corrumpende 
+      <lb ed="#P" n="91"/>igitur etiam et precise medietas caliditatis introdu 
+      <lb ed="#P" n="92"/>cende Probatur quod caliditas non possit augeri perigra 
+      <lb ed="#P" n="93"/>dus eiusdem rationis probatur quia quicquid 
+      re<lb ed="#P" n="94" break="no"/>pugnat vni istorum que sunt eiusdem rationis et 
+      <lb ed="#P" n="95"/>cuilibet istorum repugnat propter hoc enim vt 
+      pa<lb ed="#P" n="96" break="no"/>tet per okam in prologo phisico. scientie duarum con 
+      <lb ed="#P" n="97"/>clusionum distinctarum specie non sunt eiusdem speciei spe 
+      <lb ed="#P" n="98"/>cialissime quia error respectu vnius stat cum scientia 
+      <lb ed="#P" n="99"/>respectu alterius et non starent simul si essent eiuis 
+      <lb ed="#P" n="100"/>dem speciei sed priuatio huius gradus caliditatis 
+      re<lb ed="#P" n="101" break="no"/>pugnat huic gradui vel ipsius habitioni a 
+      subie<lb ed="#P" n="102" break="no"/>cto igitur et repugnabit cuilibet gradui eiusdem 
+      <lb ed="#P" n="103"/>rationis igitur habito vno gradu nullus 
+      causa<lb ed="#P" n="104" break="no"/>retur.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e785">
+      ⁋ Ad primum istorum negatur 
+      consequen<lb ed="#P" n="105" break="no"/>tia quia vnum indiuiduum est perfectius alio eius 
+      <lb ed="#P" n="106"/>dem speciei per plures partes eiusdem speciei quantitati 
+      <lb ed="#P" n="107"/>uas vel qualitatiuas vel essentiales et ex hoc non 
+      <lb ed="#P" n="108"/>sequitur inter ea essentialis ordo in perfectione. 
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e796">
+               <lb ed="#P" n="109"/>⁋ Ad secundum dicitur quod hoc intelligitur de 
+      en<lb ed="#P" n="110" break="no"/>tibus quorum vtrumque est per se determinatum in 
+      a<lb ed="#P" n="111" break="no"/>ctu completo.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e805">
+      ⁋ Ad tertium dicitur quod charitas est 
+      <lb ed="#P" n="112"/>bene quanta intensiue licet non extensiue.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e810">
+      ⁋ Ad quaer 
+      <lb ed="#P" n="113"/>tum dicitur quod tepidum additum tepido nofacit 
+      in<lb ed="#P" n="114" break="no"/>tensius quia qualitates manent in diuersis subiex 
+      <lb ed="#P" n="115"/>ctis secus esset si vnirentur in eadem parte subiecti 
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e820">
+               <lb ed="#P" n="116"/>⁋ Ad quintum negatur antecedens vnde albedo intensa 
+      <lb ed="#P" n="117"/>et remissa licet differant tamen non correspondet eis 
+      <lb ed="#P" n="118"/>conceptus specifici distincti nec cognitiones diffe 
+      <lb ed="#P" n="119"/>rentes nisi secundum magis et minus licet forte 
+      <lb ed="#P" n="120"/>ibi consurgat diuersitas specifica accidentalis si 
+      <lb ed="#P" n="121"/>cut in quantitate vel in intensione etc. albedo ei peda 
+      <lb ed="#P" n="122"/>lis et bipedalis sunt eiusdem speciei quo ad naturam 
+      <lb ed="#P" n="123"/>albedinis licet possint esse alterius speciei in gene 
+      <lb ed="#P" n="124"/>re quantitatis et secundum hoc conceptus corre 
+      <lb ed="#P" n="125"/>spondens albedinipedali inquantum pedalis non  
+      <lb ed="#P" n="126"/>conuenit albedini bipedali.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e846">
+      ⁋ Ad sextum sufficit 
+      <lb ed="#P" n="127"/>quod forma tota acquisita in fine augmentationis per 
+      <lb ed="#P" n="128"/>fectior sit qualibet eius parte prehabita.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e853">
+      ⁋ Ad  
+      <lb ed="#P" n="129"/>septimum conceditur prima consequentia Ad 
+      pro<lb ed="#P" n="130" break="no"/>bationem falsitatis negatur consequentia quia licet 
+      <lb ed="#P" n="131"/>ibi sit dare infinitas partas non tamen sunt totali 
+      <lb ed="#P" n="132"/>ter distincte secundum tantum gradum perfectionis sed 
+      <!--233.xml-->
+      <pb ed="#J" n="95-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>semper posteriores includunt priores sicut partes. 
+      <lb ed="#P" n="2"/> Ad octauum negatur consequentia.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e875">
+      ⁋ Ad probationem 
+      <lb ed="#P" n="3"/>dicitur quod ibi concurrit prima causa libere et contigenter 
+      <lb ed="#P" n="4"/>determinans causam secundam.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e882">
+      ⁋ Et illud est apud mo 
+      <lb ed="#P" n="5"/>euidentissimum argumentum ad probandum deum concurre 
+      <lb ed="#P" n="6"/>re ad quemlibet effectum producendum et hoc voluntarie 
+      <lb ed="#P" n="7"/>et libere: quia si mere naturaliter istud argumentum esset 
+      <lb ed="#P" n="8"/>de ipso sicut de aliis causis mere naturalibus dices 
+      <lb ed="#P" n="9"/>phuns posuit eum mere naturaliter agere ad extra dicitur 
+      <lb ed="#P" n="10"/>quod in hoc errauit quia tunc consequenter oporteret 
+      <lb ed="#P" n="11"/>dicere quod deus vel natura ad hoc primo 
+      determi<lb ed="#P" n="12" break="no"/>nat et post ad istud eo ordine quo producuntur nec 
+      <lb ed="#P" n="13"/>deus a tota natura posset secundo producere ante alium 
+      <lb ed="#P" n="14"/>et sic esset in produci ordo essentialis inter indiui 
+      <lb ed="#P" n="15"/>dua eiusdem speciei.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e908">
+      ⁋ Ad nonum conceditur oe vi 
+      vo<lb ed="#P" n="16" break="no"/>cis quod ista alteratio numquam incipit esse causa quo tamen 
+      <lb ed="#P" n="17"/>stat quod in aliquo instanti incipit esse alteratio
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e916">
+      ⁋ Ad  
+      <lb ed="#P" n="18"/>confirmationem dicitur quod in tali casu totum subiectum 
+      inci<lb ed="#P" n="19" break="no"/>pit simul alterari et non sequitur quod aliqua pars 
+      for<lb ed="#P" n="20" break="no"/>me simul inducatur.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e925">
+      ⁋ Ad quartum dicitur quod radius re 
+      <lb ed="#P" n="21"/>flexus secundum se est debilior incidente et ideo 
+      proce<lb ed="#P" n="22" break="no"/>ditur ibi secundum remissionem vsque ad non gradum.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e932">
+      ⁋ Ad  
+      <lb ed="#P" n="23"/>vndecimum dicitur quod tale corpus liminosum licet cum primo 
+      <lb ed="#P" n="24"/>fieret subito caret lumen tamen si post per maionem 
+      ap<lb ed="#P" n="25" break="no"/>proximationem intendatlumen in tali medio vel in 
+      ali<lb ed="#P" n="26" break="no"/>qua eius parte in illo instanti non illius continue 
+      ap<lb ed="#P" n="27" break="no"/>proximationis maior cabit aliqud sed tantum in tempone 
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e945">
+               <lb ed="#P" n="28"/>⁋ Et ad pohsoahctum et commentatonem dicendum quod intelligendi sunt 
+      <lb ed="#P" n="29"/>quod successio non prouenit ex natura acti et passiui sed 
+      <lb ed="#P" n="30"/>aliunde.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e954">
+      ⁋ Ad duodecimum dicendum est quod dictum 
+      phi<lb ed="#P" n="31" break="no"/>losophi verum est de omni entitate permanente in se consi 
+      <lb ed="#P" n="32"/>derata quae quandoquie habet esse quandoque non esse non tamen 
+      sequi<lb ed="#P" n="33" break="no"/>tur eodem modo de hoc quod aliquid denominetur tale 
+      <lb ed="#P" n="34"/>vel tantum vnde tamen sequitur denominatione in certo gra 
+      <lb ed="#P" n="35"/>du verbi gratia si aliquid per totum a tempus est non  
+      <lb ed="#P" n="36"/>album. b gradu et per totum tempus c sequens immedia 
+      <lb ed="#P" n="37"/>te est album eodem. b gradu tunc in instanti medio est 
+      <lb ed="#P" n="38"/>album b gradu.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e974">
+      ⁋ Ad decimuntertium dicitur quod in tali casu 
+      <lb ed="#P" n="39"/>precise annichilatur medietas et non sequitur quod igi 
+      <lb ed="#P" n="40"/>tur in illo instanti vel prius fuisset illa medietas 
+      <lb ed="#P" n="41"/>sed sufficit quod in illo instanti fuisset si non fuisset ta 
+      <lb ed="#P" n="42"/>lis amnichilatio vel dicitur quod talis medietas praefuit etiam 
+      <lb ed="#P" n="43"/>in aliquo toto tempone prescito quo producebatur.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e988">
+      ⁋ Ad  
+      <lb ed="#P" n="44"/>decimum quartum negatur maior quia odium sortis 
+      re<lb ed="#P" n="45" break="no"/>pugnat dilectioni sortis et tamen non repugnat 
+      dile<lb ed="#P" n="46" break="no"/>ctioni plationis et tamen iste dilectiones sunt eiusdem 
+      <lb ed="#P" n="47"/>speciei specialissime
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e999">
+      ⁋ Ad probationem potest dici quod non 
+      <lb ed="#P" n="48"/>sit simile et forte non est verum quod sumitur in 
+      proba<lb ed="#P" n="49" break="no"/>tione quia error circa istam sorcurrit potest stare cum scilicnta 
+      <lb ed="#P" n="50"/>istius platio currit et tamen scientia de hoc quod sor cur 
+      <lb ed="#P" n="51"/>rit et scilintia de hoc quod plato currit possent esse eiusdem 
+      <lb ed="#P" n="52"/>speciei.
+    </p>
+            <p xml:id="GHYaf3-d1e633-d1e1012">
+      ⁋ Ad argumentum responsam est in alia quastione.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

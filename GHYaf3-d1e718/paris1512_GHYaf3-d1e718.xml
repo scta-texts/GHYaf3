@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 7</title>
+            <author ref="#Wodeham">Adam Wodeham</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 7</title>
+               <date when="2021-03-03">March 3, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#Pa" n="106-v"/>
+            <cb ed="#Pa" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="GHYaf3-d1e718"><!-- GHYaf3-l2q7 -->
+            <head xml:id="GHYaf3-d1e718-Hd1e108">Quaestio 7</head>
+            <head xml:id="GHYaf3-d1e718-Hd1e111" type="question-title">
+      Utrum Deus possit creare finitam caritatem aliquam qua non possit creare maiorem vel aliquam aliam ita magnam secundum extensionem quod non possit maiorem illa producere, et sic de similibus.
+    </head>
+            <p xml:id="GHYaf3-d1e718-d1e114">
+               <lb ed="#P" n="72"/>SEptimo quero circa 
+      <lb ed="#P" n="73"/>distinctionem primam secundi vtrum 
+      <lb ed="#P" n="74"/>eus possit creare finitam 
+      quali<lb ed="#P" n="75" break="no"/>tatem qua non possit creare 
+      maio<lb ed="#P" n="76" break="no"/>rem intensiue vel aliquam magni 
+      <lb ed="#P" n="77"/>tudine qua non possit maiorem producere extensiue 
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e130">
+               <lb ed="#P" n="78"/>quod sic <ref xml:id="GHYaf3-d1e718-Rd1e134">secundo de anima</ref> omnium natura constantium et etc. 
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e138">
+               <lb ed="#P" n="79"/>⁋ Item <ref xml:id="GHYaf3-d1e718-Rd1e142">commentator tertio phisicorum commento. 60</ref>. 
+      <lb ed="#P" n="80"/>dicit quod vbi est processus ad formam quantum contingit 
+      <lb ed="#P" n="81"/>esse in potentia tantum contingit esse in actu. Sed  
+      <lb ed="#P" n="82"/>in augmento qualitatis vel magnitudinis est pro 
+      <lb ed="#P" n="83"/>cessus ad perfectionem et formam igitur contingit 
+      <lb ed="#P" n="84"/>dare in actu ibi maximum possibile. Contra <ref xml:id="GHYaf3-d1e718-Rd1e156">2 de 
+      <lb ed="#P" n="85"/>anima</ref> dicitur quod ignis in infinitum cresceret si conbusti 
+      <lb ed="#P" n="86"/>bilia apponerentur etc.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e165">
+      ⁋ Probatur non videretur 
+      <lb ed="#P" n="87"/>aliter deus iuste et sufficientur punire posse 
+      quemli<lb ed="#P" n="88" break="no"/>bet delinquentem consequentia probatur accipiatur 
+      <lb ed="#P" n="89"/>vnus qui circa principium mundi damnatus est 
+      eter<lb ed="#P" n="90" break="no"/>naliter pro culpa mortali qua meruit secundum leger 
+      <lb ed="#P" n="91"/>dei communem maxima ista pena posiibili et alium qui  
+      <lb ed="#P" n="92"/>mille annis post pro culpa omnino equali damnatur aut 
+      <lb ed="#P" n="93"/>igitur secundus habebit penam intensionem primo vel pro 
+      <lb ed="#P" n="94"/>semper vel pro aliqua finita duratione et habeoitur 
+      in<lb ed="#P" n="95" break="no"/>tentum quod non erit dare maximam penam possibilem se 
+      <lb ed="#P" n="96"/>cundum intensionem vel non et tunc secundes non iuste 
+      pu<lb ed="#P" n="97" break="no"/>nietur eo quod minus secundum tempons punietur quam prius 
+      <lb ed="#P" n="98"/>et tamen eque grauiter peccauerunt.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e194">
+      ⁋ Hic primo 
+      <lb ed="#P" n="99"/>ponende sunt conclusiones secundo oubia et eorum 
+      <lb ed="#P" n="100"/>olutiones. Conclusio prima dato quod esset dare maxi 
+      <lb ed="#P" n="101"/>mam charitatem vel aliam rem creabilem adhuc alicui 
+      <lb ed="#P" n="102"/>charitati vel qualitati assignabili posset fieri in  
+      <lb ed="#P" n="103"/>infinitum additio ita quod cum priori in eodem ordine 
+      <lb ed="#P" n="104"/>sumptibilium esset dare maionem possibilem per huiusmodi 
+      <lb ed="#P" n="105"/>additionem etiam in infinitum procedendo hoc posset 
+      <lb ed="#P" n="106"/>quia diuisa vna tali forma vel quanto posset reliqua 
+      <lb ed="#P" n="107"/>pars diuidi in infinitum et semper altera medietas 
+      <lb ed="#P" n="108"/>addi integro et residua vlterius diuidi et et hanc 
+      <lb ed="#P" n="109"/>conclusionem phphuns ponit plane tertio phisicorum 
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e220">
+               <lb ed="#P" n="110"/>⁋ Tertia conclusio cuilibet charitati in infinitum 
+      <lb ed="#P" n="111"/>posset fieri additio tam secundum partes eiusdem 
+      quan<lb ed="#P" n="112" break="no"/>titatis quam secundum partes eiusdem proportionis pro 
+      <lb ed="#P" n="113"/>batur omnem quantum secundum intensionem vel extensionem 
+      <lb ed="#P" n="114"/>quod est eiusdem rationis in toto et partibus posset 
+      <lb ed="#P" n="115"/>deus facere maius sic est de gratia vel charitate igi 
+      <lb ed="#P" n="116"/>tur maior nota est quia si totum est eiusdem 
+      ratio<lb ed="#P" n="117" break="no"/>nis cum suis partibus et cum alie partes eiusdem ra 
+      <lb ed="#P" n="118"/>tionis possint inueniri et prioribus addi totum 
+      <lb ed="#P" n="119"/>fiet maius probatur hoc etiam in simili de augmen 
+      <lb ed="#P" n="120"/>tatione extensiua que fit per additionem aque ad  
+      <lb ed="#P" n="121"/>aquam et humiditatis ad humiditatem et sic de aliis 
+      <lb ed="#P" n="122"/>homogeneis de quo videm okam li i est di. 16 q. 6  
+      <lb ed="#P" n="123"/>vbi ad hoc probandum supponit tria que videntur esse 
+      <lb ed="#P" n="124"/>euidentia primum quod deus non posset tot indiuidua 
+      <lb ed="#P" n="125"/>creare in eadem specie quin possit plura creare. 
+      <lb ed="#P" n="126"/>Secundum quod quocumque indiuiduo posito in specie in qua 
+      <lb ed="#P" n="127"/>possunt esse plura potest deus aliud indiuiduum 
+      <lb ed="#P" n="128"/>eiusdem rationis creare illo non destructo.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e264">
+      ⁋ 
+      Ter<lb ed="#P" n="129" break="no"/>tium quod quecunque eiusdem rationis sunt equaliter 
+      <lb ed="#P" n="130"/>vnibilia sicut alia illius speciei si tamen aliqua. 
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e271">
+               <lb ed="#P" n="131"/>⁋ Tertia conclusio sic de augmentatione extensiua 
+      <!--257.xml-->
+      <pb ed="#J" n="107-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>secundum vnam dimensionem cum diminutione 
+      se<lb ed="#P" n="2" break="no"/>cundum aliam dimensionem sine appositione ex 
+      <lb ed="#P" n="3"/>trinsecorum. Sed precise ex transpositione partium 
+      <lb ed="#P" n="4"/>liet quod de quanto quantuncumque paruo vt puta de gutta 
+      <lb ed="#P" n="5"/>aque vel de folio posset fieri pallium circundantiuum 
+      <lb ed="#P" n="6"/>celi et hoc per diuisionem secundum vnam 
+      dimen<lb ed="#P" n="7" break="no"/>sionem vel appositionem secundum aliam partibus non 
+      <lb ed="#P" n="8"/>corruptis.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e300">
+      ⁋ Quarta conclusio omnis forma 
+      intensi<lb ed="#P" n="9" break="no"/>bilis in infinitum potest crescere intensiue modo pre 
+      <lb ed="#P" n="10"/>exposito in secunda q. huius. di.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e308">
+      ⁋ Contra dicta 
+      <lb ed="#P" n="11"/>arguitur per argumenta sco li. 3 di. 13. q. prima 
+      ac<lb ed="#P" n="12" break="no"/>cepta aliqua gratia que sit a. tunc si vltra posset 
+      <lb ed="#P" n="13"/>illam posset procedi in infinitum sequitur quod quanto 
+      <lb ed="#P" n="14"/>aliqua magis excedit tanto est perfectior et per 
+      con<lb ed="#P" n="15" break="no"/>sequens aliqua magis excedit tanto est perfectior 
+      <lb ed="#P" n="16"/>et per consequens aliqua alia que in infinitum exce 
+      <lb ed="#P" n="17"/>dit est in infinitum perfectior et ista erit in se 
+      inten<lb ed="#P" n="18" break="no"/>siue infinita et cum ipsa ab intellectu diuino videatur 
+      <lb ed="#P" n="19"/>sicut vnum creabile poterit tunc vna creatione 
+      crea<lb ed="#P" n="20" break="no"/>ri.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e332">
+      ⁋ Secundo et accipitur ex secundo phisicorum 
+      <lb ed="#P" n="21"/>cap. de infinito quantum contingit esse in potentia 
+      <lb ed="#P" n="22"/>tantum contingit esse in actu et ideo necesse fuit in 
+      <lb ed="#P" n="23"/>forma quacunque perfecta ponere terminum maximum 
+      <lb ed="#P" n="24"/>possibilem.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e343">
+      ⁋ Tertio quantancunque realitatem potes 
+      <lb ed="#P" n="25"/>deus creare tantam potest creare ponatur igitur inesse 
+      <lb ed="#P" n="26"/>quod tantam creet quantam potest creare igitur non potest 
+      <lb ed="#P" n="27"/>maiorem.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e352">
+      ⁋ Ad primum conceditur quod quanto aliqui 
+      <lb ed="#P" n="28"/>magis excedit a tanto est perfectior Et quanto in  
+      <lb ed="#P" n="29"/>fertur igitur que in infinitum et et. negatur consequentia quia 
+      <lb ed="#P" n="30"/>ibi implicatur quod 
+      <lb ed="#P" n="31"/>cedit a. quod est falsum.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e363">
+      ⁋ Ad secundum dico quod aucto 
+      <lb ed="#P" n="32"/>tas aristo in hac parte non est retinen 
+      <lb ed="#P" n="33"/>loquitur secundum modum agendi carum naturalium in 
+      <lb ed="#P" n="34"/>quo ponitur certus terminus.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e372">
+      ⁋ Ad tertium dic 
+      <lb ed="#P" n="35"/>quod non debet sic poni in esse prout sciunt layci et eti 
+      <lb ed="#P" n="36"/>ad secundum posset ista propositio concedi quantum 
+      <lb ed="#P" n="37"/>contingit in potentia tantum contingit in actu et non 
+      <lb ed="#P" n="38"/>sequitur quod sit ponere terminum maximum possibilem. 
+      <lb ed="#P" n="39"/>Secundum dubium videtur i 
+      <lb ed="#P" n="40"/>ximam gratiam possibilem. quia potest facere gratiam infi 
+      <lb ed="#P" n="41"/>nitam quod probatur ex hoc quiai 
+      <lb ed="#P" n="42"/>tancunque distincte apprehe 
+      <lb ed="#P" n="43"/>prehendere quasi actuali 
+      <lb ed="#P" n="44"/>omni finita apprehensa appr 
+      <lb ed="#P" n="45"/>apprehendit infinitam poss 
+      <lb ed="#P" n="46"/>rit producere infinitam Resp 
+      <lb ed="#P" n="47"/>cognoscit infinitam cathegorice.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e404">
+      ⁋ Ad probationem 
+      <lb ed="#P" n="48"/>gatur penultima consequentia.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e409">
+      ⁋ Tertium 
+      <lb ed="#P" n="49"/>an tale augmentum charitas prosit homini in quo sits 
+      <lb ed="#P" n="50"/>detur quod non quia operans ex mi 
+      <lb ed="#P" n="51"/>quem actus minus operat 
+      <lb ed="#P" n="52"/>equalem ex minori chari 
+      <lb ed="#P" n="53"/>minus difficilis et per consequens mis 
+      <lb ed="#P" n="54"/>cum virtus sit circa difficile secundo et hicorum.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e425">
+      ⁋ Re 
+      <lb ed="#P" n="55"/>pondet syrensis exclusio est vera nec ex hac sequitur 
+      <lb ed="#P" n="56"/>quod augmentum charitatis obest quia habens maio 
+      <lb ed="#P" n="57"/>rem charitatem potest virtuosius operari si velit quam 
+      <lb ed="#P" n="58"/>alius ceteris paribus quia si vterque secundum vltimum po 
+      <lb ed="#P" n="59"/>tentie siue operatur tunc habens melionem 
+      chari<lb ed="#P" n="60" break="no"/>tatem feruentius operatur et melius potest tamen 
+      <lb ed="#P" n="61"/>esse quod habons moiornem charitatem non tantum tenetur 
+      <lb ed="#P" n="62"/>bene operari sicut habens minonem et credo quod tunc 
+      <lb ed="#P" n="63"/>minus meretur.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e447">
+      ⁋ <ref xml:id="GHYaf3-d1e718-Rd1e449">Henricus. 6 q. quolibeti</ref>: qua i9d 
+      <lb ed="#P" n="64"/>dicit quod equaliter merentur.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e455">
+      ⁋ Sed hoc erit vt 
+      mi<lb ed="#P" n="65" break="no"/>chi videtur rarissime si plurimum inequaliter sicut 
+      <lb ed="#P" n="66"/>in alia questione diffusius prosecutus sum. Sed  
+      <!--257.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>posset contingere quod equaliter et potest contingere quod 
+      <lb ed="#P" n="68"/>plus et potest contingere quod minus secundum regulas 
+      <lb ed="#P" n="69"/>ibi tactas ideo responsio syrensis in proposito non  
+      <lb ed="#P" n="70"/>est vera nisi particulariter intelligatur.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e475">
+      ⁋ 
+      Quar<lb ed="#P" n="71" break="no"/>tum dubium potest esse de illo qui continue meretur per 
+      <lb ed="#P" n="72"/>momentum aliquod augmentando meritum suum si 
+      <lb ed="#P" n="73"/>tamen hoc sit possibile in casu aliquo secudum cursum 
+      <lb ed="#P" n="74"/>egis ordinate an talis continue habeat maiorem 
+      <lb ed="#P" n="75"/>charitatem et maionem et teneo quod sic qui si continue 
+      <lb ed="#P" n="76"/>augmentetur eius meritum igitur continue fit melior 
+      <lb ed="#P" n="77"/>et charior et per consequens plus habet de charitate 
+      <lb ed="#P" n="78"/>quia vnusquisque tanto melior est quanto maionem 
+      ha<lb ed="#P" n="79" break="no"/>bet charitatem secundum augustinum en chiel 8 3 cap. Con 
+      <lb ed="#P" n="80"/>tra augmentet sic igitur petrus meritum suum vsque  
+      <lb ed="#P" n="81"/>ad instans mortis sue et hoc miraculose quia aliter 
+      <lb ed="#P" n="82"/>perderet vsum rationis ante instans mortis tunc 
+      <lb ed="#P" n="83"/>cum talis nunquam habuerit maximam charitatem quam 
+      ha<lb ed="#P" n="84" break="no"/>buit in hac vita non esset aliquod premium debitum 
+      <lb ed="#P" n="85"/>sibi. Siliter posset fieri argumentum de augmentante 
+      <lb ed="#P" n="86"/>meritum suum vsque ad instans finiens vsum rationis. 
+      <lb ed="#P" n="87"/>Respondetur quod illi debetur premium secundum gradum 
+      <lb ed="#P" n="88"/>meriti quem habuisset si in illo instanti vixisset quia 
+      <lb ed="#P" n="89"/>illum gradum meruit et etiam in tali gradu habebit 
+      <lb ed="#P" n="90"/>charitatem in anima. Sed contra per nullum actum me 
+      <lb ed="#P" n="91"/>ruit istum gradum beatitudinis quia nullus fuit 
+      maxi<lb ed="#P" n="92" break="no"/>mus gradus actus sui meritors 4. Respondetur 
+      <lb ed="#P" n="93"/>sufficit quod in isto instanti mortis fsset maximus 
+      <lb ed="#P" n="94"/>gradus illius actus.
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e531">
+      ⁋ Ad vfiumieprincipale dicen 
+      <lb ed="#P" n="95"/>m quod auctoritas philosophi velstendet communem natu 
+      <lb ed="#P" n="96"/>re cursum naturalem
+    </p>
+            <p xml:id="GHYaf3-d1e718-d1e538">
+      ⁋ Asecundum responsum est 
+      <lb ed="#P" n="97"/>primo dubio articuli secundi.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 8</title>
+            <author ref="#Wodeham">Adam Wodeham</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 8</title>
+               <date when="2021-03-03">March 3, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#Pa" n="128-v"/>
+            <cb ed="#Pa" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="GHYaf3-d1e861"><!-- GHYaf3-l3q8 -->
+            <head xml:id="GHYaf3-d1e861-Hd1e108">Quaestio 8</head>
+            <head xml:id="GHYaf3-d1e861-Hd1e111" type="question-title">Utrum Gabrieli potuerit in verbo verbi incarnatio revelari.</head>
+            <p xml:id="GHYaf3-d1e861-d1e114">
+               <lb ed="#P" n="114"/>Octauo quaero btrum 
+      <lb ed="#P" n="115"/>gabrieli incarnatio verbi po 
+      <lb ed="#P" n="116"/>tuit in verbo reuelari.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e123">
+      Et 
+      vi<lb ed="#P" n="117" break="no"/>detur quod non quia si sic sit igitur quod de 
+      <lb ed="#P" n="118"/>us reuelauerit 
+      incarnatio<lb ed="#P" n="119" break="no"/>nem suam gloriosam gabrieli et 
+      <lb ed="#P" n="120"/>hoc praecise in verbo et quod ex illa 
+      <lb ed="#P" n="121"/>rreuelatione gabriel 
+      venis<lb ed="#P" n="122" break="no"/>set ad mariam et non ex alia 
+      <lb ed="#P" n="123"/>causa et quod locutus fuerit ad eam sicut dicit 
+      scri<lb ed="#P" n="124" break="no"/>ptura.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e143">
+      ⁋ Tunc arguitur sic pro tempore medio in  
+      <lb ed="#P" n="125"/>ter salutationem beate virginis et tempus in quo  
+      <lb ed="#P" n="126"/>illa concepit sub hac forma Christus non est incarnatus 
+      <lb ed="#P" n="127"/>igitur gabriel non vidit christum fore incarnandum 
+      <lb ed="#P" n="128"/>ista consequentia in tempore medio erat necessaria quia 
+      ver<lb ed="#P" n="129" break="no"/>bum non repraesentauit gabrieli aliquid fore nisi illud  
+      <lb ed="#P" n="130"/>quod fuit futurum et antecedens fuit contingens in illo 
+      <lb ed="#P" n="131"/>tempore medio quia tunc incarnatio fuit futura 
+      <!--301.xml-->
+      <pb ed="#J" n="129-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/> 
+               <lb ed="#P" n="2"/>igitur hoc consequens in isto tempone medio fuit contingens ga 
+      <lb ed="#P" n="3"/>briel non vidit Christum in verbo esse incarnandum igitur 
+      <lb ed="#P" n="4"/>si hoc igitur gabriel non venit ad mariam nec 
+      saluta<lb ed="#P" n="5" break="no"/>uit eam quia aliam causam veniendi ad mariam non 
+      <lb ed="#P" n="6"/>habuit nisi quia vidit in verbo Christum incarnandum 
+      <lb ed="#P" n="7"/>igitur si non vidit hoc non venit ad eam sed consequens est 
+      <lb ed="#P" n="8"/>impossibile igitur. Hic primo videtur mihi quod non 
+      suffi<lb ed="#P" n="9" break="no"/>cit dicere quod licet de facto venerit quia vidit in verbo etc. 
+      <lb ed="#P" n="10"/>tamen in isto medio erat possibile quod venerit ex alia caunsa 
+      <lb ed="#P" n="11"/>Contra illud tunc fuit futurum contingens 
+      extrin<lb ed="#P" n="12" break="no"/>secum reuelationi igitur potuit reuelari ex prehabi 
+      <lb ed="#P" n="13"/>tis.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e196">
+      ⁋ Respondent enim aliqui quoru vnus est 
+      sy<lb ed="#P" n="14" break="no"/>rensis in lectura quod in isto tempore medio consequenm 
+      <lb ed="#P" n="15"/>tia ista non valet ga. non vidit in verbo Christum incar 
+      <lb ed="#P" n="16"/>nandum fore igitur non venit nec voluit venire ad  
+      <lb ed="#P" n="17"/>beatam mariam nec eam salutauit quia licet de facto 
+      <lb ed="#P" n="18"/>non venerit ex alia causa semper tamen in illo tempone 
+      <lb ed="#P" n="19"/>medio possibile fuit quod alia de causa venerit modo  
+      <lb ed="#P" n="20"/>ex hac propositione si ex ista non venit que est 
+      contin<lb ed="#P" n="21" break="no"/>gens ita quod ipse pro tunc non venit nec eam salutauit 
+      <lb ed="#P" n="22"/>quia ista est impossibilis et ita vlterius concedit sy 
+      <lb ed="#P" n="23"/>rensis quod in isto tempore medio fuit hec contigens 
+      <lb ed="#P" n="24"/>gabriel fecit ista facta non videndo nec estimandum 
+      <lb ed="#P" n="25"/>deum fore incarnandum sed auctoritate propria ex 
+      sim<lb ed="#P" n="26" break="no"/>plici cognitione incarnationis et materie et aliaum rex 
+      <lb ed="#P" n="27"/>visarum. Set quod iste modus non sufficiat probatum est in q. 
+      <lb ed="#P" n="28"/>praecedenti quia constat quod gabriel non fecit ista sine 
+      cogni<lb ed="#P" n="29" break="no"/>tione aliquam si sic igitur adhuc est possibile quod sine ista tunc 
+      <lb ed="#P" n="30"/>est possibile adhuc quod mediante alia vel igitur 
+      me<lb ed="#P" n="31" break="no"/>diante alia complexa vel incomplexa si primunsit ergo il 
+      <lb ed="#P" n="32"/>lud tempus medium nunc ponens tunc sit. Si hec nunc est 
+      <lb ed="#P" n="33"/>possibilis gabriel fecit ista propter aliud iudicium quam sit 
+      <lb ed="#P" n="34"/>istud quo secudum veritatem iudicauit filium dei fore in  
+      <lb ed="#P" n="35"/>carnandum sic quod secundum veritatem non habuit heri aliud  
+      <lb ed="#P" n="36"/>iudicium complexu quam illud vel equalens igitur adhuc 
+      <lb ed="#P" n="37"/>possibile est quod gabriel heri habuit aliud iudicium 
+      <lb ed="#P" n="38"/>quod illud et non nisi per visionem in verbo quia quicquid iudicasset 
+      <lb ed="#P" n="39"/>alio iudicio non posset ex tunc non illo modo iudicasse 
+      <lb ed="#P" n="40"/>etiam secundem quod illo igitur possibile est adhuc quod gabriel he 
+      <lb ed="#P" n="41"/>ri habuit aliud iudicium quam illud mediante visione ver 
+      <lb ed="#P" n="42"/>bi et non est hoc modo magis possibile oe vno tali iudi 
+      <lb ed="#P" n="43"/>cio quod secundum veritatem quam de alio cum verbum 
+      <lb ed="#P" n="44"/>equaliter omnia futura representet fore igitur se 
+      <lb ed="#P" n="45"/>quitur quod nunc sit possibile de quolibet iudicio 
+      pos<lb ed="#P" n="46" break="no"/>sibili mediante visione verbi quo secudum veritatem he 
+      <lb ed="#P" n="47"/>ri non iudicauit quod illo heri iudicasset per visionem 
+      <lb ed="#P" n="48"/>in verbo et ita sequitur quod hec nunc sit contingens 
+      gabri<lb ed="#P" n="49" break="no"/>el vidit in verbo heri vel iudicauit fore suam penam 
+      <lb ed="#P" n="50"/>vel miseriam eternam et per consequens quod heri doluerit et fue 
+      <lb ed="#P" n="51"/>rit miser. Consequens est impossibile igitur similiter 
+      pa<lb ed="#P" n="52" break="no"/>ri ratione sequitur quod hec nunc sit contingens gabriel vi 
+      <lb ed="#P" n="53"/>dit heri in verbo vel iudicauit filium dei non esse 
+      incar<lb ed="#P" n="54" break="no"/>nandum et per consequens hec est nunc possibilis 
+      <lb ed="#P" n="55"/>ga. est nunc mentitus cum asseruit contrarium et 
+      <lb ed="#P" n="56"/>hoc contra conscientiam suam quia non potest esse quin  
+      <lb ed="#P" n="57"/>dixerit marie filium dei esse incarnandum.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e294">
+      ⁋ Confir 
+      <lb ed="#P" n="58"/>matur quia si ille qui aliqua vidit vel iudicauit in 
+      <lb ed="#P" n="59"/>verbo pro tempore huc vsque preterito vidisse potest in il 
+      <lb ed="#P" n="60"/>lo tempone alia quam vidit vel iudicauit et etiam non vidisse 
+      <lb ed="#P" n="61"/>nec iudicasse que vidit et iudicauit igitur nunc est 
+      <lb ed="#P" n="62"/>possibile quod igitur qui vidisset a principio mundi vel 
+      <lb ed="#P" n="63"/>iudicasset eternam suam miseriam sibi futuram pos 
+      <lb ed="#P" n="64"/>set semper vidisse vel iudicasse se semper futurum 
+      <lb ed="#P" n="65"/>esse beatum et per consequens adhuc esset possibile quod igitur 
+      <lb ed="#P" n="66"/>qui semper fuisset beatus semper fuisset miser a 
+      <lb ed="#P" n="67"/>principio mundi et econuerso. Probatur tunc bea 
+      <!--301.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="68"/>ta virgo post salutationem angeli potuisset 
+      fecis<lb ed="#P" n="69" break="no"/>se quod ga. precredidisset filium dei incarnandum consequens 
+      <lb ed="#P" n="70"/>est falsum igitur si mediante alia noticia incomplexa so 
+      <lb ed="#P" n="71"/>lum hoc argueret gabrielem vel fatue fecisse vel 
+      <lb ed="#P" n="72"/>ignoranter vel mendaciter talia verba virgini 
+      ex<lb ed="#P" n="73" break="no"/>pressisse nullus enim secundum rectam rationem 
+      <lb ed="#P" n="74"/>potest fingere se nuncium in pluribus nunciandum ni 
+      <lb ed="#P" n="75"/>si sciat vel nisi super hoc dei preceptum habeat. 
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e340">
+               <lb ed="#P" n="76"/>⁋ Dicendum est igitur sicut prius quod deum reuelare. 
+      <lb ed="#P" n="77"/>in verbo gabrieli filium dei esse incarnandum non 
+      <lb ed="#P" n="78"/>est nisi causare in gabriele vnum actum qui simul 
+      <lb ed="#P" n="79"/>sit visio verbi et firma credulitas vera quod filius dei 
+      <lb ed="#P" n="80"/>fuit incarnandus et hoc concedo a deo potuisse fie 
+      <lb ed="#P" n="81"/>ri hoc est igitur videre in verbo videre verbum et per istam 
+      <lb ed="#P" n="82"/>visionem vere sine omni hesitatione iudicare ita fo 
+      <lb ed="#P" n="83"/>re.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e360">
+      ⁋ Et tunc ad illud suppositum qued gabriel ex ista causae sed 
+      <lb ed="#P" n="84"/>ex hoc quod ita vidit in verbo venerit ad beatam virgi 
+      <lb ed="#P" n="85"/>nem et eam salutauerit dicitur quod potest intelligi 
+      du<lb ed="#P" n="86" break="no"/>pliciter vel scilicet quod ideo venit quia sic credidit 
+      indu<lb ed="#P" n="87" break="no"/>bitanter et firmiter iudicauit et est suppositum 
+      ra<lb ed="#P" n="88" break="no"/>tionale nec aliquid inconveniens sequitur dum modo etiam 
+      <lb ed="#P" n="89"/>crediderit voluntatem fuisse quod ita nunciaret.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e376">
+      ⁋ Ali 
+      <lb ed="#P" n="90"/>ter potest intelligi quod ideo venerit quod sic vere iudica 
+      <lb ed="#P" n="91"/>uit et hoc est dicere quod ratio venit in deo quia vidit et quia 
+      <lb ed="#P" n="92"/>assecuratus fuit de hoc quod suum iudicium esset verum 
+      <lb ed="#P" n="93"/>et tunc est suppositum irrationale quia non est in ptante sua 
+      <lb ed="#P" n="94"/>scire ante positionem rei inesse an vere iudicet vel 
+      <lb ed="#P" n="95"/>iudicauerit vel non sed tantum credere quod vere iudicet 
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e392">
+               <lb ed="#P" n="96"/>⁋ Et tunc vltra ad argumentum nego primo hanc consequentiam 
+      <lb ed="#P" n="97"/>gabriel non vidit etc. igitur non venit sufficit quod firmiter 
+      <lb ed="#P" n="98"/>crediderit ita fore ad hoc vt veniret et nego istam 
+      <lb ed="#P" n="99"/>quod aliam causam non habuit quam quia vidit etc. habuit enim 
+      <lb ed="#P" n="100"/>causam hanc quod per visionem verbi qualiter suum iudicium 
+      <lb ed="#P" n="101"/>erat firmiter credidit ita fore et hec causa semper fuisset 
+      <lb ed="#P" n="102"/>eadem siue viderit hoc in verbo siue non et contra hanc 
+      respon<lb ed="#P" n="103" break="no"/>sionem nullum sequitur inconvenientium superius tactor contra 
+      <lb ed="#P" n="104"/>prionem responsionem. Dices tunc pro isto tempore medio 
+      <lb ed="#P" n="105"/>fuit hec possibilis gabriel creauit ga fuit falsus 
+      <lb ed="#P" n="106"/>nuncius gabriel false et erronee iudicauit in ver 
+      <lb ed="#P" n="107"/>bo.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e422">
+      ⁋ Dicendum quod licet conclusio non sit possibilis 
+      <lb ed="#P" n="108"/>secundum ordinationem dei factam non est tamen 
+      <lb ed="#P" n="109"/>impossibilis secundum potentiam dei absolutam 
+      <lb ed="#P" n="110"/>sonendo iudicium in verbo modo a me concesso. Sed si 
+      <lb ed="#P" n="111"/>poneretur quod verbum potest esse iudicium creature quod tamen 
+      <lb ed="#P" n="112"/>apud me est simplicitur impossibile.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e435">
+      ⁋ Responderem aliter 
+      <lb ed="#P" n="113"/>quam respondi et tamen non sequitur quod hec sit possibilis gabri 
+      <lb ed="#P" n="114"/>el fuit mendax mentitus positis precise quae prius quia 
+      <lb ed="#P" n="115"/>non dixisset contra conscientiam et ideo si quis 
+      conci<lb ed="#P" n="116" break="no"/>peret idem per falsum nuncium et per mendacem non esset 
+      <lb ed="#P" n="117"/>concedendum quod ipse fuisset falsus nuncius dato quod aliter 
+      <lb ed="#P" n="118"/>euenisset sed solum quod fuisset erroneus vel quod 
+      iudi<lb ed="#P" n="119" break="no"/>casset false.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e453">
+      ⁋ Contra tamen istam responsionem 
+      re<lb ed="#P" n="120" break="no"/>stant adhuc difficultates aliquam propter quas visum 
+      <lb ed="#P" n="121"/>est sprensis in q. biblica quod ostensiue demonstrari va 
+      <lb ed="#P" n="122"/>leat quod intellectus creatus non potest in verbo co 
+      <lb ed="#P" n="123"/>gnoscere aliquid fore vel non fore nec etiam 
+      ali<lb ed="#P" n="124" break="no"/>quid comprehendere preter deum et hoc 
+      ipselar<lb ed="#P" n="125" break="no"/>guit sic quia nulla res videtur ex hoc solo quod eius 
+      <lb ed="#P" n="126"/>dea vel ymago videtur sed per actum visionis ver 
+      <lb ed="#P" n="127"/>bi quo ad creaturam sola eius ydea vel ymago vi 
+      <lb ed="#P" n="128"/>detur igitur minor patet quia non potest intelligi 
+      <lb ed="#P" n="129"/>alia causa videndi creaturam per actum 
+      visio<lb ed="#P" n="130" break="no"/>nis verbi nisi quia eodem actu quo videtur 
+      yma<lb ed="#P" n="131" break="no"/>go. Uidetur etiam ymaginatum sed hoc est falsum 
+      <lb ed="#P" n="132"/>quia visa ymagine cesaris non propter hoc 
+      vi<lb ed="#P" n="133" break="no"/>detur cesar nisi alia cognitio assit nec propter 
+      <!--302.xml-->
+      <pb ed="#J" n="129-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>hoc quod videtur speculum et si speculum esset natura 
+      <lb ed="#P" n="2"/>lis ymago faciei videretur facies sed sola eius yma 
+      <lb ed="#P" n="3"/>goymo si propter hoc verancitur videretur illud cuius 
+      <lb ed="#P" n="4"/>est ymago omnia somnia essent vera cum ibi vi 
+      <lb ed="#P" n="5"/>deantur ymagines rerum consequens est impossi 
+      <lb ed="#P" n="6"/>bile.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e505">
+      ⁋ Et hanc inquit rationem pondero quia ip 
+      <lb ed="#P" n="7"/>se non videt modum quo possit videri creatura 
+      <lb ed="#P" n="8"/>essentia diuina nisi quia se ita ostenderet videnti tam 
+      <lb ed="#P" n="9"/>quam ymaginem illius creature et ex hoc non plus sequitur 
+      <lb ed="#P" n="10"/>quod videretur creatura quam quod res videretur in somnis vi 
+      <lb ed="#P" n="11"/>sa eius ymagine.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e518">
+      ⁋ Probatur si per actum visionis 
+      <lb ed="#P" n="12"/>verbi videretur disticte creatura tunc per eundem actum in 
+      <lb ed="#P" n="13"/>telligendi posset veracitur negare creaturam esse deunm 
+      <lb ed="#P" n="14"/>quia per illum distingueret creaturam a deo et tunc esset 
+      <lb ed="#P" n="15"/>propositio vera vbi negaretur idem de seipso ymo 
+      <lb ed="#P" n="16"/>eadem compositio intellectus esset necessaria et impos 
+      <lb ed="#P" n="17"/>sibilis quod non solum destruit philosophiam sed etiam damnati 
+      <lb ed="#P" n="18"/>est in ista vniuersitate.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e536">
+      ⁋ Secundo de anima dicitur quod 
+      <lb ed="#P" n="19"/>distinguere aliquid ab alio non potest nisi per vnam etu 
+      <lb ed="#P" n="20"/>tem et dispositiones diuersas igitur impossibile est 
+      <lb ed="#P" n="21"/>hoc fieri per vnum actum.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e546">
+      ⁋ Probatur pari modo 
+      pos<lb ed="#P" n="22" break="no"/>set vnico actu amoris amari deus beatifice et 
+      eti<lb ed="#P" n="23" break="no"/>am creatura. Consequentia patet quia omnis noticia potest 
+      <lb ed="#P" n="24"/>habere actum amoris sibi proportionatum. Falsitas co 
+      <lb ed="#P" n="25"/>sequentis probatur multiplicitur. Primo quia tunc sic vi 
+      <lb ed="#P" n="26"/>dens posset fieri amicus alicuius oe nouo fine 
+      muta<lb ed="#P" n="27" break="no"/>tione sue voluntatis quod augustinus quinto de 
+      trinita<lb ed="#P" n="28" break="no"/>te in fine reputat impossibile.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e564">
+      ⁋ Consequentia patet quia per 
+      <lb ed="#P" n="29"/>illum actum amoris quo amat deum potest nouitur vt ponitur 
+      <lb ed="#P" n="30"/>amare creaturam et ita fieri amicus eius et planum est quod  
+      <lb ed="#P" n="31"/>iste actus omnino manet in eodem gradu et ita non 
+      immuta<lb ed="#P" n="32" break="no"/>bitur igitur nec eius subiccetum mutatur per ipsum nisi dicatur 
+      <lb ed="#P" n="33"/>quod voluntas mutatur tunc in comparatione ad illud 
+      <lb ed="#P" n="34"/>quia scilicet nouiter habet respectum ad aliqud aliud quod 
+      <lb ed="#P" n="35"/>non habuit sed secundum hoc sequitur quod deus 
+      mu<lb ed="#P" n="36" break="no"/>taretur quod patet falsum.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e584">
+      ⁋ Probatur tunc 
+      se<lb ed="#P" n="37" break="no"/>quitur quod talis postquam amauit aliquid potest illuo 
+      <lb ed="#P" n="38"/>non amasse et postquam preuidit aliquid potest illud  
+      <lb ed="#P" n="39"/>non preuidisse et ita si per hoc quod istud amat sic me 
+      <lb ed="#P" n="40"/>ruisset vel demeruisset sequitur quod post meritum 
+      <lb ed="#P" n="41"/>posset non meruisse et post demeritum non dem 
+      <lb ed="#P" n="42"/>ruisse et etiam fuisse penitus etc. sicut supra fuit 
+      <lb ed="#P" n="43"/>argutum.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e602">
+      ⁋ Item tunc preteritum posset non fuit 
+      <lb ed="#P" n="44"/>se quia ex preuisione tristabilis vel delectabilis 
+      <lb ed="#P" n="45"/>naturaliter sequitur delectatio vel dolor si igitur 
+      <lb ed="#P" n="46"/>tale cognitum potest nunquam fuisse cognitum sequi 
+      <lb ed="#P" n="47"/>tur quod talis delectatio vel dolor potest nunquam 
+      fuis<lb ed="#P" n="48" break="no"/>se. Probatur deus non posset actu videre creatu 
+      <lb ed="#P" n="49"/>ra per actum quo videt se nisi esset sibi species et 
+      <lb ed="#P" n="50"/>actu respectu vtriusque. Si enim respectu sui habe 
+      <lb ed="#P" n="51"/>ret vicem speciei et non haberet vicem actus re 
+      <lb ed="#P" n="52"/>spectu sui non actu cognoscere se sed habitu tanti 
+      <lb ed="#P" n="53"/>igitur pari ratione creatura non potest actu vide 
+      <lb ed="#P" n="54"/>re per verbum diuinum creaturam nisi verbum diuinum 
+      <lb ed="#P" n="55"/>esset sibi loco speciei et etiam loco actus quod quia est impossi 
+      <lb ed="#P" n="56"/>bile sequitur quod mediante verbo per actum videndi verbum 
+      <lb ed="#P" n="57"/>non videtur creatura. Anselmus de li. arb. ca. 4 dici 
+      <lb ed="#P" n="58"/>quod voluntas quae est vsus tam est quam nuerose videmus et volun 
+      <lb ed="#P" n="59"/>tas que est vsus tam multiplex est quam per multa et 
+      <lb ed="#P" n="60"/>sepe volumus. Sed istis non obstantibus videtur 
+      <lb ed="#P" n="61"/>mihi oppositum illius conclusionis probabile satis 
+      <lb ed="#P" n="62"/>est possibile vt. s creature cognoscantur in verbo quomod 
+      <lb ed="#P" n="63"/>enim saluabitur distictio cognitionis rerum in verbo 
+      <lb ed="#P" n="64"/>ab earum cognitionibus in genere proprio vel cogni 
+      <lb ed="#P" n="65"/>tio earum matutina ab earum cognitione vesperti 
+      <lb ed="#P" n="66"/>na de quibus sunt multe auctoritates augustinus 4. super 
+      <!--302.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>genen. in multis capitulis vnde cap 35 mens ange 
+      <lb ed="#P" n="68"/>lica pura charitate inherens verbo dei prius 
+      cun<lb ed="#P" n="69" break="no"/>cta vidit in verbo facienda que facta sunt. Item an 
+      <lb ed="#P" n="70"/>selmus de similibus li. 2 cap. 56 bonus perfecta 
+      <lb ed="#P" n="71"/>scientia que deus est replebitur quam tamen ita 
+      <lb ed="#P" n="72"/>perspexerit creature totius naturam videbit. 
+      <lb ed="#P" n="73"/>Item lynconiensis primo posteriorum ca. 14 intel 
+      <lb ed="#P" n="74"/>ligentie recipientes irradiationem a lumine primo 
+      <lb ed="#P" n="75"/>vident in eo omnes res scibiles vniuersales et par 
+      <lb ed="#P" n="76"/>ticulares et infinita sunt huiusmodi dicta in 
+      origi<lb ed="#P" n="77" break="no"/>nibus sanctor vnen videtur multum mirabile quod aliquis 
+      <lb ed="#P" n="78"/>audet dicere oppositum huius. Dicendum igitur cum istis 
+      <lb ed="#P" n="79"/>sanctis et doctoribus omnibus quod creature possunt ibidem 
+      <lb ed="#P" n="80"/>in verbo sed per quem modum difficile est assignare di 
+      <lb ed="#P" n="81"/>co tamen vt supra sepe quod per hoc videntur creature in ver 
+      <lb ed="#P" n="82"/>bo quod a verbo causatur cognitio tam verbi quam 
+      creatu<lb ed="#P" n="83" break="no"/>re representatiua videntur igitur creature in verbo sicut in 
+      <lb ed="#P" n="84"/>causa visionis et sicut in lumine increato sine quo  
+      <lb ed="#P" n="85"/>vel cuius illustratione nihil intellectualitur videre 
+      <lb ed="#P" n="86"/>tur in verbo vel non verbo quia verbum est lux vera que 
+      <lb ed="#P" n="87"/>illuminat omnem hominem etc. videntur etiam res in verbo 
+      <lb ed="#P" n="88"/>tanquam in creato speculo non quod in verbo sint quae videntur 
+      <lb ed="#P" n="89"/>speculariter per verbum.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e708">
+      ⁋ Sed quod per verbum vi 
+      <lb ed="#P" n="90"/>sione verbi appareant tales res intuenti nec mir 
+      <lb ed="#P" n="91"/>cum speculum coram oculis positum coefficiat vi 
+      <lb ed="#P" n="92"/>sionem rerum oppositarum visione qua forsan vi 
+      <lb ed="#P" n="93"/>detur et ipsum speculum. Uidentur etiam res in verbo 
+      <lb ed="#P" n="94"/>in ydea quia mediante huiusmodi visione perpendi potest 
+      <lb ed="#P" n="95"/>qualitur res in verbo praedictis modis visa est inuitatio 
+      <lb ed="#P" n="96"/>quedam longinqua ac remota verbi sicut ydeatum 
+      <lb ed="#P" n="97"/>vel exemplatum sue ydee vel exemplaris. Uidentur 
+      <lb ed="#P" n="98"/>etiam in verbo sicut in supplente vicem speciei vel habi 
+      <lb ed="#P" n="99"/>tus respectu creature cognoscendi ita quod illa cogni 
+      <lb ed="#P" n="100"/>tione etiam videtur ipsum verbum et hoc stricte loquendo  
+      <lb ed="#P" n="101"/>large autem siue videatur ipsum verbum siue non.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e737">
+      ⁋ Ad pri 
+      <lb ed="#P" n="102"/>mum in contrarium potest negari minor quia deus 
+      po<lb ed="#P" n="103" break="no"/>test supplere vicem obiecti quo ad efficientiam eo 
+      <lb ed="#P" n="104"/>modo quo potest immediate supplere vicem 
+      albe<lb ed="#P" n="105" break="no"/>dinis in causando visionem albedinis sic quod albedo im 
+      <lb ed="#P" n="106"/>mediate videretur a me sine omni actione albedinis ita 
+      <lb ed="#P" n="107"/>quod potest in proposito agere visionem verbi in me quae sit tam verbi 
+      <lb ed="#P" n="108"/>quam creature visio et hoc obiecto solo verbo talem visio 
+      <lb ed="#P" n="109"/>nem agente et istum modum dicendi nec tangit nec improbat 
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e758">
+               <lb ed="#P" n="110"/>⁋ Ad secundum est dicendum quod illud iudicium quo aliquis in  
+      <lb ed="#P" n="111"/>verbo iudicaret creaturam non esse deum foret simplex et 
+      <lb ed="#P" n="112"/>verum iudicium non falsum licet posset esse apprehensio fal 
+      <lb ed="#P" n="113"/>si sicut etiam dei visio apprehensio est multorum falsorum 
+      <lb ed="#P" n="114"/>Sed quia non iudicat false ideo non est falsum 
+      iu<lb ed="#P" n="115" break="no"/>dicium sicut iudicium simplex in essendo quo iudi 
+      <lb ed="#P" n="116"/>co hominem non esse asinum est apprehensio quod homo non 
+      <lb ed="#P" n="117"/>est asinus non tamen est iudicium quod homo est asinus 
+      <lb ed="#P" n="118"/>sed iudicium contrarii nec etiam iste actus simplex 
+      <lb ed="#P" n="119"/>quo propter est apprehensio equalens propositioni 
+      <lb ed="#P" n="120"/> alse quo ad repraesentationem est falsa.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e784">
+      ⁋ Sed hunc mo 
+      <lb ed="#P" n="121"/>dum dicendi non ymaginatur iste in arguendo posse 
+      <lb ed="#P" n="122"/>poni tota autem vlterior deductio soluta est in simi 
+      <lb ed="#P" n="123"/>li et alia in materia. p. di. rimi. An vna persona vel 
+      <lb ed="#P" n="124"/>essentia possit cognosci alia non cognita.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e795">
+      ⁋ Ad 
+      ter<lb ed="#P" n="125" break="no"/>tium concedendum est dictum commentatoris et philosophy quando ta 
+      <lb ed="#P" n="126"/>le iudicium causatur naturaliter.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e802">
+      ⁋ Ad quartum conceden 
+      <lb ed="#P" n="127"/>dum est esse possibile quod infertur.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e807">
+      ⁋ Ad primum incontrarium 
+      <lb ed="#P" n="128"/>neganda est consequentia. Ad probationem dico quod fundatur super 
+      <lb ed="#P" n="129"/>falsa ymaginatione quia eco non pono quod idem actus sit 
+      <lb ed="#P" n="130"/>amor vnius obiecti et post fiat isto mo amor alterius 
+      <lb ed="#P" n="131"/>sicut ipse ymaginatur et per hoc patet quod necista probatio 
+      pro<lb ed="#P" n="132" break="no"/>cedit.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e820">
+      ⁋ Ad quintum patet etiam quod procedit contra ponentem 
+      <!--303.xml-->
+      <pb ed="#J" n="130-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>eundem actum posse nunc esse cognitionem huiusmodi nunc 
+      <lb ed="#P" n="2"/>non esse ipso stante in potentia cognoscitiua cuius 
+      op<lb ed="#P" n="3" break="no"/>positum firme teneo de per se obiectis actuum siue 
+      <lb ed="#P" n="4"/>amandi seu cognoscendi
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e839">
+      ⁋ Sextum soluitur sicut primum 
+      <lb ed="#P" n="5"/>nec sequitur quod creatura non potest actu videre per 
+      <lb ed="#P" n="6"/>verbum diuinum creaturam nisi verbum diuinum esset 
+      <lb ed="#P" n="7"/>sibi loco actus quia sufficit quod per actum causatum a 
+      <lb ed="#P" n="8"/>verbo videatur verbum et creatura in verbo
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e850">
+      ⁋ Sed  
+      <lb ed="#P" n="9"/>cum ipse dicit se probasse alibi quod Idem actus non  
+      <lb ed="#P" n="10"/>potest esse distincte diuersorum hoc nego quia oppo 
+      <lb ed="#P" n="11"/>situm verum est de omni iudicio quo iudicamus a. 
+      <lb ed="#P" n="12"/>distingui. a. b. et etiam de actu quo videt btus deum 
+      <lb ed="#P" n="13"/>et iudicat patrem distingui a filio et tunc sequitur sicut 
+      <lb ed="#P" n="14"/>ipse arguit quod igitur talis actus esset equiuocus sed  
+      <lb ed="#P" n="15"/>bene sequitur perfectio talis actus.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e868">
+      ⁋ Septima ratio	¬ 
+      <lb ed="#P" n="16"/>quam accipit ab anselmo bene probat quod respectu 
+      <lb ed="#P" n="17"/>cuiuslibet entis creati potest esse distincta et propria 
+      <lb ed="#P" n="18"/>cognitio et etiam propria appetitio. Sed non probat 
+      <lb ed="#P" n="19"/>quin possit a deo creari actus vnus amoris et 
+      co<lb ed="#P" n="20" break="no"/>gnitionis quo distincte plura cognoscantur ymo 
+      <lb ed="#P" n="21"/>quo existente in potentia cognitiua oportet plura 
+      <lb ed="#P" n="22"/>distincte cognosci nec oppositum dicit anselmus. 
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e886">
+               <lb ed="#P" n="23"/>⁋ Ex responsione istius conclusionis et proxime prece 
+      <lb ed="#P" n="24"/>dentis sequitur solutio istius communis difficultatis qua 
+      <lb ed="#P" n="25"/>solet argui quod si reuelatio futuroru esset possibilis 
+      <lb ed="#P" n="26"/>tunc esset possibile quod aliquis ita feruenter amaret 
+      <lb ed="#P" n="27"/>rem non speratam ab eo sicut vnus alius amaret 
+      si<lb ed="#P" n="28" break="no"/>milem rem ab eo speratam ceteris paribus consequens est 
+      <lb ed="#P" n="29"/>Impossibile quia tunc species adipiscendi aliquid non  
+      <lb ed="#P" n="30"/>augeret amonem quod est contra augustinus 10. de tri. 
+      cap<lb ed="#P" n="31" break="no"/>oe paruis et cap. primo de magnis vbi dicit quod cuius 
+      <lb ed="#P" n="32"/>rei specie quisque non gerit aut omnino non amat aut 
+      te<lb ed="#P" n="33" break="no"/>pide amat quamuis quam sit pulchia videat consequentia 
+      <lb ed="#P" n="34"/>probatur quia ponatur quod sor. et plagister sint in omnibus 
+      <lb ed="#P" n="35"/>conditionibus similes et quod deus reuelet in verbo 
+      <lb ed="#P" n="36"/>vtrique vnum bonum sibi futurum et consimile et habeat 
+      <lb ed="#P" n="37"/>uterque istorum tam intensum amorem illud sui boni 
+      <lb ed="#P" n="38"/>sperati sicut potest ex cognitione et spe sua et sit amor 
+      <lb ed="#P" n="39"/>sortis a. et amor platonis b. isto posito hec esset 
+      <lb ed="#P" n="40"/>necessaria. A et. b fuerunt vel sunt amorum similes 
+      <lb ed="#P" n="41"/>et eque feruentes et hec esset contingens speratum 
+      <lb ed="#P" n="42"/>aite sorte non erit igitur hec copulatiua esset 
+      contin<lb ed="#P" n="43" break="no"/>gens a. et. b. sunt equales et speratum. a. sorte non  
+      <lb ed="#P" n="44"/>erit et sequitur speratum a. sorte non erit igitur sor non 
+      <lb ed="#P" n="45"/>videt illud fore igitur non sperat illud fore tum quia 
+      <lb ed="#P" n="46"/>non sperat illud nisi quia vidit in verbo illud esse fu 
+      <lb ed="#P" n="47"/>turum tum quia secundum magister li. 3 di. 20 cap. i. Spes est 
+      <lb ed="#P" n="48"/>certa expectatio future beatitudinis etc. igitur si non 
+      <lb ed="#P" n="49"/>est futurum non expectatur certitudinaliter et cap.¬ 
+      <lb ed="#P" n="50"/>sequenti dicit Magister quod spes pon est nisi futurarum 
+      re<lb ed="#P" n="51" break="no"/>rum igitur que non sunt futura non sperantur et per 
+      <lb ed="#P" n="52"/>consequens sicut hec est contingens hoc est futurum 
+      <lb ed="#P" n="53"/>ita hec est contingens sor sperat illud fore et quia 
+      <lb ed="#P" n="54"/>hec est necessaria. A et. b. sunt amores eque 
+      fer<lb ed="#P" n="55" break="no"/>uentes igitur hec copulatiua est possibilis sor et pla. 
+      <lb ed="#P" n="56"/>similiter dispositi amant duo secundum vltimum sui posse 
+      <lb ed="#P" n="57"/>equaliter et tamen vnum speratum ab vno et aliud non  
+      <lb ed="#P" n="58"/>est speratum ab alio ceteris paribus
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e967">
+      ⁋ Respondetur quid  
+      <lb ed="#P" n="59"/>tu vocas specie vel actum vel actum anime quo quis 
+      fir<lb ed="#P" n="60" break="no"/>miter et indubitanter acceptat aliquod bonum siue 
+      <lb ed="#P" n="61"/>talis expectatio sua sit presumptio et confidentia quaedam 
+      <lb ed="#P" n="62"/>seu expectatio frustranda siue non.
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e978">
+      ⁋ Uel accipis 
+      <lb ed="#P" n="63"/>specie pro tali expectatione et cum hoc quod sit expectatum 
+      <lb ed="#P" n="64"/>obtinebitur in prima acceptatione negatur conse 
+      <lb ed="#P" n="65"/>quentia quia vt sic consequens est Iompossibile secundum 
+      na<lb ed="#P" n="66" break="no"/>turales causas prout etiam docet experientia quae ponitur 
+      <!--303.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>in aucto. augustinus nec probatio procedit ad Istum sensum 
+      <lb ed="#P" n="68"/>accipiendo specie autem secundo modo conceditur consequentia et 
+      <lb ed="#P" n="69"/>consequens et quid mirum quod eque intensum habeat amorem 
+      <lb ed="#P" n="70"/>qui sperat bonum aliquod obtinere et qui non sic 
+      <lb ed="#P" n="71"/>perat istomodo accipiendo spem dum tamen habeat 
+      <lb ed="#P" n="72"/>redulitatem firmam alicuius eque amabilis et indu 
+      <lb ed="#P" n="73"/>bitatem expectationem illius eo ipso enim immutaretur 
+      <lb ed="#P" n="74"/>ad passiones consequentes sicut si foret illud quod  
+      <lb ed="#P" n="75"/>sperat quia quod illud bonum habebit vel non nam agit 
+      <lb ed="#P" n="76"/>illum amonem vel gaudium sed consequentia Iam praesens 
+      <lb ed="#P" n="77"/>que est actus quo indubitantur expectatur tale bonum 
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e1018">
+               <lb ed="#P" n="78"/>⁋ Ex quo patet quod non oportet confugere ad 
+      respon<lb ed="#P" n="79" break="no"/>sionem que dicit possibile est quod duo consimiles habe 
+      <lb ed="#P" n="80"/>ant naturaliter equalem delectationem de eodem quo  
+      <lb ed="#P" n="81"/>rum tamen alter habet specie adipiscendi illud et alter non 
+      <lb ed="#P" n="82"/>sed tantum nudam apprehensionem
+    </p>
+            <p xml:id="GHYaf3-d1e861-d1e1031">
+      ⁋ Hoc enim est 
+      Impossi<lb ed="#P" n="83" break="no"/>pile quia aliquando parum aut nihil delectantur de obiecto 
+      <lb ed="#P" n="84"/>ipprehenso et tamen si istum speramus adipisci vehe 
+      <lb ed="#P" n="85"/>menter gauderemus igitur spes adipiscendi auget 
+      <lb ed="#P" n="86"/>delectationem probatur tunc aliquis tantum doleret pro 
+      <lb ed="#P" n="87"/>pter terribile apprehensum non estimatum sicut alius 
+      <lb ed="#P" n="88"/>propter estimatum et hoc dico naturaliter et ceteris 
+      <lb ed="#P" n="89"/>paribus quod non videtur intelligibile Probatur 
+      <lb ed="#P" n="90"/>fiat argumentum de aliquo delectabili quod apprehen 
+      <lb ed="#P" n="91"/>sum non causat delectationem seu specie adipiscendi 
+      <lb ed="#P" n="92"/>illud et de tristabili suo modo et tunc rodit 
+      diffi<lb ed="#P" n="93" break="no"/>cultas quod ista delectatio vel tristicia scilicet A potest non 
+      <lb ed="#P" n="94"/>fuisse.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

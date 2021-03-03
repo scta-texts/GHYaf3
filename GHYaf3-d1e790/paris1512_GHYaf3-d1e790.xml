@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#Wodeham">Adam Wodeham</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-03-03">March 3, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#Pa" n="118-r"/>
+            <cb ed="#Pa" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="GHYaf3-d1e790"><!-- GHYaf3-l3q2 -->
+            <head xml:id="GHYaf3-d1e790-Hd1e108">Quaestio 2</head>
+            <head xml:id="GHYaf3-d1e790-Hd1e111" type="question-title">
+      Utrum ipsum verbum Dei sit sibi ipsi 
+      quamvis non animae sibi unitae scientia futurorum contingentium.
+    </head>
+            <p xml:id="GHYaf3-d1e790-d1e114">
+               <lb ed="#P" n="8"/>SEcundo Circa illud quod 
+      <lb ed="#P" n="9"/>dicit ma. principaliter in ista di. 14 
+      <lb ed="#P" n="10"/>cap. penultimo quod anima Christi et angeli 
+      <lb ed="#P" n="11"/>in verbo dei cognoscunt futura et quod 
+      <lb ed="#P" n="12"/>anima Christi in verbo cui vnita est liquidius 
+      <lb ed="#P" n="13"/>et praesentius omni creatura scit omnia que deus Quero 
+      <lb ed="#P" n="14"/>primo vtrum verbum dei sit sibi ipsi quamuis non anime 
+      ve<lb ed="#P" n="15" break="no"/>nite sibi scientia futurorum sibi contigentium
+    </p>
+            <p xml:id="GHYaf3-d1e790-d1e134">
+      Uidetur quod  
+      <lb ed="#P" n="16"/>non quia scire est rem per causam cognoscere et est 
+      <lb ed="#P" n="17"/>illius quod impossibile est aliter se habre ex primo 
+      <lb ed="#P" n="18"/>posteriorum et etiam ex sexto et hicorum cap. 4. dicitur 
+      <lb ed="#P" n="19"/>omes suspicantur quod scimus non contingere aliter se 
+      <lb ed="#P" n="20"/>habere sed futura contingentia aliter possunt se 
+      <lb ed="#P" n="21"/>habere igitur probatur omnia scibilia sunt demonstra 
+      <lb ed="#P" n="22"/>bilia ex primo posteriorum sed contingentia ad vtrum 
+      <lb ed="#P" n="23"/>libet non sunt demonstrabilia vt patet 7 metaphisice 
+      <lb ed="#P" n="24"/>parte 12 vbi dicitur propter hoc substantiarum 
+      sensi<lb ed="#P" n="25" break="no"/>bilium singularum nec diffinitio nec demonstratio est 
+      <lb ed="#P" n="26"/>quod habet materiam cuius natura talis est vt 
+      contin<lb ed="#P" n="27" break="no"/>gat in esse et non et non inesse qua propter corpo 
+      <lb ed="#P" n="28"/>ralia omnia singularia ipsorum igitur si demonstratio 
+      <lb ed="#P" n="29"/>necessariorum et diffinito scientifica non contingit 
+      <lb ed="#P" n="30"/>sicut nec scientiam quandoque scientiam quandoque ignorantiam 
+      <lb ed="#P" n="31"/>esse ita nec demonstratio nec diffinitionem sed opi 
+      <lb ed="#P" n="32"/>nionem contingentium aliter se habee palam quia non vtique  
+      <lb ed="#P" n="33"/>erit ipsorum neque diffinitio nec demonst ratio hec Ibi 
+      <lb ed="#P" n="34"/>Et rationem tam ibi quam. 6 ethicorum quia talia 
+      contin<lb ed="#P" n="35" break="no"/>gentia cum extra sensum speciem fiant latent si sunt vel 
+      <lb ed="#P" n="36"/>non. 3 nulla non determinate vera sunt aliquomodo 
+      <lb ed="#P" n="37"/>scita sed de futuris contingentibus non est determi 
+      <lb ed="#P" n="38"/>nanda veritas primo peryarmenias.
+    </p>
+            <p xml:id="GHYaf3-d1e790-d1e186">
+      ⁋ Ad 
+      oppo<lb ed="#P" n="39" break="no"/>situm daman 13. dicitur domine qui nosti omnia antequam 
+      <lb ed="#P" n="40"/>fiant. Item ad hebreos 4. ora munda et apta sunt 
+      <lb ed="#P" n="41"/>oculis eius ad quem nobis sermo. ptem augustinus quinto 
+      <lb ed="#P" n="42"/>de tiri. sicut allegat magister di. 36 primi capi id est non ista 
+      <lb ed="#P" n="43"/>ex aliquo tempone cognouerit deus sed futura omnia 
+      ten<lb ed="#P" n="44" break="no"/>poralia atque in eis etiam inquit et quando ab illo 
+      <lb ed="#P" n="45"/>petituri fueramus et quos et de quibus rebus vel 
+      <lb ed="#P" n="46"/>exauditurus vel non exauditurus esset sine initio 
+      <lb ed="#P" n="47"/>ante presciuit Item vide de hoc multas auctorita 
+      <lb ed="#P" n="48"/>tes di. 35 primi capi. 4 et capi. quinto et distin 3o 
+      <lb ed="#P" n="49"/>i. cap. primo et cap. quinto. In ista questione 
+      pri<lb ed="#P" n="50" break="no"/>mo premittam distinctiones de scientia et iuxta 
+      <lb ed="#P" n="51"/>illam pono aliquas questiones secundo instabo con 
+      <lb ed="#P" n="52"/>tra eas. Quo ad primum dicendum secundum doctores 
+      <lb ed="#P" n="53"/>antiquos quod istud vocabulum scientia dei vnomodo  
+      <lb ed="#P" n="54"/>sumitur pro noticia rerum Alio modo pro noticia enun 
+      <lb ed="#P" n="55"/>ciabilium. Et hanc distinctionem ponit ma. li. primo 
+      <lb ed="#P" n="56"/>cap 46 de scientia rerum loquitur scriptura eccle. 
+      <lb ed="#P" n="57"/>23 deo antequam crearentur omnia sunt cognita et sic 
+      lo<lb ed="#P" n="58" break="no"/>quendo Idem est dicere scientia dei respectu rerum 
+      <lb ed="#P" n="59"/>quod dei clara apprehensio respectu rerum omnia enim 
+      fa<lb ed="#P" n="60" break="no"/>ctibilia apprehendit. Scientia vero vel cognitio 
+      <lb ed="#P" n="61"/>enunciabilium id est complexe significabilium quandoque sumitur 
+      <lb ed="#P" n="62"/>pro apprehensione sola et hoc est nimis improprie 
+      <lb ed="#P" n="63"/>qui sic deus videt omni a possibilia vel impossibilia ni 
+      <lb ed="#P" n="64"/>hil est a quoquam ymaginabile quim et a deo. Alio 
+      <lb ed="#P" n="65"/>modo sumitur pro vero iudicio respectu enuncia¬ 
+      <!--279.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="66"/>bilium tantum facti et istomodo scit deus seu eui 
+      <lb ed="#P" n="67"/>denter iudicat que sunt in entibus et qualiter se 
+      <lb ed="#P" n="68"/>habuerunt et quelerunt entibus et qualiter se habebunt 
+      <lb ed="#P" n="69"/>ita scientia dei sic sumpta est solummodo 
+      enuncia<lb ed="#P" n="70" break="no"/>bilium respectu preteritorum praesentium et futurorum 
+      <lb ed="#P" n="71"/>et vocabitur ab antiquis doctoribus noticia seu 
+      <lb ed="#P" n="72"/>scientia visionis et istomodo dicit magister di. 30 ca. 2  
+      <lb ed="#P" n="73"/>quod scientia dei non est nisi de his que sunt fuerunt 
+      <lb ed="#P" n="74"/>vel erunt et alias auctoritates reperies in eadem 
+      <lb ed="#P" n="75"/>di. et.25. quasdam p ista acceptione quasdam pro prece 
+      <lb ed="#P" n="76"/>denti. Altomodo sumitur pro vero et euidenti 
+      iudi<lb ed="#P" n="77" break="no"/>cio respectu enunciabilium facti adhuc futuri et illo  
+      <lb ed="#P" n="78"/>modo dicitur prescientia dei de qua dictione 35 et 3  
+      <lb ed="#P" n="79"/>Alio modo sumitur pro noticia cum voluntate bene 
+      <lb ed="#P" n="80"/>placiti respectu sic cogniti et vocatur noticia seu 
+      <lb ed="#P" n="81"/>scientia reprobationis et hinc est quod stricte loquendo  
+      <lb ed="#P" n="82"/>soli reprobi dicuntur presciti ac vnica et simplex dei 
+      <lb ed="#P" n="83"/>noticia est quelibet scientia sensuum predictorum 
+      <lb ed="#P" n="84"/>uxta hoc possunt elici conclusiones iam probate prima 
+      <lb ed="#P" n="85"/>quod deus omnim rerum possibilium est simplex intelligentia e2 
+      <lb ed="#P" n="86"/>conclusio quod deus est omnim possibilium et impossibilium enun 
+      <lb ed="#P" n="87"/>ciabilium apprehensio 3 quod deus est omnim vere 
+      enun<lb ed="#P" n="88" break="no"/>ciabilium vera scientia. 4 conclusio quod ipse est respectu 
+      <lb ed="#P" n="89"/>omnium enunciabilium facti scilintia visionis. Quinta quod ipse est 
+      <lb ed="#P" n="90"/>respectu omnium enunciabilium facti de futuro praescientia 
+      <lb ed="#P" n="91"/>Sexta quod respectu illorum quae bene fiunt ipse est 
+      scien<lb ed="#P" n="92" break="no"/>tia approbationis 7 conclusio quod ipse respectu illo  
+      <lb ed="#P" n="93"/>rum que demeritorie fiunt scientia reprobationis 
+      <lb ed="#P" n="94"/>Ex his patet ad quaestionem vbi tamen ad consuetum 
+      <lb ed="#P" n="95"/>modum loquendi dicendum est quod scientia dupliciter 
+      <lb ed="#P" n="96"/>sumitur ad propositum tituli questionis loquendo s 
+      <lb ed="#P" n="97"/>pro noticia euidenti impossibilium aliter se habre seu 
+      <lb ed="#P" n="98"/>enunciabilium necessariorum et sic loquendo dicendum 
+      <lb ed="#P" n="99"/>quod verbum non est scilintia futurorum contingentium et hoc 
+      pro<lb ed="#P" n="100" break="no"/>bant duo prima argumenta principalia questionis. 
+      <lb ed="#P" n="101"/>Secunda conclusio est etiam absque aliqua hesitatione 
+      <lb ed="#P" n="102"/>tenenda et probatur esse vera et credenda per argu 
+      <lb ed="#P" n="103"/>menta prius posita ad partem oppositam questionis 
+      <lb ed="#P" n="104"/>iset quod alio modo sumendo vocabulum scientie pro omni 
+      <lb ed="#P" n="105"/>euidenti et vera iudicatiua noticia respectu comn 
+      <lb ed="#P" n="106"/>plexe enunciabilis verbum dei est scientia futurorum 
+      <lb ed="#P" n="107"/>quoruncunque contingentium ad vtrumlibet que sunt 
+      <lb ed="#P" n="108"/>vera ita quod de omni futuro nouit euidenter quod erit 
+      <lb ed="#P" n="109"/>et de omni non futuro euidenter nouit quod non erit 
+      <lb ed="#P" n="110"/>nam vt dicit augustinus hoc de cimci. cap. 8. deus optime et ve 
+      <lb ed="#P" n="111"/>racissime creditur cuncta scire antequam fiant et 
+      cap<lb ed="#P" n="112" break="no"/>9. dicit quod confiteri esse deum et negare esse prescien 
+      <lb ed="#P" n="113"/>tiam futurorum apertissima insania est. Secundus 
+      <lb ed="#P" n="114"/>articulus: primum dubium quia videtur quod ex eo ipso quod  
+      <lb ed="#P" n="115"/>aliqua sunt futura contingentia ad vtrumlibet non  
+      <lb ed="#P" n="116"/>sunt determinate vera nec per consequens possunt 
+      <lb ed="#P" n="117"/>euidenter sciri vel presciri esse vera et hoc tenet 
+      <lb ed="#P" n="118"/>okam et probat hoc esse opinionem. p. quanuis in hoc 
+      <lb ed="#P" n="119"/>p veritas fidei contradicat prima probatio est secundum 
+      <lb ed="#P" n="120"/>eum di. 38 primi sui et pe. augutur nullu futurum contin 
+      <lb ed="#P" n="121"/>gens dependens simpliciter. a potentia libera est 
+      <lb ed="#P" n="122"/>in se verum quia non potest vt dicit secundum phsarcum ymagina 
+      <lb ed="#P" n="123"/>ri ratio quare plus vna pars est vera quam alia Item 
+      <lb ed="#P" n="124"/>primo pervarmenias in his que sunt et que facta 
+      <lb ed="#P" n="125"/>sunt necesse est affirmationem vel negationem veram 
+      <lb ed="#P" n="126"/>vel falsam esse. In singulari vero futuris non simie 
+      <lb ed="#P" n="127"/>quia alias si vnus dicat hoc erit et alius dicat quod 
+      <lb ed="#P" n="128"/>non erit oportet quod alter istorum determinate 
+      men<lb ed="#P" n="129" break="no"/>tiatur et tunc nihil fieret a casu nec ad vtrumlibet 
+      <lb ed="#P" n="130"/>si omnia fierent ex necessitate quia illud quod est ad  
+      <lb ed="#P" n="131"/>v trumlibet contingens non magis determinatur ad  
+      <!--280.xml-->
+      <pb ed="#J" n="118-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>vnam partem quam ad aliam Item si veritas determinata sit 
+      <lb ed="#P" n="2"/>in singularibus de futuro tunc de quolibet illorum 
+      <lb ed="#P" n="3"/>quomodo facta sunt semper fuit verum dicere quandim hoc 
+      <lb ed="#P" n="4"/>erit et si semper erat verum dicere quandom est vel erit non  
+      <lb ed="#P" n="5"/>posset hoc non esse vel non futurum esse quod autem non 
+      <lb ed="#P" n="6"/>posset non fieri Iompossibile est non fieri et per consequens 
+      <lb ed="#P" n="7"/>necesse est fieri. Item tunc non oportebit consiliari 
+      <lb ed="#P" n="8"/>nec negotiari Item ibidem in fine omtriones vere sunt 
+      <lb ed="#P" n="9"/>quemadmodum et res igitur manifostum est quando quicumque  
+      <lb ed="#P" n="10"/>sic se habent vt ad vtrulibet sint et ebntraria ipsoru 
+      <lb ed="#P" n="11"/>queant contingere necesse sic se habre ad 
+      contradictio<lb ed="#P" n="12" break="no"/>nem ita scilicet quod propositiones significantes talia fore non 
+      <lb ed="#P" n="13"/>magis erunt vere quam false determinate. Ad 
+      oppo<lb ed="#P" n="14" break="no"/>situm est diffinitio praepositionis d. quod est oratio verum 
+      <lb ed="#P" n="15"/>vel falsum significans. Item hoc est contra legen contra 
+      <lb ed="#P" n="16"/>dictoriorum et contra primum principium complexum Item 
+      <lb ed="#P" n="17"/>vbi supra dicit p. quod necesse est disiunctiuam ex contra 
+      <lb ed="#P" n="18"/>dictoriis de futuro esse veram sed tamen neutram pat 
+      <lb ed="#P" n="19"/>tem necesse est esse veram Ex quo patet quod quacunque 
+      <lb ed="#P" n="20"/>tali disiunctiua data altera pars est determinate 
+      <lb ed="#P" n="21"/>vera. Ad primam rationem negatur antecedens ymo bene est 
+      <lb ed="#P" n="22"/>ratio quare vna pars plus est vera quam alia quia in re 
+      <lb ed="#P" n="23"/>futurum determinate erit et tunc affirmatiua est vera 
+      <lb ed="#P" n="24"/>vel deturminate non erit et tunc necessitatiua est vera 
+      <lb ed="#P" n="25"/>Ad aliam negatur ista consequentia vnus istorum deter 
+      <lb ed="#P" n="26"/>minate dicit verum igitur omnia fient ex necessitate et 
+      <lb ed="#P" n="27"/>omnes consequentie similes sunt negande nec habent 
+      <lb ed="#P" n="28"/>colorem. Ad phsartum dicendum quod ipse intelligit quod in singu 
+      <lb ed="#P" n="29"/>laribus de futuro non est determinata veritas eo 
+      <lb ed="#P" n="30"/>modo quo in illis oe preterito vel de praesenti. Nam omne 
+      <lb ed="#P" n="31"/>quod fuit sic est determinatum ad fuisse quod non potest 
+      <lb ed="#P" n="32"/>per aliquam potentiam non fuisse t omne quod est necesse 
+      <lb ed="#P" n="33"/>est esse quando est sicut declaraui di id est primi ad sensum vnum 
+      <lb ed="#P" n="34"/>verum non sic autem in illis de futuro vbi simul stat quod 
+      <lb ed="#P" n="35"/>propositio aliqua de facto est vera et potest esse falsa quo 
+      <lb ed="#P" n="36"/>tamen potest esse vera et semper fuisse vera et tanta est 
+      <lb ed="#P" n="37"/>illa indeterminatio quod non stat cum euidenti. 
+      noti<lb ed="#P" n="38" break="no"/>cia creata de talibus quid euemret et quid non mon 
+      <lb ed="#P" n="39"/>sic in illis oe preterito vel oe presenti. Cum ista re 
+      <lb ed="#P" n="40"/>sponsione concordat sco di. 35 primi. Secundum du 
+      <lb ed="#P" n="41"/>bium principale quero quomodo deus determinate 
+      <lb ed="#P" n="42"/>potest scire et potest sciuisse futurum illud cuius fu 
+      <lb ed="#P" n="43"/>turi actio dependet adhuc ex libertate voluntatis 
+      <lb ed="#P" n="44"/>non solum increate sed etiam create quia impossibile 
+      <lb ed="#P" n="45"/>est deum nunquam sciuisse quod semper sciuit igitur si deus semper 
+      <lb ed="#P" n="46"/>sciuit a. esse futurum impossibile est deum nunquam 
+      sci<lb ed="#P" n="47" break="no"/>uisse a. esse futurum et si hoc igitur Iompossibile est 
+      <lb ed="#P" n="48"/>quin a. fuerit futurum et si hoc igitur impossibile est 
+      <lb ed="#P" n="49"/>et ec. igitur voluntas creata non potest libere face 
+      <lb ed="#P" n="50"/>re quin a. fuerit futurum et per consequens futuritio 
+      <lb ed="#P" n="51"/>a. non dependet a. voluntate libera create patem illa 
+      <lb ed="#P" n="52"/>futura quae dependet ex libertate voluntatis create 
+      <lb ed="#P" n="53"/>vel increate possunt non euenire. Sed ista quae sunt 
+      <lb ed="#P" n="54"/>a deo prescita non possunt non euenire quia alias 
+      <lb ed="#P" n="55"/>dei prescientia falleretur sicut arguitur di. 38 primi 
+      <lb ed="#P" n="56"/>cap. 1. Preterea deus non potest res aliter cognoscere 
+      <lb ed="#P" n="57"/>quam cognoscit sine alietate vel varietate aliqua ex 
+      <lb ed="#P" n="58"/>parte rerum igitur deus cognoscens aliqua fore non 
+      <lb ed="#P" n="59"/>potest illa cognoscere non fore sine nouitate vel varia 
+      <lb ed="#P" n="60"/>tione aliqua ex parte earum igitur si ab eterno 
+      co<lb ed="#P" n="61" break="no"/>gnouit me aliquid cras voliturum non potest ante 
+      ad<lb ed="#P" n="62" break="no"/>uentum diei crastine scire me non eras illud volitu 
+      <lb ed="#P" n="63"/>rum et si hoc igitur oportet me cras velle illud 
+      an<lb ed="#P" n="64" break="no"/>tecedens patet quia apud deum non potest esse aliqua 
+      <lb ed="#P" n="65"/>transmutatio quo ad talem alietatem cognoscendi 
+      <lb ed="#P" n="66"/>vt patet per augustinus quinto super geni. et ponitur di. 
+      <!--280.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>25. primi cap. penultimo. Item augustinus 15. detri. et 
+      po<lb ed="#P" n="68" break="no"/>nitur di. I id est cap. primo dicit quod omnia simul videt 
+      <lb ed="#P" n="69"/>quorum nullum est quod non semper videat et sciat eius 
+      <lb ed="#P" n="70"/>itaque scientia inamissibilis inuariabilis est nostra 
+      <lb ed="#P" n="71"/>vero scientia amissibilis et receptibilis quia non  
+      <lb ed="#P" n="72"/>est hoc nobis esse quod scire et ibide cap. secundo deus non 
+      <lb ed="#P" n="73"/>potest aliquid scire vel prescire ex tempone nec posset dici 
+      <lb ed="#P" n="74"/>aliquid incipere scire vel prescire vide ibi Ad illud 
+      <lb ed="#P" n="75"/>dubium difficillimum Respondet okam et bene in hoc 
+      <lb ed="#P" n="76"/>di. 3 primi sui indubitanter est intelligendum quod  
+      <lb ed="#P" n="77"/>deus certitudinaliter et euidenter scit omnia futura 
+      <lb ed="#P" n="78"/>contingentia. Sed hec declarare et modum quo  
+      <lb ed="#P" n="79"/>scit exprimere impossibile est omni intellectui pro isto 
+      <lb ed="#P" n="80"/>statu hoc tamen prouenit ex natura diuine scientie in  
+      <lb ed="#P" n="81"/>finite quam latere non posset quid eueniat vel quid non 
+      <lb ed="#P" n="82"/>in hoc sibi credo quod immensitas diuine scientie sit 
+      <lb ed="#P" n="83"/>in causa quae est quasi scientialis oculus a quo nihil 
+      <lb ed="#P" n="84"/>absconditur nec abscondi potest presens preteritum 
+      <lb ed="#P" n="85"/>et futurum quim quando et qualiter euenerit et euenire 
+      <lb ed="#P" n="86"/>debeant pateat ibi clare et hoc requirit scientie in  
+      <lb ed="#P" n="87"/>mensitate. vnde psal. Et sapientie eius non est nune 
+      <lb ed="#P" n="88"/>rus hec igitur sit conclusio prima quod dei scientia est im 
+      <lb ed="#P" n="89"/>mensa etimensum iudicium ex hac sequitur quod nullum 
+      <lb ed="#P" n="90"/>vere iudicabile latet eum nec etiam possibile est vt 
+      <lb ed="#P" n="91"/>aliquid sit vere iudicabile et non ab eo infallibiliter 
+      <lb ed="#P" n="92"/>et euidentissime iudicatum sicut enim deus propter 
+      im<lb ed="#P" n="93" break="no"/>mensitatem sue essentie nusquam deest nec deerit vsque  
+      <lb ed="#P" n="94"/>vbi aliquid esse potest et propter immensam eius potentiam 
+      <lb ed="#P" n="95"/>omne productibile vel effectibile producere vel effice 
+      <lb ed="#P" n="96"/>re potest ita propter eius immensam scentiam nullum verum 
+      <lb ed="#P" n="97"/>vel vere expressibile latet eum sed est ab eo patenter et 
+      <lb ed="#P" n="98"/>euidentissime iudicatum Sed vt patet ex dictis in  
+      <lb ed="#P" n="99"/>primo dubio omnis contradictionis altera pars est vera 
+      <lb ed="#P" n="100"/>igitur per illam expressibile siue sit ponens preteritum 
+      <lb ed="#P" n="101"/>vel futurum euidenter et certitudinaliter deus nouit. 
+      <lb ed="#P" n="102"/>Secunda conclusio bene stant simul quod a. fore 
+      depen<lb ed="#P" n="103" break="no"/>deat ex contingenti libertate voluntatis siue create 
+      <lb ed="#P" n="104"/>siue increate et tamen quod a deo euidenter sciatur a. 
+      <lb ed="#P" n="105"/>fore sicut enim immensitas secundum essentialem presen 
+      <lb ed="#P" n="106"/>tialitatem non determinat sibi ex natura sui vt sit in  
+      <lb ed="#P" n="107"/>hoc spacio cum isto corpore vel cum illo quorum 
+      quod<lb ed="#P" n="108" break="no"/>libet fine reliquo potest illud spaciu occupare hoc 
+      <lb ed="#P" n="109"/>tamen sibi determinat sua immensitas vt si aliquis 
+      <lb ed="#P" n="110"/>sit ibi vel alicubi deus intime sit illi ponens per essentiam 
+      <lb ed="#P" n="111"/>ita non est de natura sui determinata eius scientia vt 
+      <lb ed="#P" n="112"/>sit scientia quod a. erit nec vt sit scientia quod a non erit. 
+      <lb ed="#P" n="113"/>Set ad hoc determinatur ex natura sui quod si a. erit 
+      <lb ed="#P" n="114"/>ipsa sit cognitio scientialis quod a. erit et quod si a. non  
+      <lb ed="#P" n="115"/>erit ipsa sit scientia euidens quod a. non erit et ideo 
+      si<lb ed="#P" n="116" break="no"/>cut impossibile est quin vel a. erit vel a. non erit 
+      <lb ed="#P" n="117"/>ita impossibile est quim deus vel euidenter sciat 
+      <lb ed="#P" n="118"/>a. fore vel euidenter sciat. A non fore Et ideo etiam 
+      <lb ed="#P" n="119"/>vlterius sicut cum contingente libertate voluntatis 
+      <lb ed="#P" n="120"/>tam create quam increate stat quod determinate a. erit 
+      <lb ed="#P" n="121"/>ita cum eadem libertate stat quod deus euidenter sciat 
+      <lb ed="#P" n="122"/>a fore vne breuiter ex natura diuina a non est quod ipsa 
+      <lb ed="#P" n="123"/>sit scientia quod aliquid preter deum sit vel fuerit vel erit 
+      <lb ed="#P" n="124"/>quia ipse potuisset ineternum nunquam sciuisse aliquid pre 
+      <lb ed="#P" n="125"/>ter se fuisse vel fore ex natura tamen sui est quod si ali 
+      <lb ed="#P" n="126"/>quid fuerit sit vel erit vndecunque contingit vel 
+      ne<lb ed="#P" n="127" break="no"/>cessario eo ipso hoc sibi per semetipsam substantia 
+      <lb ed="#P" n="128"/>liter innotescit etiam si ipsa nihil penitus faceret 
+      <lb ed="#P" n="129"/>ad hoc ipsum sed solum attenderet vel aduerteret quod  
+      <lb ed="#P" n="130"/>abaliis ageretur Tertia conclusio sequitur ex di 
+      <lb ed="#P" n="131"/>ctis quod cum hoc quod A fore pendeat ex contingenti li 
+      <lb ed="#P" n="132"/>bertate voluntatis create vel increate non stat quod  
+      <!--281.xml-->
+      <pb ed="#J" n="119-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>deus necessario sciat ipsum fore quia bene sequitur 
+      <lb ed="#P" n="2"/>deus scit necessario a. fore igitur a. necessario erit 
+      <lb ed="#P" n="3"/>eo quod oppositum consequentis et etc. 4. conclusio quod deus 
+      <lb ed="#P" n="4"/>solum contingenter scit futura contingentia ad vtrum 
+      <lb ed="#P" n="5"/>libet. Ex hac sequitur quinta conclusio quod nihil ne 
+      <lb ed="#P" n="6"/>cessario scitur a deo esse futurum nihil enim est 
+      futu<lb ed="#P" n="7" break="no"/>rum cuius futuritio non dependet secundum veritatem 
+      <lb ed="#P" n="8"/>fidei licet pohsophus aliter sentiat a contingenti liber 
+      <lb ed="#P" n="9"/>tate diuine voluntatis igitur antecedens probatur 
+      consequen<lb ed="#P" n="10" break="no"/>tia patet quia nullum agens naturale potest aliquid pro 
+      <lb ed="#P" n="11"/>ducere sine contingenti causatione principum liber 
+      <lb ed="#P" n="12"/>infiniti quia sine eius concausatione libera non plus pro 
+      <lb ed="#P" n="13"/>duceret vnum denumero infinitorum producibilium ab  
+      <lb ed="#P" n="14"/>ipso in hoc passo quibuscunque demonstratis quam aliud  
+      <lb ed="#P" n="15"/>ymo nec agens liberum creatum quia nullum liberum acti 
+      <lb ed="#P" n="16"/>uum creatum potest distincte cognoscere illud quod 
+      <lb ed="#P" n="17"/>nunquam fuit propria et simplici eius cognitione qua 
+      <lb ed="#P" n="18"/>lis requiretur nisi deus libere talem imprimat illi 
+      <lb ed="#P" n="19"/>cause omne igitur futurum libere ab aliquo 
+      produ<lb ed="#P" n="20" break="no"/>cetur et per consequens eius productio dependet a 
+      prin<lb ed="#P" n="21" break="no"/>cipio libero igitur non necessario est futurum 
+      di<lb ed="#P" n="22" break="no"/>stingendo semper futurum contra presens. Sexta 
+      con<lb ed="#P" n="23" break="no"/>clusio sequitur quod omnem illud quod deus scit esse 
+      fu<lb ed="#P" n="24" break="no"/>turum potest nunquam sciuisse esse futurum distingendo sper 
+      <lb ed="#P" n="25"/>futurum contra presens et sumpta ipsa in sensu diuiso 
+      <lb ed="#P" n="26"/>quia omne tale futurum contingenter scitur a deo fore et 
+      <lb ed="#P" n="27"/>semper contingenter fuit a deo prescitum fore sed omne 
+      <lb ed="#P" n="28"/>tale potest non presciri a deo fore et nunquam fuisse 
+      pre<lb ed="#P" n="29" break="no"/>scitum fore igitur et etc. de hoc etiam vide magister di. 
+      2<lb ed="#P" n="30" break="no"/>primi cap. 2 et di. q. ca. 4. vbi etiam dicit quod deus non 
+      <lb ed="#P" n="31"/>posset aliquid incipere scire et est. et etiam concordant 
+      <lb ed="#P" n="32"/>doctores antiqui et addit etiam ibi quod predestinatum 
+      <lb ed="#P" n="33"/>potest deus non predestinasse quod tamen in actionibus 
+      <lb ed="#P" n="34"/>vel operationibus dei nullatenus supple concedunt 
+      <lb ed="#P" n="35"/>doctores ex quo enim aliquid factum est vel dictum non con 
+      <lb ed="#P" n="36"/>cedunt quod possit non esse vel non fuisse et etc. vide in textu 
+      <lb ed="#P" n="37"/>Septima conclusio est ve contingenti ad vtrumlibet 
+      <lb ed="#P" n="38"/>cuius futuritio dependet a libertate voluntatis 
+      <lb ed="#P" n="39"/>create vt de is. quod voluntas creata potest facere quod deus 
+      <lb ed="#P" n="40"/>ab eterno sciuerit a. esse sic futurum et etiam in libe 
+      <lb ed="#P" n="41"/>raptante voluntatis create est quod deus nunquam sciuerit 
+      <lb ed="#P" n="42"/>aiter esse sic futurum quia in potestate voluntatis create 
+      <lb ed="#P" n="43"/>est facere quod a. erit et etiam facere quod a. nunquam erit 
+      <lb ed="#P" n="44"/>igitur cctava conclusio sequans ex premissis quod illud 
+      <lb ed="#P" n="45"/>quod nunquam presciuit deus fore possum facere eun 
+      <lb ed="#P" n="46"/>semper presciuisse et quod illud quod semper presciuit 
+      <lb ed="#P" n="47"/>possum facere eum nunquam presciuisse patet ex dictis 
+      <lb ed="#P" n="48"/>Decima conclusio quod multa quae sper fuerunt vera possum 
+      <lb ed="#P" n="49"/>facere quod nunquam fuerunt vera et quod multa que nunquam 
+      <lb ed="#P" n="50"/>fuerunt vera possum facere quod semper fuerunt vera. 
+      <lb ed="#P" n="51"/>Sed dices solus deus fuit eternaliter ens igitur 
+      <lb ed="#P" n="52"/>solus deus fuit eternaliter verum igitur cum a. fore et 
+      <lb ed="#P" n="53"/>sic de similibus non scit deus a. fore non fuit eter 
+      <lb ed="#P" n="54"/>naliter verum probatur si a fore fuit eternaliter verum 
+      <lb ed="#P" n="55"/>igitur a. non fore fuit eternaliter falsum igitur aliquid  
+      <lb ed="#P" n="56"/>ruit eternaliter a deo distinctum quia deus nec est nec 
+      <lb ed="#P" n="57"/>esse potest falsum aut falsitas Probutur si ab eterno 
+      <lb ed="#P" n="58"/>fuerunt multa vera ymo infinita vera sicut et mul 
+      <lb ed="#P" n="59"/>ta eternaliter scita a deo igitur ab eterno infinita 
+      <lb ed="#P" n="60"/>fuerunt entia hoc autem est contra fidem igitur. Ad  
+      <lb ed="#P" n="61"/>primum negatur consequentia prima quia licet solus 
+      de<lb ed="#P" n="62" break="no"/>fuerit ab eterno cum multa alia a deo fuerunt 
+      eter<lb ed="#P" n="63" break="no"/>naliter cognitione que deus sed omnia eternaliter a 
+      <lb ed="#P" n="64"/>deo scita eternaliter fuerunt vera veritate in creata 
+      <lb ed="#P" n="65"/>que deus est igitur et etc. et tamen nulla entitas pro 
+      <lb ed="#P" n="66"/>pter hoc fuit eternaliter nisi solus deus et huic sen¬ 
+      <!--281.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>tentie quod mihi multum placet inuenio concordare au 
+      <lb ed="#P" n="68"/>gustinum li id est suo catulo 16 vbi ponit quod triplex est veri 
+      <lb ed="#P" n="69"/>tas scilicet veritas rei create et veritas signi creati et 
+      <lb ed="#P" n="70"/>veritas increata et duo prima menbria capit ab am 
+      <lb ed="#P" n="71"/>brosio tertium ab augustinus et tenet quod omnem enunciabile 
+      ve<lb ed="#P" n="72" break="no"/>rum siue sibi correspondeat veritas rei scilicet entitas 
+      <lb ed="#P" n="73"/>vera siue entitas dictionis id est signi creati cui nulla 
+      <lb ed="#P" n="74"/>correspondet de facto in entibus veritas rei seu 
+      <lb ed="#P" n="75"/>entitas sicut antecehrisum fore est verum veritate increata 
+      <lb ed="#P" n="76"/>sicut probat per augustinus in libro soliloqorum vbi ostendit 
+      <lb ed="#P" n="77"/>veritatem esse eternam per hoc quod mundum non fore non  
+      <lb ed="#P" n="78"/>fuit verum fine veritate igitur. Et sicut iste dicit quod  
+      <lb ed="#P" n="79"/>mundum fore ab eterno fuit verum veritate prima ita 
+      <lb ed="#P" n="80"/>dico ego de omni alio enunciabili a deo eternaliter scien 
+      <lb ed="#P" n="81"/>tialiter cognito. Aliter dicitur concedendo primam 
+      <lb ed="#P" n="82"/>consequentiam et si per a fore intelligitur aliud quam 
+      <lb ed="#P" n="83"/>deus conceditur quod a. fore non fuit eternaliter verum et 
+      <lb ed="#P" n="84"/>cum in rei veritate deus eternaliter est et fuit notitia 
+      <lb ed="#P" n="85"/>propositionalis vera vere enuncians quod a. erit et cum 
+      <lb ed="#P" n="86"/>ista solutione plus concordant dicta ambrosii augustinus et 
+      <lb ed="#P" n="87"/>auctotfr. quam cum priori. Ad secundum negatur conse 
+      <lb ed="#P" n="88"/>quentia sed sufficit quod si ab eterno fuisset formata 
+      <lb ed="#P" n="89"/>propositio enuncians a. non fore ipsa fuisset falsa si 
+      <lb ed="#P" n="90"/>a. fore fuit verum. Correlarium ista consequentia non valet 
+      al<lb ed="#P" n="91" break="no"/>terum contradictorie significabilium complexe est 
+      <lb ed="#P" n="92"/>verum igitur reliquum falsum quia antecedens est verum et con 
+      <lb ed="#P" n="93"/>sequens contingens vt patet ex dictis. Ad tertium ne 
+      <lb ed="#P" n="94"/>gatur consequentia quia talia non fuerunt vera seipsis 
+      <lb ed="#P" n="95"/>veritate intrinseca sed solum veritate extrinseca 
+      <lb ed="#P" n="96"/>que deus est tamen iuxta secundam solutionem primi 
+      <lb ed="#P" n="97"/>argumenti negatur antecedens illius conditionalis. Ad 
+      <lb ed="#P" n="98"/>primum argumentum secundi dubii principalis concedi 
+      <lb ed="#P" n="99"/>tur illa in sensu composito impossibile est deum numquam 
+      <lb ed="#P" n="100"/>sciuisse quod semper sciuit et negatur consequentia vt 
+      <lb ed="#P" n="101"/>patet ex dictis Ad secundem negatur minor que dicit illa 
+      <lb ed="#P" n="102"/>que sunt a deo prescita non possunt non euenire et cum 
+      <lb ed="#P" n="103"/>arguitur quia si non euenirent et etc. dico quod ibi assumi 
+      <lb ed="#P" n="104"/>tur propositio de inesse impossibilis. Ad tertium con 
+      <lb ed="#P" n="105"/>cesso autem in sensu composito ad quem vadunt 
+      auctori<lb ed="#P" n="106" break="no"/>tates subiuncte negatur consequentia cuius consequens est 
+      <lb ed="#P" n="107"/>in sensu diuiso. Et ratio patet ex dictis. Ad princi 
+      <lb ed="#P" n="108"/>palia etiam patet ex dictis.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

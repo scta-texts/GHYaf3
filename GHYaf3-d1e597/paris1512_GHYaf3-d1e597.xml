@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#Wodeham">Adam Wodeham</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2021-03-03">March 3, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#Pa" n="10-r"/>
+            <cb ed="#Pa" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="GHYaf3-d1e597"><!-- GHYaf3-l1d1q2 -->
+            <head xml:id="GHYaf3-d1e597-Hd1e108">Quaestio 2</head>
+            <head xml:id="GHYaf3-d1e597-Hd1e111" type="question-title">
+      Utrum fruitio beatifica differat ab ipsa anima.
+    </head>
+            <p xml:id="GHYaf3-d1e597-d1e114">
+               <lb ed="#P" n="73"/>Trum fruitio beatifica 
+      <lb ed="#P" n="74"/>Usit qualitas distincta ab ipsa anima
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e121">
+      quod non 
+      <lb ed="#P" n="75"/>quia ad hoc quod aliquis fruatur deo sui 
+      <lb ed="#P" n="76"/>ficit quod obiectum beatificum scilicet deus sit ponens anime igitur 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e128">
+               <lb ed="#P" n="77"/>⁋ Ad oppositum fruitio est actus elicitus igitur. 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e134">
+               <lb ed="#P" n="78"/>⁋ Conclusio ad questionem quod nec in via nec in patrit 
+      <lb ed="#P" n="79"/>est anima fruitio dei probatur fruitio libere causatur 
+      <lb ed="#P" n="80"/>ab anima
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e143">
+      ⁋ Item cognitio est res distincta ab anima 
+      <lb ed="#P" n="81"/>igitur et amor antecedens patet per articulum. Se qui est quod 
+      <lb ed="#P" n="82"/>scnitia intelligentie non differat a substantia intelligentie et 
+      <lb ed="#P" n="83"/>ror
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e152">
+      ⁋ Item. 40. arm quod in substantiis separatis nulla est 
+      <lb ed="#P" n="84"/>possibilis transmutatio error.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e157">
+      ⁋ Item 3 auurm quod 
+      <lb ed="#P" n="85"/>semper habens meliora naturalia est magis beatus 
+      <lb ed="#P" n="86"/>error sed hec videntur fi anima sit ipsa dilectio 
+      <lb ed="#P" n="87"/>vel cognitio.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e166">
+      ⁋ Preterea tunc angelus et anima 
+      <lb ed="#P" n="88"/>beata beatificarentur per essentias suas quod 
+      dan<lb ed="#P" n="89" break="no"/>natur in Cle. de hereticis ad neum.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e173">
+      ⁋ Item tunc ni 
+      <lb ed="#P" n="90"/>hil nouum haberet anima beata nec aliquid plus in se quam 
+      <lb ed="#P" n="91"/>hic in via eo quod essentia diuina est esse hec anime ponens. 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e181">
+               <lb ed="#P" n="92"/>⁋ Item tunc non essent in anima aliqua in 
+      qui<lb ed="#P" n="93" break="no"/>bus saluaretur ymago trinitatis quia nulla tunc 
+      <lb ed="#P" n="94"/>poneretur distinctio inter partes ymaginis.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e190">
+      ⁋ Item 
+      <lb ed="#P" n="95"/>dilectio potest intendi et remitti et anima non.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e195">
+      ⁋ Item 
+      <lb ed="#P" n="96"/>tunc anima eque esset odium dei sicut dilectio.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e200">
+      ⁋ Item 
+      <lb ed="#P" n="97"/>amor habituatlur puta charitas distingitur ab anima 
+      <lb ed="#P" n="98"/>vt patet extra de summa trinitate et fi. Ca. capitulo 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e207">
+               <lb ed="#P" n="99"/>⁋ Credimus igitur etiam amor actualis.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e212">
+      ⁋ Item tunc 
+      <lb ed="#P" n="100"/>anima sine omni dono posset implere preceptum 
+      <lb ed="#P" n="101"/>de dilectione dei et proximi et vitare omnia peccata quia 
+      <lb ed="#P" n="102"/>ipsa esset substantialiter illud velle quod exigere 
+      <lb ed="#P" n="103"/>tur quo posito vellet facienda et nollet 
+      omitten<lb ed="#P" n="104" break="no"/>da.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e226">
+      ⁋ Item quomodo posset tunc demon vel ala at 
+      <lb ed="#P" n="105"/>fligi penis et tormentis.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e231">
+      ⁋ Item tunc animam simul 
+      <lb ed="#P" n="106"/>esset odium dei et dilectio quin sicut vnum odit et alium 
+      di<lb ed="#P" n="107" break="no"/>ligit similiter scintia et error quia errat citra vnam conclusio 
+      <lb ed="#P" n="108"/>nem et scit aliam similiter heresis et fides Item philosophus tertio 
+      <lb ed="#P" n="109"/>de anima videtur sentire quod anima intelligit se et alia 
+      <lb ed="#P" n="110"/>per intellectionem additam.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e244">
+      ⁋ Item articuli 
+      pari<lb ed="#P" n="111" break="no"/>sienses et experientia dicunt quod homo potest libstantdaidem nol 
+      <lb ed="#P" n="112"/>le et velle vel non velle omnibus aliis vniformiter 
+      <lb ed="#P" n="113"/>concurrentibus hoc non si anima esset velle per denomina 
+      <lb ed="#P" n="114"/>tionem extrinsecam ad quam oporteret recurrem 
+      tenen<lb ed="#P" n="115" break="no"/>do oppositam viam.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e257">
+      ⁋ Ad ista proteruus diceret quod 
+      <lb ed="#P" n="116"/>ista argumenta eque concluderent de diuina 
+      noti<lb ed="#P" n="117" break="no"/>cia et volitione nam deus mane non sciuit me hic 
+      <lb ed="#P" n="118"/>sedere et tamen modo scit me esse hic sedere.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e266">
+      ⁋ Etiam 
+      <lb ed="#P" n="119"/>omnibus aliis concurrentibus vniformiter se ha 
+      <lb ed="#P" n="120"/>bentibus potest aliquem libere acceptare et non ad 
+      <lb ed="#P" n="121"/>ceptare ad vitam eternam Item quosdam diligit 
+      <lb ed="#P" n="122"/>et quosdam odit et idem est odium sibi et dilectio 
+      ac<lb ed="#P" n="123" break="no"/>ceptatio et re probatio et si deo non repugnat errare si 
+      <lb ed="#P" n="124"/>cut sibi non repugnat nescire vel non scire quedam qua 
+      <lb ed="#P" n="125"/>sciuntur
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e284">
+      ⁋ Idem sequeretur de scintia et errore. Et si atem 
+      <lb ed="#P" n="126"/>ego me experior modo scire aliquid quod non prius 
+      <lb ed="#P" n="127"/>igitur aliquod nouum est in anima mea. Responderet 
+      pro<lb ed="#P" n="128" break="no"/>teruus quod similiter modo deus experitur sescire 
+      <lb ed="#P" n="129"/>modo se sedere quod prius nesciuit ita quod fides su 
+      <lb ed="#P" n="130"/>stinet quod idem penitus respectu eiusdem esset velle et nol 
+      <lb ed="#P" n="131"/>le scire et nescire propter diuersa consignificata et 
+      <!--48.xml-->
+      <pb ed="#J" n="10-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>quare non eque in proposito diceret etiam quod 
+      ar<lb ed="#P" n="2" break="no"/>ticuli non cogunt quia bene concedicitur quod anima non est 
+      ab<lb ed="#P" n="3" break="no"/>solute non scilnintia sed relatiue scilicet dum actualiter vel habi 
+      <lb ed="#P" n="4"/>tualiter cognoscit et ideo anima vel intelligentia non 
+      <lb ed="#P" n="5"/>est nec essario scilintia sicut semper est substantia Ad 
+      <lb ed="#P" n="6"/>secundum articulum. 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e320">
+               <lb ed="#P" n="7"/>⁋ Ad secundum articulum diceret quod intellectus esset mo 
+      <lb ed="#P" n="8"/>bilis localiter et trasmutabilis ad aliqua acciden 
+      <lb ed="#P" n="9"/>tia linherentia puta lumen glorie gratiam et huiusmodi sed 
+      <lb ed="#P" n="10"/>ad actum cogendi vel amandi non. Ad tertium 
+      di<lb ed="#P" n="11" break="no"/>ceret quod anima non est beatitudo absolute ad se et ita 
+      po<lb ed="#P" n="12" break="no"/>neret perfectius lumen in vno quam in alio vel per alitet 
+      <lb ed="#P" n="13"/>requisita in quibus esset deformitas euaderet quod 
+      <lb ed="#P" n="14"/>ex articulo mecd sequetur contra eum.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e340">
+      ⁋ Ad illuo 
+      <lb ed="#P" n="15"/>de vmagine diceret quod anima ipsa prius est cognitio quam 
+      <lb ed="#P" n="16"/>volitio et non potest esse volitio nisi sit cognitio et per 
+      <lb ed="#P" n="17"/>istum modum poneret partes ymaginis.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e349">
+      ⁋ Ad alia sae 
+      <lb ed="#P" n="18"/>tis patet quomodo diceret.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e354">
+      ⁋ Contra 
+      conclusio<lb ed="#P" n="19" break="no"/>nem in principio positam Arguitur tunc anima posset 
+      <lb ed="#P" n="20"/>diligere deu et lapidemn aut igitur eodem actu et tunc 
+      <lb ed="#P" n="21"/>tantum diligent deum sicut lapidem vel alio modo et 
+      <lb ed="#P" n="22"/>alio et tunc posset intendi dilectio lapidis quod tantum 
+      <lb ed="#P" n="23"/>diligeret lapidem sicut deum.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e367">
+      ⁋ Secundo sic 
+      tun<lb ed="#P" n="24" break="no"/>tatl dilectio libere causaretur igitur oportuit quod prae 
+      <lb ed="#P" n="25"/>cognosceretur et cum illa precognitio libere causatur 
+      <lb ed="#P" n="26"/>oportet illam precognosci et sic in infinitum.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e376">
+      ⁋ Tertio 
+      <lb ed="#P" n="27"/>praesententur voluntati duo eque diligibilia quaro quo 
+      <lb ed="#P" n="28"/>preeliget vnum alteri non ex hoc quod vnum obiectum cau 
+      <lb ed="#P" n="29"/>sat cognitionem sui et non aliud quia tunc non essent pa 
+      <lb ed="#P" n="30"/>ria respectu voluntatis quodem contra positum 
+      op<lb ed="#P" n="31" break="no"/>igitur quod voluntas imparet intellectui quod plus cogno  
+      <lb ed="#P" n="32"/>scat vnum quam aliud et tunc sequitur quod illam cognitionem 
+      <lb ed="#P" n="33"/>precognoscat et velit et idem de illa precognitioni 
+      <lb ed="#P" n="34"/>et sic in infinitum
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e397">
+      ⁋ Quarto ad hoc quod intellectus educatur 
+      <lb ed="#P" n="35"/>de potentia essentiali ad potentiam accidentalem opor 
+      <lb ed="#P" n="36"/>tet donem aliquid aliud ab actibus et habitibus puta 
+      <lb ed="#P" n="37"/>spem ergo si amor distinguitur ab anima oportet pari re 
+      <lb ed="#P" n="38"/>tione ponere in voluntate aliquam formam aliam ab ha 
+      <lb ed="#P" n="39"/>bitibus et actibus quod est falsum.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e410">
+      ⁋ Quinto si sic diligit 
+      <lb ed="#P" n="40"/>libere tunc quodlibet diligibile potest intensius et 
+      ma<lb ed="#P" n="41" break="no"/>gis diligere quam diligit et ita non posset implere pri 
+      <lb ed="#P" n="42"/>mumn preceptum.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e419">
+      ⁋ Sexto omnia argumenta eque 
+      pr<lb ed="#P" n="43" break="no"/>barent distinctionem inter amonem dim et substantiam 
+      <lb ed="#P" n="44"/>dei.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e426">
+      ⁋ Septimo sic dato quod sicut dicit commentator 
+      <lb ed="#P" n="45"/>quod intellectus sit forma separata in essendo licet communium 
+      <lb ed="#P" n="46"/>gatur nobis in operando tunc non patitur a re 
+      ma<lb ed="#P" n="47" break="no"/>teriali quia est immaterialis.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e435">
+      ⁋ Ideo aristo. dicit 
+      <lb ed="#P" n="48"/>tertio de anima quod intelligen non sit pati quia immateriale 
+      <lb ed="#P" n="49"/>non pater materiale et primo de generatione dicitur quod 
+      <lb ed="#P" n="50"/>nulla nata sunt agere et pati adinuicem nisi que con 
+      <lb ed="#P" n="51"/>muincant in materia diceretur quod hoc intelligitur oe pas 
+      <lb ed="#P" n="52"/>sione corporali non spirituali maxime que non est abiectio 
+      <lb ed="#P" n="53"/>sed salus et protectio.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e451">
+      ⁋ Contra octauo phisicor 
+      <lb ed="#P" n="54"/>vieltr probatur quod primus motor non est passibilis quod 
+      <lb ed="#P" n="55"/>non est forma in materia igitur.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e459">
+      ⁋ Item tertio de anima 
+      <lb ed="#P" n="56"/>textu commenti. 14 soluit philosophus quaestionem oe passione 
+      intel<lb ed="#P" n="57" break="no"/>lectus quod non patitur ab intelligibili sicut alia 
+      patiun<lb ed="#P" n="58" break="no"/>tur sed habet secundum commentatonem bidem de 
+      intensio<lb ed="#P" n="59" break="no"/>ne passionis receptionem tantum sine 
+      transmutatio<lb ed="#P" n="60" break="no"/>ne et hoc non est vt videtur nisi pati vel recipere 
+      <lb ed="#P" n="61"/>obiectiue.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e475">
+      ⁋ Item secundum philosophum vna intelligentia non 
+      <lb ed="#P" n="62"/>patitur ab alia subiectiue cum intelligere aliam sed 
+      pe<lb ed="#P" n="63" break="no"/>essentiam intelligit eam id est non per formam 
+      inheren<lb ed="#P" n="64" break="no"/>tem additam substantie sue igitur similiter de intellectu 
+      <lb ed="#P" n="65"/>possibili.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e486">
+      ⁋ Item quomodo indiuisibile patitur a 
+      <lb ed="#P" n="66"/>diuisibili cum omnis actio sit per contactum per com 
+      <!--48.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>mentatortem secundo de anima.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e497">
+      ⁋ Item idem est formam non 
+      extenm<lb ed="#P" n="68" break="no"/>di in materia et non esse in materia per hoc enim pro 
+      <lb ed="#P" n="69"/>bat pohsophus primum motonem non esse in materia igitur 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e504">
+               <lb ed="#P" n="70"/>⁋ Item tunc intellectus pus forte intelligibile minus 
+      in<lb ed="#P" n="71" break="no"/>telligeret debile sicut est de sensu quia spiritalitas 
+      <lb ed="#P" n="72"/>non tollit quin intentio formaliter impediat debile. 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e513">
+               <lb ed="#P" n="73"/>⁋ Item pohophus ponit exemplum intellectus de rasa tabula quae 
+      <lb ed="#P" n="74"/>pigitur sed in pictura non educitur color oe poten 
+      <lb ed="#P" n="75"/>tia tabule nec recipitur subiectiue in tabula sed 
+      cor<lb ed="#P" n="76" break="no"/>pus coloratum applicatur tabule igitur nec cogni 
+      <lb ed="#P" n="77"/>tio recipitur subiectiue in intellectu
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e527">
+      ⁋ Item tertio de 
+      <lb ed="#P" n="78"/>anima commento septimo dicitur quod priuatio 
+      trans<lb ed="#P" n="79" break="no"/>mutationis in intellectu est pura priuatio sic quod sipostioli 
+      <lb ed="#P" n="80"/>est intransmutabilis non solum substantialiter sed est su br 
+      <lb ed="#P" n="81"/>iectiue quod probat per hoc quod dictum est quod pus 
+      <lb ed="#P" n="82"/>forte intelligibile.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e540">
+      ⁋ Item causa secundum eum est quia sensus 
+      <lb ed="#P" n="83"/>transmutatur igitur. Item tunc intentio verlis 
+      ho<lb ed="#P" n="84" break="no"/>minis recepta in intellectu meo et in intellectu tuo 
+      <lb ed="#P" n="85"/>essent due singulares res in essendo igitur ab eis 
+      <lb ed="#P" n="86"/>posset abstrahi aliquis conceptus communis et sic esset 
+      <lb ed="#P" n="87"/>processus in infinitum in praedicatis essentialibus et inquo¬d 
+      <lb ed="#P" n="88"/>vel stabitur ad aliquam supremam qualitatem recepti 
+      <lb ed="#P" n="89"/>bilem in intellectu que respectu sui ipsius erit 
+      inferi<lb ed="#P" n="90" break="no"/>et superius et genus et indiuiduum.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e560">
+      ⁋ Item auctori 
+      <lb ed="#P" n="91"/>tates que ponunt mouere fantasmata intellectum 
+      <lb ed="#P" n="92"/>et ipsum esse patientem et receptiuum glosant alii de mo 
+      <lb ed="#P" n="93"/>uem obiectiue et non subiectiue.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e569">
+      ⁋ Ad primum concedo 
+      <lb ed="#P" n="94"/>quod potest tantum diligen lapidem sicut deum sed non teantum appreciabitur 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e574">
+               <lb ed="#P" n="95"/>⁋ Item stante precise eadem cognitione non 
+      pos<lb ed="#P" n="96" break="no"/>sum intendem actum diligendi sed proportionaliter 
+      <lb ed="#P" n="97"/>sicut augetur cognitio qua res apparet magis di 
+      <lb ed="#P" n="98"/>ligibilis sic augetur dilectio et aliter non.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e585">
+      ⁋ Est enim 
+      <lb ed="#P" n="99"/>cognitio vel simplex vel complexa vel vtraque 
+      par<lb ed="#P" n="100" break="no"/>tialis causa dilectionis.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e593">
+      ⁋ Et licet sit in 
+      potesta<lb ed="#P" n="101" break="no"/>te voluntatis posita cognitione elicem actum diligendi 
+      <lb ed="#P" n="102"/>et non elicere tamen non est in ptante sua qualem auuta 
+      <lb ed="#P" n="103"/>quantum eliciat nisi secundum exigentiam cognitionis. 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e602">
+               <lb ed="#P" n="104"/>⁋ Ita quod est dare maximum in quem potest libere 
+      medi<lb ed="#P" n="105" break="no"/>ante tali cognitione
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e609">
+      ⁋ Ista tamen cognitione stante ir 
+      <lb ed="#P" n="106"/>et ceteris praeter voluntatem vniformiter se habentibus 
+      <lb ed="#P" n="107"/>ipsa potest minorem elicere et maionem remittem et mino 
+      <lb ed="#P" n="108"/>rem intendem et hoc mediante iudicio practico quo  
+      <lb ed="#P" n="109"/>vides illud esse plus vel minus diligendum ex tali cau 
+      <lb ed="#P" n="110"/>sa.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e622">
+      ⁋ Contra frequenter accidit quod duo homines 
+      re<lb ed="#P" n="111" break="no"/>spectu alicuius amabilis sunt parres in cognitio 
+      <lb ed="#P" n="112"/>ne et tamen sunt dispares in amore intantum quod non est inli in 
+      <lb ed="#P" n="113"/>bera ptente vnius tantum diligere illud sicut facit 
+      ali<lb ed="#P" n="114" break="no"/>us.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e633">
+      ⁋ Item aliquis vellet frequenter minus 
+      dili<lb ed="#P" n="115" break="no"/>gere aliquid amabile quam diligit vel plus et tanim 
+      <lb ed="#P" n="116"/>non potest libere illud quod velset bene vnde 
+      apo<lb ed="#P" n="117" break="no"/>stolus velle mihi adiacet.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e642">
+      ⁋ Item amor intrat vbi i 
+      <lb ed="#P" n="118"/>cognitio foris stat igitur hoc potest diligere vltra 
+      <lb ed="#P" n="119"/>exigentiam cognitionis.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e650">
+      ⁋ Ad primum dico quod 
+      assum<lb ed="#P" n="120" break="no"/>ptum est falsum si cetera sint paria puta complexio et 
+      <lb ed="#P" n="121"/>habituatio et omnia taliatmam ratione passionis sensual 
+      <lb ed="#P" n="122"/>dominantis in vno vel ratione complexionis est 
+      <lb ed="#P" n="123"/>conueniens et magis delectabsle vni quam alteri et 
+      <lb ed="#P" n="124"/>ideo potest plus diligere illud quam alius qui est per in co 
+      <lb ed="#P" n="125"/>gnitione licet raro diu stat illa paritas quia amor 
+      <lb ed="#P" n="126"/>facit aduenire et offerre rationes diligenter et for 
+      <lb ed="#P" n="127"/>tius figit cognitionem in contemplationem dilecti 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e670">
+               <lb ed="#P" n="128"/>⁋ Ad secundum dico quod procedit de amore sensuali ideft 
+      <lb ed="#P" n="129"/>naturaliter causato ad transmutationem 
+      corpo<lb ed="#P" n="130" break="no"/>ralem alicuius ogani vel partis corporis.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e679">
+      ⁋ Et 
+      <lb ed="#P" n="131"/>hoc loquendo oe posse immediato quia mediante yma 
+      <lb ed="#P" n="132"/>ginatione forti et consideratione competenti potest 
+      <!--49.xml-->
+      <pb ed="#J" n="11-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>homo tales actus augere et remittere tamen de 
+      <lb ed="#P" n="2"/>amore intemsiuo libere causabili ab anima non est verum 
+      <lb ed="#P" n="3"/>quin homo tantum possit diligere a quantum sufficit 
+      ta<lb ed="#P" n="4" break="no"/>lis cognitio causare in ipso benem tamen potest velle dili 
+      <lb ed="#P" n="5"/>gere plus mediante perfectiori cognitione quam 
+      pos<lb ed="#P" n="6" break="no"/>sit diligere quia nec potest libere istam perfectiorem 
+      <lb ed="#P" n="7"/>cognitionem habere.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e708">
+      ⁋ Ad tertium dico quod intrat per 
+      <lb ed="#P" n="8"/>modum meriti quia magis acceptatur et plura 
+      bo<lb ed="#P" n="9" break="no"/>na procurat.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e715">
+      ⁋ Ad secundum principale dico quod ad  
+      <lb ed="#P" n="10"/>eliciendum aliquem actum libere circa aliquod 
+      obie<lb ed="#P" n="11" break="no"/>ctum sufficit apprehensio incomplexa illius obiecti 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e722">
+               <lb ed="#P" n="12"/>⁋ Et si presupponatur dictamen practicum tunc opet 
+      <lb ed="#P" n="13"/>saltem in vieli quod precognoscatur actus talis cuius 
+      di<lb ed="#P" n="14" break="no"/>ctatur executio prioritate nature et non oportet 
+      <lb ed="#P" n="15"/>quod talis precognitio sit preuolita nec oportet quod ta 
+      <lb ed="#P" n="16"/>lis actus precognitus sit preuolitus.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e736">
+      ⁋ Ad 
+      terti<lb ed="#P" n="17" break="no"/>um dico quod voluntans determinat se ad vnum per 
+      im<lb ed="#P" n="18" break="no"/>perium et non oportet quod precognoscatur illud 
+      in<lb ed="#P" n="19" break="no"/>perium.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e745">
+      ⁋ Ad quartum dico quod voluntas sufficienter 
+      <lb ed="#P" n="20"/>reducitur ad potentiam accidentalem per cognitionem 
+      <lb ed="#P" n="21"/>quam pono causam partialem actiue respectu 
+      vo<lb ed="#P" n="22" break="no"/>litiones causande.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e754">
+      ⁋ Ad quintum dico quod est dare actum 
+      <lb ed="#P" n="23"/>intensissimum quem voluntas potest causare mediante 
+      <lb ed="#P" n="24"/>ista cognitione respectu talis obiecti illum 
+      au<lb ed="#P" n="25" break="no"/>tem potest remittere vel omnino non cauare loquendo  
+      <lb ed="#P" n="26"/>de congnitione in via mediante saltem cognitione complexa 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e765">
+               <lb ed="#P" n="27"/>⁋ Ad sextum dicitur quod non est simile de deo quia euidens est quod  
+      <lb ed="#P" n="28"/>non est possibile quin deus diligat se et quin dilectio 
+      <lb ed="#P" n="29"/>dei sit deus sed hoc non est euidens de intellectu nio. etc 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e774">
+               <lb ed="#P" n="30"/>⁋ Ad argumenta phlhica dicitur ad primum quod stante ypostest 
+      <lb ed="#P" n="31"/>eorum adhuc intellectus niter et intellectiue sunt diuncte 
+      <lb ed="#P" n="32"/>cum materiis ad quas sunt determinate licet non in  
+      <lb ed="#P" n="33"/>hereant sic autem non est de motore primo
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e785">
+      ⁋ Ad secundem 
+      <lb ed="#P" n="34"/>illa auctoritas intelligitur de substantiali trans 
+      <lb ed="#P" n="35"/>mutatione.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e793">
+      ⁋ Ad tertium sufficit cum contactus 
+      vir<lb ed="#P" n="36" break="no"/>tualis.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e798">
+      ⁋ Ad quartum est negandus philosophus Ad aliud 
+      <lb ed="#P" n="37"/>non est simile de sensu et intellectu quia excellens 
+      in<lb ed="#P" n="38" break="no"/>telligibile non indisponit intellectum.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e805">
+      ⁋ Ad 
+      a<lb ed="#P" n="39" break="no"/>liud dicitur quod non est omnino simile igitur sicut tabula 
+      re<lb ed="#P" n="40" break="no"/>cipit colorem absque hoc quod transmutetur sic intellectus re 
+      <lb ed="#P" n="41"/>cipiendo intellectionem non transmutatur substantia 
+      <lb ed="#P" n="42"/>liter
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e816">
+      ⁋ Ad aliud dicitur quod respectu intellectus dicitur puta pri 
+      <lb ed="#P" n="43"/>uatio transmutationis quia nullo modo 
+      transmu<lb ed="#P" n="44" break="no"/>tatur in substantia sed organum sensus transmutatur et 
+      <lb ed="#P" n="45"/>corrumpitur ideo quo ad hoc non est pura 
+      pri<lb ed="#P" n="46" break="no"/>uatio transmutatio.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e827">
+      ⁋ Ad aliud oe processu in 
+      infi<lb ed="#P" n="47" break="no"/>nitum de conceptibus conceditur tamen isti non erunt 
+      con<lb ed="#P" n="48" break="no"/>muniores quam ens.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e834">
+      ⁋ Ad argumentum principale dicitur 
+      <lb ed="#P" n="49"/>quod necessitas est ponere actum distinctum ab anima. 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e840">
+               <lb ed="#P" n="50"/>⁋ Contra tunc non oporteret ponere locutionem ange 
+      <lb ed="#P" n="51"/>lorum quia vnus angelus posset videm istas 
+      intel<lb ed="#P" n="52" break="no"/>lectiones in alio angelo et statim intelligere quid  
+      <lb ed="#P" n="53"/>ipse conciperet et intelligeret.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e851">
+      ⁋ Resposidetur 
+      li<lb ed="#P" n="54" break="no"/>cet vnus angelus videat intellectiones alterius non 
+      <lb ed="#P" n="55"/>per hoc nouint quarum rerum iste intellectiones 
+      <lb ed="#P" n="56"/>sunt signa et propter hoc loc utiones iste non sunt ne 
+      <lb ed="#P" n="57"/>cessarie.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e862">
+      ⁋ Primum dubium vtrum intellectus per  
+      <lb ed="#P" n="58"/>impressionem speciei fortis intelligibilis non im 
+      <lb ed="#P" n="59"/>pediatur in cognitione intelligibisis debiliorum 
+      <lb ed="#P" n="60"/>etc.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e871">
+      ⁋ Nespondentur quod organum sensus per speciem 
+      <lb ed="#P" n="61"/>fortis sensibilis inficitur sic non est de intellectu. 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e876">
+               <lb ed="#P" n="62"/>⁋ Secundum dubium videtur quod cognitio non sit 
+      <lb ed="#P" n="63"/>res distincta ab anima quia secundum augustinum 
+      <lb ed="#P" n="64"/>nonodem trinitate capitulo quinto. et sexto. amor et no 
+      <lb ed="#P" n="65"/>ticia existunt in anima substantialiter vel vt ita dicam 
+      <lb ed="#P" n="66"/>essentialiter non tamquam in subiecto vt color in corpo 
+      <!--49.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>re aut vlla alia quantitas aut qualitas quicquid  
+      <lb ed="#P" n="68"/>enim tale non excedit subiectum in quo est non enim 
+      <lb ed="#P" n="69"/>color ille aut figura huius corporis potest esse et 
+      <lb ed="#P" n="70"/>alterius mens aut amore quo se amat potest ama 
+      <lb ed="#P" n="71"/>re aliquid preter se et ita est de cognitione quae mens 
+      <lb ed="#P" n="72"/>cognoscit se et alia.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e907">
+      ⁋ Item in fi. sexti de ciuitate 
+      <lb ed="#P" n="73"/>itaque modo tria ista scilicet mens et amor et noti 
+      <lb ed="#P" n="74"/>cia inseparata sunt a semetipsis et tamen eorum 
+      si<lb ed="#P" n="75" break="no"/>gulum quedam substantia est et simul omnia vna 
+      <lb ed="#P" n="76"/>substantia vel essentia hec ille.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e919">
+      ⁋ Respondetur quod  
+      <lb ed="#P" n="77"/>augustinus non loquitur ibi de actibus sed de potentiis 
+      <lb ed="#P" n="78"/>que sunt principia actuum vnde vult quod potentie iste 
+      <lb ed="#P" n="79"/>intellectiva volitiva et memoratiua non distinguntur 
+      <lb ed="#P" n="80"/>realiter ab anima sicut erat opinio antiqua.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e930">
+      ⁋ Et tunc 
+      <lb ed="#P" n="81"/>ratio augustini potest sic deduci dicte potentie sunt 
+      <lb ed="#P" n="82"/>qualitates anime igitur sicut per eas potest 
+      intel<lb ed="#P" n="83" break="no"/>ligere et frui ita seipsa potest formare tales actus 
+      <lb ed="#P" n="84"/>venenta cum obiecto quia alias separabiliter ab anima 
+      <lb ed="#P" n="85"/>maneret cognitio et fruitio in eis et non in anima et sic 
+      <lb ed="#P" n="86"/>essent nobiliores quam anima.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e946">
+      ⁋ Teneo igitur quod 
+      augu<lb ed="#P" n="87" break="no"/>stinus loquitur de amore et noticia potentiali ac 
+      <lb ed="#P" n="88"/>virtuali qiue est in ipsa anima non autem de habituali 
+      <lb ed="#P" n="89"/>vel actuali quia actualis cognitio secundum eum est 
+      <lb ed="#P" n="90"/>res distincta nam libro lexto. capitulo sexto. vt 
+      <lb ed="#P" n="91"/>recitat magister sexta distinctione primi probat in  
+      <lb ed="#P" n="92"/>ipsa anima non esse vnam simplicem essentiam cum 
+      <lb ed="#P" n="93"/>enim aliud sit artificiosum esse in habere aliud acu 
+      <lb ed="#P" n="94"/>tum aliud memorem aliud cupiditas aliud timor 
+      a<lb ed="#P" n="95" break="no"/>liud leticia aliud tristicia ponit quae hec et alia innu 
+      <lb ed="#P" n="96"/>merabilia in anime natura inueniuntur et alia sine 
+      il<lb ed="#P" n="97" break="no"/>lis et alia magis et minus manifestum est enim non  
+      <lb ed="#P" n="98"/>simplicem etc.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e975">
+      ⁋ Item magister ibidem ca. 7 et est ex. 6 
+      <lb ed="#P" n="99"/>ca. 8 deo est hoc esse quod fortem esse vel sapientem vel 
+      <lb ed="#P" n="100"/>iustum esse humnano autem omnino non est hoc esse quod  
+      <lb ed="#P" n="101"/>fortem esse aut prudentem aut iustum potest enim esse aliter 
+      <lb ed="#P" n="102"/>cuius et nullam istarum habere virtutem
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e986">
+      ⁋ Item 
+      <lb ed="#P" n="103"/>magister capitulo 6 et fruuntur a libro nono de ciuitate 
+      <lb ed="#P" n="104"/>ca. 10. propter hoc ista natura diuina scilicet dicitur simplex 
+      <lb ed="#P" n="105"/>quod non est aliud hunano et aliud illud quod habet 
+      si<lb ed="#P" n="106" break="no"/>cut in ceteris rebus est non enim habens liquorem 
+      li<lb ed="#P" n="107" break="no"/>quor est nec corpus color est nec anima sapina est hec 
+      il<lb ed="#P" n="108" break="no"/>le.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e1002">
+      ⁋ Nec est difficultas nisi ad glosandum 
+      auctori<lb ed="#P" n="109" break="no"/>tatem augustinus que mirabilis est tamen potest dici quod 
+      vo<lb ed="#P" n="110" break="no"/>cat subiectum indifferenter illud quod est vere subie 
+      <lb ed="#P" n="111"/>ctum receptiuum et illud quod est obiectum eo modo quae 
+      <lb ed="#P" n="112"/>solet dici in communi modo dicendi quod est subiecetum istius 
+      <lb ed="#P" n="113"/>vel illius sciline et tamen ibi intendicitur de obiecto. 
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e1016">
+               <lb ed="#P" n="114"/>⁋ Et tunc glosabitur ratio nullum accidens potest 
+      <lb ed="#P" n="115"/>ex cedere suum subiectum nec receptiuum nec 
+      obiecti<lb ed="#P" n="116" break="no"/>uum quia nec potest fieri naturaliter in alio subiecto pri 
+      <lb ed="#P" n="117"/>mo et immediate quam sit nec esse alterius obiecti per se 
+      <lb ed="#P" n="118"/>quam est cum signa naturalia non possint significare nisi 
+      <lb ed="#P" n="119"/>illud quod signant.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e1032">
+      ⁋ Sed potentia intellectiua et vo 
+      <lb ed="#P" n="120"/>litiam potest ee et sui aliorum obiective respectu 
+      quo<lb ed="#P" n="121" break="no"/>rum potest esse igitur nec hec potentia nec ista est acci 
+      <lb ed="#P" n="122"/>dens.
+    </p>
+            <p xml:id="GHYaf3-d1e597-d1e1041">
+      ⁋ Tertium dubium est istud creet deus vnam 
+      <lb ed="#P" n="123"/>creaturam que intelligat tunc per essentiam suam 
+      <lb ed="#P" n="124"/>tunc ista posset beatificari et tristicia vel dolore per  
+      <lb ed="#P" n="125"/>essentiam suam igitur simile potest esse de anima. Responde 
+      <lb ed="#P" n="126"/>tur admittendo casum et concedendo quod illa creatu 
+      <lb ed="#P" n="127"/>ra esset substantialiter cognitio et fruitio dei et 
+      <lb ed="#P" n="128"/>cognitio sui et amor et etiam aliorum multoram 
+      <lb ed="#P" n="129"/>sicunt de facto ponit aureolus de angelo respectu sui 
+      <lb ed="#P" n="130"/>et anima ratio sui sed simul cum hoc staret quod multarum 
+      <lb ed="#P" n="131"/>cognitionum et volitionum esset receptiua quia conclu 
+      <lb ed="#P" n="132"/>sionem includit quod esset aliqua creatura quae cuiuslibet 
+      <!--50.xml-->
+      <pb ed="#J" n="11-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>rei possibilis et simul omnium et singularum esset 
+      <lb ed="#P" n="2"/>distincta cognitio hoc enim repugnat noticie perfe 
+      <lb ed="#P" n="3"/>ctionis limitate et soli diuine proprium est etc.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

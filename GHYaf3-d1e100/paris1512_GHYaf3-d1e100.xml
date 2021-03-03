@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 12</title>
+            <author ref="#Wodeham">Adam Wodeham</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 12</title>
+               <date when="2021-03-03">March 3, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#Pa" n="151-v"/>
+            <cb ed="#Pa" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="GHYaf3-d1e100"><!-- GHYaf3-l4q12 -->
+            <head xml:id="GHYaf3-d1e100-Hd1e108">Quaestio 12</head>
+            <head xml:id="GHYaf3-d1e100-Hd1e111" type="question-title">Utrum sit maxima gloria possibilis in beato.</head>
+            <p xml:id="GHYaf3-d1e100-d1e114">
+               <lb ed="#P" n="119"/>VTrum sit maxima gloria 
+      <lb ed="#P" n="120"/>possibilis beato
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e121">
+      quod sic quia quelibet 
+      po<lb ed="#P" n="121" break="no"/>tentia beatificabilis est solum finite bea 
+      <lb ed="#P" n="122"/>titudinis capax.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e128">
+      Contra quacumque 
+      bea<lb ed="#P" n="123" break="no"/>titudine alicuius speciei repletur creatura beata 
+      <lb ed="#P" n="124"/>adhuc posset repleri tanta nobilioris speciei nec est 
+      <lb ed="#P" n="125"/>status beatitudinum possibilium recipi in hoc beato etc.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e138">
+               <lb ed="#P" n="126"/>Conclusio prima non est aliqua beatitudo vel gloria 
+      <lb ed="#P" n="127"/>maxima possibilis in beato in qua uis vna specie bea 
+      <lb ed="#P" n="128"/>titudinis vel glorie tum quia repleta creatura intelle 
+      <lb ed="#P" n="129"/>ctuali tali btitudine non plus repugnat sibi 
+      mira<lb ed="#P" n="130" break="no"/>culose aliam priori equalem recipere aliud equale 
+      mi<lb ed="#P" n="131" break="no"/>raculose secudum extensionem vt patet q. prima primi. 
+      <!--347.xml-->
+      <pb ed="#J" n="152-r"/>
+               <cb ed="#P" n="a"/>
+            </p>
+            <p xml:id="GHYaf3-d1e100-d1e160">
+               <lb ed="#P" n="1"/>⁋ Tum quia dato quod hec creatura intellectual demonstra 
+      <lb ed="#P" n="2"/>ta possit sic repleri quod per nullam potentiam posset simul 
+      <lb ed="#P" n="3"/>recipe intensionem quia cum omni tali natura possit fieri na 
+      <lb ed="#P" n="4"/>tura intellectualis nobilior quae posset plus recipe 
+      <lb ed="#P" n="5"/>igitur adhuc sequitur quod prima generalia non est receptibilis 
+      <lb ed="#P" n="6"/>in beato. Secunda conclusio quod de magnitudine perfectionali 
+      <lb ed="#P" n="7"/>quod non est aliqua generalia optima possibilis beato tamen quia omni 
+      <lb ed="#P" n="8"/>creata generalia receptibili in beato petro est vna in duplo 
+      <lb ed="#P" n="9"/>nobilioris speciei totidem graduu in sua specie 
+      receptibi<lb ed="#P" n="10" break="no"/>lis in eodem sicut omni liquori possibili in hoc vase etc. 
+      <lb ed="#P" n="11"/>Tum quia et si esset dare optimam receptibilem in beato propter 
+      <lb ed="#P" n="12"/>causam iam dictam in secundo argument. prioris conclusionis.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e189">
+      ⁋ Con 
+      <lb ed="#P" n="13"/>tra ista dubitatur primo quod si anima beata petri non posset per 
+      <lb ed="#P" n="14"/>potentiam aliquam ita perfecte videre deum quin adhuc 
+      <lb ed="#P" n="15"/>perfectius si deo placeret perfectiorem in eo producere vi 
+      <lb ed="#P" n="16"/>sionem sequitur quod deus non posset oe potentia sua absolu 
+      <lb ed="#P" n="17"/>ta hominem vel angelum creare cum tanta visione beatifica 
+      <lb ed="#P" n="18"/>quin posset ista virtus plus videre id est magis beatifice 
+      <lb ed="#P" n="19"/>non aucta eius capacitate falsitas probatur quia tunc ista po 
+      <lb ed="#P" n="20"/>tentia visiua esset infinita ita quod deus posset facere vi 
+      <lb ed="#P" n="21"/>sionem infinitam in eo.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e211">
+      ⁋ Respondeo concedendo primum consequens 
+      <lb ed="#P" n="22"/>et negando secundam consequentiam scilicet quod potentia visiua esset 
+      in<lb ed="#P" n="23" break="no"/>finita et quod deus posset facere in ea visionem infinitam nisi 
+      <lb ed="#P" n="24"/>sumeretur infinitum sincatur. et tunc concederetur. Secundo  
+      <lb ed="#P" n="25"/>dubitatur contra rationem meam quia arguebama in. p q. 
+      <lb ed="#P" n="26"/>primi quod sicut simul posset deus iraculose ponere 
+      <lb ed="#P" n="27"/>duo corpora in eodem loco et etc. quia hec ratio non plus 
+      con<lb ed="#P" n="28" break="no"/>cludit nisi quod quacumque gratia vel visione posita in anima 
+      <lb ed="#P" n="29"/>petri vel in angelo posset deus in illa vel in illo huius 
+      <lb ed="#P" n="30"/>duplum accidens facere et quadruplum et sic in infinitum 
+      <lb ed="#P" n="31"/>quod verum est secundum istum magister qua contra me arguit.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e235">
+      ⁋ Sed  
+      <lb ed="#P" n="32"/>ex hoc non sequitur quod huius accidens duplum foret dupla 
+      <lb ed="#P" n="33"/>gratia vel visio isti anime nec sequitur istam animam propter hoc 
+      <lb ed="#P" n="34"/>acceptari ad duplam beatitudinem nisi proportionaiter au 
+      <lb ed="#P" n="35"/>geretur eius virtus visiua defficit igitur reductio ibi fa 
+      <lb ed="#P" n="36"/>cta a similit quod autem non oporteat tale accidens duplatum 
+      <lb ed="#P" n="37"/>esse duplam visionem Probatur ex hoc quod tale accidens 
+      <lb ed="#P" n="38"/>posset poni in lapide et ibi nec foret gratia nec visio. 
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e253">
+               <lb ed="#P" n="39"/>⁋ Item argumentus primum non plus probat nisi quod cum forma huius 
+      <lb ed="#P" n="40"/>receptibi in anima petri possit deus duplam in ipsa 
+      produ<lb ed="#P" n="41" break="no"/>cere.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e263">
+      ⁋ Sed ego haberem adhuc probarequod tali dupla 
+      <lb ed="#P" n="42"/>posset anima etia informata ad plus quam prima replente 
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e268">
+               <lb ed="#P" n="43"/>⁋ Hic autem non probatis quia licet vltra omnem accidens quod 
+      <lb ed="#P" n="44"/>est in ea possit recipere sicut subiectum accidens in  
+      <lb ed="#P" n="45"/>duplo intensius tamen virtus eius actiua non patitur 
+      in<lb ed="#P" n="46" break="no"/>tensionem visionem prima replente et ipsa potentia non  
+      <lb ed="#P" n="47"/>aucta quia anima non repletur visione dei per se loquendo nisi 
+      <lb ed="#P" n="48"/>ita perfecte videat deum sicut sibi est possibile per 
+      qua<lb ed="#P" n="49" break="no"/>cunque potentiam actiuam ipsa actiuitate non aucta sicut 
+      <lb ed="#P" n="50"/>nunquam est anima plena gratia per se loquendo de gratia vt gratia 
+      <lb ed="#P" n="51"/>est nisi tantam habeat qua accepta sit ad tantam visionem 
+      <lb ed="#P" n="52"/>beatificam qua maionem non possit habre non aucta capa 
+      <lb ed="#P" n="53"/>citate et no facta ista virtute potentiore ad videndum 
+      <lb ed="#P" n="54"/>deum beatifice etiam de quacumque potentia probatur si sola 
+      <lb ed="#P" n="55"/>receptatio naturalis competeret anime beatem respectu 
+      <lb ed="#P" n="56"/>visionis beatifice ita quod hec prescia esset causa 
+      vi<lb ed="#P" n="57" break="no"/>dendi clarius et beatius habe scilicet huius actus in visione 
+      <lb ed="#P" n="58"/>anime intellectiue sicut dicimus locum repleri corpore ex 
+      <lb ed="#P" n="59"/>eo quod habet passiue infra latera sua corpus tunc bene 
+      <lb ed="#P" n="60"/>iret ad propositum. Sed assumptum est irrationale quia 
+      <lb ed="#P" n="61"/>tunc lapis vel postis posset esse beatus cum possit recipe 
+      <lb ed="#P" n="62"/>subiectiue talem rem.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e314">
+      ⁋ Ad illud dubium quod istud exem 
+      <lb ed="#P" n="63"/>plum satis valet ad declarandum propositum licet non sit 
+      <lb ed="#P" n="64"/>idem rem istam quae est visio esse rem talem et esse visionem eo 
+      <lb ed="#P" n="65"/>quod si talis res per diuinam potentiam fieret fine subiecto 
+      <lb ed="#P" n="66"/>posset non esse visio similiter et licet non sit idem rem quae est gratia 
+      <!--347.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>esse talem rem et esse gratiam nec etiam sit idem eam esse talem 
+      <lb ed="#P" n="68"/>rem informantem naturam beatificabilem vel gratifica 
+      <lb ed="#P" n="69"/>bilem et esse gratiam vt probaui di. 17 primi tum vt 
+      pro<lb ed="#P" n="70" break="no"/>baui di. p. q. 3 primi.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e338">
+      ⁋ Impossibile est rem illam que  
+      <lb ed="#P" n="71"/>nata est esse visio vel cognitio informare potentiam 
+      <lb ed="#P" n="72"/>cognitiuam cuius ipsa nata est esse visio vel cognitio 
+      <lb ed="#P" n="73"/>quin eo ipso ipsa sit visio vel cognitio per hoc ad suum 
+      <lb ed="#P" n="74"/>primum argu. concedo sibi de gratia quod non oportet quod ipsa 
+      <lb ed="#P" n="75"/>sit gratia etiam si informet quia gra non est gratia nisi ex ac 
+      <lb ed="#P" n="76"/>ceptatione dei.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e354">
+      ⁋ Set omne visione dico quod ipsa non posset 
+      <lb ed="#P" n="77"/>non esse visio dum informat potentiam cuius potest esse visio 
+      <lb ed="#P" n="78"/>et si dupla informet potentiam visiuam talem eo ipso erit 
+      <lb ed="#P" n="79"/>visio dupla et tamen si poneretur in poste et et. dico quod hoc 
+      <lb ed="#P" n="80"/>non est contra me vt patet ex iam dictis. Item apud me in hoc 
+      <lb ed="#P" n="81"/>est falsissimum quod illa res quae est visio beatifica posset 
+      <lb ed="#P" n="82"/>recipi in poste subiectiue nam hoc non est possibilius 
+      <lb ed="#P" n="83"/>quam quod angelus dealbetur per idem patet ad omnia.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e372">
+      ⁋ Sciendum 
+      <lb ed="#P" n="84"/>tamen quod via alterius apparet in predictis de secundo  
+      <lb ed="#P" n="85"/>dubio magis videtur consona veritati de hoc vide 
+      no<lb ed="#P" n="86" break="no"/>tata in p. q. pologi et plura alia consequenter li. 1 Ad tertium 
+      <lb ed="#P" n="87"/>etiam mihi videtur dicendum quod anima nichil agente sed solo 
+      <lb ed="#P" n="88"/>deo ipsa possit simul cum hoc videre et intelligere nec 
+      <lb ed="#P" n="89"/>auderem contrarium tenere cum etiam secundem phiam 
+      intelli<lb ed="#P" n="90" break="no"/>gere sit quoddam patiet dato quod anima ageret visionem 
+      <lb ed="#P" n="91"/>suam idem sequitur.
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e393">
+      ⁋ Et sic finis
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e396">
+      ⁋ Dratias igitur ago 
+      <lb ed="#P" n="92"/>tibi domine hiesu Christe qui dixisti per os sancti io. pueri tui. 
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e401">
+               <lb ed="#P" n="93"/>⁋ Ego sum alpha et o. primus et nouissimus principium 
+      <lb ed="#P" n="94"/>et finis. quando tua gratia preueniente et cooperante ad  
+      <lb ed="#P" n="95"/>hoc opusculi de lectura sententiarum ade conscripti a 
+      <lb ed="#P" n="96"/>principio vsque ad finem me perducere dignatus es et quia 
+      <lb ed="#P" n="97"/>scribendo et studendo de merito viatoris peruentum est 
+      <lb ed="#P" n="98"/>te duce ad gloriam beatorum quam a longe videmus quam 
+      <lb ed="#P" n="99"/>ab hoc mari salutamus ad quam ab hac valle suspi 
+      <lb ed="#P" n="100"/>ramus et nitimur cum lachrimis si quo modo ad eam 
+      <lb ed="#P" n="101"/>perueniamus quaes igitur spes humani generis hiesu 
+      <lb ed="#P" n="102"/>Christe deus de deo refugium neum et virtus solamen vnicum 
+      <lb ed="#P" n="103"/>nostrum quem a longo quasi stellam matutinam et solem 
+      <lb ed="#P" n="104"/>iusticie vix lachrimantibus oculis in littore celestis 
+      <lb ed="#P" n="105"/>patrie nos expectantem videmus guberna nauem nfam 
+      <lb ed="#P" n="106"/>dextera tua clauis crucis tuene pereamus in flu 
+      <lb ed="#P" n="107"/>ctibus da nobis quaes domine hiesu inter Sillam et 
+      ca<lb ed="#P" n="108" break="no"/>ribdim iter tenere medium vt vitiis et erroribus ac 
+      <lb ed="#P" n="109"/>vniuersis pariculis euitatis salua naui et mercibus 
+      <lb ed="#P" n="110"/>securi pueniamus ad portum. Per te hiesu Christe 
+      sal<lb ed="#P" n="111" break="no"/>uator et gubernator noster qui cum patre et spiritu sancto 
+      <lb ed="#P" n="112"/>viuis et regnas deus per omnia sclectia scox. Amen. 
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e447">
+               <lb ed="#P" n="113"/>⁋ Finito libro sit laus et gloria Christo. 
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e452">
+               <lb ed="#P" n="114"/>⁋ Finis quarti. 
+    </p>
+            <p xml:id="GHYaf3-d1e100-d1e457">
+               <lb ed="#P" n="115"/>⁋ Hic finem accipit egregium opus Ad e in quattuor 
+      <lb ed="#P" n="116"/>libros sententiarum impressioni datum cura et opera 
+      <lb ed="#P" n="117"/>Io hamnnis barbier impressorisr impensisque honestor 
+      <lb ed="#P" n="118"/>virorum Iohamnis petit Iohannis granion et Ponceti 
+      <lb ed="#P" n="119"/>le preux huius alme parisiensis academie biblio 
+      <lb ed="#P" n="120"/>polarum in lucem produnt a vitiorum labeculis quibus 
+      <lb ed="#P" n="121"/>scatebat expunctum solertissima industria disertissi 
+      <lb ed="#P" n="122"/>mi magistri nostri pohamnnis maioris ipsius Ade con 
+      <lb ed="#P" n="123"/>terranei anno domini. 1pe. stio nonas aprilis. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

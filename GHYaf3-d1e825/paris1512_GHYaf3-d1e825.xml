@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 5</title>
+            <author ref="#Wodeham">Adam Wodeham</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 5</title>
+               <date when="2021-03-03">March 3, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#Pa" n="15-v"/>
+            <cb ed="#Pa" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="GHYaf3-d1e825"><!-- GHYaf3-l1d1q5 -->
+            <head xml:id="GHYaf3-d1e825-Hd1e108">Quaestio 5</head>
+            <head xml:id="GHYaf3-d1e825-Hd1e111" type="question-title">
+      Utrum generaliter omnis delectatio sit dilectio vel odium, seu volitio aut
+      nolitio.
+    </head>
+            <p xml:id="GHYaf3-d1e825-d1e114">
+               <lb ed="#P" n="20"/>VIso de delectatione bea 
+      <lb ed="#P" n="21"/>tifica. Utrum sit fruitio queritur in ge 
+      <lb ed="#P" n="22"/>nerali. Utrum omnis delectatio vel tristi 
+      <lb ed="#P" n="23"/>Urcia sit dilectio vel odium seu volitio aut 
+      <lb ed="#P" n="24"/>nolitio.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e127">
+      ⁋ Et potest argui pro et contra sicut in 
+      praece<lb ed="#P" n="25" break="no"/>denti questione.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e132">
+      ⁋ Prima conclusio omnis delectatio 
+      <lb ed="#P" n="26"/>voluntatis vel tristicia voluntatis est velle vel nol 
+      <lb ed="#P" n="27"/>le probatur quia non sunt plures actus vitales 
+      <lb ed="#P" n="28"/>appetitiui in voluntate etiam quia omnis actus 
+      <lb ed="#P" n="29"/>complacentie vel displicentie volitiue est velle vel 
+      <lb ed="#P" n="30"/>nolle igitur etc. Item quia non minus vna delectatio 
+      <lb ed="#P" n="31"/>volitiua est volitio quam alia sed delectatio beatifica 
+      <lb ed="#P" n="32"/>ex primo articulo praecedentis quaestionis est dilectio igitur 
+      <lb ed="#P" n="33"/>Ex quo patet quod omnis delectatio vel tristicia sen 
+      <lb ed="#P" n="34"/>sitiua est quoddam appetere vel non appetere 
+      con<lb ed="#P" n="35" break="no"/>trarie scilicet appetitiue fugere quia sic est de hoc a parte 
+      <lb ed="#P" n="36"/>appetitus sensitiui sicut a parte appetitus 
+      intelle<lb ed="#P" n="37" break="no"/>ctiui igitur etc.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e162">
+      ⁋ Primum dubium vtrum econtra 
+      <lb ed="#P" n="38"/>omnis amor vel odium sit delectatio vel tristicia 
+      <lb ed="#P" n="39"/>hic tenetur concorditer quod non et hoc arguit petrus 
+      <lb ed="#P" n="40"/>aureolus quia aliquis est amor non delectationis 
+      <lb ed="#P" n="41"/>sed desiderii respectu non habiti, igitur bene ponun 
+      <lb ed="#P" n="42"/>tur ista quattuo scilicet velle desiderii et velle 
+      delecta<lb ed="#P" n="43" break="no"/>tionis et nolle fuge et nolle tristicie.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e178">
+      ⁋ Quamuis ista 
+      <lb ed="#P" n="44"/>conclusio forte sit vera tamen medium non videtur suffi 
+      <lb ed="#P" n="45"/>ciens quia stat in hoc quod amor desiderii non est delecta 
+      <lb ed="#P" n="46"/>tio nec tristicia cuius oppositum innuit commentator 12 
+      <lb ed="#P" n="47"/>metha. commento 39. dicit quasi in principio commenti 
+      <lb ed="#P" n="48"/>desiderium tale magis est dolor quam voluptas non  
+      <lb ed="#P" n="49"/>igitur initendum est huic medio sed posterius 
+      tan<lb ed="#P" n="50" break="no"/>gendo. Secundum dubium vtrum omnis amor disti 
+      <lb ed="#P" n="51"/>ctus contra amorem desiderii sit delectatio et 
+      om<lb ed="#P" n="52" break="no"/>ne odium distinctum contra nolle fuge et 
+      resilitio<lb ed="#P" n="53" break="no"/>nis sit tristicia.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e202">
+      ⁋ Et videtur quod sic nam appetitus 
+      <lb ed="#P" n="54"/>naturalis non habet nisi duos actus positiuos. 
+      <lb ed="#P" n="55"/>scilicet moueri in finem et quiescere in ipso vt pa 
+      <lb ed="#P" n="56"/>tet de grauitate respectu centri et duos 
+      priuati<lb ed="#P" n="57" break="no"/>uos scilicet fugere ab opposito et inquietari dum est in  
+      <lb ed="#P" n="58"/>ipso igitur a simili appetitus sensitiuus 
+      irratio<lb ed="#P" n="59" break="no"/>nalis similiter et rationalis noni habet nisi 
+      quat<lb ed="#P" n="60" break="no"/>tuor actus duos positiuos quorum vnus est 
+      mo<lb ed="#P" n="61" break="no"/>ueri ad finem scilicet desiderium et prosecutio. 
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e222">
+               <lb ed="#P" n="62"/>⁋ Secundus quiescere in fine vel obiectum scilicet 
+      <lb ed="#P" n="63"/>delectari et duos priuatiuos quorum primus cor 
+      <lb ed="#P" n="64"/>respondet fuge et resilitioni scilicet abhominatio 
+      <lb ed="#P" n="65"/>seu detestatio secundus inquietationi scilicet displicen¬ 
+      <!--58.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="66"/>tia et contristatio dices quod non est vsque quam simile quia 
+      <lb ed="#P" n="67"/>in naturalibus est grauitas vel leuitas que 
+      prin<lb ed="#P" n="68" break="no"/>cipiant istos actus et in se non sunt actus sed in 
+      ap<lb ed="#P" n="69" break="no"/>etitu animali et rationali est loco grauitatis et 
+      <lb ed="#P" n="70"/>leuitatis ipse amor pondus inclmans in 
+      deside<lb ed="#P" n="71" break="no"/>rium vel delectationem. Iuxta illud augustini 
+      <lb ed="#P" n="72"/>amor meus pondus meum etc.iam preter actus 
+      <lb ed="#P" n="73"/>orrespondentes forme que est principium talium 
+      <lb ed="#P" n="74"/>in naturalibus igitur etc. non est simile sed hoc non 
+      <lb ed="#P" n="75"/>valet quia amor iste ex quo oritur desiderium est 
+      <lb ed="#P" n="76"/>delectatio quedam de obiecto apprehenso igitur 
+      <lb ed="#P" n="77"/>imor incitans desiderium non est alius actus a de 
+      <lb ed="#P" n="78"/>lectari Antecedens patet quia memoria et 
+      yma<lb ed="#P" n="79" break="no"/>ginatio delectabilium sunt delectationes vt dicit 
+      <lb ed="#P" n="80"/>hilosophus in rethorica. Ex hoc autem quod homo delecta 
+      <lb ed="#P" n="81"/>tur et complacet in obiecto apprehenso incipit 
+      de<lb ed="#P" n="82" break="no"/>siderare realem eius presentiam. Et ex hoc 
+      con<lb ed="#P" n="83" break="no"/>irmatur prima ratio quia si aliquis amor esset 
+      <lb ed="#P" n="84"/>alius a desiderio et delectatione esset ista amor 
+      qui<lb ed="#P" n="85" break="no"/>ncitat desiderium et facit prosequi vt habeatur 
+      <lb ed="#P" n="86"/>desideratum sed ille non est alius actus quam 
+      delecta<lb ed="#P" n="87" break="no"/>ri et complacere in obiecto et conditionibus eius 
+      <lb ed="#P" n="88"/>vt ex terminis patet idem enim est dictutale quid  
+      <lb ed="#P" n="89"/>imo et tale quid est complacens mihi vel delecta 
+      <lb ed="#P" n="90"/>bile igitur amor preueniens desiderium est 
+      dele<lb ed="#P" n="91" break="no"/>ctatio cum hoc non principialiter habetur quod  
+      <lb ed="#P" n="92"/>desideretur igitur videtur quod omnis amor vel est 
+      <lb ed="#P" n="93"/>desiderium vel delectatio de obiecto apprehenso 
+      <lb ed="#P" n="94"/>desiderium preueniens vel delectatio de obiecto 
+      <lb ed="#P" n="95"/>presente desiderium.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e303">
+      ⁋ Item omnis amor est amor 
+      <lb ed="#P" n="96"/>amicitie vel concupiscentie sed vterque amor subdi 
+      <lb ed="#P" n="97"/>uiditur in delectationem seu amorem delectatio 
+      <lb ed="#P" n="98"/>tis preuenientem desiderium et in subsequentem. 
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e312">
+               <lb ed="#P" n="99"/>⁋ Item omnis amor vel est desiderium vel compla 
+      <lb ed="#P" n="100"/>centia sed omnis complacentia est delectatio 
+      pa<lb ed="#P" n="101" break="no"/>tet ex terminis nam idem est obiectum placibilis 
+      <lb ed="#P" n="102"/>est mihi et delectabilis est mihi delector in te et con 
+      <lb ed="#P" n="103"/>placet mihi in te.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e326">
+      ⁋ Item augustinus 14. de 
+      civi<lb ed="#P" n="104" break="no"/>tate dei capitulo septimo dicit quod amor inhians id ist. 
+      <lb ed="#P" n="105"/>desiderans habere illud quod amatur cupiditas est amor 
+      <lb ed="#P" n="106"/>aut habens illud quod amatur eo quod fruens 
+      leti<lb ed="#P" n="107" break="no"/>cia est siue delectatio. Amor vero fugiens quicquid  
+      <lb ed="#P" n="108"/>ei aduersatur timor est accipit vt deducitur timo 
+      <lb ed="#P" n="109"/>tem pro abhominatione et fuga que opponitur 
+      <lb ed="#P" n="110"/>desiderio sequitur idque si acciderit sentiens 
+      tristi<lb ed="#P" n="111" break="no"/>cia est hec augustinus.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e346">
+      ⁋ Ex quo patet quod eius 
+      in<lb ed="#P" n="112" break="no"/>tentio fuit diuidere odium in fugam et tristiciam 
+      <lb ed="#P" n="113"/>et amorem in delectationem et desiderium licet 
+      <lb ed="#P" n="114"/>duplex sit delectatio scilicet preueniens 
+      desideri<lb ed="#P" n="115" break="no"/>um et sequens. Et istam conclusionem concedit 
+      <lb ed="#P" n="116"/>Petrus aureolus et est pulehia conclusio et pro 
+      <lb ed="#P" n="117"/>pabilis et argumenta in contrarium pro maiori 
+      <lb ed="#P" n="118"/>parte sufficienter soluuntur.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e364">
+      ⁋ Mihi tamen 
+      vide<lb ed="#P" n="119" break="no"/>tur quod sua contradictoria est vera scilicet quod aliqua 
+      <lb ed="#P" n="120"/>it dilectio que nec sit desiderium nec delectatio 
+      <lb ed="#P" n="121"/>ropria. Et primo arguo sic quia damnati aliquam 
+      <lb ed="#P" n="122"/>habent dilectionem. et habebunt post iudicium 
+      <lb ed="#P" n="123"/>iuia maxime diligunt seipsos secundum 
+      augusti<lb ed="#P" n="124" break="no"/>num. 14 de ciuitate dei capitulo 206 et tamen ex 
+      <lb ed="#P" n="125"/>tunc nullam habebunt delectationem vt tenent 
+      <lb ed="#P" n="126"/>communiter magistri.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e384">
+      ⁋ Item volunt alios secum 
+      <lb ed="#P" n="127"/>uniri et tamen ista volitio non est eis 
+      delecta<lb ed="#P" n="128" break="no"/>tio. Item demonibus placet quod homo peccat et 
+      <lb ed="#P" n="129"/>tamen non delectantur nec illud velle est velle de 
+      <lb ed="#P" n="130"/>siderii cum sit respectu presentis igitur etc. Item 
+      se<lb ed="#P" n="131" break="no"/>ptimo ethicor capitulo vltimo tristicia vehemens 
+      <!--59.xml-->
+      <pb ed="#J" n="16-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>expollit delectationem non solum oppositam sec 
+      <lb ed="#P" n="2"/>contigentem sed damnatus summe tristatur igit 
+      <lb ed="#P" n="3"/>tur de nullo delectatur.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e410">
+      ⁋ Item fortis summe 
+      di<lb ed="#P" n="4" break="no"/>ligit actum fortitudinis et pericula mortis et ta 
+      <lb ed="#P" n="5"/>men nihil vel modicum in tali actu delectatur vt 
+      <lb ed="#P" n="6"/>patet tertio ethicorum. Item aliqui deuoti 
+      fer<lb ed="#P" n="7" break="no"/>uentius diligunt et minus delectantur ymo dolent 
+      <lb ed="#P" n="8"/>quod non habent suauitatem delectationis sicut 
+      ali<lb ed="#P" n="9" break="no"/>as habent quandominus intense diligunt Respondei 
+      <lb ed="#P" n="10"/>petrus auite quod deuotus sume diligens deum summe 
+      <lb ed="#P" n="11"/>complacet sibi in eo et ita negare videtur 
+      assum<lb ed="#P" n="12" break="no"/>ptum Et probabiliter potest teneri opinio pe. aur. yma 
+      <lb ed="#P" n="13"/>quod plus est concedi potest quod omnis amor vel dilectio 
+      <lb ed="#P" n="14"/>sitoelectatio etiam illa que est desiderii quia omnis 
+      <lb ed="#P" n="15"/>dilectio est latio appetitus in obiectum sibi conueniens 
+      <lb ed="#P" n="16"/>vel complacens vel coniunctio cum eodem igitur est 
+      <lb ed="#P" n="17"/>complacentia et etiam delectatio quae conceditur in  
+      <lb ed="#P" n="18"/>damnatis quamuis ibi non sit perceptibilis suauitas 
+      <lb ed="#P" n="19"/>vel perceptio commodi quae sit mitigatiua pene in ipsis 
+      <lb ed="#P" n="20"/>Et ita videtur adam accipere delectationem 
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e449">
+               <lb ed="#P" n="21"/>⁋ Ad aristotelem dico quod no repugnat suis dictis 
+      <lb ed="#P" n="22"/>quin in forti vel alio virtuoso stet vehemens 
+      tri<lb ed="#P" n="23" break="no"/>sticia sensualis cum magna delectatione 
+      intelle<lb ed="#P" n="24" break="no"/>ctuali tam respectu obiecti principalis dilecti quae 
+      <lb ed="#P" n="25"/>respectu actuum virtuosorum.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e463">
+      ⁋ Sed contra adhuc at 
+      <lb ed="#P" n="26"/>guit adam non omne odium est fuga vel tristicia igit 
+      <lb ed="#P" n="27"/>tur nec omnis amor erit desiderium vel delectatio 
+      <lb ed="#P" n="28"/>consequentia patet quia distincto odio opponitur di 
+      <lb ed="#P" n="29"/>stinctus amor antecedens patet quia deus odit iniquita 
+      <lb ed="#P" n="30"/>tem et etiam beati absque tristicia. Respondet 
+      pe<lb ed="#P" n="31" break="no"/>trus sic quia sicut deus et sancti. odiunt malum 
+      <lb ed="#P" n="32"/>sic est eis malum displicibile et tristabile non acci 
+      <lb ed="#P" n="33"/>piendo tristiciam pro actione concupiscentie quamn 
+      <lb ed="#P" n="34"/>facit ponens malum sed pro sola displicentia Set adam 
+      <lb ed="#P" n="35"/>dicit quod illa non est tristicia ad intellectum communem igit 
+      <lb ed="#P" n="36"/>Respondet aliter pe. quod nec deus nec beati odiuni 
+      <lb ed="#P" n="37"/>iniquitatem nisi negatiue quia non placet quod aut 
+      <lb ed="#P" n="38"/>accirentur positiue et eis malum displiceat nullo 
+      <lb ed="#P" n="39"/>modo conceditur vtraque solutio pe. teneri potest. 
+      <lb ed="#P" n="40"/>Ex dictis infert adam quod non omnis fruitio est dele 
+      <lb ed="#P" n="41"/>ctatio quia damnatus fruitur se nec tamen dele 
+      <lb ed="#P" n="42"/>ctatur de se. Set dubitatur prius enim dictum est quod  
+      <lb ed="#P" n="43"/>dilectio est apprehensio illorum quorum apprehensio 
+      <lb ed="#P" n="44"/>necessario praesupponitur ad ipsam necessario cau 
+      <lb ed="#P" n="45"/>sandam sed dei noticia qua cognoscitur in via est 
+      <lb ed="#P" n="46"/>apprehensio omnim entium quia partes totales conce 
+      <lb ed="#P" n="47"/>ptus dei naturaliter significant omna entia licet 
+      <lb ed="#P" n="48"/>totalis sit propius dei in predicando prout concedit a 
+      <lb ed="#P" n="49"/>dam igitur dilectio qua deus diligitur in via praesup 
+      <lb ed="#P" n="50"/>ponens talem noticiam ita quod aliter naturalite 
+      <lb ed="#P" n="51"/>causari non posset esset cognitio et dilectio omnium quia 
+      <lb ed="#P" n="52"/>videtur inconveniens.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e524">
+      ⁋ Item delectatio deuotor 
+      <lb ed="#P" n="53"/>causatur ab anima et cognitione et dilectione que 
+      <lb ed="#P" n="54"/>non est delectatio vt tu concedis igitur si ista sint 
+      <lb ed="#P" n="55"/>intensiora ista suauitas erit maior Item si aliqua 
+      <lb ed="#P" n="56"/>dilectio dei in via non est delectatio quare igitur 
+      <lb ed="#P" n="57"/>similiter erit in patria ptem quae re vna dilectio est magis dele 
+      <lb ed="#P" n="58"/>ctatio quam aneima vel quaere magii dilectio vnius obiecti quod alterius 
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e540">
+               <lb ed="#P" n="59"/>⁋ Ad primum conceditur quod talis dilectio est cognitio 
+      <lb ed="#P" n="60"/>omnium tamen est solius dei dilectio sicut vnicus 
+      <lb ed="#P" n="61"/>actus diligendi potest esse fruitio dei et vsus crea 
+      <lb ed="#P" n="62"/>ture.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e551">
+      ⁋ Ad secundum dicitur quod talis suauitas potest 
+      <lb ed="#P" n="63"/>causari immediate a deo vel si causetur 
+      natura<lb ed="#P" n="64" break="no"/>liter tunc exesente contemplatione tranquilla 
+      maio<lb ed="#P" n="65" break="no"/>ri dilectioni correspondet maior suauitas. 
+      Quan<lb ed="#P" n="66" break="no"/>doque autem passiones talem suauitatem impediunt etiam 
+      <!--59.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>quandoque talis delectatio est reflexa habens actus 
+      <lb ed="#P" n="68"/>rectos pro obiecto et tunc non est mirum quod non habet 
+      <lb ed="#P" n="69"/>se conformiter dilectioni quae est actus rectus respe 
+      <lb ed="#P" n="70"/>ctu obiecti principalis scilicet dei.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e575">
+      ⁋ Sed diceres 
+      <lb ed="#P" n="71"/>talis delectatio reflexa est volitio igitur est apprehem 
+      <lb ed="#P" n="72"/>sio istorum sine quorum apprehensione praeuia non posset 
+      <lb ed="#P" n="73"/>naturaliter causari igitur est apprehensio dei igitur 
+      <lb ed="#P" n="74"/>erit delectatio de deo et non tantum de creatura vel 
+      <lb ed="#P" n="75"/>de actibus. Respondetur concedendo quod ista dele 
+      <lb ed="#P" n="76"/>ctatio est apprehensio sine quorum apprehensione 
+      prae<lb ed="#P" n="77" break="no"/>uia etc. Apprehensio autem praeuia est illa qua quis ap 
+      <lb ed="#P" n="78"/>prehendit et sentit se videre vel diligere deum quod 
+      <lb ed="#P" n="79"/>vt ique posset fieri de potentia dei absoluta absque hoc 
+      <lb ed="#P" n="80"/>quod videret deum et tunc talis apprehensio vel assen 
+      <lb ed="#P" n="81"/>sus naturaliter cum anima posset principiare dilectio 
+      <lb ed="#P" n="82"/>nem cuius obiectum esset se videre deum et licet 
+      <lb ed="#P" n="83"/>ista delectatio esset apprehensio dei saltem 
+      imper<lb ed="#P" n="84" break="no"/>fecta non tamen esset delectatio de deo sed de visio 
+      <lb ed="#P" n="85"/>ne et de se ipso cui concupiscibiliter diligit illam vi 
+      <lb ed="#P" n="86"/>sionem sicut ille qui gaudet de hoc quod percipit se sci 
+      <lb ed="#P" n="87"/>re triangulum habere tres vel de hoc quod per. 
+      <lb ed="#P" n="88"/>cipit se preuidere malum sibi imminens non vtique 
+      <lb ed="#P" n="89"/>gaudens de eo quod est sed de eo quod scit et tamen illud  
+      <lb ed="#P" n="90"/>gaudium est apprehensio quod malum sibi imminet vel quod 
+      <lb ed="#P" n="91"/>triangulus habet tres et ideo non sequitur hoc 
+      gau<lb ed="#P" n="92" break="no"/>dium est apprehensio huius igitur est gaudium de 
+      <lb ed="#P" n="93"/>hoc.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e627">
+      ⁋ Ad tertium dicitur quod etiam aliqua dilectio 
+      <lb ed="#P" n="94"/>in prima non est delectatio tamen potest dici quod om 
+      <lb ed="#P" n="95"/>nis dilectio correspondens simplici visioni dei in  
+      <lb ed="#P" n="96"/>se vel abstractiue proprie dei et sumpti 
+      causabi<lb ed="#P" n="97" break="no"/>li per intuitiuam propriam esset delectatio quedam. 
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e639">
+               <lb ed="#P" n="98"/>⁋ Ad quartum respondetur quod vna dilectio est 
+      ma<lb ed="#P" n="99" break="no"/>gis conueniens potentie quam altera et similiter vnum 
+      <lb ed="#P" n="100"/>obiectum conuenientius quam aliud. Sciendum 
+      ta<lb ed="#P" n="101" break="no"/>men quod nullus ordinate gaudet de visionem si prin 
+      <lb ed="#P" n="102"/>cipalius gaudeat de deo nec aliquis gaudet de hoc 
+      <lb ed="#P" n="103"/>quod percipit se scire triangulum habere tres angu 
+      <lb ed="#P" n="104"/>los nisi principalius gaudeat de existentia rei 
+      sci<lb ed="#P" n="105" break="no"/>te scilicet triaguli et si secunda esset causa prima sue scientie 
+      si<lb ed="#P" n="106" break="no"/>steret ibi sed quia non est ideo refert gaudium in deum 
+      <lb ed="#P" n="107"/>actualiter vel habitualiter ex tali igitur connexio 
+      <lb ed="#P" n="108"/>ne in ordine creaturarum magnificat creatorem in quae 
+      princi<lb ed="#P" n="109" break="no"/>palissie gaudet si gaudium est ordinatum similiter facit ille 
+      <lb ed="#P" n="110"/>qui percipit se praeuidere malum sibi imminens qui  
+      <lb ed="#P" n="111"/>et de malo sibi imminenti gaudet non sub radice 
+      <lb ed="#P" n="112"/>mali sed prout ordinatum et ad sui probationem vel 
+      <lb ed="#P" n="113"/>ad sui prouisionem per quam cognoscit dei bene 
+      <lb ed="#P" n="114"/>ficium qui custodit eum a malo et iterum totum 
+      <lb ed="#P" n="115"/>gaudium principalissime ordinatur in deum. 
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e681">
+               <lb ed="#P" n="116"/>⁋ Ad primam rationem aureoli respondet quod amor incitans 
+      <lb ed="#P" n="117"/>desiderium non est delectatio nec complacentia et 
+      <lb ed="#P" n="118"/>delectatio sunt idem ymo qnandoque desiderium ori 
+      <lb ed="#P" n="119"/>tur non ex amore sed ex odio cuiusmodi est 
+      deside<lb ed="#P" n="120" break="no"/>rium vindicte.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e694">
+      ⁋ Ad secundum dicitur quod 
+      compla<lb ed="#P" n="121" break="no"/>cere potest accipi pro omni velle respectu habiti 
+      <lb ed="#P" n="122"/>et sic non omne complacens delectat vel pro dele 
+      <lb ed="#P" n="123"/>ctari et tunc non omne amatum complacet.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e703">
+      ⁋ Ad  
+      <lb ed="#P" n="124"/>tertium negatur quod omnis amor amicitie vel 
+      con<lb ed="#P" n="125" break="no"/>cupiscentie distinctus a desiderio sit delectatio. 
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e710">
+               <lb ed="#P" n="126"/>⁋ Ad quartum dicitur ve complacentia sicut in 
+      se<lb ed="#P" n="127" break="no"/>cundo argumento et vno modo accipiendo que u 
+      <lb ed="#P" n="128"/>est delectatio et quedam non Aliomodo aliquis 
+      a<lb ed="#P" n="129" break="no"/>mor est complacentia et aliquis non.
+    </p>
+            <p xml:id="GHYaf3-d1e825-d1e721">
+      ⁋ Ad quintum 
+      <lb ed="#P" n="130"/>dicitur quod illa auctoritas non sufficienter diuidit amo 
+      <lb ed="#P" n="131"/>rem sed sufficit ad propositum suum quod voluit 
+      ostende<lb ed="#P" n="132" break="no"/>re contra quosdam dicentes nom amoris semper su 
+      <!--60.xml-->
+      <pb ed="#J" n="16-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>mi in malo contra quod diuidit amorem quadru 
+      <lb ed="#P" n="2"/>pliciter modo praedicto et cum processit in 
+      improba<lb ed="#P" n="3" break="no"/>tione illius opinionis secundum consuetudinem lo 
+      <lb ed="#P" n="4"/>quendi scripture et intulisset recta itaque voluntas 
+      <lb ed="#P" n="5"/>est bonus amor et voluntas peruersa malus amor 
+      <lb ed="#P" n="6"/>Et deinde diuisit amorem isto modo addidit simul 
+      <lb ed="#P" n="7"/>ista nulla voluntas recta est mala sed voluntas re 
+      <lb ed="#P" n="8"/>cta est aliquis amor igitur non omnis amor est ma 
+      <lb ed="#P" n="9"/>lus quod sibi sufficit ostendere. Qualiter autem 
+      <lb ed="#P" n="10"/>aliter possit dici ad dictas rationes dicit adam patet 
+      <lb ed="#P" n="11"/>ex dictis nec aliquod desiderium vindicte oritur ex 
+      <lb ed="#P" n="12"/>odio quin oriatur ex amore ad se ipsum et ad vin 
+      <lb ed="#P" n="13"/>dictam proximi licet talis amor sit quandoque inor 
+      <lb ed="#P" n="14"/>dinatus quandoque autem ordinatus cum est amor 
+      iu<lb ed="#P" n="15" break="no"/>sticie sic etiam dicitur quod omnis complacentia est 
+      <lb ed="#P" n="16"/>delectatio et quod visio amoris quam ponit augustinus 
+      <lb ed="#P" n="17"/>est simpliciter sufficiens.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

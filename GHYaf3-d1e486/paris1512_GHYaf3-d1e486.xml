@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#Wodeham">Adam Wodeham</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2021-03-03">March 3, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-03" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#Pa" n="8-v"/>
+            <cb ed="#Pa" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="GHYaf3-d1e486"><!-- GHYaf3-l1d1q1 -->
+            <head xml:id="GHYaf3-d1e486-Hd1e108">Quaestio 1</head>
+            <head xml:id="GHYaf3-d1e486-Hd1e111" type="question-title">
+      Utrum pro studio sacrae theologiae ex caritate procedente debeatur pro
+      mercede visio Dei et eius fruitio.
+    </head>
+            <p xml:id="GHYaf3-d1e486-d1e114">
+      <!--44.xml-->
+               <cb ed="#P" n="b"/>
+               <lb ed="#P" n="64"/>CIrca primam di 
+      <lb ed="#P" n="65"/>stinctionem vbi tractat magi 
+      <lb ed="#P" n="66"/>ster de frui et vti. Primo 
+      <lb ed="#P" n="67"/>quero pro solutione 
+      pleno<lb ed="#P" n="68" break="no"/>ri sexti et septimi dubii prin 
+      <lb ed="#P" n="69"/>questionis. Utrum pro 
+      stu<lb ed="#P" n="70" break="no"/>dio sacre theologie ex 
+      cha<lb ed="#P" n="71" break="no"/>ritate procedente debeatur pro 
+      <lb ed="#P" n="72"/>mercede visio dei et eius 
+      frui<lb ed="#P" n="73" break="no"/>tio
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e143">
+      quod non quia talis visio 
+      <lb ed="#P" n="74"/>esset perfectionis infinite alioquin visio boni 
+      fi<lb ed="#P" n="75" break="no"/>niti et visio boni infiniti ceteris paribus essent equa 
+      <lb ed="#P" n="76"/>les.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e152">
+      ⁋ Similiter arguitur quod dilectio fruitiua dei 
+      <lb ed="#P" n="77"/>sit perfectionis infinite. Arguitur sic sensui est a 
+      <lb ed="#P" n="78"/>deo obiectum summe proportionabile verbi gratia 
+      <lb ed="#P" n="79"/>lux vel color mediocris visui et ideo obiectum de 
+      <lb ed="#P" n="80"/>ficiens ab hac proportione vel excellens eam 
+      mi<lb ed="#P" n="81" break="no"/>nus perfecte capitur a potentia sensitiua. Simili 
+      <lb ed="#P" n="82"/>ter autem oportet esse de intellectu et eius obiecto 
+      <lb ed="#P" n="83"/>sed eius obiectum summe proportionatum est 
+      fi<lb ed="#P" n="84" break="no"/>nite bonum igitur obiectum infinitum scilicet deus cum 
+      <lb ed="#P" n="85"/>infinite recedit ab ista porportione non est intelli 
+      <lb ed="#P" n="86"/>gibile.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e177">
+      ⁋ Preterea fruitio dei causaret gaudium 
+      <lb ed="#P" n="87"/>infinitum quantum creatura non posset recipere 
+      <lb ed="#P" n="88"/>gitur. Antecedens probatur sicut in alio dubio. 
+      <lb ed="#P" n="89"/>sexto et septimo prime questionis.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e186">
+      ⁋ Contra tale 
+      <lb ed="#P" n="90"/>studium est meritorium vite eterne vt prius probatum 
+      <lb ed="#P" n="91"/>est igitur etc.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e193">
+      ⁋ Conclusio huius questionis satis 
+      cer<lb ed="#P" n="92" break="no"/>ta est ex primo articulo prime questionis.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e198">
+      ⁋ Pri 
+      <lb ed="#P" n="93"/>mus igitur articulus erit soluere prima duo 
+      argu<lb ed="#P" n="94" break="no"/>menta et precipue primum.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e205">
+      ⁋ Secundus soluere ter 
+      <lb ed="#P" n="95"/>tium.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e210">
+      ⁋ Ad primum dicitur quod procedit de obiectis me 
+      <lb ed="#P" n="96"/>re naturaliter concausantibus in intellectu suas vi 
+      <lb ed="#P" n="97"/>siones sed deus libere causat visionem sui sicut et 
+      <lb ed="#P" n="98"/>alias res ad extra.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e220">
+      ⁋ Ideo dicit Augustinus si vult vide 
+      <lb ed="#P" n="99"/>tur si non vult non videtur.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e225">
+      ⁋ Sed contra sit igitur 
+      <lb ed="#P" n="100"/>dei visio causata voluntarie in anima petri a. vel 
+      <lb ed="#P" n="101"/>ista est perfectionis finite vel infinite si primum ha 
+      <lb ed="#P" n="102"/>betur intentum si secundum tunc potest dari visio 
+      <lb ed="#P" n="103"/>angeli vel alterius creature perfectior visione 
+      <lb ed="#P" n="104"/>dei.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e238">
+      ⁋ Item nulla creatura potest tantam visionem 
+      <lb ed="#P" n="105"/>producere naturaliter quin deus libere possit 
+      pro<lb ed="#P" n="106" break="no"/>ducere maiorem igitur. per producere naturaliter 
+      <lb ed="#P" n="107"/>et libere non euaditur argumentum.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e247">
+      ⁋ Item si 
+      de<lb ed="#P" n="108" break="no"/>us causaret naturaliter visionem sui non posset 
+      <lb ed="#P" n="109"/>causare infinitam vel infinitas eo quod creatura 
+      illi<lb ed="#P" n="110" break="no"/>us vel illorum non esset capax et cum deus vltra 
+      <lb ed="#P" n="111"/>omnem creaturam in infinitum procedendo 
+      secun<lb ed="#P" n="112" break="no"/>dum duplum triplum etc. possit producere 
+      perfe<lb ed="#P" n="113" break="no"/>ctiorem sequitur quod possit dari creatura que mere 
+      <lb ed="#P" n="114"/>naturaliter agendo producat visionem perfectio 
+      <lb ed="#P" n="115"/>rem quam deus mere naturaliter agendo.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e267">
+      ⁋ Aliqui 
+      <lb ed="#P" n="116"/>dicunt quod visio dei sit infinite perfectionis non sic 
+      <lb ed="#P" n="117"/>quod infinitum excedat quodlibet indiuiduum finite 
+      <lb ed="#P" n="118"/>perfectionis eiusdem speciei sed sic est quod 
+      perfe<lb ed="#P" n="119" break="no"/>ctior est quam infinite visiones angeli vel 
+      quoruncum<lb ed="#P" n="120" break="no"/>que obiectorum aliorum a deo excedentes se secun 
+      <lb ed="#P" n="121"/>dum duplum triplum et sic in infinitum.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e283">
+      ⁋ Adam 
+      di<lb ed="#P" n="122" break="no"/>cit hoc non teneo quia non capio quod aliquid sit 
+      perfe<lb ed="#P" n="123" break="no"/>ctionis infinite quod non solum a deo sed ab indiuiduis 
+      <lb ed="#P" n="124"/>proprie speciei potest excedi secundum duplum et quamli 
+      <lb ed="#P" n="125"/>bet aliam proportionem determinatam sed sic est de 
+      <lb ed="#P" n="126"/>qualibet visione tali possibili haberi respectu dei igitur 
+      <lb ed="#P" n="127"/>etc.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e300">
+      ⁋ Item si talis visio esset finite perfectionis non 
+      <lb ed="#P" n="128"/>video quin in qualibet specie sic possit ascendi 
+      <!--45.xml-->
+      <pb ed="#J" n="9-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>secundum duplum triplum etc. in visionibus quod 
+      tan<lb ed="#P" n="2" break="no"/>dem et tandem dabitur visio equalis perfectionis 
+      <lb ed="#P" n="3"/>vel maioris cum visione dei data
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e318">
+      ⁋ Respondetur 
+      <lb ed="#P" n="4"/>igitur ad primum argumentum iuxta solutionem 
+      da<lb ed="#P" n="5" break="no"/>tam ad primum dubium prime questionis quod 
+      que<lb ed="#P" n="6" break="no"/>libet creatura rationalis est capacitatis finite 
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e327">
+               <lb ed="#P" n="7"/>⁋ Ideo datur maximus gradus visionis cuius 
+      ani<lb ed="#P" n="8" break="no"/>ma petri est capax sit gratia exempli talis vt 
+      mil<lb ed="#P" n="9" break="no"/>le tunc nullum obiectum quantecunque perfectionis 
+      <lb ed="#P" n="10"/>etiam naturaliter agens potest producere visionem 
+      <lb ed="#P" n="11"/>sue speciei in eadem anima perfectiorem seu 
+      melio<lb ed="#P" n="12" break="no"/>rem quam visio mille graduum in eadem specie et cum 
+      <lb ed="#P" n="13"/>deus etiam libere possit producere visionem mille 
+      <lb ed="#P" n="14"/>graduum in eadem anima patet quod nulla creatura 
+      <lb ed="#P" n="15"/>data vel dabilis potest producere naturaliter visio 
+      <lb ed="#P" n="16"/>nem perfectionem quo ad gradum quam deus sed 
+      mil<lb ed="#P" n="17" break="no"/>le gradus indiuiduales secundum intensionem in  
+      <lb ed="#P" n="18"/>specie nobiliori et respectu obiecti nobilioris sunt 
+      <lb ed="#P" n="19"/>nobiliores seu perfectius indiuiduum 
+      constituen<lb ed="#P" n="20" break="no"/>tes quam totidem speciei innobilioris. visio igitur mil 
+      <lb ed="#P" n="21"/>le graduum respectu dei est perfectior quam queuis 
+      <lb ed="#P" n="22"/>alia totidem graduum respectu alterius obiecti. 
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e364">
+               <lb ed="#P" n="23"/>⁋ Correlarium ceteris paribus ex parte intellectus et 
+      <lb ed="#P" n="24"/>certitudinis vel euidentie actuum et obiectorum 
+      <lb ed="#P" n="25"/>perceptorum. non oportet quod actus in eadem pro. 
+      <lb ed="#P" n="26"/>portione se excedant in qua obiecta quo ad perfe 
+      <lb ed="#P" n="27"/>ctionem specificam quia tunc visio mille graduum 
+      <lb ed="#P" n="28"/>respectu dei esset in infinitum perfectior visione 
+      <lb ed="#P" n="29"/>mille graduum respectu cuiuscunque obiecti 
+      crea<lb ed="#P" n="30" break="no"/>ti cuius oppositum patet ex iam dictis.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e384">
+      ⁋ Item si 
+      <lb ed="#P" n="31"/>cut patet ex dictis visio anime respectu dei que est 
+      <lb ed="#P" n="32"/>mille graduum est finite perfectionis secundum spe 
+      <lb ed="#P" n="33"/>ciem eo quod capacitas eius sit finita et etiam visio 
+      <lb ed="#P" n="34"/>albedinis totidem graduum est finite 
+      perfectio<lb ed="#P" n="35" break="no"/>nis secundum suam speciem. igitur si proportio 
+      vi<lb ed="#P" n="36" break="no"/>sionum quo ad perfectionem specificam esset secun 
+      <lb ed="#P" n="37"/>dum proportionem obiectorum ita quod obiecto in  
+      <lb ed="#P" n="38"/>duplo nobiliori corresponderet visio in duplo 
+      per<lb ed="#P" n="39" break="no"/>fectioritunc cum in infinitum possit procedi in 
+      ob<lb ed="#P" n="40" break="no"/>lecto creabili sic quod detur aliquod duple perfectio 
+      <lb ed="#P" n="41"/>nis ad albedinem et aliquod triple et sic sine statu 
+      se<lb ed="#P" n="42" break="no"/>quitur quod sit danda aliqua visio anime respectu 
+      crea<lb ed="#P" n="43" break="no"/>ture que sit perfectioris speciei quam visio respectu 
+      <lb ed="#P" n="44"/>dei. Etiam si deus mere naturaliter causaret 
+      visio<lb ed="#P" n="45" break="no"/>nem in anima adhuc esset finita quo ad perfectio 
+      <lb ed="#P" n="46"/>nem specificam propter finitatem capacitatis 
+      ani<lb ed="#P" n="47" break="no"/>merpatet igitur quod visio mille graduum respectu 
+      <lb ed="#P" n="48"/>dei est perfectior et nobilior perfectione intrinse 
+      <lb ed="#P" n="49"/>ca sue speciei quam aliqua visionum mere naturalituer 
+      <lb ed="#P" n="50"/>causabilium respectu obiector quorumcunque 
+      crea<lb ed="#P" n="51" break="no"/>torum vel creabilium.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e432">
+      ⁋ Unde dicendum est quod to 
+      <lb ed="#P" n="52"/>ta latitudo specierum visionis possibilium equa 
+      <lb ed="#P" n="53"/>lium semper graduum cuilibet in sua specie est sen 
+      <lb ed="#P" n="54"/>per finita ita quod summum gradum tenet visio 
+      ob<lb ed="#P" n="55" break="no"/>iecti infiniti et si naturaliter causaretur ab eo ad  
+      <lb ed="#P" n="56"/>huc esset finita visio secundum speciem: quia 
+      crea<lb ed="#P" n="57" break="no"/>tura rationalis non est mobilis visione perfectio 
+      <lb ed="#P" n="58"/>ri secundum speciem et sub isto gradu supremo om 
+      <lb ed="#P" n="59"/>nes visiones casbiles a creaturis continentur.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e453">
+      ⁋ E 
+      <lb ed="#P" n="60"/>eodem etiam sequitur quod totalis latitudo 
+      specifi<lb ed="#P" n="61" break="no"/>ca visionum quo ad sensum est finita.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e460">
+      ⁋ Et ideo non 
+      <lb ed="#P" n="62"/>sic vna excedit aliam sicut obiectum vnius 
+      obie<lb ed="#P" n="63" break="no"/>ctum alterius.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e467">
+      ⁋ Nec debet hoc mirabile videri 
+      <lb ed="#P" n="64"/>cum omnes visiones naturaliter possibiles ita 
+      <lb ed="#P" n="65"/>sint propinquarum specierum vt quiqui credant 
+      <lb ed="#P" n="66"/>et teneant quod omnes visiones possibiles haberi re¬ 
+      <!--45.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>spectu quorumcumque obiectorum etiam dei sit eiui 
+      <lb ed="#P" n="68"/>dem speciei specialissime.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e485">
+      ⁋ Sciendum circa dicia 
+      <lb ed="#P" n="69"/>quod si obiecta mere naturaliter producerent suas vi 
+      <lb ed="#P" n="70"/>siones in creatura rationali comprehensiue viden 
+      <lb ed="#P" n="71"/>ti quodlibet per suam visionem tunc eadem esset 
+      <lb ed="#P" n="72"/>proportio visionum et obiectorum et tunc visio 
+      <lb ed="#P" n="73"/>dei esset simpliciter infinita tam quo ad speciem 
+      <lb ed="#P" n="74"/>quam quo ad gradum sed ita non fit propter finitatem 
+      <lb ed="#P" n="75"/>capacitatis anime.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e503">
+      ⁋ Et ideo visio quam habet eti 
+      <lb ed="#P" n="76"/>am respectu dei est finita quo ad gradum 
+      indivi<lb ed="#P" n="77" break="no"/>dualem et quo ad perfectionem speciei.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e510">
+      ⁋ Et 
+      li<lb ed="#P" n="78" break="no"/>cet secundum legem ordinatam nulla creatura 
+      <lb ed="#P" n="79"/>possit causare visionem tam perfectam in 
+      spe<lb ed="#P" n="80" break="no"/>cie tamen absolute possibile foret quod deus daret 
+      <lb ed="#P" n="81"/>creature potestatem creandi talem speciem visio 
+      <lb ed="#P" n="82"/>nis effectiue impossibile tamen est simpliciter quod  
+      <lb ed="#P" n="83"/>aliqua creatura causet talem visionem mere 
+      na<lb ed="#P" n="84" break="no"/>turaliter obiectiue quia talis visio est visio obie 
+      <lb ed="#P" n="85"/>cti immensi igitur si esset causata a creatura obie 
+      <lb ed="#P" n="86"/>ctiue mere naturaliter cum nulla visio sit natura 
+      <lb ed="#P" n="87"/>liter mere visio alicuius nisi illius a quo est obie 
+      <lb ed="#P" n="88"/>ctiue naturaliter causata sequitur quod ipsa erit 
+      vi<lb ed="#P" n="89" break="no"/>sio creature tanquam obiecti immensi quod est impos 
+      <lb ed="#P" n="90"/>sibile.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e542">
+      ⁋ Contra dicta sint. a. et. b. equalia per 
+      om<lb ed="#P" n="91" break="no"/>nia tunc distincte et eque apprehensiue cognosce 
+      <lb ed="#P" n="92"/>re a. et. b. sunt duple perfectionis in cognoscendo  
+      <lb ed="#P" n="93"/>ad cognoscere precise a. igitur pari ratione sic co 
+      <lb ed="#P" n="94"/>gnoscere aliquod obiectum duple perfectionis 
+      <lb ed="#P" n="95"/>ad a. est duple perfectionis in cognoscendo et sic 
+      <lb ed="#P" n="96"/>arguitur de triplo etc. igitur clara dei visio cum 
+      <lb ed="#P" n="97"/>sit obiecti infiniti est in infinitum perfectior visio 
+      <lb ed="#P" n="98"/>quam cuiuscunque alterius obiecti.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e562">
+      ⁋ Preterea com 
+      <lb ed="#P" n="99"/>tra formam arguendi vnam prius positam 
+      angu<lb ed="#P" n="100" break="no"/>lus contingentie est finite acutiei eo quod per 
+      ma<lb ed="#P" n="101" break="no"/>iorationem circuli fit acutior et tamen non sequi 
+      <lb ed="#P" n="102"/>tur angulus rectilineus potest fieri in duplo acu 
+      <lb ed="#P" n="103"/>tior et in triplo et sic in infinitum igitur potest fie 
+      <lb ed="#P" n="104"/>ri acutior angulo contigentie pari ratione non 
+      va<lb ed="#P" n="105" break="no"/>let forma arguendi prius facta consimiliter de vi 
+      <lb ed="#P" n="106"/>sionibus.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e582">
+      ⁋ Respondetur ad primum dicendo quod con 
+      <lb ed="#P" n="107"/>paratio predicta potest intelligi vel oe visionibus me 
+      <lb ed="#P" n="108"/>re naturaliter causabilibus ab obiectis suis vel 
+      <lb ed="#P" n="109"/>supernaturaliter vel a solo deo vel aliter 
+      concau<lb ed="#P" n="110" break="no"/>sante quam communiter causabilibus in potentiis. Primo 
+      <lb ed="#P" n="111"/>modo ad comprehensiue videndum duo obiecta 
+      disti<lb ed="#P" n="112" break="no"/>cte non sufficit quod visio superioris sit causata in sua 
+      <lb ed="#P" n="113"/>specie seu tot graduum sue speciei sicut inferior in sua 
+      <lb ed="#P" n="114"/>quia si anima videret comprehensiue seipsam 
+      vi<lb ed="#P" n="115" break="no"/>sione decem graduum non tamen videret deum compre 
+      <lb ed="#P" n="116"/>hensiue visione decem graduum sue speciei ymo re 
+      <lb ed="#P" n="117"/>quiretur visio graduum infinitorum vel intensiue 
+      <lb ed="#P" n="118"/>imensa sed talis est creature impossibilis.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e611">
+      ⁋ Et ex 
+      <lb ed="#P" n="119"/>hoc patet solutio argumenti quia bene procedit 
+      <lb ed="#P" n="120"/>quando quodlibet obiectum haberet potentiam 
+      <lb ed="#P" n="121"/>sibi summe proportionatam.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e620">
+      ⁋ Unde non est mirum si 
+      <lb ed="#P" n="122"/>duplata tantum altera causa noticie non 
+      duple<lb ed="#P" n="123" break="no"/>tur noticia sed si dupletur procedit bene 
+      argu<lb ed="#P" n="124" break="no"/>mentum et eodum modo dicitur si 
+      supernaturali<lb ed="#P" n="125" break="no"/>ter causentur tales visiones.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e631">
+      ⁋ Et si arguatur ex quo  
+      <lb ed="#P" n="126"/>clara dei visio est finite nobilioris speciei etiam si est 
+      <lb ed="#P" n="127"/>naturaliter causata a deo quam sit visio naturaliter 
+      cau<lb ed="#P" n="128" break="no"/>sabilis in intellectu creato ab aliquam creatura et hoc 
+      <lb ed="#P" n="129"/>absolute in genere qualitatis cum igitur 
+      quamli<lb ed="#P" n="130" break="no"/>bet creaturam potest deus causare in duplo perfe 
+      <lb ed="#P" n="131"/>ctionem secundum speciem et in triplo etc. sequitur quod 
+      <lb ed="#P" n="132"/>deus possit causare in intellectu vnam visionem 
+      <lb ed="#P" n="133"/>c. ia 
+      <!--46.xml-->
+      <pb ed="#J" n="9-v"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>creature nobilionem secundum speciem et eiusdem quanti 
+      <lb ed="#P" n="2"/>tatis gradualis in sua specie quam sit visio clara sui et 
+      <lb ed="#P" n="3"/>dei.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e665">
+      ⁋ Adam dicit ad hoc respondendum mihi 
+      vi<lb ed="#P" n="4" break="no"/>detur sine omni assertione opinantium quod conclusio est 
+      <lb ed="#P" n="5"/>vera ad vnum intellectum scilicet sumendo 
+      ma<lb ed="#P" n="6" break="no"/>gis perfectum secundum intrisecam 
+      magnitudi<lb ed="#P" n="7" break="no"/>nem et perfectionem ad esse talis qualitatis et ta 
+      <lb ed="#P" n="8"/>men ad hunc eundem intellectum loquendo nor 
+      <lb ed="#P" n="9"/>potest deus causare aliquam tam nobilis speciei 
+      <lb ed="#P" n="10"/>respectu creature quin possit in centuplo perfectio 
+      <lb ed="#P" n="11"/>rem et plus secundum quancumque proportionem 
+      fini<lb ed="#P" n="12" break="no"/>tam aliquam causare respectu sui.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e687">
+      ⁋ Alio modo potest 
+      in<lb ed="#P" n="13" break="no"/>telligi vna noticia nobilior alia secundum denomina 
+      <lb ed="#P" n="14"/>tionem extrinsecam scilicet vel in relatione ad obiectum 
+      <lb ed="#P" n="15"/>vel ad subiectum vel ex hoc quod eque vel magis 
+      perfe<lb ed="#P" n="16" break="no"/>cte repraesentat obiectum sue potentie cognitiue.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e698">
+      ⁋ 
+      Pri<lb ed="#P" n="17" break="no"/>mo modo omnis visio dei cuiusctum que speciei possibilis est 
+      <lb ed="#P" n="18"/>in infinitum melior quacumque visione possibili respectu 
+      <lb ed="#P" n="19"/>creature si tamen eandem visionem deus conseruaret in anima 
+      <lb ed="#P" n="20"/>petri tanquam qualitatem absolutam sic quod non esset illi vi 
+      <lb ed="#P" n="21"/>sio dei vel non videret per eam deum tunc non esset 
+      <lb ed="#P" n="22"/>tante nobilitatis.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e714">
+      ⁋ Si fit comparatio ad subiectum 
+      <lb ed="#P" n="23"/>adhuc dico quod omnis clara visio dei in quacumque spe 
+      <lb ed="#P" n="24"/>cie possibili talium visionum est incomparabiliter suo 
+      <lb ed="#P" n="25"/>subiecto melior quacumque alia eiusdem quantitatis in 
+      <lb ed="#P" n="26"/>specie sua respectu creature quia qualibet talis est 
+      be<lb ed="#P" n="27" break="no"/>tifica per modum forme sui subiecti sed nulla est ta 
+      <lb ed="#P" n="28"/>lis respectu creature nec hoc est mirum quia modicum 
+      <lb ed="#P" n="29"/>aque plus valet sitienti quam totum aurum 
+      mundi<lb ed="#P" n="30" break="no"/>et tamen aurum in se plus valet mens autem in solo deo 
+      <lb ed="#P" n="31"/>quietatur.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e736">
+      ⁋ Comparando autem eas adinuicem 
+      pe<lb ed="#P" n="32" break="no"/>nes hoc quod vnam perfectius vel imperfectius excedat 
+      <lb ed="#P" n="33"/>vel deficit ab equata correspondentia comprehensiua 
+      <lb ed="#P" n="34"/>obiecti sui sic visio dei in infinitum est imperfectior quam 
+      <lb ed="#P" n="35"/>aliqua alia quia in infinitum ab illa proportione deficit 
+      <lb ed="#P" n="36"/>erga suum obiccetum quam habent alie erga sua obiecta. 
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e749">
+               <lb ed="#P" n="37"/>⁋ Sciendum tamen quod visio dei non est ex hoc minus 
+      <lb ed="#P" n="38"/>perfecte reprehensiua sui obiecti ipsi potentie quod 
+      <lb ed="#P" n="39"/>in infinitum deficit a comprehensiua representatione 
+      <lb ed="#P" n="40"/>sui obiecti sicut visio magni montis plus deficit a 
+      <lb ed="#P" n="41"/>comprehensiua representatione eius quam visio parui 
+      <lb ed="#P" n="42"/>c ollis a representatione comprehensiua ipsius stante 
+      <lb ed="#P" n="43"/>quod visio modotis perfectius et plus representat de 
+      modo<lb ed="#P" n="44" break="no"/>te quam alia de colle.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e770">
+      ⁋ Ad illud de angulo 
+      continen<lb ed="#P" n="45" break="no"/>tie premittitur primo quod licet angulus continentie 
+      <lb ed="#P" n="46"/>omni angulo rectilineo sit acutior non tamen 
+      mi<lb ed="#P" n="47" break="no"/>nor.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e779">
+      ⁋ Item in isto argumento de angulo continentie 
+      <lb ed="#P" n="48"/>itur ad minus sed in argumento de perfectione 
+      visio<lb ed="#P" n="49" break="no"/>num itur ad maius.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e786">
+      ⁋ Tunc dico quod licet angulus con 
+      <lb ed="#P" n="50"/>tinentie in infinitum sit acutior rectilineo cum sit solum 
+      <lb ed="#P" n="51"/>cir cunferentialiter diuisibilis et rectitudinaliter 
+      <lb ed="#P" n="52"/>indiuisibilis non tamen conceditur quod infinite excedat 
+      <lb ed="#P" n="53"/>in paruitate vel acutie angulum rectilineum quod  
+      <lb ed="#P" n="54"/>tamen oporteret si directe valeret ad probandunm 
+      <lb ed="#P" n="55"/>vnam intellectionem finitam excedere aliam infinite 
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e802">
+               <lb ed="#P" n="56"/>⁋ Unde si poneretur punctus indiuisibilis linea in 
+      <lb ed="#P" n="57"/>infinitum esset maior ipso accipiendo comparationem 
+      <lb ed="#P" n="58"/>proprie. Et si esset aliqua creatura perfectionis 
+      <lb ed="#P" n="59"/>indiuisibilis quelibet perfectionis finite istam ex 
+      <lb ed="#P" n="60"/>cederet in infinitum sic etiam inter illa quorum vnum 
+      <lb ed="#P" n="61"/>est indiuisibiliter aliquale et reliquum diuisibilitu 
+      <lb ed="#P" n="62"/>tale nulla est certa proportio secudum illud in quo sic 
+      <lb ed="#P" n="63"/>comparantur sed angulus continentie est rectitu 
+      <lb ed="#P" n="64"/>d inaliter indiuisibilis omnis autem acutus alte 
+      <lb ed="#P" n="65"/>rius speciei est rectitudinaliter diuisibilis sic 
+      ve<lb ed="#P" n="66" break="no"/>ro non est in exemplo dato igitur similitudo nulla 
+      <!--46.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>ad propositum.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e835">
+      ⁋ Unde patet quia omnia entia sunt 
+      <lb ed="#P" n="68"/>inter se comparabilia secundum aliquam 
+      perfe<lb ed="#P" n="69" break="no"/>ctionem vel secundum aliquod commune eis omne 
+      <lb ed="#P" n="70"/>enim ens est omni enti eque perfctum ens vel ma 
+      <lb ed="#P" n="71"/>gis vel minus et ita ve comparatione de quantitate 
+      <lb ed="#P" n="72"/>etc.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e848">
+      ⁋ Si autem alterum sit tale indiuisibiliter 
+      si<lb ed="#P" n="73" break="no"/>cut sphera tangit planum indiuisibile et planum tam 
+      <lb ed="#P" n="74"/>git ipsum diuisibiliter vel si vnum sit finite tale ei 
+      <lb ed="#P" n="75"/>aliud infinite sicut deus est infinite bonus et 
+      crea<lb ed="#P" n="76" break="no"/>tura finite hic licet sit vera comparatio non tamen 
+      <lb ed="#P" n="77"/>secundum proportionem finitam cum in nomine 
+      <lb ed="#P" n="78"/>equiuoco non fit comparatio. Ideo non dicimus 
+      <lb ed="#P" n="79"/>quod vox sit acutior cultello.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e867">
+      ⁋ Etiam aliquando est 
+      <lb ed="#P" n="80"/>certa causa quare secundum nomen generale non  
+      <lb ed="#P" n="81"/>sunt proprie comparationes sed talis causa non  
+      <lb ed="#P" n="82"/>est in proposito igitur.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e876">
+      ⁋ Ad secundum 
+      principa<lb ed="#P" n="83" break="no"/>le conceditur totum vsque ad vltimam illationem 
+      <lb ed="#P" n="84"/>non enim sequitur deus infinite excedit obiccetum 
+      <lb ed="#P" n="85"/>summe proportionatum intellectui ad 
+      compre<lb ed="#P" n="86" break="no"/>hensiuam visionem sui igitur deus non potest imme 
+      <lb ed="#P" n="87"/>diate videri a tali intellectu sed bene sequitur 
+      <lb ed="#P" n="88"/>quod visio possibilis haberi tali intellectui respectu 
+      <lb ed="#P" n="89"/>dei infiniti deficiat a visione summe adeouata et 
+      <lb ed="#P" n="90"/>proportionata vel comprehensiua talis obiecti et 
+      <lb ed="#P" n="91"/>hoc prius est concessum etc.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e898">
+      ⁋ Secundus articulus 
+      <lb ed="#P" n="92"/>Respondet ad tertium principale istius 
+      questio<lb ed="#P" n="93" break="no"/>nis quod fuit septimum dubium prime questionis 
+      <lb ed="#P" n="94"/>Et dicitur primo quod tristicia de estimatione pene 
+      <lb ed="#P" n="95"/>future diuturnioris bene est maior non tamen 
+      pro<lb ed="#P" n="96" break="no"/>cedit talis maioratio secundum partes eiusdem 
+      <lb ed="#P" n="97"/>quantitatis ideo non oportet quod ad estimationem pe 
+      <lb ed="#P" n="98"/>ne infinite causetur tristicia infinita.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e916">
+      ⁋ Sed contra 
+      <lb ed="#P" n="99"/>secundum rectam rationem terribile equale 
+      de<lb ed="#P" n="100" break="no"/>bet equaliter tristare et maius magis igitur pena 
+      <lb ed="#P" n="101"/>secundi dici tantam debet habere correspondentem tri 
+      <lb ed="#P" n="102"/>sticiam sicut primi et ita de tertio et quarto igitur 
+      <lb ed="#P" n="103"/>tristicia de pena duorum dierum debet esse dupla 
+      <lb ed="#P" n="104"/>ad tristiciam de pena vnius diei et tripla ad penam 
+      <lb ed="#P" n="105"/>trium dierum.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e934">
+      ⁋ Dices quod primum terribile 
+      com<lb ed="#P" n="106" break="no"/>ponitur ex duobus obiectis scilicet ex pena infligenda 
+      <lb ed="#P" n="107"/>que est per se terribilis et ex mora que non est per 
+      <lb ed="#P" n="108"/>se terribilis sed est circunstantia aggrauans timo 
+      <lb ed="#P" n="109"/>rem siue terrorem pro vt iungitur illi quod est per 
+      <lb ed="#P" n="110"/>se terribile et in secundo die non additur aliquid  
+      <lb ed="#P" n="111"/>per se terribile sed idem ponitur quod in primo 
+      <lb ed="#P" n="112"/>et ideo solum crescit terror quo ad circunstantiam 
+      <lb ed="#P" n="113"/>temporis igitur non in duplo.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e954">
+      ⁋ Sed contra tunc 
+      <lb ed="#P" n="114"/>si accipio gradum excessus qui precise correspon 
+      <lb ed="#P" n="115"/>det more diei secundi tunc tantus correspondebit diei 
+      <lb ed="#P" n="116"/>tertio et fic consequenter et sic stabit 
+      argumen<lb ed="#P" n="117" break="no"/>tum.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e966">
+      ⁋ Item si pena prime diei cessaret in fine diei 
+      <lb ed="#P" n="118"/>ita quod secundo die poneretur alia pena equalis et 
+      <lb ed="#P" n="119"/>similiter in tertio et sic consequenter tunc stabit 
+      <lb ed="#P" n="120"/>argumentum sed precise facit tantum eadem 
+      pe<lb ed="#P" n="121" break="no"/>na per totum durans quantum facerent omnes 
+      <lb ed="#P" n="122"/>pene sibi inuicem succedentes igitur.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e979">
+      ⁋ Aliter 
+      di<lb ed="#P" n="123" break="no"/>teretur quod talis tristicia non sit nisi habita 
+      cogni<lb ed="#P" n="124" break="no"/>tione de pena insligenda fta quod cognitio est partialis 
+      <lb ed="#P" n="125"/>cam respectu tristicie vel totalis sed quia infinitum est 
+      i<lb ed="#P" n="126" break="no"/>gnotum igitur nullus distincte apprehendit tantam penam du 
+      <lb ed="#P" n="127"/>ratiue infinitam igitur non causatur in eo nisi finita 
+      tristi<lb ed="#P" n="128" break="no"/>cia.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e995">
+      ⁋ Sed contra tunc aliquis posset secudum rectam 
+      <lb ed="#P" n="129"/>rationem plus dolere de pena temporali quam de eter 
+      <lb ed="#P" n="130"/>na sicut prius deductum est diceres licet mora cre 
+      <lb ed="#P" n="131"/>scat secundum partes equales non tamen ita crescit 
+      <lb ed="#P" n="132"/>cognitio distincta morarum quia indistinctius appre¬ 
+      <!--47.xml-->
+      <pb ed="#J" n="10-r"/>
+               <cb ed="#P" n="a"/>
+               <lb ed="#P" n="1"/>hendendo moram duorum dierum simul quam vnius tantum ideo 
+      <lb ed="#P" n="2"/>etiam crescit tristicia non secundum partes eiusdem quantitatis 
+      <lb ed="#P" n="3"/>sed eiusdem proportionis.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1019">
+      ⁋ Set hoc improbatur quia volo per  
+      <lb ed="#P" n="4"/>tes temporis addendas augetur quantum decrescit per 
+      <lb ed="#P" n="5"/>fectio cognitionis vel plus conseruet deus notici 
+      <lb ed="#P" n="6"/>as vel causas semper in gradu equal perfectionis 
+      <lb ed="#P" n="7"/>tunc homo rationabiliter plus tristaretur de 
+      infi<lb ed="#P" n="8" break="no"/>nita quam de quancumque finita.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1032">
+      ⁋ Aliter dicendum est quod 
+      <lb ed="#P" n="9"/>non ratioabiliter est plus dolendum de pena infligenda 
+      <lb ed="#P" n="10"/>per tempus infinitu quam per tempus finitum.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1039">
+      ⁋ Exemplum 
+      <lb ed="#P" n="11"/>ad hoc est quia non est grauius peccatum velle peccare mor 
+      <lb ed="#P" n="12"/>taliter per tempus ffinitum quam per vnum dien probatur 
+      <lb ed="#P" n="13"/>quia si solum circunstantia temporis aggrauaret peccatum 
+      <lb ed="#P" n="14"/>sequaretur quod aliqua pena demretur sibi pro vno die precise 
+      <lb ed="#P" n="15"/>igitur cum in tempore infinito sint infiniti dies respectu 
+      <lb ed="#P" n="16"/>quor ista volitiose habet equaliter sequitur quod cuili. 
+      <lb ed="#P" n="17"/>bet istor correspondebit pena equal a. et per consequens vo 
+      <lb ed="#P" n="18"/>lenti peccare per tempus infinitu dentur pena infinita. 
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1060">
+               <lb ed="#P" n="19"/>⁋ Cotra velle facere malum maius, scitum esse tale peius 
+      <lb ed="#P" n="20"/>est ceteris paribus quam velle facere minus malum. 
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1067">
+               <lb ed="#P" n="21"/>⁋ Sed quando aguter quod aliqua pena dentur sibi pro vna die 
+      <lb ed="#P" n="22"/>negatur quia actus volendi peccare per tempus infini 
+      <lb ed="#P" n="23"/>tum non est alicuius diei distincte actus sed est vna 
+      <lb ed="#P" n="24"/>volitio confusa omnim. Ideo pena precise 
+      correspon<lb ed="#P" n="25" break="no"/>debit alicui istorum sed omnibus correspondebit vna 
+      <lb ed="#P" n="26"/>pena.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1083">
+      ⁋ Aliter respondeo primo quod ista tristicia est 
+      <lb ed="#P" n="27"/>alterius speciei quam aliqua de pena finita sicut et eius est i 
+      <lb ed="#P" n="28"/>matio mediante qua canetur quae componitur ex conceptu 
+      <lb ed="#P" n="29"/>positiuo et negatiuo quia non habemus conceptum infiniti 
+      <lb ed="#P" n="30"/>moris addendo negationem mentalem positio conceptui 
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1094">
+               <lb ed="#P" n="31"/>⁋ Secundo dico quod quolibet gradus illius speciei est obiectiue 
+      <lb ed="#P" n="32"/>maior quam aliquis gradus tristicie alterius speciei de pena 
+      <lb ed="#P" n="33"/>finita ceteris paribus tamen gradus vnius speciei intrise 
+      <lb ed="#P" n="34"/>ce potest equalenter ade quari per gradum alterius speciei 
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1105">
+               <lb ed="#P" n="35"/>⁋ Tertio dico quod quanto hoc magis distincte appre 
+      <lb ed="#P" n="36"/>hendit huiusmodi penam tanto plus rationabiliter tristatur 
+      <lb ed="#P" n="37"/>tristicia intra illam speciem dato quod cause 
+      concurren<lb ed="#P" n="38" break="no"/>tes non sint alterius speciei quam priores.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1116">
+      ⁋ Ex hoc dicitur ad 
+      <lb ed="#P" n="39"/>argumentum negando quod ibi causetur tristicia infinita
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1122">
+      ⁋ Ad  
+      <lb ed="#P" n="40"/>probationem tunc aliquis rationabiliter tantum posset 
+      <lb ed="#P" n="41"/>tristari de pena finita sicut de infinita negatur 
+      con<lb ed="#P" n="42" break="no"/>sequentia vnde quanto magis aduertitur obiectum 
+      <lb ed="#P" n="43"/>illius tristicie tanto tristicia est maior.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1133">
+      ⁋ Ideo 
+      quan<lb ed="#P" n="44" break="no"/>tuncumque peueniri possit ad gradum tristicie respectu 
+      <lb ed="#P" n="45"/>pene temporalur intriusece equiualenter non tamen obiecti 
+      <lb ed="#P" n="46"/>ue.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1142">
+      ⁋ Etiam sicut continue crescit tristicia ex vna 
+      per<lb ed="#P" n="47" break="no"/>te ita et ex alia et ita numquam erunt equales intrisece 
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1147">
+               <lb ed="#P" n="48"/>⁋ Aliter potest responderi quod si stantibus canims proximis 
+      <lb ed="#P" n="49"/>adhuc contingenter et libere creatura potest casre tri 
+      <lb ed="#P" n="50"/>sticiam tunc non dictat ratio quod videns vel sciens 
+      infli<lb ed="#P" n="51" break="no"/>gendam penam sempiternam deant tristari quia hoc esset 
+      <lb ed="#P" n="52"/>addere penam pene quod tamen secundum rectam rationem 
+      <lb ed="#P" n="53"/>est fugiendum de sola autem culpa erga deum vel 
+      pro<lb ed="#P" n="54" break="no"/>ximum vel de miseria sui dolendum est vel etiam 
+      <lb ed="#P" n="55"/>de miseria aliena quando talis dolor potest esse me 
+      <lb ed="#P" n="56"/>ritorius vel ad merendum disponens.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1169">
+      ⁋ Sed tamen 
+      <lb ed="#P" n="57"/>per hoc non euaditur difficilis forma quin in multis 
+      <lb ed="#P" n="58"/>canibus habeat locum et precise de gaudio
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1176">
+      ⁋ Et etiam 
+      <lb ed="#P" n="59"/>si talis dolor vel gaudium causatur naturaliter ex 
+      <lb ed="#P" n="60"/>apprehensione bseantia vel mali vel complacentia vel displicentia 
+      <lb ed="#P" n="61"/>sicquod non est immediate in potestate hominis 
+      habe<lb ed="#P" n="62" break="no"/>re tristiciam vel gaudium tunc reducitur difficul 
+      <lb ed="#P" n="63"/>tas de tristicia infinita vel de gaudio infinito
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1190">
+      ⁋ Dicen 
+      <lb ed="#P" n="64"/>dum igitur quod in tali augmento de quo tangitur 
+      <lb ed="#P" n="65"/>argumento non itur ascendendo per partes equa 
+      <lb ed="#P" n="66"/>les nec per maiores qui solum tempus duplatur 
+      <!--47.xml-->
+      <cb ed="#P" n="b"/>
+               <lb ed="#P" n="67"/>quando cetera manent vniformia quae deberent ma 
+      <lb ed="#P" n="68"/>iorem dolorem causare.
+    </p>
+            <p xml:id="GHYaf3-d1e486-d1e1208">
+      ⁋ Ideo statim variatur 
+      <lb ed="#P" n="69"/>proportio sed si certitudo cognitionis et odium 
+      <lb ed="#P" n="70"/>natura fierent infinita sicut tempus creditur 
+      fo<lb ed="#P" n="71" break="no"/>re infinitum tunc sequeretur tristicia infinita mo 
+      <lb ed="#P" n="72"/>do non
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>
