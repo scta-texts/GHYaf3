@@ -1,277 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Collatio</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Collatio</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="1-r"/>
-            <cb ed="#Pa" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e3xx"><!-- GHYaf3-col -->
-            <head xml:id="GHYaf3-d1e3xx-Hd1e108">Collatio</head>
-            <p xml:id="GHYaf3-d1e3xx-d1e111">
-      
-      <!--29.xml-->
-               <pb ed="#Pa" n="1-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>Eta est enim lex 
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e122">
-               <lb ed="#Pa" n="2"/>⁋ Adam domine deus. Secundo 
-      <lb ed="#Pa" n="3"/>regum septimo. Mirari so 
-      <lb ed="#Pa" n="4"/>lent mundi sapientes et 
-      lu<lb ed="#Pa" n="5" break="no"/>cris tantum secularibus et commo 
-      <lb ed="#Pa" n="6"/>dis temponralibus ihiantes sacre 
-      <lb ed="#Pa" n="7"/>scripture deditos quos es 
-      <lb ed="#Pa" n="8"/>iudicant nescientes et fatuos 
-      <lb ed="#Pa" n="9"/>cur ita sollicite in hac scien 
-      <lb ed="#Pa" n="10"/>tia diuine legis cum fides sufficiat pro noticia 
-      ip<lb ed="#Pa" n="11" break="no"/>sorum iudicio inaniter occupant dies suos ex quo 
-      <lb ed="#Pa" n="12"/>per ipsum lucrari non potuerunt vt medici 
-      curan<lb ed="#Pa" n="13" break="no"/>do nec vt causidici placitando nec per sallaria pe 
-      <lb ed="#Pa" n="14"/>cunias colligendo sicut artiste grammatici et ope 
-      <lb ed="#Pa" n="15"/>rarii manuales nec pro obsequio causas consequen 
-      <lb ed="#Pa" n="16"/>do vt clerici curiales vt quidigitur. Ita karissimi de 
-      <lb ed="#Pa" n="17"/>theologis sapientia huius mundi quae est stulticia apud de 
-      <lb ed="#Pa" n="18"/>um iudicant sed dei sapientia aliter loquitur per 
-      psalmi<lb ed="#Pa" n="19" break="no"/>siam.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e164">
-      ⁋ Deatus vir qui non abiit in consilio impior. sed in 
-      le<lb ed="#Pa" n="20" break="no"/>ge dni voluntas eius et in lege eius meditabitur die ac 
-      <lb ed="#Pa" n="21"/>nocte. Talis enim meditatio est sanctissima occupa 
-      <lb ed="#Pa" n="22"/>tio et tale studium valde meritoria operatio cum ad  
-      <lb ed="#Pa" n="23"/>hoc eligitur atque suscipitur vt deus feruentius diligatur 
-      <lb ed="#Pa" n="24"/>et amor proximi nutriatur et spes salutis augeatur 
-      <lb ed="#Pa" n="25"/>vt anima pascatur et crebris consolationibus spiritus repleat 
-      <lb ed="#Pa" n="26"/>et spiritus angelici nobis studentibus et legentibus 
-      as<lb ed="#Pa" n="27" break="no"/>sistant auxilia ferant et assistentes diuinis collodis 
-      <lb ed="#Pa" n="28"/>reficiantur et ex opposito demones confundantur que  
-      <lb ed="#Pa" n="29"/>multi probari possent testimoniis.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e188">
-      ⁋ Si prolixitas 
-      <lb ed="#Pa" n="30"/>non obstaret ex quibus probatis satis pateret 
-      stu<lb ed="#Pa" n="31" break="no"/>dium sacre scripture esse meritorium et summe pro 
-      <lb ed="#Pa" n="32"/>ficuum inter omna studia et non esse superfiuum et 
-      i<lb ed="#Pa" n="33" break="no"/>ane.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e200">
-      ⁋ Ista enim est lex adam domine deus lex diuine in  
-      <lb ed="#Pa" n="34"/>structionis lex humane eruditionis quia lex adam ce 
-      <lb ed="#Pa" n="35"/>lestis lex.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e207">
-      ⁋ Adam terrestris de quibus prima coritum 
-      <lb ed="#Pa" n="36"/>xv. factus est primus adam in animam viuentem no 
-      <lb ed="#Pa" n="37"/>uissimus adam in spisum viuificantem primus deterra ter 
-      <lb ed="#Pa" n="38"/>renus. secundus de celo celestis. hec est vtriusque lex 
-      <lb ed="#Pa" n="39"/>quia lex domini immaculata conuertens animas 
-      testi<lb ed="#Pa" n="40" break="no"/>monium. d. fi. sa. prestans paruulis.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e220">
-      ⁋ Ista ergo est 
-      <lb ed="#Pa" n="41"/>lex adam domine deus.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e225">
-      ⁋ In quibus verbis sacre 
-      <lb ed="#Pa" n="42"/>scripture in generali et libri sententiarum in specia 
-      <lb ed="#Pa" n="43"/>li causam quadruplicem videtur annuere istud the 
-      <lb ed="#Pa" n="44"/>ma dum tangit obiectum effectum modum et fructum 
-      <lb ed="#Pa" n="45"/>effectum potentie obiectum noticie modum for 
-      <lb ed="#Pa" n="46"/>malem et fructum finalem effectum potentie in 
-      existem<lb ed="#Pa" n="47" break="no"/>tia designata.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e241">
-      ⁋ Ista est obiectum noticie in 
-      subsi<lb ed="#Pa" n="48" break="no"/>stentia designata.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e246">
-      ⁋ Adam modum formalem in 
-      le<lb ed="#Pa" n="49" break="no"/>gis qualitate lex et fructum finalem in dei bonitate 
-      <lb ed="#Pa" n="50"/>domine deus.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e254">
-      ⁋ Ista enim est lex adam domine deus tangit 
-      <lb ed="#Pa" n="51"/>inquam primo effectum potentie in existentia designata 
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e259">
-               <lb ed="#Pa" n="52"/>⁋ Tum quia pronomen demonstratiuum notat 
-      singu<lb ed="#Pa" n="53" break="no"/>laritatem et actiones sunt singularium et circa 
-      singu<lb ed="#Pa" n="54" break="no"/>laria primo methaphisices.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e268">
-      ⁋ Tum quia esse appetunt omnia 
-      <lb ed="#Pa" n="55"/>secuduo de anima et causa illius agunt quacunque agunt 
-      qua<lb ed="#Pa" n="56" break="no"/>tenus ipso semper et diuine essentie et diuino esse 
-      <lb ed="#Pa" n="57"/>participant secundum quod possunt et bene notatur 
-      <lb ed="#Pa" n="58"/>existentia singularis designata. Tum ratione ipsat 
-      <lb ed="#Pa" n="59"/>contemplantis. Tum ratione ipsam recitantis. tu 
-      <lb ed="#Pa" n="60"/>ratione ipsam inspirantis. tum ratione ipsam pro 
-      <lb ed="#Pa" n="61"/>mulgantis eius inspirator est deus. bar. ca. iil. hic est 
-      <lb ed="#Pa" n="62"/>deus noster et non estimabitur alius ad illum. hic ad 
-      <lb ed="#Pa" n="63"/>inuenit omnem viam discipline et ex hoc eius inuem 
-      <!--29.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="64"/>tore et auctore principali ipsum desuper inspirantem qui 
-      <lb ed="#Pa" n="65"/>dicit exo. i.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e299">
-      ⁋ Ego sum qui sum et qui misit me ad vos 
-      <lb ed="#Pa" n="66"/>ifallibilem et imperturbabilem continet veritatem 
-      <lb ed="#Pa" n="67"/>et non est in illa sed est in ista est secunde corithios primo ca. 
-      <lb ed="#Pa" n="68"/>Unde loquitur augustinus contra faustum sic inquit extat 
-      <lb ed="#Pa" n="69"/>auctoritas scripturarum noui et veteris testamenti 
-      <lb ed="#Pa" n="70"/>cui omnis fidelis et pius subseruiat intellectus ibi 
-      <lb ed="#Pa" n="71"/>inquit nihil absurdum inuenitur ibi non licet dicere 
-      <lb ed="#Pa" n="72"/>auctor huius rei non tenuit veritatem. sed aut codex 
-      <lb ed="#Pa" n="73"/>mendosus est aut interpres errauit aut tu non intelligis 
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e319">
-               <lb ed="#Pa" n="74"/>⁋ Et hugo disdasta ca. iil. eloquia diuina sola sunt aliter 
-      <lb ed="#Pa" n="75"/>ena a falsitatis contagione.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e326">
-      ⁋ So bene dicitur ecclesia. xxiiii. 
-      <lb ed="#Pa" n="76"/>hec omnia liber vite et testametum altissimi et cognitio 
-      <lb ed="#Pa" n="77"/>veritatis et hec ratio qui ipsum altissimus inspirauit 
-      <lb ed="#Pa" n="78"/>eius promulgator erat legis lator Christus vel moyses 
-      <lb ed="#Pa" n="79"/>et eius quilibet predicator eius compilator quae ad librum 
-      <lb ed="#Pa" n="80"/>sententiarum extat ma. petrus qui sacram theologiam 
-      <lb ed="#Pa" n="81"/>per infinita dispersam volumina ad certos redigens 
-      <lb ed="#Pa" n="82"/>titulos prior sententias collegit et posterioribus viam 
-      <lb ed="#Pa" n="83"/>dedit et eius recitator est omnis eius lector. Ex 
-      qui<lb ed="#Pa" n="84" break="no"/>bus vnus est hic discipulus ille qui testimonium perhibet 
-      <lb ed="#Pa" n="85"/>de his. i0. xxi.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e351">
-      ⁋ Ista est enim lex Ad am domine deus secundo  
-      <lb ed="#Pa" n="86"/>principaliter tangitur in themate modus formalis in  
-      <lb ed="#Pa" n="87"/>legis qualitate.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e358">
-      ⁋ Ista est enim lex Adam legis autem 
-      <lb ed="#Pa" n="88"/>qualitas est mira formositas. Nam si est lex iusta est 
-      <lb ed="#Pa" n="89"/>vel iusta. Unde augustinus de. li. arti. ca. primo lex 
-      mi<lb ed="#Pa" n="90" break="no"/>hi esse non videtur quae iusta non fuerit quinto autem 
-      ethi<lb ed="#Pa" n="91" break="no"/>corum dicitur catul tertio preclarissima virtutum 
-      vi<lb ed="#Pa" n="92" break="no"/>detur esse iusticia et neque hesperus neque lucifer tan 
-      <lb ed="#Pa" n="93"/>admirabilis potest aut sacra scriptura in sententiis 
-      <lb ed="#Pa" n="94"/>recollecta dici lex pro eo quod ligat et legitur a 
-      li<lb ed="#Pa" n="95" break="no"/>gando lex nature a legando lex scripture a liberam 
-      <lb ed="#Pa" n="96"/>do lex gratie a leuando lex glorie. Nam sacrascriptura 
-      <lb ed="#Pa" n="97"/>est ignea lex. lex dicitur quia nos refrenando ligat ignea 
-      <lb ed="#Pa" n="98"/>quia ad amorem creatoris inflamat vt dicit richardus 
-      <lb ed="#Pa" n="99"/>super apo. li. secundo. vnde bar iiu. Hic est liber mandato 
-      <lb ed="#Pa" n="100"/>rum dei et lex quae est ineternum omnes qui eam ad vitam qui 
-      au<lb ed="#Pa" n="101" break="no"/>tem reliquunt eam ad mortem.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e391">
-      ⁋ Tertio 
-      princi<lb ed="#Pa" n="102" break="no"/>paliter huius noticie tangitur obiectum expressa 
-      <lb ed="#Pa" n="103"/>subsistentia nominatim cum dicitur Ad am. Ista est enim 
-      <lb ed="#Pa" n="104"/>lex Adam. lex diuine generationis lex huane 
-      procrea<lb ed="#Pa" n="105" break="no"/>tionis lex diuine incarnationis lex humane 
-      restaura<lb ed="#Pa" n="106" break="no"/>tionis nam verbi emanatio secundi adam ad librum 
-      <lb ed="#Pa" n="107"/>spectat primum et congruit orienti hominis plasmatio 
-      <lb ed="#Pa" n="108"/>et primi adam ad secundum et congruit occidenti verbi incar 
-      <lb ed="#Pa" n="109"/>natio pertinet ad tertium et congruit austro hominis cura 
-      <lb ed="#Pa" n="110"/>tio primi.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e413">
-      ⁋ Adam pertinet ad quartum et congruit aqloni 
-      <lb ed="#Pa" n="111"/>nam dicit papias quod adam in iiii. grecis iatis isumse. princi 
-      <lb ed="#Pa" n="112"/>pia verbor grecor signat.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e420">
-      ⁋ Anastole dyas arthos 
-      <lb ed="#Pa" n="113"/>messembam id est orientis occidentis septentrionis et 
-      me<lb ed="#Pa" n="114" break="no"/>ridionis quod alius grammaticus ita describit anatele 
-      <lb ed="#Pa" n="115"/>dedit a disis. d. cotulit arthos a messembria in 
-      col<lb ed="#Pa" n="116" break="no"/>lige fiet adam.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e431">
-      ⁋ Sicut enim celum quantum ad  
-      <lb ed="#Pa" n="117"/>primum super orientem semper emergit et oritur sic pater 
-      <lb ed="#Pa" n="118"/>innascibilis natura semper pululans indesignenter 
-      <lb ed="#Pa" n="119"/>gignit filium deum de deo lumen de lumine hoc lumen 
-      <lb ed="#Pa" n="120"/>ideficiens ex patre semper nascitur tanquam splendor de 
-      <lb ed="#Pa" n="121"/>gloria et candor de luce et ars de artifice et vetus 
-      <lb ed="#Pa" n="122"/>de opifice paterne proles fecunditati ymago patris 
-      <lb ed="#Pa" n="123"/>spiritus patris pater matre trinitatis nam Adam maximus 
-      <lb ed="#Pa" n="124"/>ibi inter enathum versitus est iosue. ix id est dei filius 
-      qui<lb ed="#Pa" n="125" break="no"/>est duobus antedictis maximus adam inter patrem 
-      <lb ed="#Pa" n="126"/>ti scilicet gignitur et spirat mediat per originem sed plura 
-      <lb ed="#Pa" n="127"/>liter loqi sicut notat enachim potentes tribiles ac 
-      <!--30.xml-->
-      <pb ed="#Pa" n="1-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>robustos vt sic oe primo libro qui verbi ex patre eternam 
-      <lb ed="#Pa" n="2"/>originem prosequitur dici possit illud genesis quinto hic 
-      <lb ed="#Pa" n="3"/>est liber generationis adam.
-    </p>
-            <p xml:id="GHYaf3-d1e3xx-d1e471">
-      ⁋ Pro libris sequentibus 
-      <lb ed="#Pa" n="4"/>ista vice adaptare congruentias praetermitto. Quarto 
-      <lb ed="#Pa" n="5"/>principaliter tangitur fructus finalis huius noticie qui 
-      es<lb ed="#Pa" n="6" break="no"/>dei bonitas et finis finium vltimatus domine deus qui 
-      <lb ed="#Pa" n="7"/>iuxta quaeduplicem conditionem finalis beatitudis summe 
-      <lb ed="#Pa" n="8"/>est admirabilis summe delectabilis summe amabilis 
-      <lb ed="#Pa" n="9"/>et summe perdurabilis et quia sic admirabilis ideo afficiens 
-      <lb ed="#Pa" n="10"/>vt beatifice videatur quia sic amabilis quia sic aliciens vt 
-      <lb ed="#Pa" n="11"/>spontanee diligatur quia sic delectabilis Io reficiens ide 
-      <lb ed="#Pa" n="12"/>iuauitur hauriatur et quia sic perdurabilis ideo sufficiens 
-      <lb ed="#Pa" n="13"/>vt pehennitur teneatur et mathei cat.l. primo domine deus omnium 
-      <lb ed="#Pa" n="14"/>creator terribilis fortis iustus et misericors qui solius 
-      <lb ed="#Pa" n="15"/>es bonus solius rex solius prestans solus iustus ompes et 
-      <lb ed="#Pa" n="16"/>eternus qui.
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Collatio</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Collatio</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="1-r"/>
+        <cb ed="#Pa" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e3xx"><!-- GHYaf3-col -->
+        <head xml:id="GHYaf3-d1e3xx-Hd1e108">Collatio</head>
+        <p xml:id="GHYaf3-d1e3xx-d1e111">
+          
+          <!--29.xml-->
+          <pb ed="#Pa" n="1-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>Eta est enim lex 
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e122">
+          <lb ed="#Pa" n="2"/>⁋ Adam domine deus. Secundo 
+          <lb ed="#Pa" n="3"/>regum septimo. Mirari so 
+          <lb ed="#Pa" n="4"/>lent mundi sapientes et 
+          lu<lb ed="#Pa" n="5" break="no"/>cris tantum secularibus et commo 
+          <lb ed="#Pa" n="6"/>dis temponralibus ihiantes sacre 
+          <lb ed="#Pa" n="7"/>scripture deditos quos es 
+          <lb ed="#Pa" n="8"/>iudicant nescientes et fatuos 
+          <lb ed="#Pa" n="9"/>cur ita sollicite in hac scien 
+          <lb ed="#Pa" n="10"/>tia diuine legis cum fides sufficiat pro noticia 
+          ip<lb ed="#Pa" n="11" break="no"/>sorum iudicio inaniter occupant dies suos ex quo 
+          <lb ed="#Pa" n="12"/>per ipsum lucrari non potuerunt vt medici 
+          curan<lb ed="#Pa" n="13" break="no"/>do nec vt causidici placitando nec per sallaria pe 
+          <lb ed="#Pa" n="14"/>cunias colligendo sicut artiste grammatici et ope 
+          <lb ed="#Pa" n="15"/>rarii manuales nec pro obsequio causas consequen 
+          <lb ed="#Pa" n="16"/>do vt clerici curiales vt quidigitur. Ita karissimi de 
+          <lb ed="#Pa" n="17"/>theologis sapientia huius mundi quae est stulticia apud de 
+          <lb ed="#Pa" n="18"/>um iudicant sed dei sapientia aliter loquitur per 
+          psalmi<lb ed="#Pa" n="19" break="no"/>siam.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e164">
+          ⁋ Deatus vir qui non abiit in consilio impior. sed in 
+          le<lb ed="#Pa" n="20" break="no"/>ge dni voluntas eius et in lege eius meditabitur die ac 
+          <lb ed="#Pa" n="21"/>nocte. Talis enim meditatio est sanctissima occupa 
+          <lb ed="#Pa" n="22"/>tio et tale studium valde meritoria operatio cum ad  
+          <lb ed="#Pa" n="23"/>hoc eligitur atque suscipitur vt deus feruentius diligatur 
+          <lb ed="#Pa" n="24"/>et amor proximi nutriatur et spes salutis augeatur 
+          <lb ed="#Pa" n="25"/>vt anima pascatur et crebris consolationibus spiritus repleat 
+          <lb ed="#Pa" n="26"/>et spiritus angelici nobis studentibus et legentibus 
+          as<lb ed="#Pa" n="27" break="no"/>sistant auxilia ferant et assistentes diuinis collodis 
+          <lb ed="#Pa" n="28"/>reficiantur et ex opposito demones confundantur que  
+          <lb ed="#Pa" n="29"/>multi probari possent testimoniis.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e188">
+          ⁋ Si prolixitas 
+          <lb ed="#Pa" n="30"/>non obstaret ex quibus probatis satis pateret 
+          stu<lb ed="#Pa" n="31" break="no"/>dium sacre scripture esse meritorium et summe pro 
+          <lb ed="#Pa" n="32"/>ficuum inter omna studia et non esse superfiuum et 
+          i<lb ed="#Pa" n="33" break="no"/>ane.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e200">
+          ⁋ Ista enim est lex adam domine deus lex diuine in  
+          <lb ed="#Pa" n="34"/>structionis lex humane eruditionis quia lex adam ce 
+          <lb ed="#Pa" n="35"/>lestis lex.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e207">
+          ⁋ Adam terrestris de quibus prima coritum 
+          <lb ed="#Pa" n="36"/>xv. factus est primus adam in animam viuentem no 
+          <lb ed="#Pa" n="37"/>uissimus adam in spisum viuificantem primus deterra ter 
+          <lb ed="#Pa" n="38"/>renus. secundus de celo celestis. hec est vtriusque lex 
+          <lb ed="#Pa" n="39"/>quia lex domini immaculata conuertens animas 
+          testi<lb ed="#Pa" n="40" break="no"/>monium. d. fi. sa. prestans paruulis.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e220">
+          ⁋ Ista ergo est 
+          <lb ed="#Pa" n="41"/>lex adam domine deus.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e225">
+          ⁋ In quibus verbis sacre 
+          <lb ed="#Pa" n="42"/>scripture in generali et libri sententiarum in specia 
+          <lb ed="#Pa" n="43"/>li causam quadruplicem videtur annuere istud the 
+          <lb ed="#Pa" n="44"/>ma dum tangit obiectum effectum modum et fructum 
+          <lb ed="#Pa" n="45"/>effectum potentie obiectum noticie modum for 
+          <lb ed="#Pa" n="46"/>malem et fructum finalem effectum potentie in 
+          existem<lb ed="#Pa" n="47" break="no"/>tia designata.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e241">
+          ⁋ Ista est obiectum noticie in 
+          subsi<lb ed="#Pa" n="48" break="no"/>stentia designata.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e246">
+          ⁋ Adam modum formalem in 
+          le<lb ed="#Pa" n="49" break="no"/>gis qualitate lex et fructum finalem in dei bonitate 
+          <lb ed="#Pa" n="50"/>domine deus.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e254">
+          ⁋ Ista enim est lex adam domine deus tangit 
+          <lb ed="#Pa" n="51"/>inquam primo effectum potentie in existentia designata 
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e259">
+          <lb ed="#Pa" n="52"/>⁋ Tum quia pronomen demonstratiuum notat 
+          singu<lb ed="#Pa" n="53" break="no"/>laritatem et actiones sunt singularium et circa 
+          singu<lb ed="#Pa" n="54" break="no"/>laria primo methaphisices.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e268">
+          ⁋ Tum quia esse appetunt omnia 
+          <lb ed="#Pa" n="55"/>secuduo de anima et causa illius agunt quacunque agunt 
+          qua<lb ed="#Pa" n="56" break="no"/>tenus ipso semper et diuine essentie et diuino esse 
+          <lb ed="#Pa" n="57"/>participant secundum quod possunt et bene notatur 
+          <lb ed="#Pa" n="58"/>existentia singularis designata. Tum ratione ipsat 
+          <lb ed="#Pa" n="59"/>contemplantis. Tum ratione ipsam recitantis. tu 
+          <lb ed="#Pa" n="60"/>ratione ipsam inspirantis. tum ratione ipsam pro 
+          <lb ed="#Pa" n="61"/>mulgantis eius inspirator est deus. bar. ca. iil. hic est 
+          <lb ed="#Pa" n="62"/>deus noster et non estimabitur alius ad illum. hic ad 
+          <lb ed="#Pa" n="63"/>inuenit omnem viam discipline et ex hoc eius inuem 
+          <!--29.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="64"/>tore et auctore principali ipsum desuper inspirantem qui 
+          <lb ed="#Pa" n="65"/>dicit exo. i.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e299">
+          ⁋ Ego sum qui sum et qui misit me ad vos 
+          <lb ed="#Pa" n="66"/>ifallibilem et imperturbabilem continet veritatem 
+          <lb ed="#Pa" n="67"/>et non est in illa sed est in ista est secunde corithios primo ca. 
+          <lb ed="#Pa" n="68"/>Unde loquitur augustinus contra faustum sic inquit extat 
+          <lb ed="#Pa" n="69"/>auctoritas scripturarum noui et veteris testamenti 
+          <lb ed="#Pa" n="70"/>cui omnis fidelis et pius subseruiat intellectus ibi 
+          <lb ed="#Pa" n="71"/>inquit nihil absurdum inuenitur ibi non licet dicere 
+          <lb ed="#Pa" n="72"/>auctor huius rei non tenuit veritatem. sed aut codex 
+          <lb ed="#Pa" n="73"/>mendosus est aut interpres errauit aut tu non intelligis 
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e319">
+          <lb ed="#Pa" n="74"/>⁋ Et hugo disdasta ca. iil. eloquia diuina sola sunt aliter 
+          <lb ed="#Pa" n="75"/>ena a falsitatis contagione.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e326">
+          ⁋ So bene dicitur ecclesia. xxiiii. 
+          <lb ed="#Pa" n="76"/>hec omnia liber vite et testametum altissimi et cognitio 
+          <lb ed="#Pa" n="77"/>veritatis et hec ratio qui ipsum altissimus inspirauit 
+          <lb ed="#Pa" n="78"/>eius promulgator erat legis lator Christus vel moyses 
+          <lb ed="#Pa" n="79"/>et eius quilibet predicator eius compilator quae ad librum 
+          <lb ed="#Pa" n="80"/>sententiarum extat ma. petrus qui sacram theologiam 
+          <lb ed="#Pa" n="81"/>per infinita dispersam volumina ad certos redigens 
+          <lb ed="#Pa" n="82"/>titulos prior sententias collegit et posterioribus viam 
+          <lb ed="#Pa" n="83"/>dedit et eius recitator est omnis eius lector. Ex 
+          qui<lb ed="#Pa" n="84" break="no"/>bus vnus est hic discipulus ille qui testimonium perhibet 
+          <lb ed="#Pa" n="85"/>de his. i0. xxi.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e351">
+          ⁋ Ista est enim lex Ad am domine deus secundo  
+          <lb ed="#Pa" n="86"/>principaliter tangitur in themate modus formalis in  
+          <lb ed="#Pa" n="87"/>legis qualitate.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e358">
+          ⁋ Ista est enim lex Adam legis autem 
+          <lb ed="#Pa" n="88"/>qualitas est mira formositas. Nam si est lex iusta est 
+          <lb ed="#Pa" n="89"/>vel iusta. Unde augustinus de. li. arti. ca. primo lex 
+          mi<lb ed="#Pa" n="90" break="no"/>hi esse non videtur quae iusta non fuerit quinto autem 
+          ethi<lb ed="#Pa" n="91" break="no"/>corum dicitur catul tertio preclarissima virtutum 
+          vi<lb ed="#Pa" n="92" break="no"/>detur esse iusticia et neque hesperus neque lucifer tan 
+          <lb ed="#Pa" n="93"/>admirabilis potest aut sacra scriptura in sententiis 
+          <lb ed="#Pa" n="94"/>recollecta dici lex pro eo quod ligat et legitur a 
+          li<lb ed="#Pa" n="95" break="no"/>gando lex nature a legando lex scripture a liberam 
+          <lb ed="#Pa" n="96"/>do lex gratie a leuando lex glorie. Nam sacrascriptura 
+          <lb ed="#Pa" n="97"/>est ignea lex. lex dicitur quia nos refrenando ligat ignea 
+          <lb ed="#Pa" n="98"/>quia ad amorem creatoris inflamat vt dicit richardus 
+          <lb ed="#Pa" n="99"/>super apo. li. secundo. vnde bar iiu. Hic est liber mandato 
+          <lb ed="#Pa" n="100"/>rum dei et lex quae est ineternum omnes qui eam ad vitam qui 
+          au<lb ed="#Pa" n="101" break="no"/>tem reliquunt eam ad mortem.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e391">
+          ⁋ Tertio 
+          princi<lb ed="#Pa" n="102" break="no"/>paliter huius noticie tangitur obiectum expressa 
+          <lb ed="#Pa" n="103"/>subsistentia nominatim cum dicitur Ad am. Ista est enim 
+          <lb ed="#Pa" n="104"/>lex Adam. lex diuine generationis lex huane 
+          procrea<lb ed="#Pa" n="105" break="no"/>tionis lex diuine incarnationis lex humane 
+          restaura<lb ed="#Pa" n="106" break="no"/>tionis nam verbi emanatio secundi adam ad librum 
+          <lb ed="#Pa" n="107"/>spectat primum et congruit orienti hominis plasmatio 
+          <lb ed="#Pa" n="108"/>et primi adam ad secundum et congruit occidenti verbi incar 
+          <lb ed="#Pa" n="109"/>natio pertinet ad tertium et congruit austro hominis cura 
+          <lb ed="#Pa" n="110"/>tio primi.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e413">
+          ⁋ Adam pertinet ad quartum et congruit aqloni 
+          <lb ed="#Pa" n="111"/>nam dicit papias quod adam in iiii. grecis iatis isumse. princi 
+          <lb ed="#Pa" n="112"/>pia verbor grecor signat.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e420">
+          ⁋ Anastole dyas arthos 
+          <lb ed="#Pa" n="113"/>messembam id est orientis occidentis septentrionis et 
+          me<lb ed="#Pa" n="114" break="no"/>ridionis quod alius grammaticus ita describit anatele 
+          <lb ed="#Pa" n="115"/>dedit a disis. d. cotulit arthos a messembria in 
+          col<lb ed="#Pa" n="116" break="no"/>lige fiet adam.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e431">
+          ⁋ Sicut enim celum quantum ad  
+          <lb ed="#Pa" n="117"/>primum super orientem semper emergit et oritur sic pater 
+          <lb ed="#Pa" n="118"/>innascibilis natura semper pululans indesignenter 
+          <lb ed="#Pa" n="119"/>gignit filium deum de deo lumen de lumine hoc lumen 
+          <lb ed="#Pa" n="120"/>ideficiens ex patre semper nascitur tanquam splendor de 
+          <lb ed="#Pa" n="121"/>gloria et candor de luce et ars de artifice et vetus 
+          <lb ed="#Pa" n="122"/>de opifice paterne proles fecunditati ymago patris 
+          <lb ed="#Pa" n="123"/>spiritus patris pater matre trinitatis nam Adam maximus 
+          <lb ed="#Pa" n="124"/>ibi inter enathum versitus est iosue. ix id est dei filius 
+          qui<lb ed="#Pa" n="125" break="no"/>est duobus antedictis maximus adam inter patrem 
+          <lb ed="#Pa" n="126"/>ti scilicet gignitur et spirat mediat per originem sed plura 
+          <lb ed="#Pa" n="127"/>liter loqi sicut notat enachim potentes tribiles ac 
+          <!--30.xml-->
+          <pb ed="#Pa" n="1-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>robustos vt sic oe primo libro qui verbi ex patre eternam 
+          <lb ed="#Pa" n="2"/>originem prosequitur dici possit illud genesis quinto hic 
+          <lb ed="#Pa" n="3"/>est liber generationis adam.
+        </p>
+        <p xml:id="GHYaf3-d1e3xx-d1e471">
+          ⁋ Pro libris sequentibus 
+          <lb ed="#Pa" n="4"/>ista vice adaptare congruentias praetermitto. Quarto 
+          <lb ed="#Pa" n="5"/>principaliter tangitur fructus finalis huius noticie qui 
+          es<lb ed="#Pa" n="6" break="no"/>dei bonitas et finis finium vltimatus domine deus qui 
+          <lb ed="#Pa" n="7"/>iuxta quaeduplicem conditionem finalis beatitudis summe 
+          <lb ed="#Pa" n="8"/>est admirabilis summe delectabilis summe amabilis 
+          <lb ed="#Pa" n="9"/>et summe perdurabilis et quia sic admirabilis ideo afficiens 
+          <lb ed="#Pa" n="10"/>vt beatifice videatur quia sic amabilis quia sic aliciens vt 
+          <lb ed="#Pa" n="11"/>spontanee diligatur quia sic delectabilis Io reficiens ide 
+          <lb ed="#Pa" n="12"/>iuauitur hauriatur et quia sic perdurabilis ideo sufficiens 
+          <lb ed="#Pa" n="13"/>vt pehennitur teneatur et mathei cat.l. primo domine deus omnium 
+          <lb ed="#Pa" n="14"/>creator terribilis fortis iustus et misericors qui solius 
+          <lb ed="#Pa" n="15"/>es bonus solius rex solius prestans solus iustus ompes et 
+          <lb ed="#Pa" n="16"/>eternus qui.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,609 +1,609 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 5</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 5</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="69-r"/>
-            <cb ed="#Pa" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e466"><!-- GHYaf3-l1d17q5 -->
-            <head xml:id="GHYaf3-d1e466-Hd1e108">Quaestio 5</head>
-            <head xml:id="GHYaf3-d1e466-Hd1e111" type="question-title">
-      Utrum in augmentatione caritatis vel alterius formae gradus omnis praeexistens corrumpatur cum novus gradus inducitur ita videlicet intelligendo quod in omni instanti sit totaliter nova forma.
-    </head>
-            <p xml:id="GHYaf3-d1e466-d1e114">
-               <lb ed="#Pa" n="94"/>QUinto circa 
-      distinctio<lb ed="#Pa" n="95" break="no"/>nem decimam septimam quero vtrum 
-      <lb ed="#Pa" n="96"/>charitatis vel alterius forme 
-      om<lb ed="#Pa" n="97" break="no"/>nis gradus preexistens 
-      corrumpa<lb ed="#Pa" n="98" break="no"/>tur cum gradus noius introducitur 
-      <lb ed="#Pa" n="99"/>ita videlicet intelligendo quod in omni instanti fiat no 
-      <lb ed="#Pa" n="100"/>ua forma. Uidetur quod sic quia secundum commentatorem et 
-      <lb ed="#Pa" n="101"/>hilosophum tertio de anima pluries optet recipiens denudari 
-      <lb ed="#Pa" n="102"/>a natura recepti igitur anima quando nouum gradum 
-      charita<lb ed="#Pa" n="103" break="no"/>tis recipit denudatur ab omnibus gradibus praecedentibus. 
-      <lb ed="#Pa" n="104"/>Contra tunc nullus actus meritorius procederet a 
-      <lb ed="#Pa" n="105"/>charitate quia sicut quis meretur deus sic auget cha 
-      <lb ed="#Pa" n="106"/>ritatem igitur si quis in hoc instanti nouiter meretur 
-      <lb ed="#Pa" n="107"/>in hoc instanti nouiter datur sibi noua charitas ab  
-      <lb ed="#Pa" n="108"/>ista non procedit ponens meritum quia ipsa est post 
-      <lb ed="#Pa" n="109"/>timor natura vel tempore vel causalitate hoc 
-      meri<lb ed="#Pa" n="110" break="no"/>to pro quo confertur nec ab alia quia nulla est alia 
-      <lb ed="#Pa" n="111"/>in hoc instanti nisi remaneat preexistens. Item tunc 
-      <lb ed="#Pa" n="112"/>frigidum sub centuplo frigore per suum frigus 
-      re<lb ed="#Pa" n="113" break="no"/>mittendo minimum gradum caloris centupli destrue 
-      <lb ed="#Pa" n="114"/>ret illum totum calorem quia statim erit ibi alius 
-      <lb ed="#Pa" n="115"/>calor hic teneo quod non propter rationes ad opposi 
-      <lb ed="#Pa" n="116"/>tum.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e166">
-      ⁋ Et pro hac conclusione arguit okam libro 
-      <lb ed="#Pa" n="117"/>primo di. 17 q. quinta contra opinionem primam 
-      <lb ed="#Pa" n="118"/>primo quod in indiuiduis eiusdem speciei non est ordo 
-      se<lb ed="#Pa" n="119" break="no"/>cundum perfectius et imperfectius nisi propter ma 
-      <lb ed="#Pa" n="120"/>ionem pluralitatem partiu quere argumenta ibi. 
-      <lb ed="#Pa" n="121"/>Item secundo per hoc quod nulla repugnantia est 
-      charita<lb ed="#Pa" n="122" break="no"/>tis ad charitatem cum sint eiusdem ratiiones. Tertio per 
-      <lb ed="#Pa" n="123"/>argumentum scoti quod actus meritorius vel vetutis 
-      ha<lb ed="#Pa" n="124" break="no"/>bitum vertutis augmentat igitur habitus praecedens 
-      rema<lb ed="#Pa" n="125" break="no"/>net et habetur propositum vel non remanet et tunc ille 
-      <lb ed="#Pa" n="126"/>actus non esset ab habitu quia nec a praecedenti nec a 
-      no<lb ed="#Pa" n="127" break="no"/>uo igitur
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e192">
-      ⁋ Quarto arguit scotus quod actus augmentans Scotus. 
-      <lb ed="#Pa" n="128"/>habitum posset esse impefectior actu primo vel secundo 
-      <lb ed="#Pa" n="129"/>Quinto sic arguit sco tunc calidum remittens fri 
-      <lb ed="#Pa" n="130"/>gidum produceret frigus. Item in positione sua arguit 
-      <lb ed="#Pa" n="131"/>ducendo ad inconuenientia primum quod tunc in tali 
-      <!--182.xml-->
-      <pb ed="#Pa" n="69-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>augmentatione essent infinite forme quarum nul 
-      <lb ed="#Pa" n="2"/>la est pars alterius nec alique partes eius 
-      fuis<lb ed="#Pa" n="3" break="no"/>sent pertransite quere scotum. q. 4. di. 17 primi se 
-      <lb ed="#Pa" n="4"/>cundum inconveniens quod tunc esset dare vltimum rei 
-      per<lb ed="#Pa" n="5" break="no"/>manentis in esse.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e222">
-      ⁋ Ex quo vlterius infert quod naturali 
-      <lb ed="#Pa" n="6"/>ter fieri potest quod aliqua res permanens duret tantum per 
-      in<lb ed="#Pa" n="7" break="no"/>stans.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e229">
-      ⁋ Et ex hoc vltra infertur quod deus potest simul 
-      fa<lb ed="#Pa" n="8" break="no"/>cere actu infinita quod est contra multos contrarium 
-      <lb ed="#Pa" n="9"/>opinantes.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e236">
-      ⁋ Preterea sicut tangit sco. tunc non sal 
-      <lb ed="#Pa" n="10"/>uaretur motus secundum talem qualitatem nec vnitas 
-      mo<lb ed="#Pa" n="11" break="no"/>tus ad qualitatem nec continuitas quia statim quando rece 
-      <lb ed="#Pa" n="12"/>ditur a termino a quo generatur alia forma et etiam 
-      vi<lb ed="#Pa" n="13" break="no"/>deretur motus vel successio continua componi ex 
-      indi<lb ed="#Pa" n="14" break="no"/>uisibilibus.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e249">
-      ⁋ Istam etiam rationem facit commentator et 
-      <lb ed="#Pa" n="15"/>probat consequentiam quia non est hic maior vnitas motus 
-      pre<lb ed="#Pa" n="16" break="no"/>ter vnitatem subiecti quam si continue deus faceret an 
-      <lb ed="#Pa" n="17"/>gelum post angelum vel dicam ego animam post animam in 
-      <lb ed="#Pa" n="18"/>eodem corpo.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e260">
-      ⁋ Item iuxta argumentum scoti videtur 
-      <lb ed="#Pa" n="19"/>conueniens magnum quod actus peccati commissionis remit 
-      <lb ed="#Pa" n="20"/>tens habitum virtutis causet habitum vertutis minus 
-      <lb ed="#Pa" n="21"/>intensum vel quod actus odiendi deum producat actiuo 
-      <lb ed="#Pa" n="22"/>amonem dei habitualem nec valet responsio oe 
-      pro<lb ed="#Pa" n="23" break="no"/>ducere per accidens quia non est hic alia causa 
-      suffi<lb ed="#Pa" n="24" break="no"/>ciens de facto que per se producat illum et per idem 
-      <lb ed="#Pa" n="25"/>potest argui quod optimus actus generaret vicium.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e278">
-      ⁋ Pre 
-      <lb ed="#Pa" n="26"/>terea ista via non saluat augmentationem quia nihil hic 
-      <lb ed="#Pa" n="27"/>maneret intra speciem forme cui aliquid accresceret 
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e286">
-               <lb ed="#Pa" n="28"/>⁋ Item arguit siransis primo quod sequaretur quod alteratio fa 
-      <lb ed="#Pa" n="29"/>cta secundum tales formas componitur ex indiuisibi 
-      <lb ed="#Pa" n="30"/>libus et mutatis esse quod repugnat sexto phisico 
-      <lb ed="#Pa" n="31"/>rum.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e297">
-      ⁋ Item tunc instans esset immediatum instanti 
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e300">
-               <lb ed="#Pa" n="32"/>⁋ Preterea sequitur quod eadem qualitas generet seip 
-      <lb ed="#Pa" n="33"/>sam quia omnen agens naturale in agendo repatitur si 
-      <lb ed="#Pa" n="34"/>igitur caliditas generata in frigido corrumpitur 
-      <lb ed="#Pa" n="35"/>frigiditas preexistens et generatur vna frigiditas re 
-      <lb ed="#Pa" n="36"/>missior quesit b.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e313">
-      ⁋ Similitudo in calido generatur per  
-      <lb ed="#Pa" n="37"/>reparationem frigiditas que sit .c. et caliditas 
-      re<lb ed="#Pa" n="38" break="no"/>missior que sit. d. tunc ex quo in omni motu mouens et 
-      <lb ed="#Pa" n="39"/>motum simul sunt in rerum natura in omni generatione et 
-      <lb ed="#Pa" n="40"/>actione agens et factum sunt simul quando quod nihil est 
-      ni<lb ed="#Pa" n="41" break="no"/>hil facit sequitur quod a. et. b. ex vna parte generarentur 
-      <lb ed="#Pa" n="42"/>in hoc instanti ab aliquibus qualitalibus quae sunt in hoc 
-      <lb ed="#Pa" n="43"/>instanti et non sunt alie qualitates in calido agente 
-      <lb ed="#Pa" n="44"/>quam c. et. d. ita nec alie in frigido reagente quam. a. et. b. 
-      <lb ed="#Pa" n="45"/>et econuerso igitur eadem qualitas generat se mediate 
-      <lb ed="#Pa" n="46"/>quia generat generans se immediate quod est propositum. 
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e337">
-               <lb ed="#Pa" n="47"/>⁋ Preterea retento eodem casu sequitur quod nulla qua 
-      <lb ed="#Pa" n="48"/>litas passi remittitur per aliquam qualitatem illius acti 
-      <lb ed="#Pa" n="49"/>ui quia quod adhuc est non corrupitur. Item natura hu 
-      <lb ed="#Pa" n="50"/>ius agentis quae nunc est non erit post hoc instans igitur 
-      <lb ed="#Pa" n="51"/>non corrumpet aliquid post hoc instans nec etiam nunc 
-      ali<lb ed="#Pa" n="52" break="no"/>quid corrumpit in passo alio qui simul produceret 
-      <lb ed="#Pa" n="53"/>et corrumperet idem eo quod nunc producit istam qualitatem 
-      <lb ed="#Pa" n="54"/>que est in passo vt patet ex priori deductione.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e357">
-      ⁋ Item 
-      <lb ed="#Pa" n="55"/>tunc agens naturale in centuplo perfectius alio in  
-      <lb ed="#Pa" n="56"/>passo minus resistente et hoc agens secundum vltimum 
-      <lb ed="#Pa" n="57"/>potentie sue produceret effectum in centuplo 
-      imper<lb ed="#Pa" n="58" break="no"/>fectiorem quam agens subcentuplum in passo magis 
-      <lb ed="#Pa" n="59"/>repugnante quia istud agens scilicet calidum 
-      pro<lb ed="#Pa" n="60" break="no"/>ducit in frigido calorem subcentuplum illi quem 
-      <lb ed="#Pa" n="61"/>producit illud frigidum in tali calido remittende 
-      <lb ed="#Pa" n="62"/>per reactionem calorem illius ponatur enim quod sint 
-      <lb ed="#Pa" n="63"/>in tali proportione.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e380">
-      ⁋ Item specialiter argui pos 
-      <lb ed="#Pa" n="64"/>set hic in proposito de charitate quia charitas non 
-      <lb ed="#Pa" n="65"/>corrumpitur nisi adueniente peccato mortali. Sed  
-      <lb ed="#Pa" n="66"/>in augmentatione charitatis peccatum mortale 
-      <!--182.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>non interuenit. vnde et in isto casu de charitate te 
-      <lb ed="#Pa" n="68"/>net campsale sequens conclusionem oppositam quod cha 
-      <lb ed="#Pa" n="69"/>ritas prior non corrumpitur sed aduenit continue 
-      <lb ed="#Pa" n="70"/>alia et alia non componentes cum prioribus.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e402">
-      ⁋ Contra 
-      <lb ed="#Pa" n="71"/>istam conclusionem arguitur quia secundum philosophum ge 
-      <lb ed="#Pa" n="72"/>neratio vnius est corruptio alterius sed in fine 
-      au<lb ed="#Pa" n="73" break="no"/>gmentationis charitatis aliquid est oe nouo 
-      ge<lb ed="#Pa" n="74" break="no"/>nitum igitur aliquid ibi corrumpitur et non nisi 
-      cha<lb ed="#Pa" n="75" break="no"/>ritas.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e415">
-      ⁋ Item in motu locali mobile desinit habere 
-      <lb ed="#Pa" n="76"/>aliquem prehabitum vel partem illius igitur a simili 
-      <lb ed="#Pa" n="77"/>in motu ad formam.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e422">
-      ⁋ Item termini motus sunt 
-      incon<lb ed="#Pa" n="78" break="no"/>possibiles sed in augmentatione charitatis 
-      chari<lb ed="#Pa" n="79" break="no"/>tas prehabita est terminus a quo et charitas sequens 
-      <lb ed="#Pa" n="80"/>terminus ad quem igitur iste charitates sunt natura 
-      <lb ed="#Pa" n="81"/>liter incompossibiles in eodem et siiiliter arguitur de 
-      cu<lb ed="#Pa" n="82" break="no"/>iuslibet alterius forme augmentatione.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e435">
-      ⁋ Et si 
-      di<lb ed="#Pa" n="83" break="no"/>cas quod per se terminus a quo non est charitas sed 
-      pri<lb ed="#Pa" n="84" break="no"/>uatio seu non est charitatis acquirende contra 
-      alte<lb ed="#Pa" n="85" break="no"/>ratio est motus apositiuo in positiuum quinto phisico 
-      <lb ed="#Pa" n="86"/>rum probatur contraria non compatiuntur se sed charitas 
-      <lb ed="#Pa" n="87"/>maior et minor contrariantur quia quinto phisicorum 
-      <lb ed="#Pa" n="88"/>dicitur quod minus album contrariatur magis albo. 
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e451">
-               <lb ed="#Pa" n="89"/>⁋ Et probatur hoc quia impossibile est idem 
-      subie<lb ed="#Pa" n="90" break="no"/>ctum simul et semel esse minus album et magis album 
-      <lb ed="#Pa" n="91"/>et hoc non est nisi propter aliquam repugnantiam vel con 
-      <lb ed="#Pa" n="92"/>trarietatem.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e463">
-      ⁋ Preterea tunc forma posterior esset 
-      <lb ed="#Pa" n="93"/>compositior precedenti falsitas probatur quia est magis 
-      <lb ed="#Pa" n="94"/>simplex eo quod est perfectior videmus enim quod quam 
-      <lb ed="#Pa" n="95"/>to aliqua species perfectior est tanto simplicior sed  
-      <lb ed="#Pa" n="96"/>sicut se habent magis et minus in diuersis speciebus 
-      <lb ed="#Pa" n="97"/>ita se habent in indiuiduis vnius speciei.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e476">
-      ⁋ Similiter 
-      <lb ed="#Pa" n="98"/>quanto forma substantialis est perfectior tanto sima 
-      <lb ed="#Pa" n="99"/>licior et similiter est in accidentibus.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e483">
-      ⁋ Item tunc 
-      <lb ed="#Pa" n="100"/>beatifica visio posset augeri per additionem alicuius 
-      <lb ed="#Pa" n="101"/>gradus vt visionis falsitas probatur quia actus 
-      beati<lb ed="#Pa" n="102" break="no"/>fici sunt indiuisibiles alioquin vna visio 
-      beatifi<lb ed="#Pa" n="103" break="no"/>ca includeret infinitas visiones dei et etiam tunc ad  
-      <lb ed="#Pa" n="104"/>eam posset esse motus. Item visio corporalis potest esse 
-      <lb ed="#Pa" n="105"/>magis perfecta et minus perfecta respectu eiusdem 
-      ob<lb ed="#Pa" n="106" break="no"/>iecti sensibilis et tamen visio non est forma partialis. 
-      <lb ed="#Pa" n="107"/>Similiter arguitur de specie albedinis in 
-      me<lb ed="#Pa" n="108" break="no"/>dio.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e505">
-      ⁋ Item non includit contradictionem quod vbi in 
-      <lb ed="#Pa" n="109"/>aliqua specie quodlibet indiuiduum est simplex 
-      <lb ed="#Pa" n="110"/>unum sit perfectius alio non enim oportet quod talia 
-      <lb ed="#Pa" n="111"/>indiuidua sint simillima.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e514">
-      ⁋ Confirmatur hoc per ar 
-      <lb ed="#Pa" n="112"/>ticulum qui ponit quod error est dicere quod anima Christi 
-      <lb ed="#Pa" n="113"/>non sit nobilior quam anima iude quod non posset 
-      in<lb ed="#Pa" n="114" break="no"/>telligi secundum proprietates accident ales 
-      tantu<lb ed="#Pa" n="115" break="no"/>quia ad istum intellectum fuit ista conclusio 
-      pyden<lb ed="#Pa" n="116" break="no"/>ptifica sicut patet per verba articuli igitur hoc est 
-      <lb ed="#Pa" n="117"/>secundum substantiam sed constat quod anima est 
-      in<lb ed="#Pa" n="118" break="no"/>diuisibilis igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e532">
-      ⁋ Item recipiens debet esse denu 
-      <lb ed="#Pa" n="119"/>datum a natura recepti.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e538">
-      ⁋ Item in sex principiis forma 
-      <lb ed="#Pa" n="120"/>est compositum contingens simplici et inuariabili essentia 
-      <lb ed="#Pa" n="121"/>consistens.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e545">
-      ⁋ Ad primum istorum dicendum quod philosophs ibi loquitur 
-      <lb ed="#Pa" n="122"/>de generatione simplicitur que est substantiarum tantum.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e550">
-      ⁋ Ad  
-      <lb ed="#Pa" n="123"/>secum dicendum quod non est simile de motu locali et 
-      de<lb ed="#Pa" n="124" break="no"/>aliis nec tamen de per se est ex natura motus loca 
-      <lb ed="#Pa" n="125"/>lis communis per aliquam potentiam posset esse motus lo 
-      <lb ed="#Pa" n="126"/>calis acquisitus fine deperditione.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e561">
-      ⁋ Ad tertium ne 
-      <lb ed="#Pa" n="127"/>gatur quod termini motus sunt incompossibiles Item 
-      <lb ed="#Pa" n="128"/>cum dicit philosophus quod motus est de assignato in assignatum non 
-      <lb ed="#Pa" n="129"/>intelligit deipositiuo contrario in positiuum 
-      contra<lb ed="#Pa" n="130" break="no"/>rium.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e572">
-      ⁋ Sed quod subiectum motus quod est sub 
-      vtro<lb ed="#Pa" n="131" break="no"/>que termio debet esse ens in actu non enim optet in productio 
-      <lb ed="#Pa" n="132"/>ne lumins quod teminus a quae sit qualitas positiua contraria 
-      <!--183.xml-->
-      <pb ed="#Pa" n="70-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>lumini.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e588">
-      ⁋ Ad quartum dicitur quod ibi capitur contra 
-      <lb ed="#Pa" n="2"/>rietas valde large secundum hoc quod repugnet idem 
-      <lb ed="#Pa" n="3"/>simul esse magis album et nimus album et talis 
-      <lb ed="#Pa" n="4"/>repugnantia etiam reperitur in quantitate 
-      ma<lb ed="#Pa" n="5" break="no"/>iore et minore vbi tamen est vera contrarietas. 
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e600">
-               <lb ed="#Pa" n="6"/>⁋ Ad quintum dicitur quod non oportet semper spem 
-      <lb ed="#Pa" n="7"/>perfectiorem esse simpliciorem vt patet comparam 
-      <lb ed="#Pa" n="8"/>do hominem ad igne vel terram.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e609">
-      ⁋ Ad sextum 
-      con<lb ed="#Pa" n="9" break="no"/>cedo quod deus bene potest augere visionem beatifi 
-      <lb ed="#Pa" n="10"/>cam et quod ipsa est diuisibilis in infinitas visiones 
-      <lb ed="#Pa" n="11"/>dei nec est inconueniens ad eam posse esse motum 
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e618">
-               <lb ed="#Pa" n="12"/>⁋ Et per hoc patet ad septimum quia conceditur 
-      <lb ed="#Pa" n="13"/>quod visio corporalis est diuisibilis vel per motum ocu 
-      <lb ed="#Pa" n="14"/>li vel per successiuam dispositionem medi vel per 
-      <lb ed="#Pa" n="15"/>amotionem impediti vel per successiuam augmen 
-      <lb ed="#Pa" n="16"/>tationem alicuius requisiti ad perfectionem 
-      vi<lb ed="#Pa" n="17" break="no"/>sionem habendam et sic de similibus causis
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e634">
-      ⁋ Item 
-      <lb ed="#Pa" n="18"/>species in medio non est indiuisibilis nec extensiue 
-      <lb ed="#Pa" n="19"/>nec intensiue.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e641">
-      ⁋ Ad octauum negatur antecedens 
-      <lb ed="#Pa" n="20"/>vna cum probatione oportet enim quod illa que con 
-      <lb ed="#Pa" n="21"/>ueniunt in conceptu specifico substantiali et absoluto 
-      <lb ed="#Pa" n="22"/>speciei specialissime sint simillima vel essentialiter 
-      <lb ed="#Pa" n="23"/>vel ex similibus composita.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e652">
-      ⁋ Ad nonum 
-      respon<lb ed="#Pa" n="24" break="no"/>det okam quod ille arguens male intelligeret 
-      articu<lb ed="#Pa" n="25" break="no"/>lum quia articulus est contra illos qui posuerunt 
-      <lb ed="#Pa" n="26"/>vnam animam non posse esse nobiliorem alia nisi 
-      pro<lb ed="#Pa" n="27" break="no"/>pter maiorem perfectionem corporum vel nisi 
-      es<lb ed="#Pa" n="28" break="no"/>sent diuersarum specierum quod esset erroneum 
-      <lb ed="#Pa" n="29"/>quia anima Christi quando erat separata erat 
-      nobi<lb ed="#Pa" n="30" break="no"/>lior anima iude et tamen non fuit vnita nobiliori 
-      <lb ed="#Pa" n="31"/>corpori nec fuit alterius speciei sed non sequitur 
-      <lb ed="#Pa" n="32"/>est nobilior igitur est sic nobilior sed est fallacia 
-      <lb ed="#Pa" n="33"/>consequentis sequitur enim econuerso.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e677">
-      ⁋ Ad 
-      cu<lb ed="#Pa" n="34" break="no"/>ius intellectum notandum quod hec sunt verba 
-      arti<lb ed="#Pa" n="35" break="no"/>culi sicut iacent capitulo octauo articu. 23 quod 
-      incon<lb ed="#Pa" n="36" break="no"/>ueniens est ponere alios intellectus nobiliores a 
-      <lb ed="#Pa" n="37"/>liis quia cum ista diuersitas non possit esse apte 
-      <lb ed="#Pa" n="38"/>corporum oportet quod sit a parte intelligentiarum 
-      <lb ed="#Pa" n="39"/>et sic anime nobiles et innobiles necessario essent 
-      <lb ed="#Pa" n="40"/>diuersarum specierum sicut intelligentie error sic 
-      <lb ed="#Pa" n="41"/>anima Christi non esset nobilior anima iude hec ille
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e697">
-      ⁋ Ex 
-      <lb ed="#Pa" n="42"/>quibus verbis patet vbi bene dicit okam quod in 
-      ar<lb ed="#Pa" n="43" break="no"/>gumento est fallacia consequentis vbi aduerten 
-      <lb ed="#Pa" n="44"/>dum est quod si teneretur sententia communis doctorum 
-      <lb ed="#Pa" n="45"/>et multorum aliorum que permittitur licet falsa 
-      <lb ed="#Pa" n="46"/>scilicet quod intellectus sit accidens anime 
-      intelle<lb ed="#Pa" n="47" break="no"/>ctiue realiter ab ipsa distinctum tunc patet quod sub 
-      <lb ed="#Pa" n="48"/>stantiis animarum exesentibus substantialiter equalibus 
-      <lb ed="#Pa" n="49"/>posset sicut placeret deo perfectior intellectus 
-      fie<lb ed="#Pa" n="50" break="no"/>ri in vna quam in alia nec oporteret ad hoc quod vnus 
-      in<lb ed="#Pa" n="51" break="no"/>tellectus esset nobilior alio quod vna anima intelle 
-      <lb ed="#Pa" n="52"/>ctiua esset diuerse speciei substantialis ab alia vel 
-      <lb ed="#Pa" n="53"/>vna nobilior alia sicut non oportet quod intellectibus 
-      <lb ed="#Pa" n="54"/>equalibus sint beatitudines equales vt patet per  
-      <lb ed="#Pa" n="55"/>alium articulum condemnantem hoc quod pares in na 
-      <lb ed="#Pa" n="56"/>turalibus non possunt esse impares in 
-      beatitudi<lb ed="#Pa" n="57" break="no"/>nibus sed habentes meliora naturalia semper ha 
-      <lb ed="#Pa" n="58"/>bent meliorem beatitudinem quod est error ita est 
-      <lb ed="#Pa" n="59"/>diceretur quod si anima Christi haberet nobiliorem intel 
-      <lb ed="#Pa" n="60"/>lectum quam anima iude nobilior esset ipsa et tamen 
-      <lb ed="#Pa" n="61"/>non propter hoc esset alterius speciei nec excedens 
-      <lb ed="#Pa" n="62"/>eam substantialiter.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e745">
-      ⁋ Alio modo posset intelligi 
-      <lb ed="#Pa" n="63"/>articulus oe nobilitate maiori per dona virtutes 
-      <lb ed="#Pa" n="64"/>et scientias et fruitionem et multa alia que tamen 
-      <lb ed="#Pa" n="65"/>non se tenent ex parte corporis nec ex hoc sequitur 
-      <lb ed="#Pa" n="66"/>quod vna sit substantialiter perfectior alia quia hec illa¬ 
-      <!--183.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>tio est per alium articulum iam allegatum 
-      conden<lb ed="#Pa" n="68" break="no"/>nata tertius intellectus posset poni quod anima Christi 
-      <lb ed="#Pa" n="69"/>tam in substantia quam in potentia esset nobilior anima iu 
-      <lb ed="#Pa" n="70"/>de quia nobilitatur et sublimatur etiam in substantia 
-      <lb ed="#Pa" n="71"/>resistat hypostatice diuina substantia filiali nec tamen 
-      <lb ed="#Pa" n="72"/>equitur quod ipsa sit essentialiter perfectior.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e774">
-      ⁋ Quar 
-      <lb ed="#Pa" n="73"/>to posset intelligi melior ex hoc quod haberet plures 
-      <lb ed="#Pa" n="74"/>gradus eiusdem speciei et esset per consequens 
-      <lb ed="#Pa" n="75"/>compositio alia per modum quo vna causalitas in  
-      <lb ed="#Pa" n="76"/>sua specie est perfectior est nobilior alia.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e785">
-      ⁋ Quin  
-      <lb ed="#Pa" n="77"/>to modo quod vna esset substantialiter perfectior 
-      a<lb ed="#Pa" n="78" break="no"/>lia et tamen eque simpliciter vel simplicior et 
-      si<lb ed="#Pa" n="79" break="no"/>ne dubio iuxta argumenta okam et scoti non video 
-      <lb ed="#Pa" n="80"/>quin eo ipso essent alterius speciei sicut ipsi argu 
-      <lb ed="#Pa" n="81"/>unt. Treuius mihi apparet quod excessus 
-      nobilita<lb ed="#Pa" n="82" break="no"/>tis quo anima Christi excedit animam iude secundum ar 
-      <lb ed="#Pa" n="83"/>ticulum est in actibus anime in his vel aliquo eo 
-      <lb ed="#Pa" n="84"/>rum que contingenter vel accidentaliter sibi 
-      con<lb ed="#Pa" n="85" break="no"/>ueniunt aliquo trium primo modorum et quia 
-      <lb ed="#Pa" n="86"/>primus non est apud me verus licet sit opinio pro 
-      <lb ed="#Pa" n="87"/>babilis Ideo secundus vel tertius modus mihi 
-      <lb ed="#Pa" n="88"/>verisimilior apparet vnde adhuc tenetur 
-      parisi<lb ed="#Pa" n="89" break="no"/>us a multis reputatis quod anima non est secundum 
-      <lb ed="#Pa" n="90"/>ubstantiam nobilior aut ignobilior quacumque alia 
-      <lb ed="#Pa" n="91"/>anima intellectiua et hic plane tenet. Magister sypim. d 
-      <lb ed="#Pa" n="92"/>naronis libro tertio. q. 4 tamen quia infra eandem 
-      <lb ed="#Pa" n="93"/>spem non posset esse maius et minus nisi per gra 
-      <lb ed="#Pa" n="94"/>dus eiusdem rei sicut exemplificat de charitate tamen 
-      <lb ed="#Pa" n="95"/>quia excessus in talibus indiuiduis substantialibus 
-      <lb ed="#Pa" n="96"/>et simplicibus non est nisi per posteriora se cum in omni 
-      <lb ed="#Pa" n="97"/>bus que sunt de essentia sint equalia et paria 
-      po<lb ed="#Pa" n="98" break="no"/>teriora aut aliquomodo sunt ei accidentalia igitur 
-      <lb ed="#Pa" n="99"/>in substantialibus nullomodo excedunt hec ille.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e837">
-      ⁋ Hec 
-      <lb ed="#Pa" n="100"/>media in virtute posuerunt okam et sco vt habi 
-      <lb ed="#Pa" n="101"/>tum est nec valet inquit fugere ad intensionem et re 
-      <lb ed="#Pa" n="102"/>missionem graduum infra eandem spem quia ani 
-      <lb ed="#Pa" n="103"/>ma intellectiua non habet in se tales gradus reali 
-      <lb ed="#Pa" n="104"/>ter differentes ex quarum pluribus componatur 
-      <lb ed="#Pa" n="105"/>perfectior quam minus perfecta primo quia tunc es 
-      <lb ed="#Pa" n="106"/>set diuisibilis in infinitum sicut continuum quia qui  
-      <lb ed="#Pa" n="107"/>libet gradus est eiusdem rationis cum tota forma 
-      <lb ed="#Pa" n="108"/>sed res eiusdem rationis habent easdem per se pas 
-      <lb ed="#Pa" n="109"/>siones igitur sicut tota forma ponitur diuisibilis 
-      <lb ed="#Pa" n="110"/>in gradus et ita quilibet gradus vltimus est di 
-      <lb ed="#Pa" n="111"/>uisibilis.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e867">
-      ⁋ Item tunc quilibet gradus anime esset 
-      <lb ed="#Pa" n="112"/>anima quia in homogeneis omne predicatum es 
-      <lb ed="#Pa" n="113"/>sentiale conueniens toti conuenit et parti et per 
-      <lb ed="#Pa" n="114"/>consequens quot gradus sunt in vna anima tot sunt 
-      <lb ed="#Pa" n="115"/>partes in ipsa.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e878">
-      ⁋ Tertio sequitur quod ex omnibus 
-      a<lb ed="#Pa" n="116" break="no"/>nimabus posset fieri vna anima quia quecumque sunt 
-      <lb ed="#Pa" n="117"/>vnius rationis si vnibilitas conuenit quibusdam 
-      <lb ed="#Pa" n="118"/>eorum conuenire debet et omnibus. Et ideo sicut 
-      <lb ed="#Pa" n="119"/>quattuor gradus vnius anime sunt inter se vnibi 
-      <lb ed="#Pa" n="120"/>es ita sunt vnibiles cum aliis quattuor gradibus 
-      <lb ed="#Pa" n="121"/>alterius anime sibi similibus ymo simpliciter om 
-      <lb ed="#Pa" n="122"/>nes adinuicem vnibiles erunt sicut omnes aque  
-      <lb ed="#Pa" n="123"/>vel omnes charitates.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e898">
-      ⁋ Quarto sequitur quod ex 
-      <lb ed="#Pa" n="124"/>vna anima innumerales anime fieri poterunt quia 
-      <lb ed="#Pa" n="125"/>quilibet gradus natus est ab alio separari sicut sine 
-      <lb ed="#Pa" n="126"/>eo produci cum realiter differant nec habeant or 
-      <lb ed="#Pa" n="127"/>dinem essentialem et sic de gradibus graduum in 
-      <lb ed="#Pa" n="128"/>infinitum.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e911">
-      ⁋ Quinto sequitur quod anima esset 
-      <lb ed="#Pa" n="129"/>inducibilis per motum quia tales gradus sicut 
-      <lb ed="#Pa" n="130"/>possunt simul ita etiam poterunt successiue 
-      produ<lb ed="#Pa" n="131" break="no"/>ci hec ille in sententia hec omnia citius concede 
-      <lb ed="#Pa" n="132"/>rem quam quod perfectior forma secundum substantiam esset equae 
-      <!--184.xml-->
-      <pb ed="#Pa" n="70-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>simpliciter vel simplicior tamen minus perfecta et 
-      <lb ed="#Pa" n="2"/>tamen quod essent eiusdem rationis specifice et hoc ex 
-      <lb ed="#Pa" n="3"/>sententia sponte concessit beseuson ponens quod de mille 
-      <lb ed="#Pa" n="4"/>animabus posset deus facere vna et de vna milie 
-      <lb ed="#Pa" n="5"/>et per consequens omnia alia hic illata haberet con 
-      <lb ed="#Pa" n="6"/>cedem ex sensu supraposito.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e942">
-      ⁋ Sed videtur quod predi 
-      <lb ed="#Pa" n="7"/>cta non sufficiant pro articulo quia iuxta primum 
-      mo<lb ed="#Pa" n="8" break="no"/>dum articulus non haberet rationem damnandi illam 
-      <lb ed="#Pa" n="9"/>opnionem nisi per hoc quod oporteret ponere quod intel 
-      <lb ed="#Pa" n="10"/>lectus sit accidens anime etc. cuius tamen oppositum ma 
-      <lb ed="#Pa" n="11"/>gis tenetur nec secundus nec tertius modus sufficit 
-      <lb ed="#Pa" n="12"/>quia non est verisimile aliquos theologos de hoc 
-      du<lb ed="#Pa" n="13" break="no"/>bitasse quin anima Christi esset nobilior in virtutibus et 
-      <lb ed="#Pa" n="14"/>donis gratuitis quam aliqua alia anima et etiam quin 
-      es<lb ed="#Pa" n="15" break="no"/>set per vnionem hypostaticam plus aliis sublimata nec 
-      <lb ed="#Pa" n="16"/>quartus sufficit quia licet aliqui talem compositionem 
-      <lb ed="#Pa" n="17"/>gradualem in anima posuerunt et adhuc ponant conceden 
-      <lb ed="#Pa" n="18"/>tes ea que prius sunt illata tamen magis communi 
-      <lb ed="#Pa" n="19"/>ter negatur illa propositio et ponitur quod anima intello 
-      <lb ed="#Pa" n="20"/>ctiua sit simpliciter indiuisibilis ideo talis 
-      po<lb ed="#Pa" n="21" break="no"/>tentia compositionis non sufficit pro articulo nec 
-      quin<lb ed="#Pa" n="22" break="no"/>tus modus etiam quia licet multi concedant quod vnum 
-      <lb ed="#Pa" n="23"/>indiuiduum eque simplex cum alio eiusdem speciei sit sub 
-      <lb ed="#Pa" n="24"/>stantialiter perfectior alio oc tamen non est euidens 
-      <lb ed="#Pa" n="25"/>ratione nec auctoritate quod etiam aliquod indiuidu 
-      <lb ed="#Pa" n="26"/>um siue compositum siue simplex sit prefectius 
-      substantiali<lb ed="#Pa" n="27" break="no"/>ter alio indiuiduo eiusdem speciei. Unde oppositum 
-      li<lb ed="#Pa" n="28" break="no"/>cet tenetur sicut de simplicibus satis patet ex 
-      di<lb ed="#Pa" n="29" break="no"/>ctis.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e994">
-      ⁋ Item probabilius videtur dicendum quod vna 
-      <lb ed="#Pa" n="30"/>anima intellectiua est nobilior alia in suis naturalibus 
-      <lb ed="#Pa" n="31"/>non quidem substantialiter sed per lumen intellectus agentis 
-      <lb ed="#Pa" n="32"/>sibi connaturale et secundum naturam sibi 
-      concrea<lb ed="#Pa" n="33" break="no"/>tum tale namque lumen reputatur inter dona natura 
-      <lb ed="#Pa" n="34"/>lia et videtur diuersificatum in diuersis ita quod stan 
-      <lb ed="#Pa" n="35"/>te omnimoda paritate aliquorum in dispositionibus 
-      <lb ed="#Pa" n="36"/>corporum vnus est in duplo perspicatoris ingenii quam alter 
-      <lb ed="#Pa" n="37"/>quia plus percipiat de tali luine quam alter et 
-      verisimi<lb ed="#Pa" n="38" break="no"/>le est quod anima Christi lumen tale habuerit perfectissimum 
-      <lb ed="#Pa" n="39"/>et modo perfectissimo.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e1019">
-      ⁋ Ad 10 respondet si ransi 
-      <lb ed="#Pa" n="40"/>et bene quod illud dictum debet intelligi de recepto in  
-      <lb ed="#Pa" n="41"/>actu sic scilicet quod non sit pars alicuius sue speciei in  
-      <lb ed="#Pa" n="42"/>recipiente sed non sic est in augmentatione forme 
-      <lb ed="#Pa" n="43"/>in eadem parte adequata subiecti quia quelibet 
-      <lb ed="#Pa" n="44"/>forma que post recipitur sit pars qualitatiua et 
-      <lb ed="#Pa" n="45"/>gradualis forme prioris sue speciei que est in recipien 
-      <lb ed="#Pa" n="46"/>te. Aliter et bene respondet 4 quod recipiens in pro 
-      <lb ed="#Pa" n="47"/>posito denudatur a natura recepti quia vna pars 
-      <lb ed="#Pa" n="48"/>non recipit aliam sed habet idem recipiens quem et 
-      <lb ed="#Pa" n="49"/>istud non debet denudari a natura recepti
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e1043">
-      ⁋ Aliter 
-      <lb ed="#Pa" n="50"/>respondent aliqui et probabiliter quod ad hoc quod ali 
-      <lb ed="#Pa" n="51"/>quid recipiat oportet quod illud passum ex natura fua 
-      <lb ed="#Pa" n="52"/>non habeat aliquod simile et ideo ignis qui 
-      natu<lb ed="#Pa" n="53" break="no"/>raliter est calidus non est alterius caloris receptiuus 
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e1054">
-               <lb ed="#Pa" n="54"/>⁋ Aliter ad litteram intelligitur quod recipiens non est 
-      <lb ed="#Pa" n="55"/>eiusdem nature secundum spem cum recepto sicut 
-      <lb ed="#Pa" n="56"/>pupilla si debet recipere omnes colores oportet 
-      <lb ed="#Pa" n="57"/>quod sit de natura sua non color et intellectus iste suffi 
-      <lb ed="#Pa" n="58"/>cit philosopho et commentatori pro questione ibi probanda 
-      <lb ed="#Pa" n="59"/>de intellectu possibili quod est simplex et immixtus ex na 
-      <lb ed="#Pa" n="60"/>turis rerum intelligibiltum.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e1072">
-      ⁋ Ad 1. dico quod 
-      for<lb ed="#Pa" n="61" break="no"/>ma non est composita copositione essentiali ex 
-      mate<lb ed="#Pa" n="62" break="no"/>ria et forma propria et intriseca que materia possit ad  
-      <lb ed="#Pa" n="63"/>talem formam transmutari vel de forma ad formam 
-      <lb ed="#Pa" n="64"/>variari licet aliqui contrarium tenuerunt 
-      ponen<lb ed="#Pa" n="65" break="no"/>tes in omni genere predicabili sua propria et 
-      intrinse<lb ed="#Pa" n="66" break="no"/>ca principia materiam et formam et priuationem.
-    </p>
-            <p xml:id="GHYaf3-d1e466-d1e1088">
-      ⁋ Et 
-      <!--184.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>ideo dicitur quod accidentia non habent materiam 
-      <lb ed="#Pa" n="68"/>ex qua sed in qua Ad argumentum principale pa 
-      <lb ed="#Pa" n="69"/>tet sicut ad 10
-      </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="69-r"/>
+        <cb ed="#Pa" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e466"><!-- GHYaf3-l1d17q5 -->
+        <head xml:id="GHYaf3-d1e466-Hd1e108">Quaestio 5</head>
+        <head xml:id="GHYaf3-d1e466-Hd1e111" type="question-title">
+          Utrum in augmentatione caritatis vel alterius formae gradus omnis praeexistens corrumpatur cum novus gradus inducitur ita videlicet intelligendo quod in omni instanti sit totaliter nova forma.
+        </head>
+        <p xml:id="GHYaf3-d1e466-d1e114">
+          <lb ed="#Pa" n="94"/>QUinto circa 
+          distinctio<lb ed="#Pa" n="95" break="no"/>nem decimam septimam quero vtrum 
+          <lb ed="#Pa" n="96"/>charitatis vel alterius forme 
+          om<lb ed="#Pa" n="97" break="no"/>nis gradus preexistens 
+          corrumpa<lb ed="#Pa" n="98" break="no"/>tur cum gradus noius introducitur 
+          <lb ed="#Pa" n="99"/>ita videlicet intelligendo quod in omni instanti fiat no 
+          <lb ed="#Pa" n="100"/>ua forma. Uidetur quod sic quia secundum commentatorem et 
+          <lb ed="#Pa" n="101"/>hilosophum tertio de anima pluries optet recipiens denudari 
+          <lb ed="#Pa" n="102"/>a natura recepti igitur anima quando nouum gradum 
+          charita<lb ed="#Pa" n="103" break="no"/>tis recipit denudatur ab omnibus gradibus praecedentibus. 
+          <lb ed="#Pa" n="104"/>Contra tunc nullus actus meritorius procederet a 
+          <lb ed="#Pa" n="105"/>charitate quia sicut quis meretur deus sic auget cha 
+          <lb ed="#Pa" n="106"/>ritatem igitur si quis in hoc instanti nouiter meretur 
+          <lb ed="#Pa" n="107"/>in hoc instanti nouiter datur sibi noua charitas ab  
+          <lb ed="#Pa" n="108"/>ista non procedit ponens meritum quia ipsa est post 
+          <lb ed="#Pa" n="109"/>timor natura vel tempore vel causalitate hoc 
+          meri<lb ed="#Pa" n="110" break="no"/>to pro quo confertur nec ab alia quia nulla est alia 
+          <lb ed="#Pa" n="111"/>in hoc instanti nisi remaneat preexistens. Item tunc 
+          <lb ed="#Pa" n="112"/>frigidum sub centuplo frigore per suum frigus 
+          re<lb ed="#Pa" n="113" break="no"/>mittendo minimum gradum caloris centupli destrue 
+          <lb ed="#Pa" n="114"/>ret illum totum calorem quia statim erit ibi alius 
+          <lb ed="#Pa" n="115"/>calor hic teneo quod non propter rationes ad opposi 
+          <lb ed="#Pa" n="116"/>tum.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e166">
+          ⁋ Et pro hac conclusione arguit okam libro 
+          <lb ed="#Pa" n="117"/>primo di. 17 q. quinta contra opinionem primam 
+          <lb ed="#Pa" n="118"/>primo quod in indiuiduis eiusdem speciei non est ordo 
+          se<lb ed="#Pa" n="119" break="no"/>cundum perfectius et imperfectius nisi propter ma 
+          <lb ed="#Pa" n="120"/>ionem pluralitatem partiu quere argumenta ibi. 
+          <lb ed="#Pa" n="121"/>Item secundo per hoc quod nulla repugnantia est 
+          charita<lb ed="#Pa" n="122" break="no"/>tis ad charitatem cum sint eiusdem ratiiones. Tertio per 
+          <lb ed="#Pa" n="123"/>argumentum scoti quod actus meritorius vel vetutis 
+          ha<lb ed="#Pa" n="124" break="no"/>bitum vertutis augmentat igitur habitus praecedens 
+          rema<lb ed="#Pa" n="125" break="no"/>net et habetur propositum vel non remanet et tunc ille 
+          <lb ed="#Pa" n="126"/>actus non esset ab habitu quia nec a praecedenti nec a 
+          no<lb ed="#Pa" n="127" break="no"/>uo igitur
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e192">
+          ⁋ Quarto arguit scotus quod actus augmentans Scotus. 
+          <lb ed="#Pa" n="128"/>habitum posset esse impefectior actu primo vel secundo 
+          <lb ed="#Pa" n="129"/>Quinto sic arguit sco tunc calidum remittens fri 
+          <lb ed="#Pa" n="130"/>gidum produceret frigus. Item in positione sua arguit 
+          <lb ed="#Pa" n="131"/>ducendo ad inconuenientia primum quod tunc in tali 
+          <!--182.xml-->
+          <pb ed="#Pa" n="69-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>augmentatione essent infinite forme quarum nul 
+          <lb ed="#Pa" n="2"/>la est pars alterius nec alique partes eius 
+          fuis<lb ed="#Pa" n="3" break="no"/>sent pertransite quere scotum. q. 4. di. 17 primi se 
+          <lb ed="#Pa" n="4"/>cundum inconveniens quod tunc esset dare vltimum rei 
+          per<lb ed="#Pa" n="5" break="no"/>manentis in esse.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e222">
+          ⁋ Ex quo vlterius infert quod naturali 
+          <lb ed="#Pa" n="6"/>ter fieri potest quod aliqua res permanens duret tantum per 
+          in<lb ed="#Pa" n="7" break="no"/>stans.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e229">
+          ⁋ Et ex hoc vltra infertur quod deus potest simul 
+          fa<lb ed="#Pa" n="8" break="no"/>cere actu infinita quod est contra multos contrarium 
+          <lb ed="#Pa" n="9"/>opinantes.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e236">
+          ⁋ Preterea sicut tangit sco. tunc non sal 
+          <lb ed="#Pa" n="10"/>uaretur motus secundum talem qualitatem nec vnitas 
+          mo<lb ed="#Pa" n="11" break="no"/>tus ad qualitatem nec continuitas quia statim quando rece 
+          <lb ed="#Pa" n="12"/>ditur a termino a quo generatur alia forma et etiam 
+          vi<lb ed="#Pa" n="13" break="no"/>deretur motus vel successio continua componi ex 
+          indi<lb ed="#Pa" n="14" break="no"/>uisibilibus.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e249">
+          ⁋ Istam etiam rationem facit commentator et 
+          <lb ed="#Pa" n="15"/>probat consequentiam quia non est hic maior vnitas motus 
+          pre<lb ed="#Pa" n="16" break="no"/>ter vnitatem subiecti quam si continue deus faceret an 
+          <lb ed="#Pa" n="17"/>gelum post angelum vel dicam ego animam post animam in 
+          <lb ed="#Pa" n="18"/>eodem corpo.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e260">
+          ⁋ Item iuxta argumentum scoti videtur 
+          <lb ed="#Pa" n="19"/>conueniens magnum quod actus peccati commissionis remit 
+          <lb ed="#Pa" n="20"/>tens habitum virtutis causet habitum vertutis minus 
+          <lb ed="#Pa" n="21"/>intensum vel quod actus odiendi deum producat actiuo 
+          <lb ed="#Pa" n="22"/>amonem dei habitualem nec valet responsio oe 
+          pro<lb ed="#Pa" n="23" break="no"/>ducere per accidens quia non est hic alia causa 
+          suffi<lb ed="#Pa" n="24" break="no"/>ciens de facto que per se producat illum et per idem 
+          <lb ed="#Pa" n="25"/>potest argui quod optimus actus generaret vicium.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e278">
+          ⁋ Pre 
+          <lb ed="#Pa" n="26"/>terea ista via non saluat augmentationem quia nihil hic 
+          <lb ed="#Pa" n="27"/>maneret intra speciem forme cui aliquid accresceret 
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e286">
+          <lb ed="#Pa" n="28"/>⁋ Item arguit siransis primo quod sequaretur quod alteratio fa 
+          <lb ed="#Pa" n="29"/>cta secundum tales formas componitur ex indiuisibi 
+          <lb ed="#Pa" n="30"/>libus et mutatis esse quod repugnat sexto phisico 
+          <lb ed="#Pa" n="31"/>rum.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e297">
+          ⁋ Item tunc instans esset immediatum instanti 
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e300">
+          <lb ed="#Pa" n="32"/>⁋ Preterea sequitur quod eadem qualitas generet seip 
+          <lb ed="#Pa" n="33"/>sam quia omnen agens naturale in agendo repatitur si 
+          <lb ed="#Pa" n="34"/>igitur caliditas generata in frigido corrumpitur 
+          <lb ed="#Pa" n="35"/>frigiditas preexistens et generatur vna frigiditas re 
+          <lb ed="#Pa" n="36"/>missior quesit b.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e313">
+          ⁋ Similitudo in calido generatur per  
+          <lb ed="#Pa" n="37"/>reparationem frigiditas que sit .c. et caliditas 
+          re<lb ed="#Pa" n="38" break="no"/>missior que sit. d. tunc ex quo in omni motu mouens et 
+          <lb ed="#Pa" n="39"/>motum simul sunt in rerum natura in omni generatione et 
+          <lb ed="#Pa" n="40"/>actione agens et factum sunt simul quando quod nihil est 
+          ni<lb ed="#Pa" n="41" break="no"/>hil facit sequitur quod a. et. b. ex vna parte generarentur 
+          <lb ed="#Pa" n="42"/>in hoc instanti ab aliquibus qualitalibus quae sunt in hoc 
+          <lb ed="#Pa" n="43"/>instanti et non sunt alie qualitates in calido agente 
+          <lb ed="#Pa" n="44"/>quam c. et. d. ita nec alie in frigido reagente quam. a. et. b. 
+          <lb ed="#Pa" n="45"/>et econuerso igitur eadem qualitas generat se mediate 
+          <lb ed="#Pa" n="46"/>quia generat generans se immediate quod est propositum. 
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e337">
+          <lb ed="#Pa" n="47"/>⁋ Preterea retento eodem casu sequitur quod nulla qua 
+          <lb ed="#Pa" n="48"/>litas passi remittitur per aliquam qualitatem illius acti 
+          <lb ed="#Pa" n="49"/>ui quia quod adhuc est non corrupitur. Item natura hu 
+          <lb ed="#Pa" n="50"/>ius agentis quae nunc est non erit post hoc instans igitur 
+          <lb ed="#Pa" n="51"/>non corrumpet aliquid post hoc instans nec etiam nunc 
+          ali<lb ed="#Pa" n="52" break="no"/>quid corrumpit in passo alio qui simul produceret 
+          <lb ed="#Pa" n="53"/>et corrumperet idem eo quod nunc producit istam qualitatem 
+          <lb ed="#Pa" n="54"/>que est in passo vt patet ex priori deductione.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e357">
+          ⁋ Item 
+          <lb ed="#Pa" n="55"/>tunc agens naturale in centuplo perfectius alio in  
+          <lb ed="#Pa" n="56"/>passo minus resistente et hoc agens secundum vltimum 
+          <lb ed="#Pa" n="57"/>potentie sue produceret effectum in centuplo 
+          imper<lb ed="#Pa" n="58" break="no"/>fectiorem quam agens subcentuplum in passo magis 
+          <lb ed="#Pa" n="59"/>repugnante quia istud agens scilicet calidum 
+          pro<lb ed="#Pa" n="60" break="no"/>ducit in frigido calorem subcentuplum illi quem 
+          <lb ed="#Pa" n="61"/>producit illud frigidum in tali calido remittende 
+          <lb ed="#Pa" n="62"/>per reactionem calorem illius ponatur enim quod sint 
+          <lb ed="#Pa" n="63"/>in tali proportione.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e380">
+          ⁋ Item specialiter argui pos 
+          <lb ed="#Pa" n="64"/>set hic in proposito de charitate quia charitas non 
+          <lb ed="#Pa" n="65"/>corrumpitur nisi adueniente peccato mortali. Sed  
+          <lb ed="#Pa" n="66"/>in augmentatione charitatis peccatum mortale 
+          <!--182.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>non interuenit. vnde et in isto casu de charitate te 
+          <lb ed="#Pa" n="68"/>net campsale sequens conclusionem oppositam quod cha 
+          <lb ed="#Pa" n="69"/>ritas prior non corrumpitur sed aduenit continue 
+          <lb ed="#Pa" n="70"/>alia et alia non componentes cum prioribus.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e402">
+          ⁋ Contra 
+          <lb ed="#Pa" n="71"/>istam conclusionem arguitur quia secundum philosophum ge 
+          <lb ed="#Pa" n="72"/>neratio vnius est corruptio alterius sed in fine 
+          au<lb ed="#Pa" n="73" break="no"/>gmentationis charitatis aliquid est oe nouo 
+          ge<lb ed="#Pa" n="74" break="no"/>nitum igitur aliquid ibi corrumpitur et non nisi 
+          cha<lb ed="#Pa" n="75" break="no"/>ritas.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e415">
+          ⁋ Item in motu locali mobile desinit habere 
+          <lb ed="#Pa" n="76"/>aliquem prehabitum vel partem illius igitur a simili 
+          <lb ed="#Pa" n="77"/>in motu ad formam.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e422">
+          ⁋ Item termini motus sunt 
+          incon<lb ed="#Pa" n="78" break="no"/>possibiles sed in augmentatione charitatis 
+          chari<lb ed="#Pa" n="79" break="no"/>tas prehabita est terminus a quo et charitas sequens 
+          <lb ed="#Pa" n="80"/>terminus ad quem igitur iste charitates sunt natura 
+          <lb ed="#Pa" n="81"/>liter incompossibiles in eodem et siiiliter arguitur de 
+          cu<lb ed="#Pa" n="82" break="no"/>iuslibet alterius forme augmentatione.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e435">
+          ⁋ Et si 
+          di<lb ed="#Pa" n="83" break="no"/>cas quod per se terminus a quo non est charitas sed 
+          pri<lb ed="#Pa" n="84" break="no"/>uatio seu non est charitatis acquirende contra 
+          alte<lb ed="#Pa" n="85" break="no"/>ratio est motus apositiuo in positiuum quinto phisico 
+          <lb ed="#Pa" n="86"/>rum probatur contraria non compatiuntur se sed charitas 
+          <lb ed="#Pa" n="87"/>maior et minor contrariantur quia quinto phisicorum 
+          <lb ed="#Pa" n="88"/>dicitur quod minus album contrariatur magis albo. 
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e451">
+          <lb ed="#Pa" n="89"/>⁋ Et probatur hoc quia impossibile est idem 
+          subie<lb ed="#Pa" n="90" break="no"/>ctum simul et semel esse minus album et magis album 
+          <lb ed="#Pa" n="91"/>et hoc non est nisi propter aliquam repugnantiam vel con 
+          <lb ed="#Pa" n="92"/>trarietatem.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e463">
+          ⁋ Preterea tunc forma posterior esset 
+          <lb ed="#Pa" n="93"/>compositior precedenti falsitas probatur quia est magis 
+          <lb ed="#Pa" n="94"/>simplex eo quod est perfectior videmus enim quod quam 
+          <lb ed="#Pa" n="95"/>to aliqua species perfectior est tanto simplicior sed  
+          <lb ed="#Pa" n="96"/>sicut se habent magis et minus in diuersis speciebus 
+          <lb ed="#Pa" n="97"/>ita se habent in indiuiduis vnius speciei.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e476">
+          ⁋ Similiter 
+          <lb ed="#Pa" n="98"/>quanto forma substantialis est perfectior tanto sima 
+          <lb ed="#Pa" n="99"/>licior et similiter est in accidentibus.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e483">
+          ⁋ Item tunc 
+          <lb ed="#Pa" n="100"/>beatifica visio posset augeri per additionem alicuius 
+          <lb ed="#Pa" n="101"/>gradus vt visionis falsitas probatur quia actus 
+          beati<lb ed="#Pa" n="102" break="no"/>fici sunt indiuisibiles alioquin vna visio 
+          beatifi<lb ed="#Pa" n="103" break="no"/>ca includeret infinitas visiones dei et etiam tunc ad  
+          <lb ed="#Pa" n="104"/>eam posset esse motus. Item visio corporalis potest esse 
+          <lb ed="#Pa" n="105"/>magis perfecta et minus perfecta respectu eiusdem 
+          ob<lb ed="#Pa" n="106" break="no"/>iecti sensibilis et tamen visio non est forma partialis. 
+          <lb ed="#Pa" n="107"/>Similiter arguitur de specie albedinis in 
+          me<lb ed="#Pa" n="108" break="no"/>dio.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e505">
+          ⁋ Item non includit contradictionem quod vbi in 
+          <lb ed="#Pa" n="109"/>aliqua specie quodlibet indiuiduum est simplex 
+          <lb ed="#Pa" n="110"/>unum sit perfectius alio non enim oportet quod talia 
+          <lb ed="#Pa" n="111"/>indiuidua sint simillima.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e514">
+          ⁋ Confirmatur hoc per ar 
+          <lb ed="#Pa" n="112"/>ticulum qui ponit quod error est dicere quod anima Christi 
+          <lb ed="#Pa" n="113"/>non sit nobilior quam anima iude quod non posset 
+          in<lb ed="#Pa" n="114" break="no"/>telligi secundum proprietates accident ales 
+          tantu<lb ed="#Pa" n="115" break="no"/>quia ad istum intellectum fuit ista conclusio 
+          pyden<lb ed="#Pa" n="116" break="no"/>ptifica sicut patet per verba articuli igitur hoc est 
+          <lb ed="#Pa" n="117"/>secundum substantiam sed constat quod anima est 
+          in<lb ed="#Pa" n="118" break="no"/>diuisibilis igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e532">
+          ⁋ Item recipiens debet esse denu 
+          <lb ed="#Pa" n="119"/>datum a natura recepti.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e538">
+          ⁋ Item in sex principiis forma 
+          <lb ed="#Pa" n="120"/>est compositum contingens simplici et inuariabili essentia 
+          <lb ed="#Pa" n="121"/>consistens.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e545">
+          ⁋ Ad primum istorum dicendum quod philosophs ibi loquitur 
+          <lb ed="#Pa" n="122"/>de generatione simplicitur que est substantiarum tantum.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e550">
+          ⁋ Ad  
+          <lb ed="#Pa" n="123"/>secum dicendum quod non est simile de motu locali et 
+          de<lb ed="#Pa" n="124" break="no"/>aliis nec tamen de per se est ex natura motus loca 
+          <lb ed="#Pa" n="125"/>lis communis per aliquam potentiam posset esse motus lo 
+          <lb ed="#Pa" n="126"/>calis acquisitus fine deperditione.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e561">
+          ⁋ Ad tertium ne 
+          <lb ed="#Pa" n="127"/>gatur quod termini motus sunt incompossibiles Item 
+          <lb ed="#Pa" n="128"/>cum dicit philosophus quod motus est de assignato in assignatum non 
+          <lb ed="#Pa" n="129"/>intelligit deipositiuo contrario in positiuum 
+          contra<lb ed="#Pa" n="130" break="no"/>rium.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e572">
+          ⁋ Sed quod subiectum motus quod est sub 
+          vtro<lb ed="#Pa" n="131" break="no"/>que termio debet esse ens in actu non enim optet in productio 
+          <lb ed="#Pa" n="132"/>ne lumins quod teminus a quae sit qualitas positiua contraria 
+          <!--183.xml-->
+          <pb ed="#Pa" n="70-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>lumini.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e588">
+          ⁋ Ad quartum dicitur quod ibi capitur contra 
+          <lb ed="#Pa" n="2"/>rietas valde large secundum hoc quod repugnet idem 
+          <lb ed="#Pa" n="3"/>simul esse magis album et nimus album et talis 
+          <lb ed="#Pa" n="4"/>repugnantia etiam reperitur in quantitate 
+          ma<lb ed="#Pa" n="5" break="no"/>iore et minore vbi tamen est vera contrarietas. 
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e600">
+          <lb ed="#Pa" n="6"/>⁋ Ad quintum dicitur quod non oportet semper spem 
+          <lb ed="#Pa" n="7"/>perfectiorem esse simpliciorem vt patet comparam 
+          <lb ed="#Pa" n="8"/>do hominem ad igne vel terram.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e609">
+          ⁋ Ad sextum 
+          con<lb ed="#Pa" n="9" break="no"/>cedo quod deus bene potest augere visionem beatifi 
+          <lb ed="#Pa" n="10"/>cam et quod ipsa est diuisibilis in infinitas visiones 
+          <lb ed="#Pa" n="11"/>dei nec est inconueniens ad eam posse esse motum 
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e618">
+          <lb ed="#Pa" n="12"/>⁋ Et per hoc patet ad septimum quia conceditur 
+          <lb ed="#Pa" n="13"/>quod visio corporalis est diuisibilis vel per motum ocu 
+          <lb ed="#Pa" n="14"/>li vel per successiuam dispositionem medi vel per 
+          <lb ed="#Pa" n="15"/>amotionem impediti vel per successiuam augmen 
+          <lb ed="#Pa" n="16"/>tationem alicuius requisiti ad perfectionem 
+          vi<lb ed="#Pa" n="17" break="no"/>sionem habendam et sic de similibus causis
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e634">
+          ⁋ Item 
+          <lb ed="#Pa" n="18"/>species in medio non est indiuisibilis nec extensiue 
+          <lb ed="#Pa" n="19"/>nec intensiue.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e641">
+          ⁋ Ad octauum negatur antecedens 
+          <lb ed="#Pa" n="20"/>vna cum probatione oportet enim quod illa que con 
+          <lb ed="#Pa" n="21"/>ueniunt in conceptu specifico substantiali et absoluto 
+          <lb ed="#Pa" n="22"/>speciei specialissime sint simillima vel essentialiter 
+          <lb ed="#Pa" n="23"/>vel ex similibus composita.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e652">
+          ⁋ Ad nonum 
+          respon<lb ed="#Pa" n="24" break="no"/>det okam quod ille arguens male intelligeret 
+          articu<lb ed="#Pa" n="25" break="no"/>lum quia articulus est contra illos qui posuerunt 
+          <lb ed="#Pa" n="26"/>vnam animam non posse esse nobiliorem alia nisi 
+          pro<lb ed="#Pa" n="27" break="no"/>pter maiorem perfectionem corporum vel nisi 
+          es<lb ed="#Pa" n="28" break="no"/>sent diuersarum specierum quod esset erroneum 
+          <lb ed="#Pa" n="29"/>quia anima Christi quando erat separata erat 
+          nobi<lb ed="#Pa" n="30" break="no"/>lior anima iude et tamen non fuit vnita nobiliori 
+          <lb ed="#Pa" n="31"/>corpori nec fuit alterius speciei sed non sequitur 
+          <lb ed="#Pa" n="32"/>est nobilior igitur est sic nobilior sed est fallacia 
+          <lb ed="#Pa" n="33"/>consequentis sequitur enim econuerso.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e677">
+          ⁋ Ad 
+          cu<lb ed="#Pa" n="34" break="no"/>ius intellectum notandum quod hec sunt verba 
+          arti<lb ed="#Pa" n="35" break="no"/>culi sicut iacent capitulo octauo articu. 23 quod 
+          incon<lb ed="#Pa" n="36" break="no"/>ueniens est ponere alios intellectus nobiliores a 
+          <lb ed="#Pa" n="37"/>liis quia cum ista diuersitas non possit esse apte 
+          <lb ed="#Pa" n="38"/>corporum oportet quod sit a parte intelligentiarum 
+          <lb ed="#Pa" n="39"/>et sic anime nobiles et innobiles necessario essent 
+          <lb ed="#Pa" n="40"/>diuersarum specierum sicut intelligentie error sic 
+          <lb ed="#Pa" n="41"/>anima Christi non esset nobilior anima iude hec ille
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e697">
+          ⁋ Ex 
+          <lb ed="#Pa" n="42"/>quibus verbis patet vbi bene dicit okam quod in 
+          ar<lb ed="#Pa" n="43" break="no"/>gumento est fallacia consequentis vbi aduerten 
+          <lb ed="#Pa" n="44"/>dum est quod si teneretur sententia communis doctorum 
+          <lb ed="#Pa" n="45"/>et multorum aliorum que permittitur licet falsa 
+          <lb ed="#Pa" n="46"/>scilicet quod intellectus sit accidens anime 
+          intelle<lb ed="#Pa" n="47" break="no"/>ctiue realiter ab ipsa distinctum tunc patet quod sub 
+          <lb ed="#Pa" n="48"/>stantiis animarum exesentibus substantialiter equalibus 
+          <lb ed="#Pa" n="49"/>posset sicut placeret deo perfectior intellectus 
+          fie<lb ed="#Pa" n="50" break="no"/>ri in vna quam in alia nec oporteret ad hoc quod vnus 
+          in<lb ed="#Pa" n="51" break="no"/>tellectus esset nobilior alio quod vna anima intelle 
+          <lb ed="#Pa" n="52"/>ctiua esset diuerse speciei substantialis ab alia vel 
+          <lb ed="#Pa" n="53"/>vna nobilior alia sicut non oportet quod intellectibus 
+          <lb ed="#Pa" n="54"/>equalibus sint beatitudines equales vt patet per  
+          <lb ed="#Pa" n="55"/>alium articulum condemnantem hoc quod pares in na 
+          <lb ed="#Pa" n="56"/>turalibus non possunt esse impares in 
+          beatitudi<lb ed="#Pa" n="57" break="no"/>nibus sed habentes meliora naturalia semper ha 
+          <lb ed="#Pa" n="58"/>bent meliorem beatitudinem quod est error ita est 
+          <lb ed="#Pa" n="59"/>diceretur quod si anima Christi haberet nobiliorem intel 
+          <lb ed="#Pa" n="60"/>lectum quam anima iude nobilior esset ipsa et tamen 
+          <lb ed="#Pa" n="61"/>non propter hoc esset alterius speciei nec excedens 
+          <lb ed="#Pa" n="62"/>eam substantialiter.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e745">
+          ⁋ Alio modo posset intelligi 
+          <lb ed="#Pa" n="63"/>articulus oe nobilitate maiori per dona virtutes 
+          <lb ed="#Pa" n="64"/>et scientias et fruitionem et multa alia que tamen 
+          <lb ed="#Pa" n="65"/>non se tenent ex parte corporis nec ex hoc sequitur 
+          <lb ed="#Pa" n="66"/>quod vna sit substantialiter perfectior alia quia hec illa¬ 
+          <!--183.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>tio est per alium articulum iam allegatum 
+          conden<lb ed="#Pa" n="68" break="no"/>nata tertius intellectus posset poni quod anima Christi 
+          <lb ed="#Pa" n="69"/>tam in substantia quam in potentia esset nobilior anima iu 
+          <lb ed="#Pa" n="70"/>de quia nobilitatur et sublimatur etiam in substantia 
+          <lb ed="#Pa" n="71"/>resistat hypostatice diuina substantia filiali nec tamen 
+          <lb ed="#Pa" n="72"/>equitur quod ipsa sit essentialiter perfectior.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e774">
+          ⁋ Quar 
+          <lb ed="#Pa" n="73"/>to posset intelligi melior ex hoc quod haberet plures 
+          <lb ed="#Pa" n="74"/>gradus eiusdem speciei et esset per consequens 
+          <lb ed="#Pa" n="75"/>compositio alia per modum quo vna causalitas in  
+          <lb ed="#Pa" n="76"/>sua specie est perfectior est nobilior alia.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e785">
+          ⁋ Quin  
+          <lb ed="#Pa" n="77"/>to modo quod vna esset substantialiter perfectior 
+          a<lb ed="#Pa" n="78" break="no"/>lia et tamen eque simpliciter vel simplicior et 
+          si<lb ed="#Pa" n="79" break="no"/>ne dubio iuxta argumenta okam et scoti non video 
+          <lb ed="#Pa" n="80"/>quin eo ipso essent alterius speciei sicut ipsi argu 
+          <lb ed="#Pa" n="81"/>unt. Treuius mihi apparet quod excessus 
+          nobilita<lb ed="#Pa" n="82" break="no"/>tis quo anima Christi excedit animam iude secundum ar 
+          <lb ed="#Pa" n="83"/>ticulum est in actibus anime in his vel aliquo eo 
+          <lb ed="#Pa" n="84"/>rum que contingenter vel accidentaliter sibi 
+          con<lb ed="#Pa" n="85" break="no"/>ueniunt aliquo trium primo modorum et quia 
+          <lb ed="#Pa" n="86"/>primus non est apud me verus licet sit opinio pro 
+          <lb ed="#Pa" n="87"/>babilis Ideo secundus vel tertius modus mihi 
+          <lb ed="#Pa" n="88"/>verisimilior apparet vnde adhuc tenetur 
+          parisi<lb ed="#Pa" n="89" break="no"/>us a multis reputatis quod anima non est secundum 
+          <lb ed="#Pa" n="90"/>ubstantiam nobilior aut ignobilior quacumque alia 
+          <lb ed="#Pa" n="91"/>anima intellectiua et hic plane tenet. Magister sypim. d 
+          <lb ed="#Pa" n="92"/>naronis libro tertio. q. 4 tamen quia infra eandem 
+          <lb ed="#Pa" n="93"/>spem non posset esse maius et minus nisi per gra 
+          <lb ed="#Pa" n="94"/>dus eiusdem rei sicut exemplificat de charitate tamen 
+          <lb ed="#Pa" n="95"/>quia excessus in talibus indiuiduis substantialibus 
+          <lb ed="#Pa" n="96"/>et simplicibus non est nisi per posteriora se cum in omni 
+          <lb ed="#Pa" n="97"/>bus que sunt de essentia sint equalia et paria 
+          po<lb ed="#Pa" n="98" break="no"/>teriora aut aliquomodo sunt ei accidentalia igitur 
+          <lb ed="#Pa" n="99"/>in substantialibus nullomodo excedunt hec ille.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e837">
+          ⁋ Hec 
+          <lb ed="#Pa" n="100"/>media in virtute posuerunt okam et sco vt habi 
+          <lb ed="#Pa" n="101"/>tum est nec valet inquit fugere ad intensionem et re 
+          <lb ed="#Pa" n="102"/>missionem graduum infra eandem spem quia ani 
+          <lb ed="#Pa" n="103"/>ma intellectiua non habet in se tales gradus reali 
+          <lb ed="#Pa" n="104"/>ter differentes ex quarum pluribus componatur 
+          <lb ed="#Pa" n="105"/>perfectior quam minus perfecta primo quia tunc es 
+          <lb ed="#Pa" n="106"/>set diuisibilis in infinitum sicut continuum quia qui  
+          <lb ed="#Pa" n="107"/>libet gradus est eiusdem rationis cum tota forma 
+          <lb ed="#Pa" n="108"/>sed res eiusdem rationis habent easdem per se pas 
+          <lb ed="#Pa" n="109"/>siones igitur sicut tota forma ponitur diuisibilis 
+          <lb ed="#Pa" n="110"/>in gradus et ita quilibet gradus vltimus est di 
+          <lb ed="#Pa" n="111"/>uisibilis.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e867">
+          ⁋ Item tunc quilibet gradus anime esset 
+          <lb ed="#Pa" n="112"/>anima quia in homogeneis omne predicatum es 
+          <lb ed="#Pa" n="113"/>sentiale conueniens toti conuenit et parti et per 
+          <lb ed="#Pa" n="114"/>consequens quot gradus sunt in vna anima tot sunt 
+          <lb ed="#Pa" n="115"/>partes in ipsa.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e878">
+          ⁋ Tertio sequitur quod ex omnibus 
+          a<lb ed="#Pa" n="116" break="no"/>nimabus posset fieri vna anima quia quecumque sunt 
+          <lb ed="#Pa" n="117"/>vnius rationis si vnibilitas conuenit quibusdam 
+          <lb ed="#Pa" n="118"/>eorum conuenire debet et omnibus. Et ideo sicut 
+          <lb ed="#Pa" n="119"/>quattuor gradus vnius anime sunt inter se vnibi 
+          <lb ed="#Pa" n="120"/>es ita sunt vnibiles cum aliis quattuor gradibus 
+          <lb ed="#Pa" n="121"/>alterius anime sibi similibus ymo simpliciter om 
+          <lb ed="#Pa" n="122"/>nes adinuicem vnibiles erunt sicut omnes aque  
+          <lb ed="#Pa" n="123"/>vel omnes charitates.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e898">
+          ⁋ Quarto sequitur quod ex 
+          <lb ed="#Pa" n="124"/>vna anima innumerales anime fieri poterunt quia 
+          <lb ed="#Pa" n="125"/>quilibet gradus natus est ab alio separari sicut sine 
+          <lb ed="#Pa" n="126"/>eo produci cum realiter differant nec habeant or 
+          <lb ed="#Pa" n="127"/>dinem essentialem et sic de gradibus graduum in 
+          <lb ed="#Pa" n="128"/>infinitum.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e911">
+          ⁋ Quinto sequitur quod anima esset 
+          <lb ed="#Pa" n="129"/>inducibilis per motum quia tales gradus sicut 
+          <lb ed="#Pa" n="130"/>possunt simul ita etiam poterunt successiue 
+          produ<lb ed="#Pa" n="131" break="no"/>ci hec ille in sententia hec omnia citius concede 
+          <lb ed="#Pa" n="132"/>rem quam quod perfectior forma secundum substantiam esset equae 
+          <!--184.xml-->
+          <pb ed="#Pa" n="70-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>simpliciter vel simplicior tamen minus perfecta et 
+          <lb ed="#Pa" n="2"/>tamen quod essent eiusdem rationis specifice et hoc ex 
+          <lb ed="#Pa" n="3"/>sententia sponte concessit beseuson ponens quod de mille 
+          <lb ed="#Pa" n="4"/>animabus posset deus facere vna et de vna milie 
+          <lb ed="#Pa" n="5"/>et per consequens omnia alia hic illata haberet con 
+          <lb ed="#Pa" n="6"/>cedem ex sensu supraposito.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e942">
+          ⁋ Sed videtur quod predi 
+          <lb ed="#Pa" n="7"/>cta non sufficiant pro articulo quia iuxta primum 
+          mo<lb ed="#Pa" n="8" break="no"/>dum articulus non haberet rationem damnandi illam 
+          <lb ed="#Pa" n="9"/>opnionem nisi per hoc quod oporteret ponere quod intel 
+          <lb ed="#Pa" n="10"/>lectus sit accidens anime etc. cuius tamen oppositum ma 
+          <lb ed="#Pa" n="11"/>gis tenetur nec secundus nec tertius modus sufficit 
+          <lb ed="#Pa" n="12"/>quia non est verisimile aliquos theologos de hoc 
+          du<lb ed="#Pa" n="13" break="no"/>bitasse quin anima Christi esset nobilior in virtutibus et 
+          <lb ed="#Pa" n="14"/>donis gratuitis quam aliqua alia anima et etiam quin 
+          es<lb ed="#Pa" n="15" break="no"/>set per vnionem hypostaticam plus aliis sublimata nec 
+          <lb ed="#Pa" n="16"/>quartus sufficit quia licet aliqui talem compositionem 
+          <lb ed="#Pa" n="17"/>gradualem in anima posuerunt et adhuc ponant conceden 
+          <lb ed="#Pa" n="18"/>tes ea que prius sunt illata tamen magis communi 
+          <lb ed="#Pa" n="19"/>ter negatur illa propositio et ponitur quod anima intello 
+          <lb ed="#Pa" n="20"/>ctiua sit simpliciter indiuisibilis ideo talis 
+          po<lb ed="#Pa" n="21" break="no"/>tentia compositionis non sufficit pro articulo nec 
+          quin<lb ed="#Pa" n="22" break="no"/>tus modus etiam quia licet multi concedant quod vnum 
+          <lb ed="#Pa" n="23"/>indiuiduum eque simplex cum alio eiusdem speciei sit sub 
+          <lb ed="#Pa" n="24"/>stantialiter perfectior alio oc tamen non est euidens 
+          <lb ed="#Pa" n="25"/>ratione nec auctoritate quod etiam aliquod indiuidu 
+          <lb ed="#Pa" n="26"/>um siue compositum siue simplex sit prefectius 
+          substantiali<lb ed="#Pa" n="27" break="no"/>ter alio indiuiduo eiusdem speciei. Unde oppositum 
+          li<lb ed="#Pa" n="28" break="no"/>cet tenetur sicut de simplicibus satis patet ex 
+          di<lb ed="#Pa" n="29" break="no"/>ctis.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e994">
+          ⁋ Item probabilius videtur dicendum quod vna 
+          <lb ed="#Pa" n="30"/>anima intellectiua est nobilior alia in suis naturalibus 
+          <lb ed="#Pa" n="31"/>non quidem substantialiter sed per lumen intellectus agentis 
+          <lb ed="#Pa" n="32"/>sibi connaturale et secundum naturam sibi 
+          concrea<lb ed="#Pa" n="33" break="no"/>tum tale namque lumen reputatur inter dona natura 
+          <lb ed="#Pa" n="34"/>lia et videtur diuersificatum in diuersis ita quod stan 
+          <lb ed="#Pa" n="35"/>te omnimoda paritate aliquorum in dispositionibus 
+          <lb ed="#Pa" n="36"/>corporum vnus est in duplo perspicatoris ingenii quam alter 
+          <lb ed="#Pa" n="37"/>quia plus percipiat de tali luine quam alter et 
+          verisimi<lb ed="#Pa" n="38" break="no"/>le est quod anima Christi lumen tale habuerit perfectissimum 
+          <lb ed="#Pa" n="39"/>et modo perfectissimo.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e1019">
+          ⁋ Ad 10 respondet si ransi 
+          <lb ed="#Pa" n="40"/>et bene quod illud dictum debet intelligi de recepto in  
+          <lb ed="#Pa" n="41"/>actu sic scilicet quod non sit pars alicuius sue speciei in  
+          <lb ed="#Pa" n="42"/>recipiente sed non sic est in augmentatione forme 
+          <lb ed="#Pa" n="43"/>in eadem parte adequata subiecti quia quelibet 
+          <lb ed="#Pa" n="44"/>forma que post recipitur sit pars qualitatiua et 
+          <lb ed="#Pa" n="45"/>gradualis forme prioris sue speciei que est in recipien 
+          <lb ed="#Pa" n="46"/>te. Aliter et bene respondet 4 quod recipiens in pro 
+          <lb ed="#Pa" n="47"/>posito denudatur a natura recepti quia vna pars 
+          <lb ed="#Pa" n="48"/>non recipit aliam sed habet idem recipiens quem et 
+          <lb ed="#Pa" n="49"/>istud non debet denudari a natura recepti
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e1043">
+          ⁋ Aliter 
+          <lb ed="#Pa" n="50"/>respondent aliqui et probabiliter quod ad hoc quod ali 
+          <lb ed="#Pa" n="51"/>quid recipiat oportet quod illud passum ex natura fua 
+          <lb ed="#Pa" n="52"/>non habeat aliquod simile et ideo ignis qui 
+          natu<lb ed="#Pa" n="53" break="no"/>raliter est calidus non est alterius caloris receptiuus 
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e1054">
+          <lb ed="#Pa" n="54"/>⁋ Aliter ad litteram intelligitur quod recipiens non est 
+          <lb ed="#Pa" n="55"/>eiusdem nature secundum spem cum recepto sicut 
+          <lb ed="#Pa" n="56"/>pupilla si debet recipere omnes colores oportet 
+          <lb ed="#Pa" n="57"/>quod sit de natura sua non color et intellectus iste suffi 
+          <lb ed="#Pa" n="58"/>cit philosopho et commentatori pro questione ibi probanda 
+          <lb ed="#Pa" n="59"/>de intellectu possibili quod est simplex et immixtus ex na 
+          <lb ed="#Pa" n="60"/>turis rerum intelligibiltum.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e1072">
+          ⁋ Ad 1. dico quod 
+          for<lb ed="#Pa" n="61" break="no"/>ma non est composita copositione essentiali ex 
+          mate<lb ed="#Pa" n="62" break="no"/>ria et forma propria et intriseca que materia possit ad  
+          <lb ed="#Pa" n="63"/>talem formam transmutari vel de forma ad formam 
+          <lb ed="#Pa" n="64"/>variari licet aliqui contrarium tenuerunt 
+          ponen<lb ed="#Pa" n="65" break="no"/>tes in omni genere predicabili sua propria et 
+          intrinse<lb ed="#Pa" n="66" break="no"/>ca principia materiam et formam et priuationem.
+        </p>
+        <p xml:id="GHYaf3-d1e466-d1e1088">
+          ⁋ Et 
+          <!--184.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>ideo dicitur quod accidentia non habent materiam 
+          <lb ed="#Pa" n="68"/>ex qua sed in qua Ad argumentum principale pa 
+          <lb ed="#Pa" n="69"/>tet sicut ad 10
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,508 +1,508 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 14</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 14</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="46-r"/>
-            <cb ed="#Pa" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e307"><!-- GHYaf3-l1d1q14 -->
-            <head xml:id="GHYaf3-d1e307-Hd1e108">Quaestio 14</head>
-            <head xml:id="GHYaf3-d1e307-Hd1e111" type="question-title">
-      Utrum fruitio beatifica sit actus intellectus.
-    </head>
-            <p xml:id="GHYaf3-d1e307-d1e114">
-               <lb ed="#Pa" n="123"/>QUarto decimo circa 
-      disti<lb ed="#Pa" n="124" break="no"/>Ictionem primam et vltimo queritur vtrum 
-      <lb ed="#Pa" n="125"/>fruitio beatifice sit actus intellectiuus
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e123">
-               <lb ed="#Pa" n="126"/>quod sic quia ex <ref xml:id="GHYaf3-d1e307-Rd1e127">10. Ethicorum</ref> felicitas consistit in spe 
-      <lb ed="#Pa" n="127"/>culationem optimi obiecti sed speculatio pertinet 
-      <lb ed="#Pa" n="128"/>ad intellectumigitur et felicitas igitur et fruitio quiafruitio 
-      <lb ed="#Pa" n="129"/>vie et patrie ad eandem potentiam pertinent igitur. 
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e137">
-               <lb ed="#Pa" n="130"/>⁋ Oppositum habitus et sua propria operatio ad 
-      <lb ed="#Pa" n="131"/>eandem potentiam pertinent sed fruitio est ope¬ 
-      <!--120.xml-->
-      <pb ed="#Pa" n="46-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>ratio ad quam per se inclinat charitas Charitas 
-      <lb ed="#Pa" n="2"/>autem est actus nobilissimus et est absolute in volun 
-      <lb ed="#Pa" n="3"/>tate igitur et fruitio. In questione ista primo su 
-      <lb ed="#Pa" n="4"/>pono quod fruitio et felicitas beatifica pricipaliter 
-      <lb ed="#Pa" n="5"/>pertinent ad eandem potentiam quecunque sit illa et 
-      <lb ed="#Pa" n="6"/>quod sint tales potentie multe in natura eadem 
-      bea<lb ed="#Pa" n="7" break="no"/>tificabili et quod fruitio beatifica est perfectio potet 
-      <lb ed="#Pa" n="8"/>tie nobilissime ex eisdem Ita enim. 10. et 
-      hicoru<lb ed="#Pa" n="9" break="no"/>ca. 6 in principio quod felicitas est operatio secundum 
-      <lb ed="#Pa" n="10"/>optimam virtutem hec autem erit optimi siue vtique in 
-      <lb ed="#Pa" n="11"/>tellectus hec siue aliud quod vtique secundum natu 
-      <lb ed="#Pa" n="12"/>ram videtur principiari et dominari.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e177">
-      ⁋ Primus 
-      <lb ed="#Pa" n="13"/>articulus dubitatur vtrum intellectus sit nobilior 
-      <lb ed="#Pa" n="14"/>voluntate quod sic quia ibidem consequenter dicit philosoph 
-      <lb ed="#Pa" n="15"/>etenim intellectus eorum que in nobis sunt est 
-      op<lb ed="#Pa" n="16" break="no"/>timum. Item ibidem felicitas est optima operatio 
-      <lb ed="#Pa" n="17"/>secundum optimam virtutem et ibidem probat quod 
-      <lb ed="#Pa" n="18"/>optima operatio est speculatiua dicens existima 
-      <lb ed="#Pa" n="19"/>mus oportere delectationem adiunctam esse 
-      felici<lb ed="#Pa" n="20" break="no"/>tati delectabilissima autem earum que 
-      secundu<lb ed="#Pa" n="21" break="no"/>virtutem operationum que secundum sapientiam 
-      <lb ed="#Pa" n="22"/>concessa est videtur enim philosophya admirabiles dele 
-      <lb ed="#Pa" n="23"/>ctationes habere puritatem et firmitatem.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e203">
-      ⁋ Ad idem 
-      <lb ed="#Pa" n="24"/>est processus philosophy primo et hicorum capitulo penult 
-      <lb ed="#Pa" n="25"/>mo et commentator ibidem commento 62 circa 
-      me<lb ed="#Pa" n="26" break="no"/>dium sic dicit Sicut in corpore visus bonus cognitiones 
-      <lb ed="#Pa" n="27"/>entium prebens et decorans ita intellectus in ani 
-      <lb ed="#Pa" n="28"/>ma cognitionem intelligentium dans et decorans 
-      <lb ed="#Pa" n="29"/>ipsam super omnem potentiam Preterea 
-      augu<lb ed="#Pa" n="30" break="no"/>tinus de vera religione c. 12 et. 2 de libero 
-      arbi<lb ed="#Pa" n="31" break="no"/>trio capitulo nono probat quod intellectus est nobi 
-      <lb ed="#Pa" n="32"/>lior et prestantior sensu per hoc quod intellectus 
-      iu<lb ed="#Pa" n="33" break="no"/>dicat de sensu et eius actione vtrum sic sit sicut esse 
-      <lb ed="#Pa" n="34"/>debet. Sed idem medium est verum de intellectu 
-      <lb ed="#Pa" n="35"/>in comparatione ad voluntatem igitur intellectus 
-      <lb ed="#Pa" n="36"/>est nobilior voluntate puxta hoc potest argui pro 
-      <lb ed="#Pa" n="37"/>prius actus intellectiuus est nobilior proprioactu 
-      <lb ed="#Pa" n="38"/>voluntatis igitur Antecedens probatur quia actus intel 
-      <lb ed="#Pa" n="39"/>lectiuus est regula secundum quam iudicamus de 
-      a<lb ed="#Pa" n="40" break="no"/>ctione voluntatis vtrum sit bona vel mala igitur 
-      <lb ed="#Pa" n="41"/>conseqtia patet per augustinum secundo de libero ar 
-      <lb ed="#Pa" n="42"/>bitrioec. 23. vbi probat quod veritas secundum quam iu 
-      <lb ed="#Pa" n="43"/>dicamus de hiis que sunt in mente nostra est 
-      me<lb ed="#Pa" n="44" break="no"/>lior et nobilior quam mens nostra per hoc quod nisi esset 
-      su<lb ed="#Pa" n="45" break="no"/>perior quam mens non secundum illam sed de illa 
-      iudi<lb ed="#Pa" n="46" break="no"/>caremus igitur similiter in proposito.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e255">
-      ⁋ Confirma 
-      <lb ed="#Pa" n="47"/>tur quia actus voluntatis non est rectus nisi quia con 
-      <lb ed="#Pa" n="48"/>formatur rationi recte sed vnumquodque propteri quod 
-      <lb ed="#Pa" n="49"/>etc. igitur actus intellectus est magis rectus igitur 
-      <lb ed="#Pa" n="50"/>nobilior Preterea illud est melius quod natura 
-      <lb ed="#Pa" n="51"/>liter magis amatur sed iudicium rectum intelle 
-      <lb ed="#Pa" n="52"/>ctus est huiusmodi respectu delectionis que tam 
-      <lb ed="#Pa" n="53"/>magis diligitur inter illa que sunt in voluntate 
-      <lb ed="#Pa" n="54"/>vt patet per augustinum in quode loco de ciuitate 
-      <lb ed="#Pa" n="55"/>dei quod vnusquisque mauult sana mente lamentari qua 
-      <lb ed="#Pa" n="56"/>letari in amentia.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e279">
-      ⁋ Contra actus voluntatis est 
-      <lb ed="#Pa" n="57"/>melior igitur et voluntas Antecedens patet quia pro actio 
-      <lb ed="#Pa" n="58"/>ne voluntatis principalius debetur premium et est 
-      <lb ed="#Pa" n="59"/>ipsa voluntas vel sola mereretur vel principalius 
-      <lb ed="#Pa" n="60"/>facit ad meritum igitur. Preterea optimus 
-      ha<lb ed="#Pa" n="61" break="no"/>bitus siue optima virtus voluntatis est melior op 
-      <lb ed="#Pa" n="62"/>timo habitu intellectus igitur et voluntas intel 
-      <lb ed="#Pa" n="63"/>lectu per consequentiam aristotelis supra in ar 
-      <lb ed="#Pa" n="64"/>gumento primo et secundo prime partis assumptum 
-      <lb ed="#Pa" n="65"/>probatur quia charitas est melior sapientia nam secundum 
-      <lb ed="#Pa" n="66"/>apostolum spes fides charitas tria hec sed maior 
-      <!--120.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>horum est charitas. Preterea potentie princi pa 
-      <lb ed="#Pa" n="68"/>liter merenti in via principaliter debetur premium 
-      <lb ed="#Pa" n="69"/>in patria sed voluntas est huiusmodi igitur 
-      mi<lb ed="#Pa" n="70" break="no"/>nor patet per hugonem et ponitur in prima 
-      que<lb ed="#Pa" n="71" break="no"/>tione in solutione secundi dubii principalis nec a 
-      <lb ed="#Pa" n="72"/>liqui es hoc negat. Hic hysbse cum sco. contra tho in  
-      <lb ed="#Pa" n="73"/>scripto quod voluntas est nobilior potentia quam 
-      intel<lb ed="#Pa" n="74" break="no"/>lectus Et arguit contra thomam dicens quod intellectus 
-      <lb ed="#Pa" n="75"/>est altissima potentia in anima quero inquit aut 
-      <lb ed="#Pa" n="76"/>intelligit per altissimam nobilissimam aut 
-      prio<lb ed="#Pa" n="77" break="no"/>rem secundu ordinem. si primum tunc contradicit sibi ipsi 
-      <lb ed="#Pa" n="78"/>in responsione ad primam argumentum dicit quod mens 
-      <lb ed="#Pa" n="79"/>habec intellectum et voluntatem quorum 
-      duo<lb ed="#Pa" n="80" break="no"/>rum intellectus est altior secundum ordinem et volun 
-      <lb ed="#Pa" n="81"/>tas secundum perfectionem. si secundum tunc illud quod 
-      <lb ed="#Pa" n="82"/>ipse accipit pro se noto est falsum scilicet quod optima 
-      opera<lb ed="#Pa" n="83" break="no"/>tio sit altissime potentie nisi per altissimam 
-      intelli<lb ed="#Pa" n="84" break="no"/>gat nobilissimam quia potentie nobilissime est 
-      opera<lb ed="#Pa" n="85" break="no"/>tio nobilissima sicut etiam vult phshuis 10. et hicor 
-      <lb ed="#Pa" n="86"/>ca. 8 Cundo ad vim sermonis teneo contrariam 
-      <lb ed="#Pa" n="87"/>conclusionem scilicet quod intellectus non est potentia nobilior 
-      <lb ed="#Pa" n="88"/>voluntate nec econverso quia idem omnino est 
-      intel<lb ed="#Pa" n="89" break="no"/>lectus quam voluntas et econuerso. Nam omni alio 
-      <lb ed="#Pa" n="90"/>circunscripto ab hac natura intellectuali ipsa 
-      na<lb ed="#Pa" n="91" break="no"/>ta est intelligere igitur hoc natum velle est natum 
-      <lb ed="#Pa" n="92"/>intelligere et econtra igitur intellectus est 
-      volun<lb ed="#Pa" n="93" break="no"/>tas et econuerso. Ex hoc enim quod talis natura est 
-      <lb ed="#Pa" n="94"/>nata vel potens intelligere dicitur intellectus vel 
-      <lb ed="#Pa" n="95"/>ex hoc quod est potens vel nata ad volendum ipsa 
-      di<lb ed="#Pa" n="96" break="no"/>citur voluntas et hoc non solum dicerem in homi 
-      <lb ed="#Pa" n="97"/>ne de intellectu et voluntate sed etiam de omni 
-      <lb ed="#Pa" n="98"/>sensu cui consonat auctor de spiritu et anima d. c 3 
-      <lb ed="#Pa" n="99"/>Sensus vero vnus est in anima et ipse non sit 
-      cor<lb ed="#Pa" n="100" break="no"/>pus corporeus dicitur et tamen non sit nisi vnus 
-      <lb ed="#Pa" n="101"/>verum tamen propter varia exercitia varie nuncu 
-      <lb ed="#Pa" n="102"/>patur. Diter namque sensus ymagiatio ratio intellectus 
-      <lb ed="#Pa" n="103"/>intelligentia et hec omnia in anima nihil adsunt 
-      <lb ed="#Pa" n="104"/>quam ipsa et ca to anima est spiritus intellectualis 
-      ratio<lb ed="#Pa" n="105" break="no"/>nalis bone maleque voluntatis capax secundum be 
-      <lb ed="#Pa" n="106"/>ni gnitatem creaturarum atque secundum sui operis 
-      <lb ed="#Pa" n="107"/>effectum variis nuncupatur nominibus dicitur nam 
-      <lb ed="#Pa" n="108"/>que anima dum vegetat spiritus dum contemplatur 
-      <lb ed="#Pa" n="109"/>sensus dum sentit animus dum sapit mens dum 
-      in<lb ed="#Pa" n="110" break="no"/>telligit ratio dum dissoluit vel discernit memoria 
-      <lb ed="#Pa" n="111"/>dum recordatur. dum vult voluntas. ista tamen non dis 
-      <lb ed="#Pa" n="112"/>ferunt in substantia quemadmodum in nominbus quando omnia 
-      <lb ed="#Pa" n="113"/>ista vna est anima Preterea non videtur rationa 
-      <lb ed="#Pa" n="114"/>le quod solum per vnum accidens medium anima sit re 
-      <lb ed="#Pa" n="115"/>ceptiua beatitudinis quia tunc accidens essetbea 
-      <lb ed="#Pa" n="116"/>tum. Preterea frustra ponitur per plura quod  
-      <lb ed="#Pa" n="117"/>eque faciliter potest saluari per pauciora vbi nec 
-      ob<lb ed="#Pa" n="118" break="no"/>uiat scriptura nec ratio sed per eandem simplicet 
-      <lb ed="#Pa" n="119"/>naturam intellectualem sine omni tali distinctione reali prae 
-      <lb ed="#Pa" n="120"/>uia primis actibus modo quo illam expressit auctor 
-      <lb ed="#Pa" n="121"/>ille facillime poterunt saluari omnia per per quae alii ponunt 
-      <lb ed="#Pa" n="122"/>potentias anime distigui igitur etc. quod autem non obuiet 
-      <lb ed="#Pa" n="123"/>patet est perscotum secundo libro vbi de isto puncto 
-      <lb ed="#Pa" n="124"/>iuestigat oe reportatione perisi. auctoritates autem 
-      <lb ed="#Pa" n="125"/>que oppositum praetendunt faciliter glosari possunt vna 
-      <lb ed="#Pa" n="126"/>per aliam hoc est declaratur exemplo oe deo qui 
-      ha<lb ed="#Pa" n="127" break="no"/>bet potentiam creativam gubernativam reparativam 
-      <lb ed="#Pa" n="128"/>predestinativam que nullomodo distiguuntur in eo 
-      <lb ed="#Pa" n="129"/>Seeadem omnio dei essentia varie nominatur a variis effectibus 
-      <lb ed="#Pa" n="130"/>suis sed magistrum sepe li. primo. preterea si distiguerem 
-      <lb ed="#Pa" n="131"/>tur aut ratione solum et hoc non quia tal distictio 
-      cau<lb ed="#Pa" n="132" break="no"/>saretur per actum intellectus sed voluntas et intel¬ 
-      <!--121.xml-->
-      <pb ed="#Pa" n="47-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>lectus precedunt omnem actum intellectus aut ex 
-      <lb ed="#Pa" n="2"/>natura rei et hoc non quia vel hoc esset propter 
-      di<lb ed="#Pa" n="3" break="no"/>uersitatem actuum vel propter diuersum modum 
-      <lb ed="#Pa" n="4"/>principiendi non primum quia tunc essent tot potentie 
-      in<lb ed="#Pa" n="5" break="no"/>tellectiue quot actus intelligendi secundum speciet di 
-      <lb ed="#Pa" n="6"/>sticti quod non est verum nec propter secundum quia 
-      <lb ed="#Pa" n="7"/>principiare libere et necessario conueniunt eidem 
-      <lb ed="#Pa" n="8"/>potentie respectu diuersorum vt patet de 
-      volun<lb ed="#Pa" n="9" break="no"/>tate diuina que necessario vult se et contigenter 
-      <lb ed="#Pa" n="10"/>creaturam. Similiter voluntas nostra vt prius vi 
-      <lb ed="#Pa" n="11"/>sum est quosudm actus mere naturaliter principiat et 
-      <lb ed="#Pa" n="12"/>quosdem libere.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e483">
-      ⁋ Item augu. 10 libro de trinitate 
-      <lb ed="#Pa" n="13"/>distictione tertia ca 7 memoria intellectiua et vo 
-      <lb ed="#Pa" n="14"/>luntas non sunt tres vite sed vna vita. Contra hanc 
-      <lb ed="#Pa" n="15"/>conclusionem sunt multe auctoritates propter quas 
-      <lb ed="#Pa" n="16"/>tenet scotus distictionem formalem inter potentias 
-      <lb ed="#Pa" n="17"/>dicunt enim auctoritates quod potentie fiuunt ab essen 
-      <lb ed="#Pa" n="18"/>tia et quod sunt passiones anime et huiusmodi. Item 
-      <lb ed="#Pa" n="19"/>phuns et sancti dicunt istas potentias esse partes 
-      <lb ed="#Pa" n="20"/>anime. Preterea. 8 ethicorum dicitur cap. secundo  
-      <lb ed="#Pa" n="21"/>dictum est supple in primo duas esse partes 
-      ani<lb ed="#Pa" n="22" break="no"/>me rationem habens et trrationabile. Nunc autem 
-      <lb ed="#Pa" n="23"/>de rationem habente dicuntur et supponuntur duo 
-      <lb ed="#Pa" n="24"/>vnum quo speculamur talia entium aliud quo 
-      conti<lb ed="#Pa" n="25" break="no"/>gentia ad eanem quia genere alia et anime particulari alteri 
-      <lb ed="#Pa" n="26"/>generum ad vtrumque aptum natum.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e516">
-      ⁋ Item 
-      secun<lb ed="#Pa" n="27" break="no"/>dum augustinum secundo de trinitate et ponit M libro 
-      <lb ed="#Pa" n="28"/>primo distinctione tertia cap. secundo mens proprie dicitur 
-      <lb ed="#Pa" n="29"/>non ipsa anima sed quod in ea est excellentius. 
-      Pre<lb ed="#Pa" n="30" break="no"/>terea. M vbi ponens ca. 12 dicit quod dictum augustini 
-      <lb ed="#Pa" n="31"/>scilicet quod memoria intelligentia voluntas sunt vna 
-      <lb ed="#Pa" n="32"/>vita et non videtur esse verum iuxta proprietatem 
-      <lb ed="#Pa" n="33"/>sermonis quia mens et spiritus rationalis essentia est 
-      <lb ed="#Pa" n="34"/>spiritualis ista vero tria naturales propri e tates 
-      <lb ed="#Pa" n="35"/>sunt seu vires ipsius mentis et a sei nuicem 
-      diffe<lb ed="#Pa" n="36" break="no"/>runt quia memoria non est intelligentia vel voluntas 
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e541">
-               <lb ed="#Pa" n="37"/>⁋ Item anselmus ve concordia ca. 3 sicut habemus 
-      <lb ed="#Pa" n="38"/>in corpore menbra et sensus et singula ad suos 
-      vsu<lb ed="#Pa" n="39" break="no"/>apta quibus quasi instrumentis vtimur vt sunt 
-      ma<lb ed="#Pa" n="40" break="no"/>nus apta ad capiendum visus ad videndum et ita 
-      <lb ed="#Pa" n="41"/>in se anima quasdem proprietates seu vires quibus vti 
-      <lb ed="#Pa" n="42"/>tur velut instrumentis ad vsus cognitionum. Est 
-      <lb ed="#Pa" n="43"/>namque ratio qua sicut vtimur sed eo instrumento et 
-      vo<lb ed="#Pa" n="44" break="no"/>luntas qua ad volendum non enim est rationalis 
-      <lb ed="#Pa" n="45"/>voluntas tota anima sed vna queque aliquid in 
-      a<lb ed="#Pa" n="46" break="no"/>nima.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e565">
-      ⁋ Item aristoteles in cathegoreema. suis 
-      <lb ed="#Pa" n="47"/>dicit quod principia operationum anime sunt potentie 
-      <lb ed="#Pa" n="48"/>que sunt in secunda specie qualitatis igitur sunt accnena 
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e572">
-               <lb ed="#Pa" n="49"/>⁋ Ad primum istorum dicendum quod augustinus et 
-      <lb ed="#Pa" n="50"/>multi alii rationabiliter dixerunt quod intellectus me 
-      <lb ed="#Pa" n="51"/>moria et voluntas sunt ipsa substantia anime licet magi 
-      <lb ed="#Pa" n="52"/>ster et aliqui alii sensuerint aliter et ideo cum 
-      di<lb ed="#Pa" n="53" break="no"/>cant quod potentie anime sunt accidentia ipsi habent 
-      <lb ed="#Pa" n="54"/>consequenter tenere quod fiuunt vel oriuntur ab 
-      essen<lb ed="#Pa" n="55" break="no"/>tia anime sicut nos tenemus communiter de calore 
-      <lb ed="#Pa" n="56"/>ignis et aliis accidentibus consequentibus natu 
-      <lb ed="#Pa" n="57"/>raliter totam spem aliquam et non est timendem eos 
-      <lb ed="#Pa" n="58"/>negare et cum augustinus teneat contrarium. 
-      <lb ed="#Pa" n="59"/>Sed si quis velit tales auctoritates violenter glo 
-      <lb ed="#Pa" n="60"/>sare poterit dicere quod ista vocabula voluntas itel 
-      <lb ed="#Pa" n="61"/>lectus et similia significant naturam quandem non per 
-      <lb ed="#Pa" n="62"/>se sed prout ipsa est secundum suam rationem 
-      pro<lb ed="#Pa" n="63" break="no"/>ductiua quarundem certarum operationum et tales 
-      <lb ed="#Pa" n="64"/>operationes ista nomina potentialia significant 
-      <lb ed="#Pa" n="65"/>per se puta intellectionem et volitionem et illa pul 
-      <lb ed="#Pa" n="66"/>lulant vel fiuant ab illa natura sicut loquuntur illi 
-      <!--121.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>doctores. Principale igitur significatum huius no 
-      <lb ed="#Pa" n="68"/>minis intellectus est ipsa intellectio licet tamen 
-      <lb ed="#Pa" n="69"/>supponat pro anima sicut album secundum aristote 
-      <lb ed="#Pa" n="70"/>lem solum qualitatem significat quod intelligen 
-      <lb ed="#Pa" n="71"/>dum est principaliter non tamen in propositione pro 
-      <lb ed="#Pa" n="72"/>qualitate supponit sed pro subiecto sicut dictum 
-      <lb ed="#Pa" n="73"/>est de intellectu ita suo modo dicendum est oe 
-      vo<lb ed="#Pa" n="74" break="no"/>luntate et similibus. Ql autem dicunt intellectum 
-      <lb ed="#Pa" n="75"/>et voluntatem esse passiones anime intelligendum 
-      <lb ed="#Pa" n="76"/>est sicut communis schola tenm quod risibile est passio hominis 
-      <lb ed="#Pa" n="77"/>et tamen res pro qua supponit risibile non 
-      distin<lb ed="#Pa" n="78" break="no"/>guitur ab homine licet risus quem ly risibile per 
-      <lb ed="#Pa" n="79"/>se significat distinguitur ab homine.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e646">
-      ⁋ Ad 
-      secun<lb ed="#Pa" n="80" break="no"/>dum dicitur quod non sunt realiter partes anime sed 
-      <lb ed="#Pa" n="81"/>equiualenter id est tantundem valet vna natura intelle 
-      <lb ed="#Pa" n="82"/>ctualis ad intelligendum et ad volendum et omnia 
-      <lb ed="#Pa" n="83"/>alia faciendum sicut valeret vnum compositum ex pertibus 
-      <lb ed="#Pa" n="84"/>distinctis quare vna posset precise intelligere et 
-      <lb ed="#Pa" n="85"/>huiusmodi et alia velle igitur etc. Et hec 
-      respon<lb ed="#Pa" n="86" break="no"/>sio sufficiat. Uidetur quod opinantes contrarium non 
-      <lb ed="#Pa" n="87"/>ponunt in homine duos intellectus et tamen secun 
-      <lb ed="#Pa" n="88"/>dum augustinum et eos in intellectu est duplex por 
-      <lb ed="#Pa" n="89"/>tio superior et inferior vt tractat in libro secundo  
-      <lb ed="#Pa" n="90"/>distinctione 24 que nec secundum veritatem nec 
-      <lb ed="#Pa" n="91"/>secundum eos differunt realiter sed habitudine 
-      <lb ed="#Pa" n="92"/>vel aptitudine ad actus varios respectu diuerso 
-      <lb ed="#Pa" n="93"/>rum obiectorum genere quasi distinctorum nam anima 
-      <lb ed="#Pa" n="94"/>ideo dicitur portio superior quia potest vaccare circa diuina et in 
-      <lb ed="#Pa" n="95"/>ferior quia potest circatemponalia gubernanda Simili mod 
-      <lb ed="#Pa" n="96"/>glosari possunt alie auctoritates exprimentes potem 
-      <lb ed="#Pa" n="97"/>tias anime esse partes eius.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e688">
-      ⁋ Ad tertium per ide 
-      <lb ed="#Pa" n="98"/>ymo illud fortificat partem istam cum nullus 
-      po<lb ed="#Pa" n="99" break="no"/>nat in homine duos intellectus quorum vnus sit 
-      <lb ed="#Pa" n="100"/>solum circa eterna et alius circa contingentia. 
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e697">
-               <lb ed="#Pa" n="101"/>⁋ Ad quartum similiter quod aliquid dicitur anime 
-      <lb ed="#Pa" n="102"/>excellere per equiualentiam propter excellentes 
-      <lb ed="#Pa" n="103"/>actus circa obiecta excellentia.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e707">
-      ⁋ Ad quintum ista 
-      <lb ed="#Pa" n="104"/>fuit opinio magistri cui modo videtur praeferenda 
-      <lb ed="#Pa" n="105"/>opinio augustini vel dicitur quod magister intelligit 
-      <lb ed="#Pa" n="106"/>quod ista predicatio non est essentialis et per se 
-      me<lb ed="#Pa" n="107" break="no"/>moria est intelligentia vel voluntas quia hec 
-      in<lb ed="#Pa" n="108" break="no"/>tensiones memoria intelligentia et voluntas signi 
-      <lb ed="#Pa" n="109"/>ficant essentiam anime per modum naturalis pro 
-      <lb ed="#Pa" n="110"/>prietatis et ideo essentialiter sub eius propria ra 
-      <lb ed="#Pa" n="111"/>tione non predicatur per se de aliqua illarum sub 
-      <lb ed="#Pa" n="112"/>illis intentionibus nec aliqua illarum de alia et 
-      <lb ed="#Pa" n="113"/>hoc intelligit magister eo quod modus aliorum 
-      au<lb ed="#Pa" n="114" break="no"/>ctorum est loqui in propositionibus de per se. 
-      <lb ed="#Pa" n="115"/> Ad sextum dictum anselmi glosari potest de ha 
-      <lb ed="#Pa" n="116"/>bitibus vel de actibus vt dictum est in secunda de 
-      <lb ed="#Pa" n="117"/>partibus non vere sed secundum equiualentiam. 
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e740">
-               <lb ed="#Pa" n="118"/>⁋ Ad septimum non est inconueniens quod anima ex 
-      <lb ed="#Pa" n="119"/>hoc quod est natura substantialis pertineat ad predicamen 
-      <lb ed="#Pa" n="120"/>tum subetur et ex hoc quod naturalis potentia ad 
-      secun<lb ed="#Pa" n="121" break="no"/>dam spem qualitatis etc. Et hic in simili est opinio 
-      <lb ed="#Pa" n="122"/>augustini qui etiam eam ponit esse aristotelis. Eti 
-      <lb ed="#Pa" n="123"/>am auctoritas ista et similes glosari possent de spe 
-      <lb ed="#Pa" n="124"/>ciebus et habitibus in anima que sunt quedem 
-      na<lb ed="#Pa" n="125" break="no"/>turales potentie habitantes animam ad actus 
-      ta<lb ed="#Pa" n="126" break="no"/>les. Ex dictis patet corresponsiue quod ad proprietatem 
-      <lb ed="#Pa" n="127"/>sermonis eundo dubitatio ista nulla. Est enim fe 
-      <lb ed="#Pa" n="128"/>licitas actus immediate receptus in nuda substantia 
-      <lb ed="#Pa" n="129"/>anime et non in aliqua potentia realiter distincta 
-      <lb ed="#Pa" n="130"/>a tali natura vel ab aliqua eius potentia.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e771">
-      ⁋ Con 
-      <lb ed="#Pa" n="131"/>tra tunc anima vellet per intellectum et intellige 
-      <lb ed="#Pa" n="132"/>ret per voluntatem quod non est bene dictum. 
-      <!--122.xml-->
-      <pb ed="#Pa" n="47-v"/>
-               <cb ed="#Pa" n="a"/>
-            </p>
-            <p xml:id="GHYaf3-d1e307-d1e784">
-               <lb ed="#Pa" n="1"/>⁋ Preterea potentie distinguuntur per actus: et 
-      a<lb ed="#Pa" n="2" break="no"/>ctus per obiecta et de anima.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e791">
-      ⁋ Ad primum conceditur 
-      <lb ed="#Pa" n="3"/>consequens tamen modus loquendi non est prope 
-      <lb ed="#Pa" n="4"/>sermo artis et scientie eo quod tales propositiones non 
-      <lb ed="#Pa" n="5"/>sunt per se sed per accidens sicut dicitur secundo  
-      <lb ed="#Pa" n="6"/>phisicorum et septimo metaphisice quod aliter policle 
-      <lb ed="#Pa" n="7"/>tus vel homo vel musicus est causa statue et aliter 
-      <lb ed="#Pa" n="8"/>statue factor.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e807">
-      ⁋ Ad secundum dicitur quod pohsphus ibi 
-      <lb ed="#Pa" n="9"/>vult quod oubstantia sunt notiora actibus et actus potentiis quia 
-      <lb ed="#Pa" n="10"/>per eos cognoscimus quantum valet substantia anime equ  
-      <lb ed="#Pa" n="11"/>ualenter et inquantum potest etc. Diceres. phuns di 
-      <lb ed="#Pa" n="12"/>cit vt supra recitatum est quod felicitas est optima 
-      o<lb ed="#Pa" n="13" break="no"/>peratio et optimi principum igitur rationalis est 
-      <lb ed="#Pa" n="14"/>dubitatio cuius optime potentie in homine felici 
-      <lb ed="#Pa" n="15"/>tas sit operatio.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e826">
-      ⁋ Dicendum sicut prius quod loqui 
-      <lb ed="#Pa" n="16"/>tur ibi oe vno principio operationum scilicet de 
-      <lb ed="#Pa" n="17"/>anima tanquam de multis principiis propter equiua 
-      <lb ed="#Pa" n="18"/>lentiam etc. vt prius. Iuxta modum loquendi pre 
-      <lb ed="#Pa" n="19"/>dictum est rationalis dubitatio que potentia sit 
-      <lb ed="#Pa" n="20"/>nobilior intellectus scilicet an voluntas quia hoc non 
-      <lb ed="#Pa" n="21"/>est aliud querere ad vnum intellectum quam quod  
-      <lb ed="#Pa" n="22"/>genus actuum est nobilius volitiones scilicet 
-      <lb ed="#Pa" n="23"/>vel intellectiones vel ex quibus eius actibus ma 
-      <lb ed="#Pa" n="24"/>gis innotescit talis nature nobilitas.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e848">
-      ⁋ Ad hunc 
-      <lb ed="#Pa" n="25"/>sensum respondeo quod ex actibus virtuosis 
-      vo<lb ed="#Pa" n="26" break="no"/>lendi et meritoriis in via et ex dilectione et ex 
-      de<lb ed="#Pa" n="27" break="no"/>lectatione fruitiua in patria magis innotescit 
-      no<lb ed="#Pa" n="28" break="no"/>bis eius nobilitas intellectualis nature quam preci 
-      <lb ed="#Pa" n="29"/>se ex actibus cognitionis et similiter est de 
-      habi<lb ed="#Pa" n="30" break="no"/>tibus correspondentibus quia nullus est 
-      habiti<lb ed="#Pa" n="31" break="no"/>tus nobilior caritate. Ex quo patet quod nobili 
-      <lb ed="#Pa" n="32"/>us est animam esse voluntatem quam ipsam esse intel 
-      <lb ed="#Pa" n="33"/>lectum. hoc possunt concludere rationes principales 
-      <lb ed="#Pa" n="34"/>pro secunda parte primi articuli sed rationes pro 
-      <lb ed="#Pa" n="35"/>prima parte adducte sunt soluende.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e874">
-      ⁋ Ad primam 
-      <lb ed="#Pa" n="36"/>secundam et tertiam loquendo de partibus 
-      ani<lb ed="#Pa" n="37" break="no"/>me secundum equiualentiam vt predictum est di 
-      <lb ed="#Pa" n="38"/>citur quod in illis auctoritatibus appetitus 
-      rationa<lb ed="#Pa" n="39" break="no"/>lis siue voluntas et intellectus comprehenduntur 
-      <lb ed="#Pa" n="40"/>sub eadem anime particula quam ymaginantur distin 
-      <lb ed="#Pa" n="41"/>gui a parte anime sensitiua Ad quartam patet per 
-      <lb ed="#Pa" n="42"/>idem imaginando quod anima per vnam particulam 
-      <lb ed="#Pa" n="43"/>velit et intelligat et quod per illam possit 
-      cognosce<lb ed="#Pa" n="44" break="no"/>re actus particule sensitiue et non econtra et ita 
-      <lb ed="#Pa" n="45"/>procedit ratio augustini concludens bene quod anima prout est anima in 
-      <lb ed="#Pa" n="46"/>tellectiva nobilior est quam prout est anima sensitiua quia prout est 
-      <lb ed="#Pa" n="47"/>intellectiua iudicare potest de sensitiua et actibus 
-      <lb ed="#Pa" n="48"/>eius et non econtra. Sed hoc non tenet oe 
-      volun<lb ed="#Pa" n="49" break="no"/>tate et intellectu quia natura potest haberi intel 
-      <lb ed="#Pa" n="50"/>lectio oe volitione quin eam bona vel melior possit 
-      <lb ed="#Pa" n="51"/>haberi volitio de intellectione.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e911">
-      ⁋ Ad quintum 
-      <lb ed="#Pa" n="52"/>dictum est quod augustinus loquitur ibi de 
-      verita<lb ed="#Pa" n="53" break="no"/>te increata que est deus sicut esse alibi anselmus 
-      <lb ed="#Pa" n="54"/>facit et illa nobilior est mente nostra similiter et 
-      <lb ed="#Pa" n="55"/>licet anima prout est iudicatiua de actibus volun 
-      <lb ed="#Pa" n="56"/>tatis sit melior quam prout volitiva et prout vt sit de 
-      <lb ed="#Pa" n="57"/>eius actibus iudicatur hoc subiectum est 
-      secun<lb ed="#Pa" n="58" break="no"/>dum quid quia tales excellentias mutuas multas 
-      <lb ed="#Pa" n="59"/>bene contingit reperire inter intellectum et volun 
-      <lb ed="#Pa" n="60"/>tatem et econuerso ymaginando talem 
-      particula<lb ed="#Pa" n="61" break="no"/>ritatem anime isto enim modo secundu quid 
-      ma<lb ed="#Pa" n="62" break="no"/>teria prima secundem conditionem 
-      incorruptibili<lb ed="#Pa" n="63" break="no"/>tatis et simplicitatis dici potest nobilior homine 
-      <lb ed="#Pa" n="64"/>et tamen simpliciter loquendo homo est nobilior 
-      <lb ed="#Pa" n="65"/>sua materia.
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e944">
-      ⁋ Ad sextum dicitur quod actus 
-      vo<lb ed="#Pa" n="66" break="no"/>lendi est magis rectus idest eins rectitudo est ma 
-      <!--122.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>gis laudabilis tamen cum hoc stat quod actus 
-      in<lb ed="#Pa" n="68" break="no"/>tellectus est magis rectus id est quod eius rectitudo se 
-      <lb ed="#Pa" n="69"/>cundum naturam sit prior quia secundum veritatem 
-      <lb ed="#Pa" n="70"/>recitando actus intelligendi ordinatur ad 
-      recti<lb ed="#Pa" n="71" break="no"/>tudinem actus volendi sicut declarat anselmus et 
-      <lb ed="#Pa" n="72"/>cur deus homo capitulo primo et ordine natura 
-      <lb ed="#Pa" n="73"/>li numquam ordinatur nobilius ad vilius sed econtra 
-      <lb ed="#Pa" n="74"/>vt apparet primo ethicorum vbi per hoc probat 
-      <lb ed="#Pa" n="75"/>phhuns quod felicitas est nobilissima actio quia 
-      om<lb ed="#Pa" n="76" break="no"/>nes alie operationes humane sunt gratia ipsius 
-      <lb ed="#Pa" n="77"/>igitur
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e977">
-      ⁋ Ad septimum dicitur quod lamentari ratio	¬ 
-      <lb ed="#Pa" n="78"/>nabiliter mente sana non est malum spirituale ymo 
-      <lb ed="#Pa" n="79"/>meritorium ex patientia. Sed letari in amentia 
-      <lb ed="#Pa" n="80"/>nec est desiderabile in se nec meritorium etiam tunc 
-      <lb ed="#Pa" n="81"/>voluntas est ita bene expedita sicut intellectus. 
-    </p>
-            <p xml:id="GHYaf3-d1e307-d1e989">
-               <lb ed="#Pa" n="82"/>⁋ Ad argumenta principalia patet ex iam dictis.
-      </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 14</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 14</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="46-r"/>
+        <cb ed="#Pa" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e307"><!-- GHYaf3-l1d1q14 -->
+        <head xml:id="GHYaf3-d1e307-Hd1e108">Quaestio 14</head>
+        <head xml:id="GHYaf3-d1e307-Hd1e111" type="question-title">
+          Utrum fruitio beatifica sit actus intellectus.
+        </head>
+        <p xml:id="GHYaf3-d1e307-d1e114">
+          <lb ed="#Pa" n="123"/>QUarto decimo circa 
+          disti<lb ed="#Pa" n="124" break="no"/>Ictionem primam et vltimo queritur vtrum 
+          <lb ed="#Pa" n="125"/>fruitio beatifice sit actus intellectiuus
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e123">
+          <lb ed="#Pa" n="126"/>quod sic quia ex <ref xml:id="GHYaf3-d1e307-Rd1e127">10. Ethicorum</ref> felicitas consistit in spe 
+          <lb ed="#Pa" n="127"/>culationem optimi obiecti sed speculatio pertinet 
+          <lb ed="#Pa" n="128"/>ad intellectumigitur et felicitas igitur et fruitio quia fruitio 
+          <lb ed="#Pa" n="129"/>vie et patrie ad eandem potentiam pertinent igitur. 
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e137">
+          <lb ed="#Pa" n="130"/>⁋ Oppositum habitus et sua propria operatio ad 
+          <lb ed="#Pa" n="131"/>eandem potentiam pertinent sed fruitio est ope¬ 
+          <!--120.xml-->
+          <pb ed="#Pa" n="46-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>ratio ad quam per se inclinat charitas Charitas 
+          <lb ed="#Pa" n="2"/>autem est actus nobilissimus et est absolute in volun 
+          <lb ed="#Pa" n="3"/>tate igitur et fruitio. In questione ista primo su 
+          <lb ed="#Pa" n="4"/>pono quod fruitio et felicitas beatifica pricipaliter 
+          <lb ed="#Pa" n="5"/>pertinent ad eandem potentiam quecunque sit illa et 
+          <lb ed="#Pa" n="6"/>quod sint tales potentie multe in natura eadem 
+          bea<lb ed="#Pa" n="7" break="no"/>tificabili et quod fruitio beatifica est perfectio potet 
+          <lb ed="#Pa" n="8"/>tie nobilissime ex eisdem Ita enim. 10. et 
+          hicoru<lb ed="#Pa" n="9" break="no"/>ca. 6 in principio quod felicitas est operatio secundum 
+          <lb ed="#Pa" n="10"/>optimam virtutem hec autem erit optimi siue vtique in 
+          <lb ed="#Pa" n="11"/>tellectus hec siue aliud quod vtique secundum natu 
+          <lb ed="#Pa" n="12"/>ram videtur principiari et dominari.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e177">
+          ⁋ Primus 
+          <lb ed="#Pa" n="13"/>articulus dubitatur vtrum intellectus sit nobilior 
+          <lb ed="#Pa" n="14"/>voluntate quod sic quia ibidem consequenter dicit philosoph 
+          <lb ed="#Pa" n="15"/>etenim intellectus eorum que in nobis sunt est 
+          op<lb ed="#Pa" n="16" break="no"/>timum. Item ibidem felicitas est optima operatio 
+          <lb ed="#Pa" n="17"/>secundum optimam virtutem et ibidem probat quod 
+          <lb ed="#Pa" n="18"/>optima operatio est speculatiua dicens existima 
+          <lb ed="#Pa" n="19"/>mus oportere delectationem adiunctam esse 
+          felici<lb ed="#Pa" n="20" break="no"/>tati delectabilissima autem earum que 
+          secundu<lb ed="#Pa" n="21" break="no"/>virtutem operationum que secundum sapientiam 
+          <lb ed="#Pa" n="22"/>concessa est videtur enim philosophya admirabiles dele 
+          <lb ed="#Pa" n="23"/>ctationes habere puritatem et firmitatem.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e203">
+          ⁋ Ad idem 
+          <lb ed="#Pa" n="24"/>est processus philosophy primo et hicorum capitulo penult 
+          <lb ed="#Pa" n="25"/>mo et commentator ibidem commento 62 circa 
+          me<lb ed="#Pa" n="26" break="no"/>dium sic dicit Sicut in corpore visus bonus cognitiones 
+          <lb ed="#Pa" n="27"/>entium prebens et decorans ita intellectus in ani 
+          <lb ed="#Pa" n="28"/>ma cognitionem intelligentium dans et decorans 
+          <lb ed="#Pa" n="29"/>ipsam super omnem potentiam Preterea 
+          augu<lb ed="#Pa" n="30" break="no"/>tinus de vera religione c. 12 et. 2 de libero 
+          arbi<lb ed="#Pa" n="31" break="no"/>trio capitulo nono probat quod intellectus est nobi 
+          <lb ed="#Pa" n="32"/>lior et prestantior sensu per hoc quod intellectus 
+          iu<lb ed="#Pa" n="33" break="no"/>dicat de sensu et eius actione vtrum sic sit sicut esse 
+          <lb ed="#Pa" n="34"/>debet. Sed idem medium est verum de intellectu 
+          <lb ed="#Pa" n="35"/>in comparatione ad voluntatem igitur intellectus 
+          <lb ed="#Pa" n="36"/>est nobilior voluntate puxta hoc potest argui pro 
+          <lb ed="#Pa" n="37"/>prius actus intellectiuus est nobilior proprioactu 
+          <lb ed="#Pa" n="38"/>voluntatis igitur Antecedens probatur quia actus intel 
+          <lb ed="#Pa" n="39"/>lectiuus est regula secundum quam iudicamus de 
+          a<lb ed="#Pa" n="40" break="no"/>ctione voluntatis vtrum sit bona vel mala igitur 
+          <lb ed="#Pa" n="41"/>conseqtia patet per augustinum secundo de libero ar 
+          <lb ed="#Pa" n="42"/>bitrioec. 23. vbi probat quod veritas secundum quam iu 
+          <lb ed="#Pa" n="43"/>dicamus de hiis que sunt in mente nostra est 
+          me<lb ed="#Pa" n="44" break="no"/>lior et nobilior quam mens nostra per hoc quod nisi esset 
+          su<lb ed="#Pa" n="45" break="no"/>perior quam mens non secundum illam sed de illa 
+          iudi<lb ed="#Pa" n="46" break="no"/>caremus igitur similiter in proposito.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e255">
+          ⁋ Confirma 
+          <lb ed="#Pa" n="47"/>tur quia actus voluntatis non est rectus nisi quia con 
+          <lb ed="#Pa" n="48"/>formatur rationi recte sed vnumquodque propteri quod 
+          <lb ed="#Pa" n="49"/>etc. igitur actus intellectus est magis rectus igitur 
+          <lb ed="#Pa" n="50"/>nobilior Preterea illud est melius quod natura 
+          <lb ed="#Pa" n="51"/>liter magis amatur sed iudicium rectum intelle 
+          <lb ed="#Pa" n="52"/>ctus est huiusmodi respectu delectionis que tam 
+          <lb ed="#Pa" n="53"/>magis diligitur inter illa que sunt in voluntate 
+          <lb ed="#Pa" n="54"/>vt patet per augustinum in quode loco de ciuitate 
+          <lb ed="#Pa" n="55"/>dei quod vnusquisque mauult sana mente lamentari qua 
+          <lb ed="#Pa" n="56"/>letari in amentia.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e279">
+          ⁋ Contra actus voluntatis est 
+          <lb ed="#Pa" n="57"/>melior igitur et voluntas Antecedens patet quia pro actio 
+          <lb ed="#Pa" n="58"/>ne voluntatis principalius debetur premium et est 
+          <lb ed="#Pa" n="59"/>ipsa voluntas vel sola mereretur vel principalius 
+          <lb ed="#Pa" n="60"/>facit ad meritum igitur. Preterea optimus 
+          ha<lb ed="#Pa" n="61" break="no"/>bitus siue optima virtus voluntatis est melior op 
+          <lb ed="#Pa" n="62"/>timo habitu intellectus igitur et voluntas intel 
+          <lb ed="#Pa" n="63"/>lectu per consequentiam aristotelis supra in ar 
+          <lb ed="#Pa" n="64"/>gumento primo et secundo prime partis assumptum 
+          <lb ed="#Pa" n="65"/>probatur quia charitas est melior sapientia nam secundum 
+          <lb ed="#Pa" n="66"/>apostolum spes fides charitas tria hec sed maior 
+          <!--120.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>horum est charitas. Preterea potentie princi pa 
+          <lb ed="#Pa" n="68"/>liter merenti in via principaliter debetur premium 
+          <lb ed="#Pa" n="69"/>in patria sed voluntas est huiusmodi igitur 
+          mi<lb ed="#Pa" n="70" break="no"/>nor patet per hugonem et ponitur in prima 
+          que<lb ed="#Pa" n="71" break="no"/>tione in solutione secundi dubii principalis nec a 
+          <lb ed="#Pa" n="72"/>liqui es hoc negat. Hic hysbse cum sco. contra tho in  
+          <lb ed="#Pa" n="73"/>scripto quod voluntas est nobilior potentia quam 
+          intel<lb ed="#Pa" n="74" break="no"/>lectus Et arguit contra thomam dicens quod intellectus 
+          <lb ed="#Pa" n="75"/>est altissima potentia in anima quero inquit aut 
+          <lb ed="#Pa" n="76"/>intelligit per altissimam nobilissimam aut 
+          prio<lb ed="#Pa" n="77" break="no"/>rem secundu ordinem. si primum tunc contradicit sibi ipsi 
+          <lb ed="#Pa" n="78"/>in responsione ad primam argumentum dicit quod mens 
+          <lb ed="#Pa" n="79"/>habec intellectum et voluntatem quorum 
+          duo<lb ed="#Pa" n="80" break="no"/>rum intellectus est altior secundum ordinem et volun 
+          <lb ed="#Pa" n="81"/>tas secundum perfectionem. si secundum tunc illud quod 
+          <lb ed="#Pa" n="82"/>ipse accipit pro se noto est falsum scilicet quod optima 
+          opera<lb ed="#Pa" n="83" break="no"/>tio sit altissime potentie nisi per altissimam 
+          intelli<lb ed="#Pa" n="84" break="no"/>gat nobilissimam quia potentie nobilissime est 
+          opera<lb ed="#Pa" n="85" break="no"/>tio nobilissima sicut etiam vult phshuis 10. et hicor 
+          <lb ed="#Pa" n="86"/>ca. 8 Cundo ad vim sermonis teneo contrariam 
+          <lb ed="#Pa" n="87"/>conclusionem scilicet quod intellectus non est potentia nobilior 
+          <lb ed="#Pa" n="88"/>voluntate nec econverso quia idem omnino est 
+          intel<lb ed="#Pa" n="89" break="no"/>lectus quam voluntas et econuerso. Nam omni alio 
+          <lb ed="#Pa" n="90"/>circunscripto ab hac natura intellectuali ipsa 
+          na<lb ed="#Pa" n="91" break="no"/>ta est intelligere igitur hoc natum velle est natum 
+          <lb ed="#Pa" n="92"/>intelligere et econtra igitur intellectus est 
+          volun<lb ed="#Pa" n="93" break="no"/>tas et econuerso. Ex hoc enim quod talis natura est 
+          <lb ed="#Pa" n="94"/>nata vel potens intelligere dicitur intellectus vel 
+          <lb ed="#Pa" n="95"/>ex hoc quod est potens vel nata ad volendum ipsa 
+          di<lb ed="#Pa" n="96" break="no"/>citur voluntas et hoc non solum dicerem in homi 
+          <lb ed="#Pa" n="97"/>ne de intellectu et voluntate sed etiam de omni 
+          <lb ed="#Pa" n="98"/>sensu cui consonat auctor de spiritu et anima d. c 3 
+          <lb ed="#Pa" n="99"/>Sensus vero vnus est in anima et ipse non sit 
+          cor<lb ed="#Pa" n="100" break="no"/>pus corporeus dicitur et tamen non sit nisi vnus 
+          <lb ed="#Pa" n="101"/>verum tamen propter varia exercitia varie nuncu 
+          <lb ed="#Pa" n="102"/>patur. Diter namque sensus ymagiatio ratio intellectus 
+          <lb ed="#Pa" n="103"/>intelligentia et hec omnia in anima nihil adsunt 
+          <lb ed="#Pa" n="104"/>quam ipsa et ca to anima est spiritus intellectualis 
+          ratio<lb ed="#Pa" n="105" break="no"/>nalis bone maleque voluntatis capax secundum be 
+          <lb ed="#Pa" n="106"/>ni gnitatem creaturarum atque secundum sui operis 
+          <lb ed="#Pa" n="107"/>effectum variis nuncupatur nominibus dicitur nam 
+          <lb ed="#Pa" n="108"/>que anima dum vegetat spiritus dum contemplatur 
+          <lb ed="#Pa" n="109"/>sensus dum sentit animus dum sapit mens dum 
+          in<lb ed="#Pa" n="110" break="no"/>telligit ratio dum dissoluit vel discernit memoria 
+          <lb ed="#Pa" n="111"/>dum recordatur. dum vult voluntas. ista tamen non dis 
+          <lb ed="#Pa" n="112"/>ferunt in substantia quemadmodum in nominbus quando omnia 
+          <lb ed="#Pa" n="113"/>ista vna est anima Preterea non videtur rationa 
+          <lb ed="#Pa" n="114"/>le quod solum per vnum accidens medium anima sit re 
+          <lb ed="#Pa" n="115"/>ceptiua beatitudinis quia tunc accidens essetbea 
+          <lb ed="#Pa" n="116"/>tum. Preterea frustra ponitur per plura quod  
+          <lb ed="#Pa" n="117"/>eque faciliter potest saluari per pauciora vbi nec 
+          ob<lb ed="#Pa" n="118" break="no"/>uiat scriptura nec ratio sed per eandem simplicet 
+          <lb ed="#Pa" n="119"/>naturam intellectualem sine omni tali distinctione reali prae 
+          <lb ed="#Pa" n="120"/>uia primis actibus modo quo illam expressit auctor 
+          <lb ed="#Pa" n="121"/>ille facillime poterunt saluari omnia per per quae alii ponunt 
+          <lb ed="#Pa" n="122"/>potentias anime distigui igitur etc. quod autem non obuiet 
+          <lb ed="#Pa" n="123"/>patet est perscotum secundo libro vbi de isto puncto 
+          <lb ed="#Pa" n="124"/>iuestigat oe reportatione perisi. auctoritates autem 
+          <lb ed="#Pa" n="125"/>que oppositum praetendunt faciliter glosari possunt vna 
+          <lb ed="#Pa" n="126"/>per aliam hoc est declaratur exemplo oe deo qui 
+          ha<lb ed="#Pa" n="127" break="no"/>bet potentiam creativam gubernativam reparativam 
+          <lb ed="#Pa" n="128"/>predestinativam que nullomodo distiguuntur in eo 
+          <lb ed="#Pa" n="129"/>Seeadem omnio dei essentia varie nominatur a variis effectibus 
+          <lb ed="#Pa" n="130"/>suis sed magistrum sepe li. primo. preterea si distiguerem 
+          <lb ed="#Pa" n="131"/>tur aut ratione solum et hoc non quia tal distictio 
+          cau<lb ed="#Pa" n="132" break="no"/>saretur per actum intellectus sed voluntas et intel¬ 
+          <!--121.xml-->
+          <pb ed="#Pa" n="47-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>lectus precedunt omnem actum intellectus aut ex 
+          <lb ed="#Pa" n="2"/>natura rei et hoc non quia vel hoc esset propter 
+          di<lb ed="#Pa" n="3" break="no"/>uersitatem actuum vel propter diuersum modum 
+          <lb ed="#Pa" n="4"/>principiendi non primum quia tunc essent tot potentie 
+          in<lb ed="#Pa" n="5" break="no"/>tellectiue quot actus intelligendi secundum speciet di 
+          <lb ed="#Pa" n="6"/>sticti quod non est verum nec propter secundum quia 
+          <lb ed="#Pa" n="7"/>principiare libere et necessario conueniunt eidem 
+          <lb ed="#Pa" n="8"/>potentie respectu diuersorum vt patet de 
+          volun<lb ed="#Pa" n="9" break="no"/>tate diuina que necessario vult se et contigenter 
+          <lb ed="#Pa" n="10"/>creaturam. Similiter voluntas nostra vt prius vi 
+          <lb ed="#Pa" n="11"/>sum est quosudm actus mere naturaliter principiat et 
+          <lb ed="#Pa" n="12"/>quosdem libere.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e483">
+          ⁋ Item augu. 10 libro de trinitate 
+          <lb ed="#Pa" n="13"/>distictione tertia ca 7 memoria intellectiua et vo 
+          <lb ed="#Pa" n="14"/>luntas non sunt tres vite sed vna vita. Contra hanc 
+          <lb ed="#Pa" n="15"/>conclusionem sunt multe auctoritates propter quas 
+          <lb ed="#Pa" n="16"/>tenet scotus distictionem formalem inter potentias 
+          <lb ed="#Pa" n="17"/>dicunt enim auctoritates quod potentie fiuunt ab essen 
+          <lb ed="#Pa" n="18"/>tia et quod sunt passiones anime et huiusmodi. Item 
+          <lb ed="#Pa" n="19"/>phuns et sancti dicunt istas potentias esse partes 
+          <lb ed="#Pa" n="20"/>anime. Preterea. 8 ethicorum dicitur cap. secundo  
+          <lb ed="#Pa" n="21"/>dictum est supple in primo duas esse partes 
+          ani<lb ed="#Pa" n="22" break="no"/>me rationem habens et trrationabile. Nunc autem 
+          <lb ed="#Pa" n="23"/>de rationem habente dicuntur et supponuntur duo 
+          <lb ed="#Pa" n="24"/>vnum quo speculamur talia entium aliud quo 
+          conti<lb ed="#Pa" n="25" break="no"/>gentia ad eanem quia genere alia et anime particulari alteri 
+          <lb ed="#Pa" n="26"/>generum ad vtrumque aptum natum.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e516">
+          ⁋ Item 
+          secun<lb ed="#Pa" n="27" break="no"/>dum augustinum secundo de trinitate et ponit M libro 
+          <lb ed="#Pa" n="28"/>primo distinctione tertia cap. secundo mens proprie dicitur 
+          <lb ed="#Pa" n="29"/>non ipsa anima sed quod in ea est excellentius. 
+          Pre<lb ed="#Pa" n="30" break="no"/>terea. M vbi ponens ca. 12 dicit quod dictum augustini 
+          <lb ed="#Pa" n="31"/>scilicet quod memoria intelligentia voluntas sunt vna 
+          <lb ed="#Pa" n="32"/>vita et non videtur esse verum iuxta proprietatem 
+          <lb ed="#Pa" n="33"/>sermonis quia mens et spiritus rationalis essentia est 
+          <lb ed="#Pa" n="34"/>spiritualis ista vero tria naturales propri e tates 
+          <lb ed="#Pa" n="35"/>sunt seu vires ipsius mentis et a sei nuicem 
+          diffe<lb ed="#Pa" n="36" break="no"/>runt quia memoria non est intelligentia vel voluntas 
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e541">
+          <lb ed="#Pa" n="37"/>⁋ Item anselmus ve concordia ca. 3 sicut habemus 
+          <lb ed="#Pa" n="38"/>in corpore menbra et sensus et singula ad suos 
+          vsu<lb ed="#Pa" n="39" break="no"/>apta quibus quasi instrumentis vtimur vt sunt 
+          ma<lb ed="#Pa" n="40" break="no"/>nus apta ad capiendum visus ad videndum et ita 
+          <lb ed="#Pa" n="41"/>in se anima quasdem proprietates seu vires quibus vti 
+          <lb ed="#Pa" n="42"/>tur velut instrumentis ad vsus cognitionum. Est 
+          <lb ed="#Pa" n="43"/>namque ratio qua sicut vtimur sed eo instrumento et 
+          vo<lb ed="#Pa" n="44" break="no"/>luntas qua ad volendum non enim est rationalis 
+          <lb ed="#Pa" n="45"/>voluntas tota anima sed vna queque aliquid in 
+          a<lb ed="#Pa" n="46" break="no"/>nima.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e565">
+          ⁋ Item aristoteles in cathegoreema. suis 
+          <lb ed="#Pa" n="47"/>dicit quod principia operationum anime sunt potentie 
+          <lb ed="#Pa" n="48"/>que sunt in secunda specie qualitatis igitur sunt accnena 
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e572">
+          <lb ed="#Pa" n="49"/>⁋ Ad primum istorum dicendum quod augustinus et 
+          <lb ed="#Pa" n="50"/>multi alii rationabiliter dixerunt quod intellectus me 
+          <lb ed="#Pa" n="51"/>moria et voluntas sunt ipsa substantia anime licet magi 
+          <lb ed="#Pa" n="52"/>ster et aliqui alii sensuerint aliter et ideo cum 
+          di<lb ed="#Pa" n="53" break="no"/>cant quod potentie anime sunt accidentia ipsi habent 
+          <lb ed="#Pa" n="54"/>consequenter tenere quod fiuunt vel oriuntur ab 
+          essen<lb ed="#Pa" n="55" break="no"/>tia anime sicut nos tenemus communiter de calore 
+          <lb ed="#Pa" n="56"/>ignis et aliis accidentibus consequentibus natu 
+          <lb ed="#Pa" n="57"/>raliter totam spem aliquam et non est timendem eos 
+          <lb ed="#Pa" n="58"/>negare et cum augustinus teneat contrarium. 
+          <lb ed="#Pa" n="59"/>Sed si quis velit tales auctoritates violenter glo 
+          <lb ed="#Pa" n="60"/>sare poterit dicere quod ista vocabula voluntas itel 
+          <lb ed="#Pa" n="61"/>lectus et similia significant naturam quandem non per 
+          <lb ed="#Pa" n="62"/>se sed prout ipsa est secundum suam rationem 
+          pro<lb ed="#Pa" n="63" break="no"/>ductiua quarundem certarum operationum et tales 
+          <lb ed="#Pa" n="64"/>operationes ista nomina potentialia significant 
+          <lb ed="#Pa" n="65"/>per se puta intellectionem et volitionem et illa pul 
+          <lb ed="#Pa" n="66"/>lulant vel fiuant ab illa natura sicut loquuntur illi 
+          <!--121.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>doctores. Principale igitur significatum huius no 
+          <lb ed="#Pa" n="68"/>minis intellectus est ipsa intellectio licet tamen 
+          <lb ed="#Pa" n="69"/>supponat pro anima sicut album secundum aristote 
+          <lb ed="#Pa" n="70"/>lem solum qualitatem significat quod intelligen 
+          <lb ed="#Pa" n="71"/>dum est principaliter non tamen in propositione pro 
+          <lb ed="#Pa" n="72"/>qualitate supponit sed pro subiecto sicut dictum 
+          <lb ed="#Pa" n="73"/>est de intellectu ita suo modo dicendum est oe 
+          vo<lb ed="#Pa" n="74" break="no"/>luntate et similibus. Ql autem dicunt intellectum 
+          <lb ed="#Pa" n="75"/>et voluntatem esse passiones anime intelligendum 
+          <lb ed="#Pa" n="76"/>est sicut communis schola tenm quod risibile est passio hominis 
+          <lb ed="#Pa" n="77"/>et tamen res pro qua supponit risibile non 
+          distin<lb ed="#Pa" n="78" break="no"/>guitur ab homine licet risus quem ly risibile per 
+          <lb ed="#Pa" n="79"/>se significat distinguitur ab homine.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e646">
+          ⁋ Ad 
+          secun<lb ed="#Pa" n="80" break="no"/>dum dicitur quod non sunt realiter partes anime sed 
+          <lb ed="#Pa" n="81"/>equiualenter id est tantundem valet vna natura intelle 
+          <lb ed="#Pa" n="82"/>ctualis ad intelligendum et ad volendum et omnia 
+          <lb ed="#Pa" n="83"/>alia faciendum sicut valeret vnum compositum ex pertibus 
+          <lb ed="#Pa" n="84"/>distinctis quare vna posset precise intelligere et 
+          <lb ed="#Pa" n="85"/>huiusmodi et alia velle igitur etc. Et hec 
+          respon<lb ed="#Pa" n="86" break="no"/>sio sufficiat. Uidetur quod opinantes contrarium non 
+          <lb ed="#Pa" n="87"/>ponunt in homine duos intellectus et tamen secun 
+          <lb ed="#Pa" n="88"/>dum augustinum et eos in intellectu est duplex por 
+          <lb ed="#Pa" n="89"/>tio superior et inferior vt tractat in libro secundo  
+          <lb ed="#Pa" n="90"/>distinctione 24 que nec secundum veritatem nec 
+          <lb ed="#Pa" n="91"/>secundum eos differunt realiter sed habitudine 
+          <lb ed="#Pa" n="92"/>vel aptitudine ad actus varios respectu diuerso 
+          <lb ed="#Pa" n="93"/>rum obiectorum genere quasi distinctorum nam anima 
+          <lb ed="#Pa" n="94"/>ideo dicitur portio superior quia potest vaccare circa diuina et in 
+          <lb ed="#Pa" n="95"/>ferior quia potest circatemponalia gubernanda Simili mod 
+          <lb ed="#Pa" n="96"/>glosari possunt alie auctoritates exprimentes potem 
+          <lb ed="#Pa" n="97"/>tias anime esse partes eius.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e688">
+          ⁋ Ad tertium per ide 
+          <lb ed="#Pa" n="98"/>ymo illud fortificat partem istam cum nullus 
+          po<lb ed="#Pa" n="99" break="no"/>nat in homine duos intellectus quorum vnus sit 
+          <lb ed="#Pa" n="100"/>solum circa eterna et alius circa contingentia. 
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e697">
+          <lb ed="#Pa" n="101"/>⁋ Ad quartum similiter quod aliquid dicitur anime 
+          <lb ed="#Pa" n="102"/>excellere per equiualentiam propter excellentes 
+          <lb ed="#Pa" n="103"/>actus circa obiecta excellentia.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e707">
+          ⁋ Ad quintum ista 
+          <lb ed="#Pa" n="104"/>fuit opinio magistri cui modo videtur praeferenda 
+          <lb ed="#Pa" n="105"/>opinio augustini vel dicitur quod magister intelligit 
+          <lb ed="#Pa" n="106"/>quod ista predicatio non est essentialis et per se 
+          me<lb ed="#Pa" n="107" break="no"/>moria est intelligentia vel voluntas quia hec 
+          in<lb ed="#Pa" n="108" break="no"/>tensiones memoria intelligentia et voluntas signi 
+          <lb ed="#Pa" n="109"/>ficant essentiam anime per modum naturalis pro 
+          <lb ed="#Pa" n="110"/>prietatis et ideo essentialiter sub eius propria ra 
+          <lb ed="#Pa" n="111"/>tione non predicatur per se de aliqua illarum sub 
+          <lb ed="#Pa" n="112"/>illis intentionibus nec aliqua illarum de alia et 
+          <lb ed="#Pa" n="113"/>hoc intelligit magister eo quod modus aliorum 
+          au<lb ed="#Pa" n="114" break="no"/>ctorum est loqui in propositionibus de per se. 
+          <lb ed="#Pa" n="115"/> Ad sextum dictum anselmi glosari potest de ha 
+          <lb ed="#Pa" n="116"/>bitibus vel de actibus vt dictum est in secunda de 
+          <lb ed="#Pa" n="117"/>partibus non vere sed secundum equiualentiam. 
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e740">
+          <lb ed="#Pa" n="118"/>⁋ Ad septimum non est inconueniens quod anima ex 
+          <lb ed="#Pa" n="119"/>hoc quod est natura substantialis pertineat ad predicamen 
+          <lb ed="#Pa" n="120"/>tum subetur et ex hoc quod naturalis potentia ad 
+          secun<lb ed="#Pa" n="121" break="no"/>dam spem qualitatis etc. Et hic in simili est opinio 
+          <lb ed="#Pa" n="122"/>augustini qui etiam eam ponit esse aristotelis. Eti 
+          <lb ed="#Pa" n="123"/>am auctoritas ista et similes glosari possent de spe 
+          <lb ed="#Pa" n="124"/>ciebus et habitibus in anima que sunt quedem 
+          na<lb ed="#Pa" n="125" break="no"/>turales potentie habitantes animam ad actus 
+          ta<lb ed="#Pa" n="126" break="no"/>les. Ex dictis patet corresponsiue quod ad proprietatem 
+          <lb ed="#Pa" n="127"/>sermonis eundo dubitatio ista nulla. Est enim fe 
+          <lb ed="#Pa" n="128"/>licitas actus immediate receptus in nuda substantia 
+          <lb ed="#Pa" n="129"/>anime et non in aliqua potentia realiter distincta 
+          <lb ed="#Pa" n="130"/>a tali natura vel ab aliqua eius potentia.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e771">
+          ⁋ Con 
+          <lb ed="#Pa" n="131"/>tra tunc anima vellet per intellectum et intellige 
+          <lb ed="#Pa" n="132"/>ret per voluntatem quod non est bene dictum. 
+          <!--122.xml-->
+          <pb ed="#Pa" n="47-v"/>
+          <cb ed="#Pa" n="a"/>
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e784">
+          <lb ed="#Pa" n="1"/>⁋ Preterea potentie distinguuntur per actus: et 
+          a<lb ed="#Pa" n="2" break="no"/>ctus per obiecta et de anima.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e791">
+          ⁋ Ad primum conceditur 
+          <lb ed="#Pa" n="3"/>consequens tamen modus loquendi non est prope 
+          <lb ed="#Pa" n="4"/>sermo artis et scientie eo quod tales propositiones non 
+          <lb ed="#Pa" n="5"/>sunt per se sed per accidens sicut dicitur secundo  
+          <lb ed="#Pa" n="6"/>phisicorum et septimo metaphisice quod aliter policle 
+          <lb ed="#Pa" n="7"/>tus vel homo vel musicus est causa statue et aliter 
+          <lb ed="#Pa" n="8"/>statue factor.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e807">
+          ⁋ Ad secundum dicitur quod pohsphus ibi 
+          <lb ed="#Pa" n="9"/>vult quod oubstantia sunt notiora actibus et actus potentiis quia 
+          <lb ed="#Pa" n="10"/>per eos cognoscimus quantum valet substantia anime equ  
+          <lb ed="#Pa" n="11"/>ualenter et inquantum potest etc. Diceres. phuns di 
+          <lb ed="#Pa" n="12"/>cit vt supra recitatum est quod felicitas est optima 
+          o<lb ed="#Pa" n="13" break="no"/>peratio et optimi principum igitur rationalis est 
+          <lb ed="#Pa" n="14"/>dubitatio cuius optime potentie in homine felici 
+          <lb ed="#Pa" n="15"/>tas sit operatio.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e826">
+          ⁋ Dicendum sicut prius quod loqui 
+          <lb ed="#Pa" n="16"/>tur ibi oe vno principio operationum scilicet de 
+          <lb ed="#Pa" n="17"/>anima tanquam de multis principiis propter equiua 
+          <lb ed="#Pa" n="18"/>lentiam etc. vt prius. Iuxta modum loquendi pre 
+          <lb ed="#Pa" n="19"/>dictum est rationalis dubitatio que potentia sit 
+          <lb ed="#Pa" n="20"/>nobilior intellectus scilicet an voluntas quia hoc non 
+          <lb ed="#Pa" n="21"/>est aliud querere ad vnum intellectum quam quod  
+          <lb ed="#Pa" n="22"/>genus actuum est nobilius volitiones scilicet 
+          <lb ed="#Pa" n="23"/>vel intellectiones vel ex quibus eius actibus ma 
+          <lb ed="#Pa" n="24"/>gis innotescit talis nature nobilitas.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e848">
+          ⁋ Ad hunc 
+          <lb ed="#Pa" n="25"/>sensum respondeo quod ex actibus virtuosis 
+          vo<lb ed="#Pa" n="26" break="no"/>lendi et meritoriis in via et ex dilectione et ex 
+          de<lb ed="#Pa" n="27" break="no"/>lectatione fruitiua in patria magis innotescit 
+          no<lb ed="#Pa" n="28" break="no"/>bis eius nobilitas intellectualis nature quam preci 
+          <lb ed="#Pa" n="29"/>se ex actibus cognitionis et similiter est de 
+          habi<lb ed="#Pa" n="30" break="no"/>tibus correspondentibus quia nullus est 
+          habiti<lb ed="#Pa" n="31" break="no"/>tus nobilior caritate. Ex quo patet quod nobili 
+          <lb ed="#Pa" n="32"/>us est animam esse voluntatem quam ipsam esse intel 
+          <lb ed="#Pa" n="33"/>lectum. hoc possunt concludere rationes principales 
+          <lb ed="#Pa" n="34"/>pro secunda parte primi articuli sed rationes pro 
+          <lb ed="#Pa" n="35"/>prima parte adducte sunt soluende.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e874">
+          ⁋ Ad primam 
+          <lb ed="#Pa" n="36"/>secundam et tertiam loquendo de partibus 
+          ani<lb ed="#Pa" n="37" break="no"/>me secundum equiualentiam vt predictum est di 
+          <lb ed="#Pa" n="38"/>citur quod in illis auctoritatibus appetitus 
+          rationa<lb ed="#Pa" n="39" break="no"/>lis siue voluntas et intellectus comprehenduntur 
+          <lb ed="#Pa" n="40"/>sub eadem anime particula quam ymaginantur distin 
+          <lb ed="#Pa" n="41"/>gui a parte anime sensitiua Ad quartam patet per 
+          <lb ed="#Pa" n="42"/>idem imaginando quod anima per vnam particulam 
+          <lb ed="#Pa" n="43"/>velit et intelligat et quod per illam possit 
+          cognosce<lb ed="#Pa" n="44" break="no"/>re actus particule sensitiue et non econtra et ita 
+          <lb ed="#Pa" n="45"/>procedit ratio augustini concludens bene quod anima prout est anima in 
+          <lb ed="#Pa" n="46"/>tellectiva nobilior est quam prout est anima sensitiua quia prout est 
+          <lb ed="#Pa" n="47"/>intellectiua iudicare potest de sensitiua et actibus 
+          <lb ed="#Pa" n="48"/>eius et non econtra. Sed hoc non tenet oe 
+          volun<lb ed="#Pa" n="49" break="no"/>tate et intellectu quia natura potest haberi intel 
+          <lb ed="#Pa" n="50"/>lectio oe volitione quin eam bona vel melior possit 
+          <lb ed="#Pa" n="51"/>haberi volitio de intellectione.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e911">
+          ⁋ Ad quintum 
+          <lb ed="#Pa" n="52"/>dictum est quod augustinus loquitur ibi de 
+          verita<lb ed="#Pa" n="53" break="no"/>te increata que est deus sicut esse alibi anselmus 
+          <lb ed="#Pa" n="54"/>facit et illa nobilior est mente nostra similiter et 
+          <lb ed="#Pa" n="55"/>licet anima prout est iudicatiua de actibus volun 
+          <lb ed="#Pa" n="56"/>tatis sit melior quam prout volitiva et prout vt sit de 
+          <lb ed="#Pa" n="57"/>eius actibus iudicatur hoc subiectum est 
+          secun<lb ed="#Pa" n="58" break="no"/>dum quid quia tales excellentias mutuas multas 
+          <lb ed="#Pa" n="59"/>bene contingit reperire inter intellectum et volun 
+          <lb ed="#Pa" n="60"/>tatem et econuerso ymaginando talem 
+          particula<lb ed="#Pa" n="61" break="no"/>ritatem anime isto enim modo secundu quid 
+          ma<lb ed="#Pa" n="62" break="no"/>teria prima secundem conditionem 
+          incorruptibili<lb ed="#Pa" n="63" break="no"/>tatis et simplicitatis dici potest nobilior homine 
+          <lb ed="#Pa" n="64"/>et tamen simpliciter loquendo homo est nobilior 
+          <lb ed="#Pa" n="65"/>sua materia.
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e944">
+          ⁋ Ad sextum dicitur quod actus 
+          vo<lb ed="#Pa" n="66" break="no"/>lendi est magis rectus idest eins rectitudo est ma 
+          <!--122.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>gis laudabilis tamen cum hoc stat quod actus 
+          in<lb ed="#Pa" n="68" break="no"/>tellectus est magis rectus id est quod eius rectitudo se 
+          <lb ed="#Pa" n="69"/>cundum naturam sit prior quia secundum veritatem 
+          <lb ed="#Pa" n="70"/>recitando actus intelligendi ordinatur ad 
+          recti<lb ed="#Pa" n="71" break="no"/>tudinem actus volendi sicut declarat anselmus et 
+          <lb ed="#Pa" n="72"/>cur deus homo capitulo primo et ordine natura 
+          <lb ed="#Pa" n="73"/>li numquam ordinatur nobilius ad vilius sed econtra 
+          <lb ed="#Pa" n="74"/>vt apparet primo ethicorum vbi per hoc probat 
+          <lb ed="#Pa" n="75"/>phhuns quod felicitas est nobilissima actio quia 
+          om<lb ed="#Pa" n="76" break="no"/>nes alie operationes humane sunt gratia ipsius 
+          <lb ed="#Pa" n="77"/>igitur
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e977">
+          ⁋ Ad septimum dicitur quod lamentari ratio	¬ 
+          <lb ed="#Pa" n="78"/>nabiliter mente sana non est malum spirituale ymo 
+          <lb ed="#Pa" n="79"/>meritorium ex patientia. Sed letari in amentia 
+          <lb ed="#Pa" n="80"/>nec est desiderabile in se nec meritorium etiam tunc 
+          <lb ed="#Pa" n="81"/>voluntas est ita bene expedita sicut intellectus. 
+        </p>
+        <p xml:id="GHYaf3-d1e307-d1e989">
+          <lb ed="#Pa" n="82"/>⁋ Ad argumenta principalia patet ex iam dictis.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

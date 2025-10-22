@@ -1,693 +1,693 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 1</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 1</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="58-r"/>
-            <cb ed="#Pa" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e403"><!-- GHYaf3-l1d8q1 -->
-            <head xml:id="GHYaf3-d1e403-Hd1e108">Quaestio 1</head>
-            <head xml:id="GHYaf3-d1e403-Hd1e111" type="question-title">
-      Utrum solus Deus sit immutabilis.
-    </head>
-            <p xml:id="GHYaf3-d1e403-d1e114">
-               <lb ed="#Pa" n="123"/>CIrca distictionem 
-      <lb ed="#Pa" n="124"/>octauam quero vtrum 
-      so<lb ed="#Pa" n="125" break="no"/>llus deus sit immutabilis
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e123">
-               <lb ed="#Pa" n="126"/>Uidetur quod non quia potest 
-      <lb ed="#Pa" n="127"/>esse vbi non est vir extra celum 
-      <lb ed="#Pa" n="128"/>igitur. Item aliquid dicitur 
-      <lb ed="#Pa" n="129"/>de deo per accidens igitur est 
-      <lb ed="#Pa" n="130"/>mutabilis. consequentia patet 
-      <lb ed="#Pa" n="131"/>per <ref xml:id="GHYaf3-d1e403-Rd1e138">augustinus quinto de trinita¬ 
-      <!--144.xml-->
-      <pb ed="#Pa" n="58-v"/>
-                  <cb ed="#Pa" n="a"/>
-                  <lb ed="#Pa" n="1"/>te ca. secundo. de paruis in principio.</ref>
-            </p>
-            <p xml:id="GHYaf3-d1e403-d1e150">
-      ⁋ In deo nihil 
-      <lb ed="#Pa" n="2"/>secundum accidens dicitur quia in deo nihil est mutabile 
-      <lb ed="#Pa" n="3"/>assumptum patet per ma. in principio di. 30. vbi di 
-      <lb ed="#Pa" n="4"/>cit. Sunt eim quedam ex tempone de deo dicuntur eique tem 
-      <lb ed="#Pa" n="5"/>poraliter conueniunt et realitiue dicitur secundum ac 
-      <lb ed="#Pa" n="6"/>cidens et plura similia ponuntur ibidem.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e164">
-      ⁋ Sed huio 
-      <lb ed="#Pa" n="7"/>rationi respondetur ibidem per ma. et augustinum 
-      <lb ed="#Pa" n="8"/>quod hoc non sit sic quod deo aliquid accedat sed creatur 
-      <lb ed="#Pa" n="9"/>vt ibidem declaratur de minimo qui fit precium 
-      <lb ed="#Pa" n="10"/>postquam non fuit precium.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e175">
-      ⁋ Contra minimus non potest 
-      <lb ed="#Pa" n="11"/>fieri de non precio precium fine mutatione in 
-      nun<lb ed="#Pa" n="12" break="no"/>mo vel in alio sed non oportet fieri mutationem in 
-      <lb ed="#Pa" n="13"/>alio scilicet in instanti quo fit precium quia nec in re 
-      <lb ed="#Pa" n="14"/>ge nec in plebe sufficit enim precessisse statutum quo 
-      <lb ed="#Pa" n="15"/>sine alia mutatione nummus in tali instanti fit 
-      pre<lb ed="#Pa" n="16" break="no"/>cium.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e191">
-      ⁋ Probatur sic dicitur in eadem auctoritate au 
-      <lb ed="#Pa" n="17"/>cus fine mutatione in vno vel in alio sed deus 
-      po<lb ed="#Pa" n="18" break="no"/>test fieri non amicus alicuius fine mutatione illius 
-      <lb ed="#Pa" n="19"/>ius fieri non amicus eius sine illius mutatione igitur 
-      <lb ed="#Pa" n="20"/>pio aliquem habentem amicum venialis peccati pu 
-      <lb ed="#Pa" n="21"/>ta cogitationem vel delectationem de aliqua 
-      il<lb ed="#Pa" n="22" break="no"/>lecebra qui actus ex sola mora ceteris paribus fiat 
-      <lb ed="#Pa" n="23"/>mortale peccatum in instanti a tunc iste in instan 
-      <lb ed="#Pa" n="24"/>ti. a. non mutatur et tamen de nouo fit non amicus dei 
-      <lb ed="#Pa" n="25"/>vel igitur hoc fiet sine omni mutatione contra augu 
-      <lb ed="#Pa" n="26"/>et processum ibi sequentem vel mutatio erit in deo 
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e215">
-               <lb ed="#Pa" n="27"/>⁋ Aliter probatur idem assumptum supposito quod deus mo 
-      <lb ed="#Pa" n="28"/>do ante prandium det preceptum alicui quod citra 
-      occa<lb ed="#Pa" n="29" break="no"/>sum solis aliquid faciat vel facere incipiat et 
-      il<lb ed="#Pa" n="30" break="no"/>le cui precipitur velit adhuc differre illius precepti 
-      <lb ed="#Pa" n="31"/>executionem quod bene diupotest sine culpa perma 
-      <lb ed="#Pa" n="32"/>neat in tali voluntate omnino vniformiter vsque diu 
-      <lb ed="#Pa" n="33"/>post occasum solis et post meridien deus erit 
-      ami<lb ed="#Pa" n="34" break="no"/>cus eius et in solis occasu et post vsque quopenitem 
-      <lb ed="#Pa" n="35"/>at non erit amicus eius et iste cuius desinit esse amicus 
-      <lb ed="#Pa" n="36"/>non mutatur in aliquo igitur deus etc.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e239">
-      ⁋ Item de 
-      <lb ed="#Pa" n="37"/>us est homo qui multipliciter est mutatus igitur deus 
-      <lb ed="#Pa" n="38"/>non est immutabilis.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e246">
-      ⁋ Consequentia probatur quia 
-      <lb ed="#Pa" n="39"/>nullum idem simplex et indiuisibile est mutabile 
-      <lb ed="#Pa" n="40"/>et non mutabile quia tunc esset mutabile et non muta 
-      <lb ed="#Pa" n="41"/>bile quia ex termino priuatio sequitur terminus in 
-      <lb ed="#Pa" n="42"/>finitus primo posteriorum.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e258">
-      ⁋ Ad oppositum est 
-      ma<lb ed="#Pa" n="43" break="no"/>gister in hac di. 8 ca. 4. vbi probat intentum suum per 
-      <lb ed="#Pa" n="44"/>b. augustinis.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e265">
-      ⁋ Item iacobi primo apud quem non est trant 
-      <lb ed="#Pa" n="45"/>mutatio et illud malach. Ego deus et non mutor 
-      <lb ed="#Pa" n="46"/>distinctio mutatio etiam accipitur a sanctis quandoque  
-      <lb ed="#Pa" n="47"/>communissime pro omni noua inceptione rei vel an 
-      <lb ed="#Pa" n="48"/>nihilatione vel distinctione vel destructione vel causa 
-      <lb ed="#Pa" n="49"/>tione et ita secundum damascenum visio vocatur 
-      mu<lb ed="#Pa" n="50" break="no"/>tatio.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e281">
-      ⁋ Secundo sumitur pro omni receptione for 
-      <lb ed="#Pa" n="51"/>me non prehabite vel pro desinere habere formam 
-      <lb ed="#Pa" n="52"/>prehabitam et sic materia dicentur mutari in primo 
-      <lb ed="#Pa" n="53"/>stanti sui esse si crearetur sub forma vel si totum com 
-      <lb ed="#Pa" n="54"/>positum ex eaet forma et isto modo loquitur 
-      au<lb ed="#Pa" n="55" break="no"/>gustinus sepe de materia prima quod fuerit mutata 
-      <lb ed="#Pa" n="56"/>in principio creationis
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e297">
-      ⁋ Tertio sumitur proprie pro 
-      <lb ed="#Pa" n="57"/>omni receptione noua forme vel situs in subiecto p 
-      <lb ed="#Pa" n="58"/>supposito vel pro perditione forme informantis 
-      <lb ed="#Pa" n="59"/>vel situs subiecto eodem remanente et sic sumitur 
-      <lb ed="#Pa" n="60"/>gu qua ibidem allegat. Magister de non amico fit 
-      ami<lb ed="#Pa" n="61" break="no"/>quod probatur quia deus potest de amico 
-      alicu<lb ed="#Pa" n="62" break="no"/>pari ratione econtra.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e313">
-      ⁋ Antecedens probatur quia 
-      ca<lb ed="#Pa" n="63" break="no"/>communiter ab aristoteles phi. qui dicit mutare est 
-      <lb ed="#Pa" n="64"/>aliter se habere nunc quam prius.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e320">
-      ⁋ Conclusio prima lo 
-      <lb ed="#Pa" n="65"/>quendo primo modo de mutatione solus deus 
-      se<lb ed="#Pa" n="66" break="no"/>cundum se est immutabilis de aliis a deo planum est se 
-      <!--144.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>cundum fidem de deo etiam patet secundum fidem et philosopham 
-      <lb ed="#Pa" n="68"/>quod deus est nec esse esse si enim non esset necesse esse neces 
-      <lb ed="#Pa" n="69"/>sario esset prius aliquid eo secundum naturam quod 
-      pos<lb ed="#Pa" n="70" break="no"/>set facere ipsum esse et ipsum non esse et per consequens quod  
-      <lb ed="#Pa" n="71"/>ponebatur deus non esset deus. de hoc etiam vide 
-      <lb ed="#Pa" n="72"/>di. 8 et etiam philosophyia dicit primum motonem omnino esse 
-      <lb ed="#Pa" n="73"/>immobilem per se et per accidens.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e347">
-      ⁋ Secunda 
-      conclu<lb ed="#Pa" n="74" break="no"/>sio deus est per se secudum se immutabilis secundo modo et ter 
-      <lb ed="#Pa" n="75"/>tio modo probatur quia deus non est secundum se formam 
-      a<lb ed="#Pa" n="76" break="no"/>liquam subiectiue recipere nec transferri de situ ad  
-      <lb ed="#Pa" n="77"/>situm probatur per augustinum. 5 de tri. et ponitur in  
-      <lb ed="#Pa" n="78"/>textu est cum deus sit actus purus nullius per se est 
-      per<lb ed="#Pa" n="79" break="no"/>fectionis receptiuus.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e363">
-      ⁋ Tertia conclusio non so 
-      <lb ed="#Pa" n="80"/>lum deus est secundum se immutabilis ad formam ipse ta 
-      <lb ed="#Pa" n="81"/>men solum est immutabilis secundum locum vel situm prima 
-      <lb ed="#Pa" n="82"/>pars probatur quia multa alia sunt a deo vel saltem 
-      <lb ed="#Pa" n="83"/>sunt possibilia que non possunt per formas in eis re 
-      <lb ed="#Pa" n="84"/>ceptibiles subiectiue perfici quia aliter esset 
-      proces<lb ed="#Pa" n="85" break="no"/>sus in in finitum informis essentialiter ordinatis re 
-      <lb ed="#Pa" n="86"/>ceptibilibus in hoc subiecto questionis 
-      demonstra<lb ed="#Pa" n="87" break="no"/>to consequens est inconveniens igitur. secunda pars con 
-      <lb ed="#Pa" n="88"/>clusionis patet quia omnes subetur alie sunt 
-      locali<lb ed="#Pa" n="89" break="no"/>ter mobiles ve corporibus per philosopham patet etiam 
-      <lb ed="#Pa" n="90"/>de angelis per scripturam quia omnes sunt admi 
-      <lb ed="#Pa" n="91"/>stratorum spiritus etc igitur etiam de accidentibus et 
-      <lb ed="#Pa" n="92"/>oe partibus su bstantarum non est dubium quia motis nobis 
-      <lb ed="#Pa" n="93"/>mouentur omnia que in nobis sunt.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e396">
-      ⁋ Quarta 
-      <lb ed="#Pa" n="94"/>conclusio quod deus secundum aliquid est mobilis et mu 
-      <lb ed="#Pa" n="95"/>tatibilis vere quia rationem humanitatis 
-      assun<lb ed="#Pa" n="96" break="no"/>pte etc. de hoc vide satis diffuse euangelium
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e405">
-      ⁋ Se 
-      <lb ed="#Pa" n="97"/>hic attendedum est quod filium personalitas non transiuit se 
-      <lb ed="#Pa" n="98"/>cundum se de situ in situm nec mutabatur ad formam. 
-      <lb ed="#Pa" n="99"/>Sed ista sunt vera de dei filio secundum 
-      communica<lb ed="#Pa" n="100" break="no"/>tionem ydiomatum sicut omnes doctores clamant ipse 
-      ve<lb ed="#Pa" n="101" break="no"/>ro dicitur hoc ab humanitate sibi vnita non secundum ta 
-      <lb ed="#Pa" n="102"/>lem communicationem ydiomatum sed immediate sicut 
-      <lb ed="#Pa" n="103"/>calix dicitur deauratus ab auro sibi vnito vel sicut ferrum 
-      <lb ed="#Pa" n="104"/>secundum damascenum dicitur ignitum a forma ignis sibi 
-      <lb ed="#Pa" n="105"/>ignita vel ab accidentibus similibus accidentibus 
-      <lb ed="#Pa" n="106"/>ignis sed quod deus mutabatur non est nisi secundum 
-      <lb ed="#Pa" n="107"/>communionem ydiomatum vt sit sensus deus niuta 
-      <lb ed="#Pa" n="108"/>batur quia ipse erat ypostasis nature mutate vel sic 
-      <lb ed="#Pa" n="109"/>idest aliquid deo vnitum hypostatice mutabatur 
-      <lb ed="#Pa" n="110"/>vel natura ex cuius assumptione deus est ho 
-      mu<lb ed="#Pa" n="111" break="no"/>tabatur stante illa vnione hypostatica et sic de 
-      si<lb ed="#Pa" n="112" break="no"/>milibus et deus fuit mortuus id est deo ypostatice cor 
-      <lb ed="#Pa" n="113"/>pus vniebatur carens vita vel corpus mortuum 
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e444">
-               <lb ed="#Pa" n="114"/>⁋ Diceres pari ratione dei filius diceretur 
-      com<lb ed="#Pa" n="115" break="no"/>positum et creatura et huiusmodi.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e451">
-      ⁋ Respondeo 
-      <lb ed="#Pa" n="116"/>quod non sequitur licet enim natura assumpta sit cre 
-      <lb ed="#Pa" n="117"/>atura et composita et aliud a deo et incepit esse et 
-      <lb ed="#Pa" n="118"/>fuerit creatura et sic de similibus quia tamen dei 
-      <lb ed="#Pa" n="119"/>filius non est natura illa assumpta non enim oporta 
-      <lb ed="#Pa" n="120"/>quod omnia communia relatiue illi nature dei filio con 
-      <lb ed="#Pa" n="121"/>ueniant quia non illa que non sunt nata conueni 
-      <lb ed="#Pa" n="122"/>re nisi illis quibus primo et immedia te 
-      conueni<lb ed="#Pa" n="123" break="no"/>unt Uerbi gratia licet homo sit albus ab albedi 
-      <lb ed="#Pa" n="124"/>ne tamen homo non est accidens ab albedine licet 
-      <lb ed="#Pa" n="125"/>albedo sit accidens et licet homo sit animatus ab 
-      <lb ed="#Pa" n="126"/>anima et anima sit pars non tamen propter hoc est 
-      <lb ed="#Pa" n="127"/>homo pars quia hoc quod hec dictio pars non est 
-      <lb ed="#Pa" n="128"/>predicatum vel terminus relatiuus natus den 
-      omi<lb ed="#Pa" n="129" break="no"/>nare sub hac denominatione nisi illud cui 
-      conue<lb ed="#Pa" n="130" break="no"/>nit primo et pari ratione nec hoc predicatum quod est 
-      <lb ed="#Pa" n="131"/>terminus relatiuus sibi compositus scilicet totum 
-      <lb ed="#Pa" n="132"/>vel compositum et eodemmodo est de istis predica¬ 
-      <!--145.xml-->
-      <pb ed="#Pa" n="59-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>tis idem et aliud vel idem et distinctum licet enim 
-      <lb ed="#Pa" n="2"/>natura assumpta sit distincta a deo et aliud a deo suon 
-      <lb ed="#Pa" n="3"/>oportet tamen nec est aliquatenus concedendum quod dei 
-      <lb ed="#Pa" n="4"/>filius sit aliud a deo vel distinctus a deo et ita de si 
-      <lb ed="#Pa" n="5"/>milibus et pari ratione quia deus non est aliquid  
-      <lb ed="#Pa" n="6"/>factum de nihilo quia queritur quid et non inuenitur 
-      <lb ed="#Pa" n="7"/>ideo non est creatura. et quia etiam ipse non est illi 
-      <lb ed="#Pa" n="8"/>quod resultat ex Christi humanitate et verbi 
-      personali<lb ed="#Pa" n="9" break="no"/>tate quia ipse fuit ab eterno et nec hoc resultans 
-      <lb ed="#Pa" n="10"/>nec illud fuit ab eterno.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e519">
-      ⁋ Quod pulchie tractat 
-      <lb ed="#Pa" n="11"/>bo hieronymus in sermone de assumptione beate 
-      <lb ed="#Pa" n="12"/>marie et non est assignare aliud compositum quod 
-      <lb ed="#Pa" n="13"/>est dei filius igitur et causa est vt predixi quia talia pre 
-      <lb ed="#Pa" n="14"/>dicata totum compositum pars idem aliud distin 
-      <lb ed="#Pa" n="15"/>ctum non sunt sub hac forma nata denominare nisi 
-      <lb ed="#Pa" n="16"/>illa quibus immediate conueniunt sicut nec 
-      descri<lb ed="#Pa" n="17" break="no"/>ptiones eorundem et multa sunt talia sicut esse hic et 
-      <lb ed="#Pa" n="18"/>non alibi et similia secus autem de illis qui dei filio 
-      <lb ed="#Pa" n="19"/>attribuuntur per communicationem ydiomatum 
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e541">
-               <lb ed="#Pa" n="20"/>⁋ Diceres deus perforabatur vel diuidebatur et 
-      <lb ed="#Pa" n="21"/>et nullum simplex potest diuidi igitur deus est 
-      compo<lb ed="#Pa" n="22" break="no"/>situs.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e550">
-      ⁋ Respondetur quod quia autecedens 
-      verifica<lb ed="#Pa" n="23" break="no"/>tur solum per communicationem ydiomatum ideo con 
-      <lb ed="#Pa" n="24"/>sequentia non valet plusquam ista Christus fuit vere leo de 
-      <lb ed="#Pa" n="25"/>tribu iuda igitur Christus habuit ve caudam et quattu 
-      <lb ed="#Pa" n="26"/>or pedes hic enim habet quicquid est proprie 
-      leo<lb ed="#Pa" n="27" break="no"/>⁋ Regula autem que predicata sint hic concedenda 
-      <lb ed="#Pa" n="28"/>secundum communicationem ydiomatum de deo et quae ca 
-      <lb ed="#Pa" n="29"/>pi non potest a creaturis quando omnia que agit vel patitur 
-      <lb ed="#Pa" n="30"/>pars essentialis vel accidens creature potest ista cre 
-      <lb ed="#Pa" n="31"/>atura dici pati vel agere non vlterius modificando  
-      <lb ed="#Pa" n="32"/>sermonem hunc per illa aduerbia bene vel male 
-      <lb ed="#Pa" n="33"/>per se vel per ad mediate vel immediate sic in propo 
-      <lb ed="#Pa" n="34"/>sito quicquid egit vel patiebatur natura assumpta 
-      <lb ed="#Pa" n="35"/>attribui potest supposito assumenti per 
-      communica<lb ed="#Pa" n="36" break="no"/>tionem ydiomatum et vltra hoc sine tali medio vel 
-      <lb ed="#Pa" n="37"/>tali communicatione concretum humanitatis assum 
-      <lb ed="#Pa" n="38"/>pte et omnia essentialiter superiora ad illud per 
-      so<lb ed="#Pa" n="39" break="no"/>lum pronominem demonstratiuum expressa de hoc 
-      <lb ed="#Pa" n="40"/>vide plus in responsione ad tertium principale. 
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e592">
-               <lb ed="#Pa" n="41"/>⁋ Sed contra deus est homo igitur est animaligitur 
-      <lb ed="#Pa" n="42"/>corpus animatum igitur diuisibilis. Preterea da 
-      <lb ed="#Pa" n="43"/>mascenus dicit oe plano sicut tangetur in tertio quod dei 
-      <lb ed="#Pa" n="44"/>filius qui eternaliter fuit simpicile hypostas. ex 
-      tempon<lb ed="#Pa" n="45" break="no"/>cepit esse hypostasis composita.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e605">
-      ⁋ Item si 
-      actio<lb ed="#Pa" n="46" break="no"/>nes passiones nature assumpte per 
-      communicatio<lb ed="#Pa" n="47" break="no"/>nem ydiomatum competunt illi supposito cum illa 
-      <lb ed="#Pa" n="48"/>natura lassumpta sit deponibilis et 
-      reassumpti<lb ed="#Pa" n="49" break="no"/>bilis causabilis et corruptibilis creabilis et adni 
-      <lb ed="#Pa" n="50"/>hilabilis et multa similia vbi notatur actio et 
-      pas<lb ed="#Pa" n="51" break="no"/>sio illius nature sequitur quod omnia sic possent dei 
-      <lb ed="#Pa" n="52"/>filio vere attribui
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e623">
-      ⁋ Item deo in triduo mortem vere 
-      <lb ed="#Pa" n="53"/>vniebatur tam corpus quam anima igitur qua ratio 
-      <lb ed="#Pa" n="54"/>ne animatus et homo erat ab humanitate vnita 
-      <lb ed="#Pa" n="55"/>sibi ita tunc a corpore dici poterat corpus 
-      sumen<lb ed="#Pa" n="56" break="no"/>do concretiue ly corpus sed omne corpus est com 
-      <lb ed="#Pa" n="57"/>positum et diuisibile igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e637">
-      ⁋ Ad primum respon 
-      <lb ed="#Pa" n="58"/>detur quod accipiendo corpus pro vt est in praedicamento 
-      <lb ed="#Pa" n="59"/>subetur et est per se superius ad ly animal hoc potest 
-      <lb ed="#Pa" n="60"/>concedi deus est corpus quia est suppositum sustem 
-      <lb ed="#Pa" n="61"/>tans vpostatice corporeitatem et nan sequitur quod sit 
-      <lb ed="#Pa" n="62"/>diuisibilis sed sufficit quod corporeitas sibi vnita sit 
-      <lb ed="#Pa" n="63"/>composita et diuisibilis.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e653">
-      ⁋ Ad secundum dicendum 
-      <lb ed="#Pa" n="64"/>quod aliquid esse hypostasim compositam potest 
-      di<lb ed="#Pa" n="65" break="no"/>pliciter intelligi vel quod sit hypostas vel ex plumribus 
-      <lb ed="#Pa" n="66"/>resultans et integrata et sic negatur hoc de dea. 
-      <!--145.xml-->
-      <cb ed="#Pa" n="b"/>
-            </p>
-            <p xml:id="GHYaf3-d1e403-d1e666">
-               <lb ed="#Pa" n="67"/>⁋ Aliomodo dicitur compositum quod cum alio 
-      po<lb ed="#Pa" n="68" break="no"/>nitur ad integrandum aliquid vere vnum et sic lo 
-      <lb ed="#Pa" n="69"/>quitur dammascenus dicens dei filium in incarnatione 
-      <lb ed="#Pa" n="70"/>factum esse nouiter hypostasim est compositam quan 
-      <lb ed="#Pa" n="71"/>uis proprie non alteri componatur.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e679">
-      ⁋ Sed aliud  
-      <lb ed="#Pa" n="72"/>isti puta hunanitas ita quod claudicet lex proprie 
-      di<lb ed="#Pa" n="73" break="no"/>cte compositionis ex parte verbi non ex parte 
-      huna<lb ed="#Pa" n="74" break="no"/>nitatis in ipso personaliter subsistentur vbi nota quod 
-      <lb ed="#Pa" n="75"/>quandoque aliqua sic vniuntur quod ex eis fit per se vnum 
-      <lb ed="#Pa" n="76"/>compositum a quolibet componendum distinctum in re 
-      <lb ed="#Pa" n="77"/>et denominatione vt patet communiter in composi 
-      <lb ed="#Pa" n="78"/>tis ex materia et forma et sic Christus vel filius dei non 
-      <lb ed="#Pa" n="79"/>est aliquod compositum ex humanitate et 
-      deita<lb ed="#Pa" n="80" break="no"/>te.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e701">
-      ⁋ Secundo aliqua sic vniuntur quod propter inti 
-      <lb ed="#Pa" n="81"/>mitatem quam vnum alteri intime vnitur et propi 
-      <lb ed="#Pa" n="82"/>modum vniendi vel componendi alterum componem 
-      <lb ed="#Pa" n="83"/>dum denominatur ab altero sibi vnito et sic dei fi 
-      <lb ed="#Pa" n="84"/>lius denominatur homo ab humanitate 
-      hyposta<lb ed="#Pa" n="85" break="no"/>sitate sibi vnita a qua etiam denominatur hypostasis 
-      <lb ed="#Pa" n="86"/>composita et sic de pluribus denominationibus 
-      <lb ed="#Pa" n="87"/>consimilibus nec illud est mirum vnita subiecto al 
-      <lb ed="#Pa" n="88"/>bedine subiectum quod est altera pars illorum vni 
-      <lb ed="#Pa" n="89"/>torum de nominationem recipit et vocatur album. 
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e723">
-               <lb ed="#Pa" n="90"/>⁋ Ad tertium dicendum quod assumi vel deponi vel 
-      <lb ed="#Pa" n="91"/>deo vniri non notant actionem nec passionem nature 
-      <lb ed="#Pa" n="92"/>assumpte sed potius nouitatem entis vnius quasi 
-      <lb ed="#Pa" n="93"/>compositi resultantis creari etiam vel amnihilari non 
-      <lb ed="#Pa" n="94"/>notant actionem nec passionem proprie dictam vt ita 
-      <lb ed="#Pa" n="95"/>loquor nec eodem modo quo loquitur auctor sex 
-      <lb ed="#Pa" n="96"/>principiorum. d. quod actio est secundum quam in istud quod  
-      <lb ed="#Pa" n="97"/>subiicitur agere dicimur.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e744">
-      ⁋ Ad quartum concedo  
-      <lb ed="#Pa" n="98"/>quod in triduo poterat dei filius vere denominari a 
-      <lb ed="#Pa" n="99"/>corpore et est ab anima vnita sibi aliqua denominatione 
-      <lb ed="#Pa" n="100"/>que non est in vsu quecumque ista esse debuerit et ideo de 
-      <lb ed="#Pa" n="101"/>illa non curetur.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e755">
-      ⁋ Nota etiam quod in triduo verbum 
-      <lb ed="#Pa" n="102"/>hoc non esset ho fuit tamen Christus propter animam sibi 
-      <lb ed="#Pa" n="103"/>vnitam vncta spitus sanctus vnctione et licet corpus esset si 
-      <lb ed="#Pa" n="104"/>bi vnitum ita quod propter hoc vere dicentur Christus iacem 
-      <lb ed="#Pa" n="105"/>in sepulchio non tamen ratione corporis dicebatur 
-      <lb ed="#Pa" n="106"/>Christus quia corpori non conuenit vnctio spiritualis sed quia 
-      <lb ed="#Pa" n="107"/>ille qui fuit Christus ratione anime habuit corpus sibi 
-      vni<lb ed="#Pa" n="108" break="no"/>tum iacens in sepulchio.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e773">
-      ⁋ Ideo dicebatur Christus 
-      <lb ed="#Pa" n="109"/>iacere insepulchio.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e778">
-      ⁋ Contra conclusionem secun 
-      <lb ed="#Pa" n="110"/>dam deus est primus motor aut igitur mouet mo 
-      <lb ed="#Pa" n="111"/>do nature aut libere si primum tunc agit falsum secun 
-      <lb ed="#Pa" n="112"/>dum vltimum sue potentie igitur antequam mouetu celum 
-      <lb ed="#Pa" n="113"/>non potuit mouere nec creare ipsum et per consequens 
-      <lb ed="#Pa" n="114"/>fuit mutatus si libere moueat sint igitur duo mo 
-      <lb ed="#Pa" n="115"/>bilia. a. et. b. equalia per duo spacia sic quod tamen a. 
-      <lb ed="#Pa" n="116"/>pertransit vnam partem proportionalem sui spaci. b. 
-      <lb ed="#Pa" n="117"/>pertransiet duas de suo et cum a duas. de suo b. quaet 
-      <lb ed="#Pa" n="118"/>tuor et sic deinceps semper duplo plures donec to 
-      <lb ed="#Pa" n="119"/>tum spacium vtrobique sit pertransitum.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e802">
-      ⁋ Tunc quae 
-      <lb ed="#Pa" n="120"/>ro vtrum b. citius pertingit ad terminum sui spa 
-      <lb ed="#Pa" n="121"/>cum vel non. si sic sit. d. primum instans in quo b. 
-      per<lb ed="#Pa" n="122" break="no"/>transiuit suum spacium et quero vtrum in illo sit ve 
-      <lb ed="#Pa" n="123"/>rum dicere quod a. pertransiuerit partes proportio 
-      <lb ed="#Pa" n="124"/>nales infinitas illius ordinis aut non si sic igitur 
-      <lb ed="#Pa" n="125"/>est in fine sicut et. b. Et si non igitur solum finitas 
-      <lb ed="#Pa" n="126"/>et si hoc cum. b. precise per casum precedat. a 
-      se<lb ed="#Pa" n="127" break="no"/>cundum regulam plures partes pro portionales quod 
-      <lb ed="#Pa" n="128"/>patet falsum cum sit in fine spacii.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e824">
-      ⁋ Si dicatur quod situs 
-      <lb ed="#Pa" n="129"/>pertinget ad terminum.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e830">
-      ⁋ Contra immediate atece 
-      <lb ed="#Pa" n="130"/>te. d instans b. pertransierat duplo plures illarum 
-      <lb ed="#Pa" n="131"/>partium et per consequens cum ita semper esse debe 
-      <lb ed="#Pa" n="132"/>at vsque ad vltimum instans b. citius erat peruen¬ 
-      <!--146.xml-->
-      <pb ed="#Pa" n="59-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>turum ad terminum quam a.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e848">
-      ⁋ Respondetur 
-      conce<lb ed="#Pa" n="2" break="no"/>dendo quod b. et a. simul pertingerent ad finem et ne 
-      <lb ed="#Pa" n="3"/>gatur vltima consequentia quia licet in principio 
-      <lb ed="#Pa" n="4"/>velocius moueretur quam. a. tamen post stante casu 
-      <lb ed="#Pa" n="5"/>oportebit quod a. moueatur velocius quam b. do nec 
-      prae<lb ed="#Pa" n="6" break="no"/>cise in fine pertigat ipsum.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e861">
-      ⁋ Hic etiam valet yma 
-      <lb ed="#Pa" n="7"/>ginatio que tangitur in spera oe partibus equino 
-      <lb ed="#Pa" n="8"/>aetialis et podiaci.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e868">
-      ⁋ Tertio principaliter deus 
-      cre<lb ed="#Pa" n="9" break="no"/>ans potest non esse igitur deus potest non esse Antecedens per 
-      <lb ed="#Pa" n="10"/>batur quia hec est possibilis deus creans non est igi 
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e875">
-               <lb ed="#Pa" n="11"/>⁋ Item vel deus creans potest non esse vel deus cre 
-      <lb ed="#Pa" n="12"/>ans non potest non esse si primum intentum si secundum igitur 
-      <lb ed="#Pa" n="13"/>deus creans necessario est.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e884">
-      ⁋ Respondetur 
-      conce<lb ed="#Pa" n="14" break="no"/>dendo quod deus creans non potest non esse nec valet ista 
-      <lb ed="#Pa" n="15"/>consequentia deus creans non est igitur deus creans 
-      <lb ed="#Pa" n="16"/>potest non esse propter ampliationem que fit in 
-      con<lb ed="#Pa" n="17" break="no"/>sequente.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e896">
-      ⁋ Item hic negatur ista consequentia de 
-      <lb ed="#Pa" n="18"/>us creans non potest non esse igitur deus creans ne 
-      <lb ed="#Pa" n="19"/>cessario est et datur instantia quia hec est falsa 
-      chi<lb ed="#Pa" n="20" break="no"/>mera potest non esse eo quod si esset vera vel igitur chi 
-      <lb ed="#Pa" n="21"/>mera que est vel que potest esse potest non esse. 
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e907">
-               <lb ed="#Pa" n="22"/>⁋ Sed vtrumque est falsum eo quod nec chimera est nec 
-      <lb ed="#Pa" n="23"/>potest esse igitur hec est vera chimera non potest 
-      <lb ed="#Pa" n="24"/>non esse et non tamen sequitur igitur chimera 
-      ne<lb ed="#Pa" n="25" break="no"/>cessario est et tunc vltra dicitur quod illa equipollen 
-      <lb ed="#Pa" n="26"/>tia necessarum et non possibilis non solum tenet cum 
-      <lb ed="#Pa" n="27"/>constantia subiecti.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e923">
-      ⁋ Sequitur enim a. non potest 
-      <lb ed="#Pa" n="28"/>non esse. et. a. est igitur necessario. a. est vnde ista ne 
-      <lb ed="#Pa" n="29"/>gatiua a. non potest non esse potest habere tres causas 
-      <lb ed="#Pa" n="30"/>veritatis vel id est quod a necessario est vel quia a. 
-      impos<lb ed="#Pa" n="31" break="no"/>sibile est esse vel quia aliquid potest esse a. et omne tali 
-      <lb ed="#Pa" n="32"/>necessario est modo prima causa verificat istam de 
-      <lb ed="#Pa" n="33"/>us creans non potest non esse secunda istam chimera 
-      <lb ed="#Pa" n="34"/>non potest non esse tertia istam creans non potest non esse dato 
-      <lb ed="#Pa" n="35"/>quod deus nihil creet
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e943">
-      ⁋ Item secundum hoc ista non contra 
-      <lb ed="#Pa" n="36"/>dicunt deus creans necessario est et deus creans 
-      <lb ed="#Pa" n="37"/>potest non esse nam ambo essent false deo nihil creante 
-      <lb ed="#Pa" n="38"/>Secundo deus creans potest definem esse igitur etc. Antecedens 
-      <lb ed="#Pa" n="39"/>probatur supposito quod deus nunc primo non creet tunc 
-      <lb ed="#Pa" n="40"/>sic deus creans nunc non est. et deus creans 
-      imme<lb ed="#Pa" n="41" break="no"/>diate ante hoc fuit igitur deus creans desinit esse igitur 
-      <lb ed="#Pa" n="42"/>deus creans potest desinere esse respondetur negando  
-      <lb ed="#Pa" n="43"/> Antecedens ad probationem negatur consequentia nec 
-      <lb ed="#Pa" n="44"/>iste sunt exponentes consequentis nisi in vtraque expo 
-      <lb ed="#Pa" n="45"/>nente ly deus creans sumatur pro eodem et tunc se 
-      <lb ed="#Pa" n="46"/>cunda esset falsa propter falsam implicationem istam 
-      <lb ed="#Pa" n="47"/>scilicet quod deus qui est creans immediate ante hoc 
-      <lb ed="#Pa" n="48"/>fuit.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e974">
-      ⁋ Aliter respondetur tam ad responsionem se 
-      <lb ed="#Pa" n="49"/>cundam quam ad istam tertiam concedendo quod ista est bo 
-      <lb ed="#Pa" n="50"/>na equipollentia deus creans non potest non esse et deus 
-      <lb ed="#Pa" n="51"/>creans necessario est sed ista consequentia non 
-      va<lb ed="#Pa" n="52" break="no"/>let deus creans necessario est igitur deus creans 
-      <lb ed="#Pa" n="53"/>est quia ly necessario ampliat et ideo antecedens signifi 
-      <lb ed="#Pa" n="54"/>cat quod ille qui est creans vel qui potest esse deus creans necessa 
-      <lb ed="#Pa" n="55"/>rio est et hoc est verum.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e992">
-      ⁋ Ad instantiam de chime 
-      <lb ed="#Pa" n="56"/>ra dico concedendo istam chimera potest non esse et 
-      <lb ed="#Pa" n="57"/>istam chimera que est potest non esse nec ex illa se 
-      <lb ed="#Pa" n="58"/>quitur quod chimera est cum illa sit negatiua cuius 
-      <lb ed="#Pa" n="59"/>subiectum non oportet supponere pro aliquo.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1004">
-      ⁋ Si 
-      <lb ed="#Pa" n="60"/>militer concedo istam chimera quae potest esse potest non 
-      <lb ed="#Pa" n="61"/>esse et ex illa non sequitur quod chimera potest esse quia non 
-      <lb ed="#Pa" n="62"/>oportet subiectum eius pro aliquo supponere et ra 
-      <lb ed="#Pa" n="63"/>tionaturalis in qua debet fundari logica hoc 
-      di<lb ed="#Pa" n="64" break="no"/>ctat quod non oportet si de aliquo debut verificari 
-      pos<lb ed="#Pa" n="65" break="no"/>se non esse quod de ipso verificatur posse esse.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1020">
-      ⁋ Ad aliam 
-      <lb ed="#Pa" n="66"/>negatur consequentia deus creans desinit esse igitur 
-      <!--146.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>deus creans potest desinere esse propter ampliationem 
-      <lb ed="#Pa" n="68"/>que fit in consequenteretiam non sequitur deus creans 
-      <lb ed="#Pa" n="69"/>desinit esse igitur deus desinit esse nec consequens est 
-      incon<lb ed="#Pa" n="70" break="no"/>ueniens cum in instanti quando deus non creat 
-      ve<lb ed="#Pa" n="71" break="no"/>rum sit quod deus creans nihil est eo quod nulla entitas est 
-      <lb ed="#Pa" n="72"/>tunc cui vere conueniat hoc predicatum deus 
-      cre<lb ed="#Pa" n="73" break="no"/>ans quare igitur non similiter potest ista concedi de 
-      <lb ed="#Pa" n="74"/>us creans desinit esse.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1046">
-      ⁋ Et accipiatur exemplum de 
-      <lb ed="#Pa" n="75"/>sorte albo vel magis conueniens de sorte patre quia 
-      <lb ed="#Pa" n="76"/>in instanti in quo filius eius primo est mortuus ve 
-      <lb ed="#Pa" n="77"/>rum est dicem quod sortes pater desinit esse et tamen ipse tunc 
-      <lb ed="#Pa" n="78"/>i nullo dubitatur nec etiam ex hoc sequitur quod sor 
-      <lb ed="#Pa" n="79"/>tes desinit esse.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1059">
-      ⁋ Ad primum principale negatur 
-      <lb ed="#Pa" n="80"/>consequentia quia hoc fieret non propter mutationem 
-      <lb ed="#Pa" n="81"/>dei sed propter positionem loci vel situs cum deo vel 
-      <lb ed="#Pa" n="82"/>dicitur quod deus immense est extra celum vbicumque potest 
-      <lb ed="#Pa" n="83"/>esse aliquid.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1070">
-      ⁋ Ad secundum negatur ista 
-      consequen<lb ed="#Pa" n="84" break="no"/>tia de deo dicitur aliquid secundum accidens igitur 
-      <lb ed="#Pa" n="85"/>deus est mutabilis et hoc sumpto ante ad sensum 
-      ve<lb ed="#Pa" n="86" break="no"/>rum concessum a magistro et ab augustinus sicut ibidem 
-      <lb ed="#Pa" n="87"/>exprimitur.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1081">
-      ⁋ Ad probationem dicitur quod augustinus ibi loquitur 
-      <lb ed="#Pa" n="88"/>de accidente quod est forma inherens alicui. 
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1087">
-               <lb ed="#Pa" n="89"/>⁋ Ad primam reductionem de nummo dicitur quod ibi suf 
-      <lb ed="#Pa" n="90"/>ficit transitus temporis stante statuto regio quo  
-      <lb ed="#Pa" n="91"/>ordinatum est quod ad transitum temporis fieret precium 
-      <lb ed="#Pa" n="92"/>per idem ad secundum per reductionem nouiter 
-      <lb ed="#Pa" n="93"/>facto amico.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1100">
-      ⁋ Dicendum quod ibi sufficit preordina 
-      <lb ed="#Pa" n="94"/>tio diuina et statutum de abiicienda tenebra et ille 
-      <lb ed="#Pa" n="95"/>cebra infra limites temporis prefiniti ita quod tran 
-      <lb ed="#Pa" n="96"/>situs illius temporis sibi prestituti a deo cum 
-      a<lb ed="#Pa" n="97" break="no"/>liis tanguntur in argumento puta perseuerentia 
-      <lb ed="#Pa" n="98"/>negligentia et consensu interpretatiuo vel huiusmodi 
-      <lb ed="#Pa" n="99"/>sufficiunt vt de amico dei fiat non amicus
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1116">
-      ⁋ Ad ter 
-      <lb ed="#Pa" n="100"/>tium patet responsio ex dictis in prosecutione 
-      quar<lb ed="#Pa" n="101" break="no"/>te conclusionis vbi dixi quod licet filius dei proprie et 
-      <lb ed="#Pa" n="102"/>vere et non per communicationem ydiomatu sit homo 
-      <lb ed="#Pa" n="103"/>et animal et corpus et animatum tamen per communi 
-      <lb ed="#Pa" n="104"/>cationem ydiomatum omnes actiones et passiones 
-      <lb ed="#Pa" n="105"/>proprie dicte et motiones locales siue exprimantur 
-      <lb ed="#Pa" n="106"/>actiue siue passiue que immediate competebant huna 
-      <lb ed="#Pa" n="107"/>nitati Christi etiam supposito eterno absolute sine vl 
-      <lb ed="#Pa" n="108"/>teriori modificatione aduerbiorum verissime 
-      con<lb ed="#Pa" n="109" break="no"/>petebant.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1140">
-      ⁋ Et ratio primi quia communicare ydio 
-      <lb ed="#Pa" n="110"/>mata est predicatum vni primo et immediate conueniens 
-      <lb ed="#Pa" n="111"/>alteri secundario et mediate conuenire sicut 
-      dis<lb ed="#Pa" n="112" break="no"/>gregare vel videri quod primo conuenit albedini 
-      in<lb ed="#Pa" n="113" break="no"/>mediate et secundario tribuitur subiecto eius et si 
-      <lb ed="#Pa" n="114"/>cut aqua dicitur calefieri quando calor ipsam 
-      in<lb ed="#Pa" n="115" break="no"/>formans calefacit.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1156">
-      ⁋ Sed sic non est oe predicatis 
-      <lb ed="#Pa" n="116"/>istis homo humanatum et similibus dictis de dei filio 
-      <lb ed="#Pa" n="117"/>quia ista non primo et immediate conueniunt in Christo 
-      <lb ed="#Pa" n="118"/>alteri et per illud aliud filio dei quia tale altem 
-      <lb ed="#Pa" n="119"/>non esset assignare nisi humanitate assumpsa et 
-      con<lb ed="#Pa" n="120" break="no"/>stat quod ista nec est hoc nec animal nec humanata nec 
-      in<lb ed="#Pa" n="121" break="no"/>carnata.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1172">
-      ⁋ Sed primo et immediate conueniunt 
-      <lb ed="#Pa" n="122"/>hoc in filio dei et sunt sibi ydiomata et nullo 
-      mo<lb ed="#Pa" n="123" break="no"/>do nature assumpte sed actiones et passiones 
-      si<lb ed="#Pa" n="124" break="no"/>ue secundum locum siue secundum formam humanitatis as 
-      <lb ed="#Pa" n="125"/>sumpte taliter dei filio congruebant quod ista sunt pri 
-      <lb ed="#Pa" n="126"/>ma et immediata ydiomata predicata 
-      conuenien<lb ed="#Pa" n="127" break="no"/>tia illi nature et illa mediate communicatur supposi 
-      <lb ed="#Pa" n="128"/>to in ipsa personaliter subsistente et istud est ita sim 
-      <lb ed="#Pa" n="129"/>oste et impartibile et incompositum modo 
-      preexpo<lb ed="#Pa" n="130" break="no"/>stto sicut eternaliter existebat licet a compositis 
-      <lb ed="#Pa" n="131"/>et diuisibilibus concretiue vere denominetur. 
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1197">
-               <lb ed="#Pa" n="132"/>⁋ Diceres nihil moritur nisi compositum quia mors 
-      <!--147.xml-->
-      <pb ed="#Pa" n="60-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>est separatio partis a parte in composito moriente 
-      <lb ed="#Pa" n="2"/>sed dei filius vere moriebatur igitur vere fuit co 
-      <lb ed="#Pa" n="3"/>positus.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1215">
-      ⁋ Respondetur quod si dei filius qui verissi 
-      <lb ed="#Pa" n="4"/>me pro nobis mortuus est et passus ita immedia 
-      <lb ed="#Pa" n="5"/>te et propriissime fuisset mortuus sicut corpus quia 
-      <lb ed="#Pa" n="6"/>erat pars assumpte humanitatis va leret conse 
-      <lb ed="#Pa" n="7"/>quentia nunc non valet sic quia sensus est Christus 
-      ve<lb ed="#Pa" n="8" break="no"/>re mortuus fuit idest Christus subsistebat in carne 
-      ve<lb ed="#Pa" n="9" break="no"/>re motiua per carentiam vite prius eam viuificam 
-      <lb ed="#Pa" n="10"/>tis vel animantis et cum hoc stat vera summa et 
-      <lb ed="#Pa" n="11"/>eterna simplicitas quia simplici vniri potest com 
-      <lb ed="#Pa" n="12"/>positum et ne de meo aliquid dixisse videar in hu 
-      <lb ed="#Pa" n="13"/>iusmodi expositionibus probo quod dixi testimo 
-      <lb ed="#Pa" n="14"/>niis aliorum.
-    </p>
-            <p xml:id="GHYaf3-d1e403-d1e1241">
-      ⁋ Unde ambo. vt recitat Magister libro 
-      <lb ed="#Pa" n="15"/>tertio .25. ca. penultimo in fine emisit Christus spiritum 
-      <lb ed="#Pa" n="16"/>sed bene emisit ex carne Et consequenter vide to 
-      <lb ed="#Pa" n="17"/>tum capitulum sequens inuenies multa dicti 
-      <lb ed="#Pa" n="18"/>ad propositum et di. 22 ca. 3 mortem igitur dei fi 
-      <lb ed="#Pa" n="19"/>lius et in anima non ptulit et in maiestate non sen 
-      <lb ed="#Pa" n="20"/>sit sed participatione infirmitatis rex glorie 
-      cru<lb ed="#Pa" n="21" break="no"/>cifixus est.
-      </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="58-r"/>
+        <cb ed="#Pa" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e403"><!-- GHYaf3-l1d8q1 -->
+        <head xml:id="GHYaf3-d1e403-Hd1e108">Quaestio 1</head>
+        <head xml:id="GHYaf3-d1e403-Hd1e111" type="question-title">
+          Utrum solus Deus sit immutabilis.
+        </head>
+        <p xml:id="GHYaf3-d1e403-d1e114">
+          <lb ed="#Pa" n="123"/>CIrca distictionem 
+          <lb ed="#Pa" n="124"/>octauam quero vtrum 
+          so<lb ed="#Pa" n="125" break="no"/>llus deus sit immutabilis
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e123">
+          <lb ed="#Pa" n="126"/>Uidetur quod non quia potest 
+          <lb ed="#Pa" n="127"/>esse vbi non est vir extra celum 
+          <lb ed="#Pa" n="128"/>igitur. Item aliquid dicitur 
+          <lb ed="#Pa" n="129"/>de deo per accidens igitur est 
+          <lb ed="#Pa" n="130"/>mutabilis. consequentia patet 
+          <lb ed="#Pa" n="131"/>per <ref xml:id="GHYaf3-d1e403-Rd1e138">augustinus quinto de trinita¬ 
+            <!--144.xml-->
+            <pb ed="#Pa" n="58-v"/>
+            <cb ed="#Pa" n="a"/>
+            <lb ed="#Pa" n="1"/>te ca. secundo. de paruis in principio.</ref>
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e150">
+          ⁋ In deo nihil 
+          <lb ed="#Pa" n="2"/>secundum accidens dicitur quia in deo nihil est mutabile 
+          <lb ed="#Pa" n="3"/>assumptum patet per ma. in principio di. 30. vbi di 
+          <lb ed="#Pa" n="4"/>cit. Sunt eim quedam ex tempone de deo dicuntur eique tem 
+          <lb ed="#Pa" n="5"/>poraliter conueniunt et realitiue dicitur secundum ac 
+          <lb ed="#Pa" n="6"/>cidens et plura similia ponuntur ibidem.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e164">
+          ⁋ Sed huio 
+          <lb ed="#Pa" n="7"/>rationi respondetur ibidem per ma. et augustinum 
+          <lb ed="#Pa" n="8"/>quod hoc non sit sic quod deo aliquid accedat sed creatur 
+          <lb ed="#Pa" n="9"/>vt ibidem declaratur de minimo qui fit precium 
+          <lb ed="#Pa" n="10"/>postquam non fuit precium.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e175">
+          ⁋ Contra minimus non potest 
+          <lb ed="#Pa" n="11"/>fieri de non precio precium fine mutatione in 
+          nun<lb ed="#Pa" n="12" break="no"/>mo vel in alio sed non oportet fieri mutationem in 
+          <lb ed="#Pa" n="13"/>alio scilicet in instanti quo fit precium quia nec in re 
+          <lb ed="#Pa" n="14"/>ge nec in plebe sufficit enim precessisse statutum quo 
+          <lb ed="#Pa" n="15"/>sine alia mutatione nummus in tali instanti fit 
+          pre<lb ed="#Pa" n="16" break="no"/>cium.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e191">
+          ⁋ Probatur sic dicitur in eadem auctoritate au 
+          <lb ed="#Pa" n="17"/>cus fine mutatione in vno vel in alio sed deus 
+          po<lb ed="#Pa" n="18" break="no"/>test fieri non amicus alicuius fine mutatione illius 
+          <lb ed="#Pa" n="19"/>ius fieri non amicus eius sine illius mutatione igitur 
+          <lb ed="#Pa" n="20"/>pio aliquem habentem amicum venialis peccati pu 
+          <lb ed="#Pa" n="21"/>ta cogitationem vel delectationem de aliqua 
+          il<lb ed="#Pa" n="22" break="no"/>lecebra qui actus ex sola mora ceteris paribus fiat 
+          <lb ed="#Pa" n="23"/>mortale peccatum in instanti a tunc iste in instan 
+          <lb ed="#Pa" n="24"/>ti. a. non mutatur et tamen de nouo fit non amicus dei 
+          <lb ed="#Pa" n="25"/>vel igitur hoc fiet sine omni mutatione contra augu 
+          <lb ed="#Pa" n="26"/>et processum ibi sequentem vel mutatio erit in deo 
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e215">
+          <lb ed="#Pa" n="27"/>⁋ Aliter probatur idem assumptum supposito quod deus mo 
+          <lb ed="#Pa" n="28"/>do ante prandium det preceptum alicui quod citra 
+          occa<lb ed="#Pa" n="29" break="no"/>sum solis aliquid faciat vel facere incipiat et 
+          il<lb ed="#Pa" n="30" break="no"/>le cui precipitur velit adhuc differre illius precepti 
+          <lb ed="#Pa" n="31"/>executionem quod bene diupotest sine culpa perma 
+          <lb ed="#Pa" n="32"/>neat in tali voluntate omnino vniformiter vsque diu 
+          <lb ed="#Pa" n="33"/>post occasum solis et post meridien deus erit 
+          ami<lb ed="#Pa" n="34" break="no"/>cus eius et in solis occasu et post vsque quopenitem 
+          <lb ed="#Pa" n="35"/>at non erit amicus eius et iste cuius desinit esse amicus 
+          <lb ed="#Pa" n="36"/>non mutatur in aliquo igitur deus etc.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e239">
+          ⁋ Item de 
+          <lb ed="#Pa" n="37"/>us est homo qui multipliciter est mutatus igitur deus 
+          <lb ed="#Pa" n="38"/>non est immutabilis.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e246">
+          ⁋ Consequentia probatur quia 
+          <lb ed="#Pa" n="39"/>nullum idem simplex et indiuisibile est mutabile 
+          <lb ed="#Pa" n="40"/>et non mutabile quia tunc esset mutabile et non muta 
+          <lb ed="#Pa" n="41"/>bile quia ex termino priuatio sequitur terminus in 
+          <lb ed="#Pa" n="42"/>finitus primo posteriorum.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e258">
+          ⁋ Ad oppositum est 
+          ma<lb ed="#Pa" n="43" break="no"/>gister in hac di. 8 ca. 4. vbi probat intentum suum per 
+          <lb ed="#Pa" n="44"/>b. augustinis.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e265">
+          ⁋ Item iacobi primo apud quem non est trant 
+          <lb ed="#Pa" n="45"/>mutatio et illud malach. Ego deus et non mutor 
+          <lb ed="#Pa" n="46"/>distinctio mutatio etiam accipitur a sanctis quandoque  
+          <lb ed="#Pa" n="47"/>communissime pro omni noua inceptione rei vel an 
+          <lb ed="#Pa" n="48"/>nihilatione vel distinctione vel destructione vel causa 
+          <lb ed="#Pa" n="49"/>tione et ita secundum damascenum visio vocatur 
+          mu<lb ed="#Pa" n="50" break="no"/>tatio.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e281">
+          ⁋ Secundo sumitur pro omni receptione for 
+          <lb ed="#Pa" n="51"/>me non prehabite vel pro desinere habere formam 
+          <lb ed="#Pa" n="52"/>prehabitam et sic materia dicentur mutari in primo 
+          <lb ed="#Pa" n="53"/>stanti sui esse si crearetur sub forma vel si totum com 
+          <lb ed="#Pa" n="54"/>positum ex eaet forma et isto modo loquitur 
+          au<lb ed="#Pa" n="55" break="no"/>gustinus sepe de materia prima quod fuerit mutata 
+          <lb ed="#Pa" n="56"/>in principio creationis
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e297">
+          ⁋ Tertio sumitur proprie pro 
+          <lb ed="#Pa" n="57"/>omni receptione noua forme vel situs in subiecto p 
+          <lb ed="#Pa" n="58"/>supposito vel pro perditione forme informantis 
+          <lb ed="#Pa" n="59"/>vel situs subiecto eodem remanente et sic sumitur 
+          <lb ed="#Pa" n="60"/>gu qua ibidem allegat. Magister de non amico fit 
+          ami<lb ed="#Pa" n="61" break="no"/>quod probatur quia deus potest de amico 
+          alicu<lb ed="#Pa" n="62" break="no"/>pari ratione econtra.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e313">
+          ⁋ Antecedens probatur quia 
+          ca<lb ed="#Pa" n="63" break="no"/>communiter ab aristoteles phi. qui dicit mutare est 
+          <lb ed="#Pa" n="64"/>aliter se habere nunc quam prius.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e320">
+          ⁋ Conclusio prima lo 
+          <lb ed="#Pa" n="65"/>quendo primo modo de mutatione solus deus 
+          se<lb ed="#Pa" n="66" break="no"/>cundum se est immutabilis de aliis a deo planum est se 
+          <!--144.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>cundum fidem de deo etiam patet secundum fidem et philosopham 
+          <lb ed="#Pa" n="68"/>quod deus est nec esse esse si enim non esset necesse esse neces 
+          <lb ed="#Pa" n="69"/>sario esset prius aliquid eo secundum naturam quod 
+          pos<lb ed="#Pa" n="70" break="no"/>set facere ipsum esse et ipsum non esse et per consequens quod  
+          <lb ed="#Pa" n="71"/>ponebatur deus non esset deus. de hoc etiam vide 
+          <lb ed="#Pa" n="72"/>di. 8 et etiam philosophyia dicit primum motonem omnino esse 
+          <lb ed="#Pa" n="73"/>immobilem per se et per accidens.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e347">
+          ⁋ Secunda 
+          conclu<lb ed="#Pa" n="74" break="no"/>sio deus est per se secudum se immutabilis secundo modo et ter 
+          <lb ed="#Pa" n="75"/>tio modo probatur quia deus non est secundum se formam 
+          a<lb ed="#Pa" n="76" break="no"/>liquam subiectiue recipere nec transferri de situ ad  
+          <lb ed="#Pa" n="77"/>situm probatur per augustinum. 5 de tri. et ponitur in  
+          <lb ed="#Pa" n="78"/>textu est cum deus sit actus purus nullius per se est 
+          per<lb ed="#Pa" n="79" break="no"/>fectionis receptiuus.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e363">
+          ⁋ Tertia conclusio non so 
+          <lb ed="#Pa" n="80"/>lum deus est secundum se immutabilis ad formam ipse ta 
+          <lb ed="#Pa" n="81"/>men solum est immutabilis secundum locum vel situm prima 
+          <lb ed="#Pa" n="82"/>pars probatur quia multa alia sunt a deo vel saltem 
+          <lb ed="#Pa" n="83"/>sunt possibilia que non possunt per formas in eis re 
+          <lb ed="#Pa" n="84"/>ceptibiles subiectiue perfici quia aliter esset 
+          proces<lb ed="#Pa" n="85" break="no"/>sus in in finitum informis essentialiter ordinatis re 
+          <lb ed="#Pa" n="86"/>ceptibilibus in hoc subiecto questionis 
+          demonstra<lb ed="#Pa" n="87" break="no"/>to consequens est inconveniens igitur. secunda pars con 
+          <lb ed="#Pa" n="88"/>clusionis patet quia omnes subetur alie sunt 
+          locali<lb ed="#Pa" n="89" break="no"/>ter mobiles ve corporibus per philosopham patet etiam 
+          <lb ed="#Pa" n="90"/>de angelis per scripturam quia omnes sunt admi 
+          <lb ed="#Pa" n="91"/>stratorum spiritus etc igitur etiam de accidentibus et 
+          <lb ed="#Pa" n="92"/>oe partibus su bstantarum non est dubium quia motis nobis 
+          <lb ed="#Pa" n="93"/>mouentur omnia que in nobis sunt.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e396">
+          ⁋ Quarta 
+          <lb ed="#Pa" n="94"/>conclusio quod deus secundum aliquid est mobilis et mu 
+          <lb ed="#Pa" n="95"/>tatibilis vere quia rationem humanitatis 
+          assun<lb ed="#Pa" n="96" break="no"/>pte etc. de hoc vide satis diffuse euangelium
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e405">
+          ⁋ Se 
+          <lb ed="#Pa" n="97"/>hic attendedum est quod filium personalitas non transiuit se 
+          <lb ed="#Pa" n="98"/>cundum se de situ in situm nec mutabatur ad formam. 
+          <lb ed="#Pa" n="99"/>Sed ista sunt vera de dei filio secundum 
+          communica<lb ed="#Pa" n="100" break="no"/>tionem ydiomatum sicut omnes doctores clamant ipse 
+          ve<lb ed="#Pa" n="101" break="no"/>ro dicitur hoc ab humanitate sibi vnita non secundum ta 
+          <lb ed="#Pa" n="102"/>lem communicationem ydiomatum sed immediate sicut 
+          <lb ed="#Pa" n="103"/>calix dicitur deauratus ab auro sibi vnito vel sicut ferrum 
+          <lb ed="#Pa" n="104"/>secundum damascenum dicitur ignitum a forma ignis sibi 
+          <lb ed="#Pa" n="105"/>ignita vel ab accidentibus similibus accidentibus 
+          <lb ed="#Pa" n="106"/>ignis sed quod deus mutabatur non est nisi secundum 
+          <lb ed="#Pa" n="107"/>communionem ydiomatum vt sit sensus deus niuta 
+          <lb ed="#Pa" n="108"/>batur quia ipse erat ypostasis nature mutate vel sic 
+          <lb ed="#Pa" n="109"/>idest aliquid deo vnitum hypostatice mutabatur 
+          <lb ed="#Pa" n="110"/>vel natura ex cuius assumptione deus est ho 
+          mu<lb ed="#Pa" n="111" break="no"/>tabatur stante illa vnione hypostatica et sic de 
+          si<lb ed="#Pa" n="112" break="no"/>milibus et deus fuit mortuus id est deo ypostatice cor 
+          <lb ed="#Pa" n="113"/>pus vniebatur carens vita vel corpus mortuum 
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e444">
+          <lb ed="#Pa" n="114"/>⁋ Diceres pari ratione dei filius diceretur 
+          com<lb ed="#Pa" n="115" break="no"/>positum et creatura et huiusmodi.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e451">
+          ⁋ Respondeo 
+          <lb ed="#Pa" n="116"/>quod non sequitur licet enim natura assumpta sit cre 
+          <lb ed="#Pa" n="117"/>atura et composita et aliud a deo et incepit esse et 
+          <lb ed="#Pa" n="118"/>fuerit creatura et sic de similibus quia tamen dei 
+          <lb ed="#Pa" n="119"/>filius non est natura illa assumpta non enim oporta 
+          <lb ed="#Pa" n="120"/>quod omnia communia relatiue illi nature dei filio con 
+          <lb ed="#Pa" n="121"/>ueniant quia non illa que non sunt nata conueni 
+          <lb ed="#Pa" n="122"/>re nisi illis quibus primo et immedia te 
+          conueni<lb ed="#Pa" n="123" break="no"/>unt Uerbi gratia licet homo sit albus ab albedi 
+          <lb ed="#Pa" n="124"/>ne tamen homo non est accidens ab albedine licet 
+          <lb ed="#Pa" n="125"/>albedo sit accidens et licet homo sit animatus ab 
+          <lb ed="#Pa" n="126"/>anima et anima sit pars non tamen propter hoc est 
+          <lb ed="#Pa" n="127"/>homo pars quia hoc quod hec dictio pars non est 
+          <lb ed="#Pa" n="128"/>predicatum vel terminus relatiuus natus den 
+          omi<lb ed="#Pa" n="129" break="no"/>nare sub hac denominatione nisi illud cui 
+          conue<lb ed="#Pa" n="130" break="no"/>nit primo et pari ratione nec hoc predicatum quod est 
+          <lb ed="#Pa" n="131"/>terminus relatiuus sibi compositus scilicet totum 
+          <lb ed="#Pa" n="132"/>vel compositum et eodemmodo est de istis predica¬ 
+          <!--145.xml-->
+          <pb ed="#Pa" n="59-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>tis idem et aliud vel idem et distinctum licet enim 
+          <lb ed="#Pa" n="2"/>natura assumpta sit distincta a deo et aliud a deo suon 
+          <lb ed="#Pa" n="3"/>oportet tamen nec est aliquatenus concedendum quod dei 
+          <lb ed="#Pa" n="4"/>filius sit aliud a deo vel distinctus a deo et ita de si 
+          <lb ed="#Pa" n="5"/>milibus et pari ratione quia deus non est aliquid  
+          <lb ed="#Pa" n="6"/>factum de nihilo quia queritur quid et non inuenitur 
+          <lb ed="#Pa" n="7"/>ideo non est creatura. et quia etiam ipse non est illi 
+          <lb ed="#Pa" n="8"/>quod resultat ex Christi humanitate et verbi 
+          personali<lb ed="#Pa" n="9" break="no"/>tate quia ipse fuit ab eterno et nec hoc resultans 
+          <lb ed="#Pa" n="10"/>nec illud fuit ab eterno.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e519">
+          ⁋ Quod pulchie tractat 
+          <lb ed="#Pa" n="11"/>bo hieronymus in sermone de assumptione beate 
+          <lb ed="#Pa" n="12"/>marie et non est assignare aliud compositum quod 
+          <lb ed="#Pa" n="13"/>est dei filius igitur et causa est vt predixi quia talia pre 
+          <lb ed="#Pa" n="14"/>dicata totum compositum pars idem aliud distin 
+          <lb ed="#Pa" n="15"/>ctum non sunt sub hac forma nata denominare nisi 
+          <lb ed="#Pa" n="16"/>illa quibus immediate conueniunt sicut nec 
+          descri<lb ed="#Pa" n="17" break="no"/>ptiones eorundem et multa sunt talia sicut esse hic et 
+          <lb ed="#Pa" n="18"/>non alibi et similia secus autem de illis qui dei filio 
+          <lb ed="#Pa" n="19"/>attribuuntur per communicationem ydiomatum 
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e541">
+          <lb ed="#Pa" n="20"/>⁋ Diceres deus perforabatur vel diuidebatur et 
+          <lb ed="#Pa" n="21"/>et nullum simplex potest diuidi igitur deus est 
+          compo<lb ed="#Pa" n="22" break="no"/>situs.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e550">
+          ⁋ Respondetur quod quia autecedens 
+          verifica<lb ed="#Pa" n="23" break="no"/>tur solum per communicationem ydiomatum ideo con 
+          <lb ed="#Pa" n="24"/>sequentia non valet plusquam ista Christus fuit vere leo de 
+          <lb ed="#Pa" n="25"/>tribu iuda igitur Christus habuit ve caudam et quattu 
+          <lb ed="#Pa" n="26"/>or pedes hic enim habet quicquid est proprie 
+          leo<lb ed="#Pa" n="27" break="no"/>⁋ Regula autem que predicata sint hic concedenda 
+          <lb ed="#Pa" n="28"/>secundum communicationem ydiomatum de deo et quae ca 
+          <lb ed="#Pa" n="29"/>pi non potest a creaturis quando omnia que agit vel patitur 
+          <lb ed="#Pa" n="30"/>pars essentialis vel accidens creature potest ista cre 
+          <lb ed="#Pa" n="31"/>atura dici pati vel agere non vlterius modificando  
+          <lb ed="#Pa" n="32"/>sermonem hunc per illa aduerbia bene vel male 
+          <lb ed="#Pa" n="33"/>per se vel per ad mediate vel immediate sic in propo 
+          <lb ed="#Pa" n="34"/>sito quicquid egit vel patiebatur natura assumpta 
+          <lb ed="#Pa" n="35"/>attribui potest supposito assumenti per 
+          communica<lb ed="#Pa" n="36" break="no"/>tionem ydiomatum et vltra hoc sine tali medio vel 
+          <lb ed="#Pa" n="37"/>tali communicatione concretum humanitatis assum 
+          <lb ed="#Pa" n="38"/>pte et omnia essentialiter superiora ad illud per 
+          so<lb ed="#Pa" n="39" break="no"/>lum pronominem demonstratiuum expressa de hoc 
+          <lb ed="#Pa" n="40"/>vide plus in responsione ad tertium principale. 
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e592">
+          <lb ed="#Pa" n="41"/>⁋ Sed contra deus est homo igitur est animaligitur 
+          <lb ed="#Pa" n="42"/>corpus animatum igitur diuisibilis. Preterea da 
+          <lb ed="#Pa" n="43"/>mascenus dicit oe plano sicut tangetur in tertio quod dei 
+          <lb ed="#Pa" n="44"/>filius qui eternaliter fuit simpicile hypostas. ex 
+          tempon<lb ed="#Pa" n="45" break="no"/>cepit esse hypostasis composita.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e605">
+          ⁋ Item si 
+          actio<lb ed="#Pa" n="46" break="no"/>nes passiones nature assumpte per 
+          communicatio<lb ed="#Pa" n="47" break="no"/>nem ydiomatum competunt illi supposito cum illa 
+          <lb ed="#Pa" n="48"/>natura lassumpta sit deponibilis et 
+          reassumpti<lb ed="#Pa" n="49" break="no"/>bilis causabilis et corruptibilis creabilis et adni 
+          <lb ed="#Pa" n="50"/>hilabilis et multa similia vbi notatur actio et 
+          pas<lb ed="#Pa" n="51" break="no"/>sio illius nature sequitur quod omnia sic possent dei 
+          <lb ed="#Pa" n="52"/>filio vere attribui
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e623">
+          ⁋ Item deo in triduo mortem vere 
+          <lb ed="#Pa" n="53"/>vniebatur tam corpus quam anima igitur qua ratio 
+          <lb ed="#Pa" n="54"/>ne animatus et homo erat ab humanitate vnita 
+          <lb ed="#Pa" n="55"/>sibi ita tunc a corpore dici poterat corpus 
+          sumen<lb ed="#Pa" n="56" break="no"/>do concretiue ly corpus sed omne corpus est com 
+          <lb ed="#Pa" n="57"/>positum et diuisibile igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e637">
+          ⁋ Ad primum respon 
+          <lb ed="#Pa" n="58"/>detur quod accipiendo corpus pro vt est in praedicamento 
+          <lb ed="#Pa" n="59"/>subetur et est per se superius ad ly animal hoc potest 
+          <lb ed="#Pa" n="60"/>concedi deus est corpus quia est suppositum sustem 
+          <lb ed="#Pa" n="61"/>tans vpostatice corporeitatem et nan sequitur quod sit 
+          <lb ed="#Pa" n="62"/>diuisibilis sed sufficit quod corporeitas sibi vnita sit 
+          <lb ed="#Pa" n="63"/>composita et diuisibilis.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e653">
+          ⁋ Ad secundum dicendum 
+          <lb ed="#Pa" n="64"/>quod aliquid esse hypostasim compositam potest 
+          di<lb ed="#Pa" n="65" break="no"/>pliciter intelligi vel quod sit hypostas vel ex plumribus 
+          <lb ed="#Pa" n="66"/>resultans et integrata et sic negatur hoc de dea. 
+          <!--145.xml-->
+          <cb ed="#Pa" n="b"/>
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e666">
+          <lb ed="#Pa" n="67"/>⁋ Aliomodo dicitur compositum quod cum alio 
+          po<lb ed="#Pa" n="68" break="no"/>nitur ad integrandum aliquid vere vnum et sic lo 
+          <lb ed="#Pa" n="69"/>quitur dammascenus dicens dei filium in incarnatione 
+          <lb ed="#Pa" n="70"/>factum esse nouiter hypostasim est compositam quan 
+          <lb ed="#Pa" n="71"/>uis proprie non alteri componatur.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e679">
+          ⁋ Sed aliud  
+          <lb ed="#Pa" n="72"/>isti puta hunanitas ita quod claudicet lex proprie 
+          di<lb ed="#Pa" n="73" break="no"/>cte compositionis ex parte verbi non ex parte 
+          huna<lb ed="#Pa" n="74" break="no"/>nitatis in ipso personaliter subsistentur vbi nota quod 
+          <lb ed="#Pa" n="75"/>quandoque aliqua sic vniuntur quod ex eis fit per se vnum 
+          <lb ed="#Pa" n="76"/>compositum a quolibet componendum distinctum in re 
+          <lb ed="#Pa" n="77"/>et denominatione vt patet communiter in composi 
+          <lb ed="#Pa" n="78"/>tis ex materia et forma et sic Christus vel filius dei non 
+          <lb ed="#Pa" n="79"/>est aliquod compositum ex humanitate et 
+          deita<lb ed="#Pa" n="80" break="no"/>te.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e701">
+          ⁋ Secundo aliqua sic vniuntur quod propter inti 
+          <lb ed="#Pa" n="81"/>mitatem quam vnum alteri intime vnitur et propi 
+          <lb ed="#Pa" n="82"/>modum vniendi vel componendi alterum componem 
+          <lb ed="#Pa" n="83"/>dum denominatur ab altero sibi vnito et sic dei fi 
+          <lb ed="#Pa" n="84"/>lius denominatur homo ab humanitate 
+          hyposta<lb ed="#Pa" n="85" break="no"/>sitate sibi vnita a qua etiam denominatur hypostasis 
+          <lb ed="#Pa" n="86"/>composita et sic de pluribus denominationibus 
+          <lb ed="#Pa" n="87"/>consimilibus nec illud est mirum vnita subiecto al 
+          <lb ed="#Pa" n="88"/>bedine subiectum quod est altera pars illorum vni 
+          <lb ed="#Pa" n="89"/>torum de nominationem recipit et vocatur album. 
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e723">
+          <lb ed="#Pa" n="90"/>⁋ Ad tertium dicendum quod assumi vel deponi vel 
+          <lb ed="#Pa" n="91"/>deo vniri non notant actionem nec passionem nature 
+          <lb ed="#Pa" n="92"/>assumpte sed potius nouitatem entis vnius quasi 
+          <lb ed="#Pa" n="93"/>compositi resultantis creari etiam vel amnihilari non 
+          <lb ed="#Pa" n="94"/>notant actionem nec passionem proprie dictam vt ita 
+          <lb ed="#Pa" n="95"/>loquor nec eodem modo quo loquitur auctor sex 
+          <lb ed="#Pa" n="96"/>principiorum. d. quod actio est secundum quam in istud quod  
+          <lb ed="#Pa" n="97"/>subiicitur agere dicimur.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e744">
+          ⁋ Ad quartum concedo  
+          <lb ed="#Pa" n="98"/>quod in triduo poterat dei filius vere denominari a 
+          <lb ed="#Pa" n="99"/>corpore et est ab anima vnita sibi aliqua denominatione 
+          <lb ed="#Pa" n="100"/>que non est in vsu quecumque ista esse debuerit et ideo de 
+          <lb ed="#Pa" n="101"/>illa non curetur.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e755">
+          ⁋ Nota etiam quod in triduo verbum 
+          <lb ed="#Pa" n="102"/>hoc non esset ho fuit tamen Christus propter animam sibi 
+          <lb ed="#Pa" n="103"/>vnitam vncta spitus sanctus vnctione et licet corpus esset si 
+          <lb ed="#Pa" n="104"/>bi vnitum ita quod propter hoc vere dicentur Christus iacem 
+          <lb ed="#Pa" n="105"/>in sepulchio non tamen ratione corporis dicebatur 
+          <lb ed="#Pa" n="106"/>Christus quia corpori non conuenit vnctio spiritualis sed quia 
+          <lb ed="#Pa" n="107"/>ille qui fuit Christus ratione anime habuit corpus sibi 
+          vni<lb ed="#Pa" n="108" break="no"/>tum iacens in sepulchio.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e773">
+          ⁋ Ideo dicebatur Christus 
+          <lb ed="#Pa" n="109"/>iacere insepulchio.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e778">
+          ⁋ Contra conclusionem secun 
+          <lb ed="#Pa" n="110"/>dam deus est primus motor aut igitur mouet mo 
+          <lb ed="#Pa" n="111"/>do nature aut libere si primum tunc agit falsum secun 
+          <lb ed="#Pa" n="112"/>dum vltimum sue potentie igitur antequam mouetu celum 
+          <lb ed="#Pa" n="113"/>non potuit mouere nec creare ipsum et per consequens 
+          <lb ed="#Pa" n="114"/>fuit mutatus si libere moueat sint igitur duo mo 
+          <lb ed="#Pa" n="115"/>bilia. a. et. b. equalia per duo spacia sic quod tamen a. 
+          <lb ed="#Pa" n="116"/>pertransit vnam partem proportionalem sui spaci. b. 
+          <lb ed="#Pa" n="117"/>pertransiet duas de suo et cum a duas. de suo b. quaet 
+          <lb ed="#Pa" n="118"/>tuor et sic deinceps semper duplo plures donec to 
+          <lb ed="#Pa" n="119"/>tum spacium vtrobique sit pertransitum.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e802">
+          ⁋ Tunc quae 
+          <lb ed="#Pa" n="120"/>ro vtrum b. citius pertingit ad terminum sui spa 
+          <lb ed="#Pa" n="121"/>cum vel non. si sic sit. d. primum instans in quo b. 
+          per<lb ed="#Pa" n="122" break="no"/>transiuit suum spacium et quero vtrum in illo sit ve 
+          <lb ed="#Pa" n="123"/>rum dicere quod a. pertransiuerit partes proportio 
+          <lb ed="#Pa" n="124"/>nales infinitas illius ordinis aut non si sic igitur 
+          <lb ed="#Pa" n="125"/>est in fine sicut et. b. Et si non igitur solum finitas 
+          <lb ed="#Pa" n="126"/>et si hoc cum. b. precise per casum precedat. a 
+          se<lb ed="#Pa" n="127" break="no"/>cundum regulam plures partes pro portionales quod 
+          <lb ed="#Pa" n="128"/>patet falsum cum sit in fine spacii.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e824">
+          ⁋ Si dicatur quod situs 
+          <lb ed="#Pa" n="129"/>pertinget ad terminum.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e830">
+          ⁋ Contra immediate atece 
+          <lb ed="#Pa" n="130"/>te. d instans b. pertransierat duplo plures illarum 
+          <lb ed="#Pa" n="131"/>partium et per consequens cum ita semper esse debe 
+          <lb ed="#Pa" n="132"/>at vsque ad vltimum instans b. citius erat peruen¬ 
+          <!--146.xml-->
+          <pb ed="#Pa" n="59-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>turum ad terminum quam a.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e848">
+          ⁋ Respondetur 
+          conce<lb ed="#Pa" n="2" break="no"/>dendo quod b. et a. simul pertingerent ad finem et ne 
+          <lb ed="#Pa" n="3"/>gatur vltima consequentia quia licet in principio 
+          <lb ed="#Pa" n="4"/>velocius moueretur quam. a. tamen post stante casu 
+          <lb ed="#Pa" n="5"/>oportebit quod a. moueatur velocius quam b. do nec 
+          prae<lb ed="#Pa" n="6" break="no"/>cise in fine pertigat ipsum.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e861">
+          ⁋ Hic etiam valet yma 
+          <lb ed="#Pa" n="7"/>ginatio que tangitur in spera oe partibus equino 
+          <lb ed="#Pa" n="8"/>aetialis et podiaci.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e868">
+          ⁋ Tertio principaliter deus 
+          cre<lb ed="#Pa" n="9" break="no"/>ans potest non esse igitur deus potest non esse Antecedens per 
+          <lb ed="#Pa" n="10"/>batur quia hec est possibilis deus creans non est igi 
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e875">
+          <lb ed="#Pa" n="11"/>⁋ Item vel deus creans potest non esse vel deus cre 
+          <lb ed="#Pa" n="12"/>ans non potest non esse si primum intentum si secundum igitur 
+          <lb ed="#Pa" n="13"/>deus creans necessario est.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e884">
+          ⁋ Respondetur 
+          conce<lb ed="#Pa" n="14" break="no"/>dendo quod deus creans non potest non esse nec valet ista 
+          <lb ed="#Pa" n="15"/>consequentia deus creans non est igitur deus creans 
+          <lb ed="#Pa" n="16"/>potest non esse propter ampliationem que fit in 
+          con<lb ed="#Pa" n="17" break="no"/>sequente.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e896">
+          ⁋ Item hic negatur ista consequentia de 
+          <lb ed="#Pa" n="18"/>us creans non potest non esse igitur deus creans ne 
+          <lb ed="#Pa" n="19"/>cessario est et datur instantia quia hec est falsa 
+          chi<lb ed="#Pa" n="20" break="no"/>mera potest non esse eo quod si esset vera vel igitur chi 
+          <lb ed="#Pa" n="21"/>mera que est vel que potest esse potest non esse. 
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e907">
+          <lb ed="#Pa" n="22"/>⁋ Sed vtrumque est falsum eo quod nec chimera est nec 
+          <lb ed="#Pa" n="23"/>potest esse igitur hec est vera chimera non potest 
+          <lb ed="#Pa" n="24"/>non esse et non tamen sequitur igitur chimera 
+          ne<lb ed="#Pa" n="25" break="no"/>cessario est et tunc vltra dicitur quod illa equipollen 
+          <lb ed="#Pa" n="26"/>tia necessarum et non possibilis non solum tenet cum 
+          <lb ed="#Pa" n="27"/>constantia subiecti.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e923">
+          ⁋ Sequitur enim a. non potest 
+          <lb ed="#Pa" n="28"/>non esse. et. a. est igitur necessario. a. est vnde ista ne 
+          <lb ed="#Pa" n="29"/>gatiua a. non potest non esse potest habere tres causas 
+          <lb ed="#Pa" n="30"/>veritatis vel id est quod a necessario est vel quia a. 
+          impos<lb ed="#Pa" n="31" break="no"/>sibile est esse vel quia aliquid potest esse a. et omne tali 
+          <lb ed="#Pa" n="32"/>necessario est modo prima causa verificat istam de 
+          <lb ed="#Pa" n="33"/>us creans non potest non esse secunda istam chimera 
+          <lb ed="#Pa" n="34"/>non potest non esse tertia istam creans non potest non esse dato 
+          <lb ed="#Pa" n="35"/>quod deus nihil creet
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e943">
+          ⁋ Item secundum hoc ista non contra 
+          <lb ed="#Pa" n="36"/>dicunt deus creans necessario est et deus creans 
+          <lb ed="#Pa" n="37"/>potest non esse nam ambo essent false deo nihil creante 
+          <lb ed="#Pa" n="38"/>Secundo deus creans potest definem esse igitur etc. Antecedens 
+          <lb ed="#Pa" n="39"/>probatur supposito quod deus nunc primo non creet tunc 
+          <lb ed="#Pa" n="40"/>sic deus creans nunc non est. et deus creans 
+          imme<lb ed="#Pa" n="41" break="no"/>diate ante hoc fuit igitur deus creans desinit esse igitur 
+          <lb ed="#Pa" n="42"/>deus creans potest desinere esse respondetur negando  
+          <lb ed="#Pa" n="43"/> Antecedens ad probationem negatur consequentia nec 
+          <lb ed="#Pa" n="44"/>iste sunt exponentes consequentis nisi in vtraque expo 
+          <lb ed="#Pa" n="45"/>nente ly deus creans sumatur pro eodem et tunc se 
+          <lb ed="#Pa" n="46"/>cunda esset falsa propter falsam implicationem istam 
+          <lb ed="#Pa" n="47"/>scilicet quod deus qui est creans immediate ante hoc 
+          <lb ed="#Pa" n="48"/>fuit.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e974">
+          ⁋ Aliter respondetur tam ad responsionem se 
+          <lb ed="#Pa" n="49"/>cundam quam ad istam tertiam concedendo quod ista est bo 
+          <lb ed="#Pa" n="50"/>na equipollentia deus creans non potest non esse et deus 
+          <lb ed="#Pa" n="51"/>creans necessario est sed ista consequentia non 
+          va<lb ed="#Pa" n="52" break="no"/>let deus creans necessario est igitur deus creans 
+          <lb ed="#Pa" n="53"/>est quia ly necessario ampliat et ideo antecedens signifi 
+          <lb ed="#Pa" n="54"/>cat quod ille qui est creans vel qui potest esse deus creans necessa 
+          <lb ed="#Pa" n="55"/>rio est et hoc est verum.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e992">
+          ⁋ Ad instantiam de chime 
+          <lb ed="#Pa" n="56"/>ra dico concedendo istam chimera potest non esse et 
+          <lb ed="#Pa" n="57"/>istam chimera que est potest non esse nec ex illa se 
+          <lb ed="#Pa" n="58"/>quitur quod chimera est cum illa sit negatiua cuius 
+          <lb ed="#Pa" n="59"/>subiectum non oportet supponere pro aliquo.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1004">
+          ⁋ Si 
+          <lb ed="#Pa" n="60"/>militer concedo istam chimera quae potest esse potest non 
+          <lb ed="#Pa" n="61"/>esse et ex illa non sequitur quod chimera potest esse quia non 
+          <lb ed="#Pa" n="62"/>oportet subiectum eius pro aliquo supponere et ra 
+          <lb ed="#Pa" n="63"/>tionaturalis in qua debet fundari logica hoc 
+          di<lb ed="#Pa" n="64" break="no"/>ctat quod non oportet si de aliquo debut verificari 
+          pos<lb ed="#Pa" n="65" break="no"/>se non esse quod de ipso verificatur posse esse.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1020">
+          ⁋ Ad aliam 
+          <lb ed="#Pa" n="66"/>negatur consequentia deus creans desinit esse igitur 
+          <!--146.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>deus creans potest desinere esse propter ampliationem 
+          <lb ed="#Pa" n="68"/>que fit in consequenteretiam non sequitur deus creans 
+          <lb ed="#Pa" n="69"/>desinit esse igitur deus desinit esse nec consequens est 
+          incon<lb ed="#Pa" n="70" break="no"/>ueniens cum in instanti quando deus non creat 
+          ve<lb ed="#Pa" n="71" break="no"/>rum sit quod deus creans nihil est eo quod nulla entitas est 
+          <lb ed="#Pa" n="72"/>tunc cui vere conueniat hoc predicatum deus 
+          cre<lb ed="#Pa" n="73" break="no"/>ans quare igitur non similiter potest ista concedi de 
+          <lb ed="#Pa" n="74"/>us creans desinit esse.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1046">
+          ⁋ Et accipiatur exemplum de 
+          <lb ed="#Pa" n="75"/>sorte albo vel magis conueniens de sorte patre quia 
+          <lb ed="#Pa" n="76"/>in instanti in quo filius eius primo est mortuus ve 
+          <lb ed="#Pa" n="77"/>rum est dicem quod sortes pater desinit esse et tamen ipse tunc 
+          <lb ed="#Pa" n="78"/>i nullo dubitatur nec etiam ex hoc sequitur quod sor 
+          <lb ed="#Pa" n="79"/>tes desinit esse.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1059">
+          ⁋ Ad primum principale negatur 
+          <lb ed="#Pa" n="80"/>consequentia quia hoc fieret non propter mutationem 
+          <lb ed="#Pa" n="81"/>dei sed propter positionem loci vel situs cum deo vel 
+          <lb ed="#Pa" n="82"/>dicitur quod deus immense est extra celum vbicumque potest 
+          <lb ed="#Pa" n="83"/>esse aliquid.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1070">
+          ⁋ Ad secundum negatur ista 
+          consequen<lb ed="#Pa" n="84" break="no"/>tia de deo dicitur aliquid secundum accidens igitur 
+          <lb ed="#Pa" n="85"/>deus est mutabilis et hoc sumpto ante ad sensum 
+          ve<lb ed="#Pa" n="86" break="no"/>rum concessum a magistro et ab augustinus sicut ibidem 
+          <lb ed="#Pa" n="87"/>exprimitur.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1081">
+          ⁋ Ad probationem dicitur quod augustinus ibi loquitur 
+          <lb ed="#Pa" n="88"/>de accidente quod est forma inherens alicui. 
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1087">
+          <lb ed="#Pa" n="89"/>⁋ Ad primam reductionem de nummo dicitur quod ibi suf 
+          <lb ed="#Pa" n="90"/>ficit transitus temporis stante statuto regio quo  
+          <lb ed="#Pa" n="91"/>ordinatum est quod ad transitum temporis fieret precium 
+          <lb ed="#Pa" n="92"/>per idem ad secundum per reductionem nouiter 
+          <lb ed="#Pa" n="93"/>facto amico.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1100">
+          ⁋ Dicendum quod ibi sufficit preordina 
+          <lb ed="#Pa" n="94"/>tio diuina et statutum de abiicienda tenebra et ille 
+          <lb ed="#Pa" n="95"/>cebra infra limites temporis prefiniti ita quod tran 
+          <lb ed="#Pa" n="96"/>situs illius temporis sibi prestituti a deo cum 
+          a<lb ed="#Pa" n="97" break="no"/>liis tanguntur in argumento puta perseuerentia 
+          <lb ed="#Pa" n="98"/>negligentia et consensu interpretatiuo vel huiusmodi 
+          <lb ed="#Pa" n="99"/>sufficiunt vt de amico dei fiat non amicus
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1116">
+          ⁋ Ad ter 
+          <lb ed="#Pa" n="100"/>tium patet responsio ex dictis in prosecutione 
+          quar<lb ed="#Pa" n="101" break="no"/>te conclusionis vbi dixi quod licet filius dei proprie et 
+          <lb ed="#Pa" n="102"/>vere et non per communicationem ydiomatu sit homo 
+          <lb ed="#Pa" n="103"/>et animal et corpus et animatum tamen per communi 
+          <lb ed="#Pa" n="104"/>cationem ydiomatum omnes actiones et passiones 
+          <lb ed="#Pa" n="105"/>proprie dicte et motiones locales siue exprimantur 
+          <lb ed="#Pa" n="106"/>actiue siue passiue que immediate competebant huna 
+          <lb ed="#Pa" n="107"/>nitati Christi etiam supposito eterno absolute sine vl 
+          <lb ed="#Pa" n="108"/>teriori modificatione aduerbiorum verissime 
+          con<lb ed="#Pa" n="109" break="no"/>petebant.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1140">
+          ⁋ Et ratio primi quia communicare ydio 
+          <lb ed="#Pa" n="110"/>mata est predicatum vni primo et immediate conueniens 
+          <lb ed="#Pa" n="111"/>alteri secundario et mediate conuenire sicut 
+          dis<lb ed="#Pa" n="112" break="no"/>gregare vel videri quod primo conuenit albedini 
+          in<lb ed="#Pa" n="113" break="no"/>mediate et secundario tribuitur subiecto eius et si 
+          <lb ed="#Pa" n="114"/>cut aqua dicitur calefieri quando calor ipsam 
+          in<lb ed="#Pa" n="115" break="no"/>formans calefacit.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1156">
+          ⁋ Sed sic non est oe predicatis 
+          <lb ed="#Pa" n="116"/>istis homo humanatum et similibus dictis de dei filio 
+          <lb ed="#Pa" n="117"/>quia ista non primo et immediate conueniunt in Christo 
+          <lb ed="#Pa" n="118"/>alteri et per illud aliud filio dei quia tale altem 
+          <lb ed="#Pa" n="119"/>non esset assignare nisi humanitate assumpsa et 
+          con<lb ed="#Pa" n="120" break="no"/>stat quod ista nec est hoc nec animal nec humanata nec 
+          in<lb ed="#Pa" n="121" break="no"/>carnata.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1172">
+          ⁋ Sed primo et immediate conueniunt 
+          <lb ed="#Pa" n="122"/>hoc in filio dei et sunt sibi ydiomata et nullo 
+          mo<lb ed="#Pa" n="123" break="no"/>do nature assumpte sed actiones et passiones 
+          si<lb ed="#Pa" n="124" break="no"/>ue secundum locum siue secundum formam humanitatis as 
+          <lb ed="#Pa" n="125"/>sumpte taliter dei filio congruebant quod ista sunt pri 
+          <lb ed="#Pa" n="126"/>ma et immediata ydiomata predicata 
+          conuenien<lb ed="#Pa" n="127" break="no"/>tia illi nature et illa mediate communicatur supposi 
+          <lb ed="#Pa" n="128"/>to in ipsa personaliter subsistente et istud est ita sim 
+          <lb ed="#Pa" n="129"/>oste et impartibile et incompositum modo 
+          preexpo<lb ed="#Pa" n="130" break="no"/>stto sicut eternaliter existebat licet a compositis 
+          <lb ed="#Pa" n="131"/>et diuisibilibus concretiue vere denominetur. 
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1197">
+          <lb ed="#Pa" n="132"/>⁋ Diceres nihil moritur nisi compositum quia mors 
+          <!--147.xml-->
+          <pb ed="#Pa" n="60-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>est separatio partis a parte in composito moriente 
+          <lb ed="#Pa" n="2"/>sed dei filius vere moriebatur igitur vere fuit co 
+          <lb ed="#Pa" n="3"/>positus.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1215">
+          ⁋ Respondetur quod si dei filius qui verissi 
+          <lb ed="#Pa" n="4"/>me pro nobis mortuus est et passus ita immedia 
+          <lb ed="#Pa" n="5"/>te et propriissime fuisset mortuus sicut corpus quia 
+          <lb ed="#Pa" n="6"/>erat pars assumpte humanitatis va leret conse 
+          <lb ed="#Pa" n="7"/>quentia nunc non valet sic quia sensus est Christus 
+          ve<lb ed="#Pa" n="8" break="no"/>re mortuus fuit idest Christus subsistebat in carne 
+          ve<lb ed="#Pa" n="9" break="no"/>re motiua per carentiam vite prius eam viuificam 
+          <lb ed="#Pa" n="10"/>tis vel animantis et cum hoc stat vera summa et 
+          <lb ed="#Pa" n="11"/>eterna simplicitas quia simplici vniri potest com 
+          <lb ed="#Pa" n="12"/>positum et ne de meo aliquid dixisse videar in hu 
+          <lb ed="#Pa" n="13"/>iusmodi expositionibus probo quod dixi testimo 
+          <lb ed="#Pa" n="14"/>niis aliorum.
+        </p>
+        <p xml:id="GHYaf3-d1e403-d1e1241">
+          ⁋ Unde ambo. vt recitat Magister libro 
+          <lb ed="#Pa" n="15"/>tertio .25. ca. penultimo in fine emisit Christus spiritum 
+          <lb ed="#Pa" n="16"/>sed bene emisit ex carne Et consequenter vide to 
+          <lb ed="#Pa" n="17"/>tum capitulum sequens inuenies multa dicti 
+          <lb ed="#Pa" n="18"/>ad propositum et di. 22 ca. 3 mortem igitur dei fi 
+          <lb ed="#Pa" n="19"/>lius et in anima non ptulit et in maiestate non sen 
+          <lb ed="#Pa" n="20"/>sit sed participatione infirmitatis rex glorie 
+          cru<lb ed="#Pa" n="21" break="no"/>cifixus est.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

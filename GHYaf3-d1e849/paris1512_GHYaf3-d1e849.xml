@@ -1,655 +1,655 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 7 
-      Utrum animae Christi vel angelo beato possit in verbo revelari aeternitas suae beatitudinis.
-    </title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 7 
-      Utrum animae Christi vel angelo beato possit in verbo revelari aeternitas suae beatitudinis.
-    </title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="127-r"/>
-            <cb ed="#Pa" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e849"><!-- GHYaf3-l3q7 -->
-            <head xml:id="GHYaf3-d1e849-Hd1e108">Quaestio 7</head>
-            <head xml:id="GHYaf3-d1e849-Hd1e111" type="quesetion-title">
-      Utrum animae Christi vel angelo beato possit in verbo revelari aeternitas suae beatitudinis.
-    </head>
-            <p xml:id="GHYaf3-d1e849-d1e114">
-               <lb ed="#Pa" n="37"/>SEptimo circa 
-      han<lb ed="#Pa" n="38" break="no"/>distinctionem quero vtrum bea 
-      <lb ed="#Pa" n="39"/>to possit reuelari in verbo 
-      <lb ed="#Pa" n="40"/>eternitas sue beatitudinis.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e125">
-      Ui<lb ed="#Pa" n="41"/>detur quod non quia cum eternitas 
-      <lb ed="#Pa" n="42"/>btitudinis apprehendatur sub 
-      <lb ed="#Pa" n="43"/>tratione delectabilis et commodi 
-      <lb ed="#Pa" n="44"/>magni ex tali assecuratione 
-      <lb ed="#Pa" n="45"/>naturaliter sequitur delectatio 
-      <lb ed="#Pa" n="46"/>cu delectatio sequatur apprehensionem sicut vmbra cor 
-      <lb ed="#Pa" n="47"/>pus per commentatorem. xu. methaphisice commento 2.  
-      <lb ed="#Pa" n="48"/>Sit igitur ista delectatio naturaliter sequens. a. et sit 
-      <lb ed="#Pa" n="49"/>eternitas beatitudinis reuelata. b. et arguo tunc 
-      <lb ed="#Pa" n="50"/>primo reuelationem factam sic iste angelus non erit 
-      <lb ed="#Pa" n="51"/>eternaliter beatus igitur non fuit b. sibi reuelatum in ver 
-      <lb ed="#Pa" n="52"/>bo igitur a. non fuit. Falsitas patet quia a. fuisse est preter 
-      <lb ed="#Pa" n="53"/>tum igitur non potest non fuisse consequentia patet quia non potest in verbo 
-      <lb ed="#Pa" n="54"/>reuelari aliter futurum esse quam erit. Secunda pars patet 
-      <lb ed="#Pa" n="55"/>quia a. non fuit cantum in isto angelo nisi quia sibi fu 
-      <lb ed="#Pa" n="56"/>it reuelatum in verbo quod foret eternaliter beatus patet igitur 
-      <lb ed="#Pa" n="57"/>quo consequene sunt bone sed primum antecedens est impossibile igitur et 
-      <lb ed="#Pa" n="58"/>vltimum consequens. Sed hoc est falsum quia deus non potest face 
-      <lb ed="#Pa" n="59"/>re illud quod praeteritum est non fuisse sicut dicit ansel 
-      <lb ed="#Pa" n="60"/>mus in prosolo. ca. 7 et pr philosophum sextoret hicor hoc so 
-      <lb ed="#Pa" n="61"/>lo priuatur deus.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e173">
-      ⁋ Item argumentum potest fieri de 
-      sangui<lb ed="#Pa" n="62" break="no"/>neo sudore Christi ex praeuisione mortis pro tempone medio intf 
-      <lb ed="#Pa" n="63"/>sudorem emissum et tempous mortis et de eius naturali dolo 
-      <lb ed="#Pa" n="64"/>re etiam ex praeuisione mortis. sic Christus non morietur igitur non 
-      <lb ed="#Pa" n="65"/>puidit se moriturm igitur nec iste dolor fuit nec iste su 
-      <!--297.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="66"/>dor quia solum ex ista praeuisione canbatur. Similiter potest ar 
-      <lb ed="#Pa" n="67"/>gui de actuali gaudio quod habet aliquis beatus propter hoc quod 
-      <lb ed="#Pa" n="68"/>reuelatum est illi quod aliquis peccator conuerteretur ad 
-      pe<lb ed="#Pa" n="69" break="no"/>nitentiam et finaliter saluabitur et in multis casibus similibus ea 
-      <lb ed="#Pa" n="70"/>dem forma arguendi habet locum. Contra de facto sic est 
-      <lb ed="#Pa" n="71"/>gitur antecedens probatur quia securitas requisita est ad beati 
-      <lb ed="#Pa" n="72"/>tudinem sicut dicit augu et probat 12 de cmis. dei ca. 12 
-      <lb ed="#Pa" n="73"/>vbi dicit in fine quod hoc est de beatitudine angelorum 
-      <lb ed="#Pa" n="74"/>vt bono incommutabili quod deus fine vlla mole 
-      <lb ed="#Pa" n="75"/>stia perfruantur etiam in quo se ineternum mansuros 
-      <lb ed="#Pa" n="76"/>fine vlla dubitatione cognoscunt et. 13. de tri. ca. 7  
-      <lb ed="#Pa" n="77"/>loquens augustinus. de beatitudine dicit omnen quod ibi 
-      <lb ed="#Pa" n="78"/>erit bonum erit et summus deus summum bonum erit at 
-      <lb ed="#Pa" n="79"/>que ad fruendum amantibus praesto ita etiam quod et omnno 
-      <lb ed="#Pa" n="80"/>beatissimum ita semper fore certum erit 
-      beatitu<lb ed="#Pa" n="81" break="no"/>do igitur requirit certitudinem eternitatis ipsius 
-      <lb ed="#Pa" n="82"/>beatitudinis et hoc non potest esse nisi per reuelatio 
-      <lb ed="#Pa" n="83"/>nem talis igitur reuelatio non solum videtur esse 
-      <lb ed="#Pa" n="84"/>possibilis sed necessaria ad beatitudinem.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e231">
-      ⁋ In ista 
-      <lb ed="#Pa" n="85"/>questione patet quid sit dicendum ex 
-      precedenti<lb ed="#Pa" n="86" break="no"/>bus scilicet quod sic licet contrarium faciat diffinitatemn 
-      <lb ed="#Pa" n="87"/>hic tractandum argumentum principale.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e240">
-      ⁋ Unde quae 
-      <lb ed="#Pa" n="88"/>concesso quod hoc ipsum quod angeli sunt beati requirat 
-      <lb ed="#Pa" n="89"/>certitudinem eternitatis sue beatitudis videtur 
-      <lb ed="#Pa" n="90"/>sequi quod ex certitudine talis eternitatis pendet quod  
-      <lb ed="#Pa" n="91"/>ipsi beati sint et tunc sequitur quod hec sit contigens angeli 
-      <lb ed="#Pa" n="92"/>fuerunt beati quia deus posset eos annichilare. Falsi 
-      <lb ed="#Pa" n="93"/>tas patet quia talis qualibet de praeterito videtur modo esse 
-      neces<lb ed="#Pa" n="94" break="no"/>saria. Conceditur communiter et bene quo consequens est verum non 
-      loquen<lb ed="#Pa" n="95" break="no"/>do praecise de beatitudine pro actu visionis dei vel frui 
-      <lb ed="#Pa" n="96"/>tionis sed supponendo quod istud nomen beatitudo conno 
-      <lb ed="#Pa" n="97"/>tat certitudinem eternitatis illorum actuum in quibus consi 
-      <lb ed="#Pa" n="98"/>stit essentialis beatitudo. Set contra arguit sprensis sup 
-      <lb ed="#Pa" n="99"/>ponatur sicut est verisimile quod ista securitas sit clara 
-      <lb ed="#Pa" n="100"/>dei noticia in verbo et quod ipsa auget gaudium beati secundum 
-      <lb ed="#Pa" n="101"/>auctoritates praeacceptas augustinus vel quod ipsa causat gau 
-      <lb ed="#Pa" n="102"/>dium aliquod spieale igitur propter ista securitatem gabrielhm 
-      <lb ed="#Pa" n="103"/>maius gaudium intensiue quod haberet si non haberet istam secu 
-      <lb ed="#Pa" n="104"/>ritatem vel gaudium aliquod sunadditum gaudio essentia 
-      <lb ed="#Pa" n="105"/>lis beatitudinis igitur ex opposito si gabriel non habuit 
-      <lb ed="#Pa" n="106"/>istam securitatem sequitur quod ipse non habuit gaudium illud 
-      <lb ed="#Pa" n="107"/>demonstrato gaudio quod ipse habuit vel saltem sequitur 
-      <lb ed="#Pa" n="108"/>quod non habuit gaudium in illo gradu alioqui habens illam 
-      <lb ed="#Pa" n="109"/>securitatem et non habens eam ceteris paribus equaliter omnino  
-      <lb ed="#Pa" n="110"/>gauderent quod est impossibile quia tunc securitas ista non  
-      <lb ed="#Pa" n="111"/>auxisset gaudium gabrielis contra augustinus vt prius.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e295">
-      ⁋ Hic 
-      <lb ed="#Pa" n="112"/>pono imprimis hanc conclusionem quod non sufficit dicere quod 
-      <lb ed="#Pa" n="113"/>idem omnino actus sine omni ad dito qui est gaudium remissum 
-      <lb ed="#Pa" n="114"/>potest esse gaudium intensum et econuerso contra quosdam qui hoc 
-      <lb ed="#Pa" n="115"/>ponunt et propter hoc negatnt consequentiam iam factam quia dicunt quod 
-      <lb ed="#Pa" n="116"/>demonstrato toto gaudio gabrielis hec est 
-      necessa<lb ed="#Pa" n="117" break="no"/>ria hec fuit vel a. fuit ponendo quod a. sit proprium nomen 
-      <lb ed="#Pa" n="118"/>illius gaudim nec sequitur gabriel non habuit istam 
-      secu<lb ed="#Pa" n="119" break="no"/>ritatem igitur a. non fuit. Set bene sequitur quod a. non fuit inten 
-      <lb ed="#Pa" n="120"/>sum in b. gradu posito quod b. sit ille gradus a. gaudum 
-      <lb ed="#Pa" n="121"/>quem ipse habet et habuit et concedunt quod hec est contigens 
-      ga<lb ed="#Pa" n="122" break="no"/>briel habuit a. gaudium in b. gradu licet hec sit 
-      neces<lb ed="#Pa" n="123" break="no"/>saria gabriel habuit a. gaudium.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e324">
-      ⁋ Set contra istam 
-      re<lb ed="#Pa" n="124" break="no"/>sponsionem argui potest sicut argui contra hoc in 
-      ma<lb ed="#Pa" n="125" break="no"/>teria de intensione formarum et similiter per media. 
-      <lb ed="#Pa" n="126"/>p q. huius di. praecise de transitu a contradictonio in contra 
-      <lb ed="#Pa" n="127"/>dictonium. Probatur sicut arguit syiensis si hec sit nunc 
-      <lb ed="#Pa" n="128"/>contigens gabriel habuit gaudium in b. gradu tunc posi 
-      <lb ed="#Pa" n="129"/>to quod fuisset aliquis angelus quae nullum gaudium habuisset 
-      <lb ed="#Pa" n="130"/>nisi propter reuelationem quod postea foret habiturus gau 
-      <lb ed="#Pa" n="131"/>dium eternum et quod ex illa sola reuelatione in verbo 
-      <!--298.xml-->
-      <pb ed="#Pa" n="127-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>haberet iste angelus .c. gaudium sequitur quod nunc 
-      <lb ed="#Pa" n="2"/>esset contingens iste angelus habuit gaudium. c. et 
-      <lb ed="#Pa" n="3"/>hec similiter iste angelus habuit gaudium consequens est 
-      <lb ed="#Pa" n="4"/>impossibile et consequentia patet persmodum illius responsionis 
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e359">
-               <lb ed="#Pa" n="5"/>⁋ Sed hic respondet quidam quod deus est gaudium illius 
-      <lb ed="#Pa" n="6"/>qui videt in verbo tantum et quod deus est sua cognitio et 
-      <lb ed="#Pa" n="7"/>sua nolitio et sua delectatio et ideo dicunt quod hec in  
-      <lb ed="#Pa" n="8"/>isto casu est nec essaria. c. gaudium fuit sicut et hec 
-      <lb ed="#Pa" n="9"/>gaudium quod est deus fuit et tamen hec est contigens 
-      <lb ed="#Pa" n="10"/>iste angelus gaudebat sicut et hec ista reuelatio 
-      fu<lb ed="#Pa" n="11" break="no"/>it facta isti angelo.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e377">
-      ⁋ Sed hanc viam reprobati. 
-      p<lb ed="#Pa" n="12" break="no"/>qe. huius di. Probatur tunc pari ratione si deus re 
-      <lb ed="#Pa" n="13"/>uelaret alteri angelo nouiter creato in verbo 
-      su<lb ed="#Pa" n="14" break="no"/>am damnationem futuram ex qua reuelatione iste 
-      <lb ed="#Pa" n="15"/>doleret sequitur pari ratione quod deus esset 
-      tristi<lb ed="#Pa" n="16" break="no"/>cia illius angeli et eius miseria quod non esset con 
-      <lb ed="#Pa" n="17"/>cedendum ab aliquo Christiano igitur etc. Item istam 
-      re<lb ed="#Pa" n="18" break="no"/>sponsio non soluit argumentum de sudore Christi et de 
-      <lb ed="#Pa" n="19"/>dolore. Item stat difficultas similis de factis 
-      ga<lb ed="#Pa" n="20" break="no"/>brielis existentis circa denunciationem incarnationis 
-      <lb ed="#Pa" n="21"/>Item ponatur quod ex aliqua tali reuelatione propter dolo 
-      <lb ed="#Pa" n="22"/>rem vel delectationem sequentem et non alia de causa aliquis 
-      <lb ed="#Pa" n="23"/>occidisset se vel alium vel construxisset castra vel 
-      ci<lb ed="#Pa" n="24" break="no"/>uitates anede euentum istius reuelati tunc sequitur quod iste pos 
-      <lb ed="#Pa" n="25"/>set non fuisse occisus et ista castra possent non fuisse 
-      fa<lb ed="#Pa" n="26" break="no"/>cta quia potest esse quod iste nullungaudium vel dolonem 
-      habu<lb ed="#Pa" n="27" break="no"/>it igitur non euaditur difficultas. Et si ponatur omnis actus in  
-      <lb ed="#Pa" n="28"/>terior esse deus igitur ista positio tam est falsa quam 
-      <lb ed="#Pa" n="29"/>impertinens.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e420">
-      ⁋ Tertio arguit sprensis contra 
-      predi<lb ed="#Pa" n="30" break="no"/>ctam responsionem quae dicit quod hec est nunc cont ingens gabri 
-      <lb ed="#Pa" n="31"/>el habuit. agaudium in b. gradu quia supponatur quod 
-      <lb ed="#Pa" n="32"/>quando gabriel habuit a. gaudium in b. gradu sic 
-      <lb ed="#Pa" n="33"/>nunc habet et semper habuit post suam confirma 
-      <lb ed="#Pa" n="34"/>tionem quod deus preceperit sibi quod delectaretur in.  
-      <lb ed="#Pa" n="35"/>b. gradu tunc sic si hec est contingens gabriel habu 
-      <lb ed="#Pa" n="36"/>it gaudium in b. gradu ititur et sua 
-      contradicto<lb ed="#Pa" n="37" break="no"/>ria est contingens hec. scilicet gabriel non habuit gaudium 
-      <lb ed="#Pa" n="38"/>in b. gradu igitur et hec erit contingens isto casu 
-      <lb ed="#Pa" n="39"/>stante gabriel peccat mortaliter consequens est inconveni 
-      <lb ed="#Pa" n="40"/>ens dato quod nunquam aliud fecerit nec faciet nisi quod  
-      <lb ed="#Pa" n="41"/>positum est. Probatur non magis pendet delecta 
-      <lb ed="#Pa" n="42"/>tio quo ad gradum suuma futuro quam pendeat a futuro 
-      <lb ed="#Pa" n="43"/>secundum suam essentiam quia tam determinatus est 
-      <lb ed="#Pa" n="44"/>gradus eius quam determinata est essentia eius igitur si. a. 
-      <lb ed="#Pa" n="45"/>delectatio non potest non fuisse sequitur quod a. delectatio 
-      <lb ed="#Pa" n="46"/>non potest non fuisse in isto gradu in quo secundum veritatem 
-      <lb ed="#Pa" n="47"/>fuit.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e462">
-      ⁋ Secundo mihi videtur quod non sufficit ad diffi 
-      <lb ed="#Pa" n="48"/>cultatem soluendam dicere cum syrensi in sua lectura 
-      l<lb ed="#Pa" n="49" break="no"/>contradixerit in quaestione biblica quod iste idem conceptus 
-      <lb ed="#Pa" n="50"/>creatus in beato qui est et fuerit firmum iudicium quod 
-      <lb ed="#Pa" n="51"/>sua essentialis beatitudo perpetuabitur potest adhuc 
-      <lb ed="#Pa" n="52"/>nunquam fuisse tale iudicium.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e475">
-      ⁋ Pro quo notandum 
-      <lb ed="#Pa" n="53"/>est secundum eum quod reuelatio in verbo est vnus 
-      sim<lb ed="#Pa" n="54" break="no"/>plex conceptus representans essentiam diuinam qua 
-      <lb ed="#Pa" n="55"/>clare apparante apparent clare isti futura contingen 
-      <lb ed="#Pa" n="56"/>tia in ipa que futura ipsa vult illi comprehensori 
-      <lb ed="#Pa" n="57"/>ostendere et quod ille vnus conceptus complexus est 
-      securi<lb ed="#Pa" n="58" break="no"/>tas et certitudo illius comprehensoris respectu omnium fu 
-      <lb ed="#Pa" n="59"/>turorum que apparent sibi in ista essentia et ista cogni 
-      <lb ed="#Pa" n="60"/>tio siue visio simplex est securitas de eternitate be 
-      <lb ed="#Pa" n="61"/>atitudinis includentis ipsam et dilectionem fruitiuam 
-      <lb ed="#Pa" n="62"/>et delectationem sequentem. Ideo hec est contigens hec 
-      <lb ed="#Pa" n="63"/>est beatitudo fuit proprie loquendo de beatitudine et 
-      <lb ed="#Pa" n="64"/>quuista cognitio seu visio quae est securitas de eternita 
-      <lb ed="#Pa" n="65"/>te beatitudinis potest non esse securitas quia potest 
-      fi<lb ed="#Pa" n="66" break="no"/>ri si deus noluerit quod essentia nunquam representauerit 
-      <!--298.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>istam beatitudinem fore eternam quia potest facere quod ipsa 
-      <lb ed="#Pa" n="68"/>desinat igitur potest esse quod essentia diuina nunquam 
-      repre<lb ed="#Pa" n="69" break="no"/>sentabit illam fore eternam et per consequens quod illa visio bea 
-      <lb ed="#Pa" n="70"/>tifica non fuerit securitas de eternitate totius bea 
-      <lb ed="#Pa" n="71"/>titudinis includentis tres actus praedictos et per consequens quod il 
-      <lb ed="#Pa" n="72"/>lud aggregatum nunquam fuerit beatitudo prout ly bea 
-      <lb ed="#Pa" n="73"/>titudo connotat illud aggregatum esse securita 
-      <lb ed="#Pa" n="74"/>tem eterne beatitudinis et per hunc modum saluat 
-      <lb ed="#Pa" n="75"/>hanc esse contingentem hec beatitudo fuit et tamen 
-      <lb ed="#Pa" n="76"/>hanc esse necessariam hoc fuit demonstrato isto aga 
-      <lb ed="#Pa" n="77"/>gregato quia secundum rei veritatem est et fuit 
-      <lb ed="#Pa" n="78"/>hec beatitudo licet contingenter.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e538">
-      ⁋ Contra hanc 
-      <lb ed="#Pa" n="79"/>responsionem fuit posita conclusio antedicta quam 
-      <lb ed="#Pa" n="80"/>probo quia licet aliquod iudicium postquam non fuit 
-      <lb ed="#Pa" n="81"/>verum fieri possit verum sine omni mutatione 
-      iu<lb ed="#Pa" n="82" break="no"/>dicum vel iudicantis propter variationem a parte 
-      <lb ed="#Pa" n="83"/>rei signate per aristotelem in predicamentis et hoc 
-      <lb ed="#Pa" n="84"/>etiam docet experientia tum quia absque aliqua ta 
-      <lb ed="#Pa" n="85"/>li mutatione vel nouitate in re vel iudicante crea 
-      <lb ed="#Pa" n="86"/>tura hoc fieri diceretur pari ratione dicerem quod 
-      pri<lb ed="#Pa" n="87" break="no"/>usquam nunquam habens albedinem fieret albus fine noui 
-      <lb ed="#Pa" n="88"/>tate albedinis et fine nouitate inherentie albedis 
-      <lb ed="#Pa" n="89"/>praexistentis. Item obuiat illud commune principium de transitu 
-      <lb ed="#Pa" n="90"/>a contradictorio in contradictorium quae fieri non potest sine 
-      <lb ed="#Pa" n="91"/>aliqua sex casrum alibi expressarum scilicet productionis 
-      de<lb ed="#Pa" n="92" break="no"/>structionis motus localis aut temponis propter causam 
-      <lb ed="#Pa" n="93"/>finalem et efficientem hic autem non occurrit aliqua ista 
-      <lb ed="#Pa" n="94"/>rum per quam hic possit dari ratio huius transitus 
-      <lb ed="#Pa" n="95"/>Probatur si sic hoc esset potissime per viam quam 
-      <lb ed="#Pa" n="96"/>tangit iam posita responsio syrensis quia videlicet es 
-      <lb ed="#Pa" n="97"/>sentia diuina sibi representat contingenter quod a. erit 
-      <lb ed="#Pa" n="98"/>vel simile futurum sed hoc non sufficit quia anima vel 
-      <lb ed="#Pa" n="99"/>angelus non potest cognoscere a. fore formaliter per 
-      <lb ed="#Pa" n="100"/>cognitionem quae deus est sed per noticiam creatam potest 
-      iu<lb ed="#Pa" n="101" break="no"/>dicari nisi quod de facto per eam iudicatur quandiuipa 
-      ma<lb ed="#Pa" n="102" break="no"/>net. Probatur ista ratio necessitat ad fugam non  
-      <lb ed="#Pa" n="103"/>intelligibilem scilicet quod gabriel propter istam securitatem 
-      <lb ed="#Pa" n="104"/>haberet intensius gaudium quam baberet si non asse 
-      <lb ed="#Pa" n="105"/>curaretur et tamen pro ceteris paribus haberet semper 
-      <lb ed="#Pa" n="106"/>illud gaudium et in eodem gradu etiam si non 
-      habe<lb ed="#Pa" n="107" break="no"/>ret hanc securitatem.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e603">
-      ⁋ Tamen sprensis respondens ad aucto 
-      <lb ed="#Pa" n="108"/>ritatem augustinus quae dicit quod securitas est optimum in 
-      beati<lb ed="#Pa" n="109" break="no"/>tudine concedit quod securitas est optima pars 
-      beatitu<lb ed="#Pa" n="110" break="no"/>dinis inter cognitiones quod tamen est falsum cum cognitis 
-      <lb ed="#Pa" n="111"/>sit multo perfectior quia est in infinitum melioris obiecti 
-      <lb ed="#Pa" n="112"/>et postea dicit quod gabriel propter istam securitatem 
-      <lb ed="#Pa" n="113"/>quando fuerit confirmatus maius habuerit gaudium 
-      <lb ed="#Pa" n="114"/>quam si non haberet securitatem hanc et notat connam igitur 
-      <lb ed="#Pa" n="115"/>si gabriel non habuit hanc securitatem non habuit il 
-      <lb ed="#Pa" n="116"/>lud gaudium quia antecedens est contingens et consequens impossibile 
-      <lb ed="#Pa" n="117"/>gaudium enim illud est vna passio facta in voluntate et 
-      <lb ed="#Pa" n="118"/>ideo impossibile est illud non fuisse nec potest fuisse minus 
-      <lb ed="#Pa" n="119"/>gaudium quam in b. gradu.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e632">
-      ⁋ Et ideo concedit quod tunc 
-      <lb ed="#Pa" n="120"/>esset possibile quod habens securitatem istam et non 
-      ha<lb ed="#Pa" n="121" break="no"/>bens istam ceteris paribus haberent equale 
-      gaudi<lb ed="#Pa" n="122" break="no"/>um et hoc in tali casu vbi gaudium huiusmodi prouenit a co 
-      <lb ed="#Pa" n="123"/>gnitione in verbo sed augustinus loquitur secudum cursum nature quod  
-      <lb ed="#Pa" n="124"/>securitas addita addit gaudium sed hoc non 
-      obstan<lb ed="#Pa" n="125" break="no"/>te deus potest facere nunc quod gaudium non habuit 
-      secu<lb ed="#Pa" n="126" break="no"/>ritatem praedictam et tamen necessarium est quod habuit tantum 
-      <lb ed="#Pa" n="127"/>gaudium sicut raphael: alius angelus sit raphael ce 
-      <lb ed="#Pa" n="128"/>teris omnibus paribus habens securitatem de eternitate sue 
-      <lb ed="#Pa" n="129"/>beatitudinis igitur inquit hec copulatiua est nunc contigens 
-      <lb ed="#Pa" n="130"/>gabriel hunit equale gaudium cum raphaele et ga. non hunit 
-      <lb ed="#Pa" n="131"/>securitatem et sequitur quod si adherent gabrieli certitudo quod  
-      <lb ed="#Pa" n="132"/>plus non gauderet quam raphael quia fuerant tunc equales 
-      <!--299.xml-->
-      <pb ed="#Pa" n="128-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>in omnibus igitur possibile est in illo casu quod securi 
-      <lb ed="#Pa" n="2"/>tas nihil faciat ad augmentum gaudum in gabriele hec 
-      <lb ed="#Pa" n="3"/>ille.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e677">
-      ⁋ Ista deductio eu satis bona praesuppositis ab 
-      <lb ed="#Pa" n="4"/>eo dictis sed illatum apud me est inconveniens et est aug. igitur 
-      <lb ed="#Pa" n="5"/>etiam responsio ex qua sequitur hoc est inconueniens.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e684">
-      ⁋ Tertio 
-      <lb ed="#Pa" n="6"/>videtur mihi quod non sufficit dicere quod gaudium gabrielis 
-      <lb ed="#Pa" n="7"/>quod est et fuit gaudium in b. gaudium in b. potest adhuc 
-      <lb ed="#Pa" n="8"/>nunquam fuisse sicut et securitas mediante qua causabatur 
-      <lb ed="#Pa" n="9"/>potest nunquam fuisse securitas. Hanc conclusionem pono con 
-      <lb ed="#Pa" n="10"/>tra responsionem quorundam modernorum di. sicut reci 
-      <lb ed="#Pa" n="11"/>tat syriensis quod hec est adhuc contingens gabriel habuit 
-      <lb ed="#Pa" n="12"/>gaudium in b. gradu ymo et quod habuit gaudium. Et 
-      <lb ed="#Pa" n="13"/>ad argumentum superius factum in contrarium scilicet po 
-      <lb ed="#Pa" n="14"/>sito quod esset vnus qui non gauderet precise nisi quia 
-      vi<lb ed="#Pa" n="15" break="no"/>deret in verbo se postea habiturum gaudium eternum. 
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e708">
-               <lb ed="#Pa" n="16"/>⁋ Responderet quod hec esset contigens iste habuit gaudium 
-      <lb ed="#Pa" n="17"/>et hec est possibilis iste nunc non gaudebat et tamen neces 
-      <lb ed="#Pa" n="18"/>sarium est quod ista res siue passio fuerit que nunc est 
-      <lb ed="#Pa" n="19"/>gaudium suum sed potest non fuisse gaudium nec 
-      <lb ed="#Pa" n="20"/>hoc potest videre impossibile eo quod talis passio non 
-      <lb ed="#Pa" n="21"/>est delectatio vel gaudium nisi quando 
-      coniungi<lb ed="#Pa" n="22" break="no"/>tur cum apprehensione mediante qua causatur igitur 
-      <lb ed="#Pa" n="23"/>sicut est possibile adhuc quod iste non habuit securita 
-      <lb ed="#Pa" n="24"/>tem ita possibile est quod sua passio quam habebat in  
-      <lb ed="#Pa" n="25"/>mente non fuerat gaudium. Sed ista responsio non 
-      suf<lb ed="#Pa" n="26" break="no"/>ficit, tum quia fundat se in falso vt iam probatum 
-      <lb ed="#Pa" n="27"/>est videlicet quod iste non habuit de facto iudicium fir 
-      <lb ed="#Pa" n="28"/>mum de eternitate sue beatitudinis potest ad huc num 
-      <lb ed="#Pa" n="29"/>quam iudicasse probatum enim est hoc esse impossibile de omni 
-      <lb ed="#Pa" n="30"/>iudicio creato.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e743">
-      ⁋ Dices hoc non dicit dicta responsio sed 
-      <lb ed="#Pa" n="31"/>quod qui de facto habuit securitatem potest adhuc nun  
-      <lb ed="#Pa" n="32"/>quam habuisse securitatem.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e750">
-      ⁋ Contra istud dictum 
-      li<lb ed="#Pa" n="33" break="no"/>cet sit verum nec tamen ad propositum valet quia se 
-      <lb ed="#Pa" n="34"/>curitas ista super iudicium firmum non addit nisi 
-      <lb ed="#Pa" n="35"/>quod ipsum iudicium sit verum et licet iste qui vere 
-      fir<lb ed="#Pa" n="36" break="no"/>miter iudicauit et asserit quod sua beatitudo 
-      perpe<lb ed="#Pa" n="37" break="no"/>tuabitur potest nunquam vere hoc iudicasse cum 
-      im<lb ed="#Pa" n="38" break="no"/>possibile est quin iudicauerit firmiter sicut iudica 
-      <lb ed="#Pa" n="39"/>uit aut firmum iudicium etiam si esset falsum 
-      au<lb ed="#Pa" n="40" break="no"/>geret gaudium sicut si esset verum quia ex eo quod 
-      ve<lb ed="#Pa" n="41" break="no"/>rum est nihil causat quia esse verum totaliter 
-      con<lb ed="#Pa" n="42" break="no"/>tingens et accidentale ei in eo quod causat quia sicut po 
-      <lb ed="#Pa" n="43"/>test nunquam habuisse securitatem ita nunquam posset 
-      ha<lb ed="#Pa" n="44" break="no"/>buisse illud gaudium per hoc quod ipsa fuit securitas 
-      <lb ed="#Pa" n="45"/>sed per hoc quod ipsa fuerit firmum et indubitatum 
-      iu<lb ed="#Pa" n="46" break="no"/>dicium de perpetuitate beatitudinis. Probatur si 
-      <lb ed="#Pa" n="47"/>responsio principalis esset vera igitur si deus 
-      re<lb ed="#Pa" n="48" break="no"/>uelaret alicui quod ipse esset habiturus penam 
-      eter<lb ed="#Pa" n="49" break="no"/>nam ita quod propter estimationem seu securitatem do 
-      <lb ed="#Pa" n="50"/>leret et non propter aliam causam sequitur quod postea 
-      <lb ed="#Pa" n="51"/>erit contingens iste doluit et per consequens 
-      sequi<lb ed="#Pa" n="52" break="no"/>tur quod deus possit nunc facere quod punitus a 
-      princi<lb ed="#Pa" n="53" break="no"/>pio mundi pena grauissima nunquam fuit punitus quod 
-      <lb ed="#Pa" n="54"/>videtur multum impossile. Probatur etiam falsi 
-      <lb ed="#Pa" n="55"/>tas consequentis quia ponatur quod ex tali dolore 
-      ta<lb ed="#Pa" n="56" break="no"/>lis se suspendit sicut fecit iudas tunc constat quod iste 
-      <lb ed="#Pa" n="57"/>non potest ex tunc non posse se suspendisse igitur ex causa 
-      <lb ed="#Pa" n="58"/>et non dabitur alia nisi quia doluit igitur non potest 
-      <lb ed="#Pa" n="59"/>modo non doluisse quando doluit nec igitur non  
-      <lb ed="#Pa" n="60"/>estimasse quod estimauit quia non ex alia causa 
-      do<lb ed="#Pa" n="61" break="no"/>luit per casum.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e815">
-      ⁋ Quarto videtur mihi quod ad 
-      sol<lb ed="#Pa" n="62" break="no"/>uendam dictam difficultatem non sufficit dicere 
-      <lb ed="#Pa" n="63"/>quod hec sic necessaria angeli fuerunt beati hanc 
-      po<lb ed="#Pa" n="64" break="no"/>no contra viam quorumdam modernorum et etiam 
-      <lb ed="#Pa" n="65"/>quorundam dicentium quod nec deus potest angelos 
-      <lb ed="#Pa" n="66"/>destruere qui sunt de facto beati nec etiam ab eis auf¬ 
-      <!--299.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>ferre istam rem que de facto est ipsorum beatitudo quia 
-      <lb ed="#Pa" n="68"/>vt dicunt annichilare creaturam iustam vel sibi substra 
-      <lb ed="#Pa" n="69"/>here fine culpa sua et alia talia facere et si non 
-      repu<lb ed="#Pa" n="70" break="no"/>gnaret potentie dei inquantum est potentia repugnat 
-      <lb ed="#Pa" n="71"/>tamen potentie dei inquantum est summa bonitas et mina 
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e844">
-               <lb ed="#Pa" n="72"/>⁋ Et pro hac responsione videtur facere illud quod  
-      <lb ed="#Pa" n="73"/>dicit magister li. p. di. 43. ca. 3 allegans augustinum expo 
-      <lb ed="#Pa" n="74"/>nentem illa verba domini loquentis ad loth genesis. 
-      <lb ed="#Pa" n="75"/>19 non possum quicquam facere donec illo introeas 
-      <lb ed="#Pa" n="76"/>vbi dicit non posse se dixit quod sine dubio poterat per 
-      <lb ed="#Pa" n="77"/>potentiam non per iusticiam sed hoc non sufficit 
-      <lb ed="#Pa" n="78"/>quia eque faciliter defenderem errorem phisicum 
-      <lb ed="#Pa" n="79"/>dicentem quod quicquid deus agit: agit necessitate na 
-      <lb ed="#Pa" n="80"/>ture nec quod in vno tota possit agere aliter quam de 
-      fa<lb ed="#Pa" n="81" break="no"/>cto agit vel aget. Falsitas patet quia iste est error 
-      <lb ed="#Pa" n="82"/>quem in proposito reprobat magister dicens quod quidam 
-      <lb ed="#Pa" n="83"/>de sensu suo gloriantes dei potentiam sub 
-      mensu<lb ed="#Pa" n="84" break="no"/>ra coartare conati sunt etc. et ponit rationes 
-      mul<lb ed="#Pa" n="85" break="no"/>tas opinantium et soluit. Probatur hec via includit 
-      <lb ed="#Pa" n="86"/>opposita sicut est via platonis qua ponit mundum 
-      <lb ed="#Pa" n="87"/>necessarium ab alio et tamen possibilem non esse 
-      <lb ed="#Pa" n="88"/>de se si enim deus potest aliquid de sua potentia qua  
-      <lb ed="#Pa" n="89"/>tinus est potentia igitur deus potest illud et si non 
-      <lb ed="#Pa" n="90"/>potest aliquid per iusticiam vel bonitatem quati 
-      <lb ed="#Pa" n="91"/>nus bonitas cum non possit aliquo modo non esse 
-      <lb ed="#Pa" n="92"/>bonus nec etiam non potest facere illud et non poterit 
-      <lb ed="#Pa" n="93"/>facere illud quae sunt opposita. Probatur voluntas 
-      <lb ed="#Pa" n="94"/>dei et potentia dei et mina idem pentius sunt igitur si aliquid  
-      <lb ed="#Pa" n="95"/>potest dei potentia inquantum potentia absolute poterit 
-      il<lb ed="#Pa" n="96" break="no"/>lud nec obstabit ipsamet inquantum iusticia vel mina 
-      <lb ed="#Pa" n="97"/>probat aug. de li. ar. c. 8 dicit in principio quod deus to 
-      <lb ed="#Pa" n="98"/>tam substantiam quam de nichilo fecit potest redigere in  
-      <lb ed="#Pa" n="99"/>nichilum.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e907">
-      ⁋ Iuxta dictum istorrum pono conclusionem quae 
-      <lb ed="#Pa" n="100"/>videtur illi dicto similis. sed est multum dissimilis vi 
-      <lb ed="#Pa" n="101"/>delicet quod deus beatum angelum nec aufferre beati 
-      <lb ed="#Pa" n="102"/>tudinem nec aliquis beatus potest suam beatitudinem 
-      amit<lb ed="#Pa" n="103" break="no"/>tere nec desinere esse beatus et sic de similibus. Proba 
-      <lb ed="#Pa" n="104"/>tur quia propositionibus de possibili praedicatum appel 
-      <lb ed="#Pa" n="105"/>lat formam igitur si hec esset vera deus posset isti ange 
-      <lb ed="#Pa" n="106"/>lo auferre beatitudinem vel alia similis oporteret quod 
-      <lb ed="#Pa" n="107"/>ita posset facere aliquando sicut significat ista de parenti 
-      <lb ed="#Pa" n="108"/>habens formam praedicati prioris deus aufert angelo 
-      beatitu<lb ed="#Pa" n="109" break="no"/>dinem. Hec autem includit contradictionem quia deus non 
-      au<lb ed="#Pa" n="110" break="no"/>fert huic angelo beatitudinem nisi iste angelus habeat 
-      <lb ed="#Pa" n="111"/>vel habuerit beatitudinem ipse est vel fuit beatus igitur 
-      <lb ed="#Pa" n="112"/>nunquam desinet esse beatus vel erit non beatus hec enim ex 
-      <lb ed="#Pa" n="113"/>suppositis significat affirmatio huius termini bea 
-      <lb ed="#Pa" n="114"/>tus de aliquo et pari ratione habet dici quod nullus potest fina 
-      <lb ed="#Pa" n="115"/>lem perseuerantiam amittere et sic de multis aliis.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e944">
-      ⁋ Et 
-      <lb ed="#Pa" n="116"/>si dicas quod ad oppositum videtur augu. xi. de ci. dei ca. 
-      <lb ed="#Pa" n="117"/>12 vbi dicit quis enim se in actione prouentuque iusticie 
-      <lb ed="#Pa" n="118"/>perseueraturum vsque in finem sciat nisi aliqua 
-      re<lb ed="#Pa" n="119" break="no"/>uelatione ab illo fiat certus qui de hac re latenti 
-      <lb ed="#Pa" n="120"/>que iudicio iusto omnes instruit sed neminem fallit 
-      <lb ed="#Pa" n="121"/>Respondetur quod ex hoc non sequitur quod hec sit 
-      pos<lb ed="#Pa" n="122" break="no"/>sibilis aliquis amittit finalem perseuerantiam li 
-      <lb ed="#Pa" n="123"/>cet bene velit augustinus quod nullus absque 
-      reuela<lb ed="#Pa" n="124" break="no"/>tione securus est an perseueret finaliter.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e966">
-      ⁋ Secun 
-      <lb ed="#Pa" n="125"/>do probo idem quia licet perseuerantiam vel bea 
-      <lb ed="#Pa" n="126"/>titudinem possit quis perdere et licet beatus possit a deo an 
-      <lb ed="#Pa" n="127"/>nichilari cum beatus non potest perdere beatitudinem quia hoc 
-      <lb ed="#Pa" n="128"/>non daretur nisi propter hoc quod iste potest perdere hanc rem et 
-      <lb ed="#Pa" n="129"/>hec res est btintudo igitur iste demonstrato beato potest 
-      perde<lb ed="#Pa" n="130" break="no"/>re beatitudinem. Se hoc non valet cum ibi sit fallam figure 
-      <lb ed="#Pa" n="131"/>dictionis et universaliter argumentum ab absolutis ad 
-      connotati<lb ed="#Pa" n="132" break="no"/>ua posita post verbum de possibili vel de praeterito vel 
-      <!--300.xml-->
-      <pb ed="#Pa" n="128-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>de futuro non valet.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e995">
-      ⁋ Contra ponatur quod aliquis 
-      <lb ed="#Pa" n="2"/>voueat quod nunquam perdat perseuerantiam in virginitate 
-      <lb ed="#Pa" n="3"/>vel inreligione deinde semel labatur in fornicatio 
-      <lb ed="#Pa" n="4"/>nem vel in apostasiam quero an perdit perseueram 
-      <lb ed="#Pa" n="5"/>tiam quam promisit vel non si sic habetur proposi 
-      <lb ed="#Pa" n="6"/>tum si non tunc talis non fregisset votum suum quod 
-      <lb ed="#Pa" n="7"/>est absurdum probatur pari ratione deus non po 
-      <lb ed="#Pa" n="8"/>test reuelare aliquid fore quod non erit.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e1013">
-      ⁋ Ad pri 
-      <lb ed="#Pa" n="9"/>mum dicendum est quod si talis in vouendo intenderet 
-      <lb ed="#Pa" n="10"/>tantum facere votum sicut pretendunt verba ad vim 
-      <lb ed="#Pa" n="11"/>sermonis talis nec frangeret votum suum nec fram 
-      <lb ed="#Pa" n="12"/>gere pesset nec esset votum rationale sed derisori 
-      <lb ed="#Pa" n="13"/>um si autem taliter obliget se ad semper continu 
-      <lb ed="#Pa" n="14"/>andum et ad perambulandum in religione per 
-      to<lb ed="#Pa" n="15" break="no"/>tam vitam suam tunc per vnum lapsum contrarium 
-      <lb ed="#Pa" n="16"/>frangeret votum suum.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e1034">
-      ⁋ Ad secundum 
-      concedi<lb ed="#Pa" n="17" break="no"/>tur illatum in sensu composito.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e1039">
-      ⁋ Aliter igitur est 
-      <lb ed="#Pa" n="18"/>dicendum ad difficultatem principalem sicut in pri 
-      <lb ed="#Pa" n="19"/>cipio quod hec non est modo necessaria sed contingens 
-      <lb ed="#Pa" n="20"/>gabriel beatus fuit et hec similiter ista beatitudo  
-      <lb ed="#Pa" n="21"/>fuit.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e1050">
-      ⁋ Et ad argumentum in contrarium cum sui 
-      <lb ed="#Pa" n="22"/>ponitur primo quod ista securitas non sit aliud quam cla 
-      <lb ed="#Pa" n="23"/>ra noticia in verbo dicendum est quod possibile est quod 
-      <lb ed="#Pa" n="24"/>ista securitas sit noticia non in verbo etiam 
-      possibi<lb ed="#Pa" n="25" break="no"/>le est quod sit noticia in verbo non autem per modun 
-      <lb ed="#Pa" n="26"/>prius improbatum videlicet quod eadem simplex 
-      vi<lb ed="#Pa" n="27" break="no"/>sio verbi nunc sit noticia quod aliquid erit et nunc non 
-      <lb ed="#Pa" n="28"/>vel quod eadem noticia manens possit esse iudiciun 
-      <lb ed="#Pa" n="29"/>quod a. erit et non esse iudicium quod a. erit securitas igit 
-      <lb ed="#Pa" n="30"/>tur aut est vnum iudicium a deo beato impressum 
-      <lb ed="#Pa" n="31"/>vel aliter mediantibus signis exterioribus modo 
-      <lb ed="#Pa" n="32"/>communis reuelationis causatum quodquidem 
-      <lb ed="#Pa" n="33"/>iudicium non est visio verbi vel si ponatur quod iudi 
-      <lb ed="#Pa" n="34"/>cium huiusmodi etiam sit visio verbi tunc illud 
-      iu<lb ed="#Pa" n="35" break="no"/>dicium quod simul est huius iudicium et visio ver 
-      <lb ed="#Pa" n="36"/>bi non potest alias solummodo esse visio verbi 
-      pro<lb ed="#Pa" n="37" break="no"/>pter quam causam superius tactum est et illud iu  
-      <lb ed="#Pa" n="38"/>dicium est firma et indubitata credulitas eternita 
-      <lb ed="#Pa" n="39"/>tis beatitudis non autem euidens noticia nec ob aliuo 
-      <lb ed="#Pa" n="40"/>poterit dici clara noticia nisi quia nihil dubietati 
-      <lb ed="#Pa" n="41"/>habet admixtum et nisi quia est clara visio dei non autem est 
-      <lb ed="#Pa" n="42"/>clara et euidens adhesio eo modo quo scientia proprie di 
-      <lb ed="#Pa" n="43"/>cta vel intellectus principior est euidens et clara 
-      ad<lb ed="#Pa" n="44" break="no"/>hesio istud autem iudicium non potest esse simul in potentia 
-      <lb ed="#Pa" n="45"/>nata iudicare per eam et non esse huiusmodi iudicium potest tamen es 
-      <lb ed="#Pa" n="46"/>se et non esse reuelatio vel esse et non esse securitas 
-      <lb ed="#Pa" n="47"/>quia si sit reuelatio vel securitas vera est adhesio tamen ad  
-      <lb ed="#Pa" n="48"/>huc est contingens hec noticia vel hoc iudicium est 
-      se<lb ed="#Pa" n="49" break="no"/>curitas vel reuelatio vel iudicium veram. Sed 
-      gau<lb ed="#Pa" n="50" break="no"/>dium vel gradus gaudii non exigit veritatem sed suf 
-      <lb ed="#Pa" n="51"/>ficit firmitas iudicui excludens omnem hesitationem 
-      <lb ed="#Pa" n="52"/>et dubitationem et bene volo quod sic iudicans habet ma 
-      <lb ed="#Pa" n="53"/>ius gaudiumquam si sic non iudicaret non quo magis gau 
-      <lb ed="#Pa" n="54"/>deat beatifice essentialiter sed magis beatifice acciden 
-      <lb ed="#Pa" n="55"/>taliter et quia istud crementum gaudum proueniens ex 
-      <lb ed="#Pa" n="56"/>assecuratione non prouenit ex illa ex eo quod ipsa est secu 
-      <lb ed="#Pa" n="57"/>ritas sed per hoc quod ipsa est firmum iudicium potest autem 
-      <lb ed="#Pa" n="58"/>iudicium istud esse securitas et potest non esse securitas 
-      <lb ed="#Pa" n="59"/>et ideo satis est possibile quod habens securitatem huiusmodi et 
-      <lb ed="#Pa" n="60"/>non habens talem securitatem ceteris paribus ha 
-      <lb ed="#Pa" n="61"/>beant equale gaudium et tunc ista consequentia non valet hec 
-      <lb ed="#Pa" n="62"/>est contingens istud gaudium fuit vel in tali gradu 
-      <lb ed="#Pa" n="63"/>fuit.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e1144">
-      ⁋ Ex hac responsione sequitur hec finalis conclusio 
-      <lb ed="#Pa" n="64"/>quod licet hec estimatio prehabita respectu futuri non 
-      <lb ed="#Pa" n="65"/>possit non fuisse nec etiam non fuisse estimatio quod il 
-      <lb ed="#Pa" n="66"/>lud erit potest tamen non fuisse securitas vel preuisio 
-      <!--300.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>vel praescientia et sic de similibus quod illud erit. Sed contra 
-      <lb ed="#Pa" n="68"/>hoc arguit syriensis si per solam preuisionem 
-      ver<lb ed="#Pa" n="69" break="no"/>bi presciatur aliquid futurum delectabile fore sit 
-      <lb ed="#Pa" n="70"/>b. tunc nulla causa est estimanda. b. fore siue ipsum 
-      ade<lb ed="#Pa" n="71" break="no"/>pturum. b. nisi quia relucet este si sic non reluceret omnino in  
-      <lb ed="#Pa" n="72"/>verbo non esset estimatum igitur si tollatur prescientia tolle 
-      <lb ed="#Pa" n="73"/>tur estimatio. Item si stat quod ipse non prescit b. fore 
-      <lb ed="#Pa" n="74"/>nec se adepturum. b. et tamen estimat hoc saltem per 
-      <lb ed="#Pa" n="75"/>simplicem visionem in verbo sequitur quod estimat 
-      il<lb ed="#Pa" n="76" break="no"/>lud quod non apparet sibi verum quod est 
-      impossi<lb ed="#Pa" n="77" break="no"/>bile. Consequentia patet quia ablata prescientia et 
-      po<lb ed="#Pa" n="78" break="no"/>nendo b. non fore non apparet sibi verum quod ipse 
-      adi<lb ed="#Pa" n="79" break="no"/>piscetur b. cum nullam euidentiam habeat ad hoc 
-      <lb ed="#Pa" n="80"/>quin potius deberet dici quod hoc appareret sibi fal 
-      <lb ed="#Pa" n="81"/>sum et suum oppositum verum. Probatur quando esti 
-      <lb ed="#Pa" n="82"/>mat se adepturum. b. et non in visione in verbo. Aut 
-      <lb ed="#Pa" n="83"/>estimat illud tanquam aliquid per se apparens et hoc non 
-      <lb ed="#Pa" n="84"/>cum sit falsum. Aut estimat hoc propter aliam 
-      cogni<lb ed="#Pa" n="85" break="no"/>tionem et hoc non quia ponatur quod non habet cogni 
-      <lb ed="#Pa" n="86"/>tionem nisi in verbo et mediante ista non estimat. b. 
-      <lb ed="#Pa" n="87"/>fore cum ista non representet b. fore sed magis b. 
-      <lb ed="#Pa" n="88"/>non fore. Aut estimat hoc libere quia vult et sequitur 
-      <lb ed="#Pa" n="89"/>quod estimatio sit in libera potestate contra philosophum 
-      se<lb ed="#Pa" n="90" break="no"/>cundo de anima in fine ymo tunc homo posset 
-      libe<lb ed="#Pa" n="91" break="no"/>re estimare quodcunque falsum quod est absurdum. 
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e1212">
-               <lb ed="#Pa" n="92"/>⁋ Ad primum istorum negatur consequentia quia visio in ver 
-      <lb ed="#Pa" n="93"/>bo non est istomodo quo ipse ymaginatur quod 
-      lege<lb ed="#Pa" n="94" break="no"/>ret .q. in libro per vnicum actum simplicem viden 
-      <lb ed="#Pa" n="95"/>di sed aliomodo sicut post tangam.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e1223">
-      ⁋ Ad secundum 
-      <lb ed="#Pa" n="96"/>dico quod non sequitur quod estimet illud quod non  
-      <lb ed="#Pa" n="97"/>apparet sibi verum ymo ibi est firma apparentia 
-      <lb ed="#Pa" n="98"/>quod illud quod apparet sibi verum licet ibi non  
-      <lb ed="#Pa" n="99"/>sit omnimoda euidentia.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e1235">
-      ⁋ Ad tertium dico quod esti 
-      <lb ed="#Pa" n="100"/>mat illud per solam estimationem a deo sibi impres 
-      <lb ed="#Pa" n="101"/>sam deus enim immediate non precise per modum 
-      <lb ed="#Pa" n="102"/>obiecti sed sicut causa voluntaria omipotens cau 
-      <lb ed="#Pa" n="103"/>saret immediate in illo casu visionem sui que siml 
-      <lb ed="#Pa" n="104"/>esset iudicium vel estimatio huiusmodi.
-    </p>
-            <p xml:id="GHYaf3-d1e849-d1e1248">
-      ⁋ Et dico 
-      <lb ed="#Pa" n="105"/>vlterius quod illa visio repraesentat. b. fore nec potest 
-      op<lb ed="#Pa" n="106" break="no"/>positum representare sicut iste dicit et accepit quia cum 
-      <lb ed="#Pa" n="107"/>sit signum mere naturaliter significans non potest per 
-      <lb ed="#Pa" n="108"/>se significare nisi quod per se significat et representat eti 
-      <lb ed="#Pa" n="109"/>am non est in ptante voluntatis stante ista visione in  
-      <lb ed="#Pa" n="110"/>ipsa subiectiue aliter iudicare siue b erit siue 
-      non<lb ed="#Pa" n="111" break="no"/>⁋ Ad argumentum principale satis patet ex respon 
-      <lb ed="#Pa" n="112"/>sione inferente sextam conclusionem quia neganda est 
-      <lb ed="#Pa" n="113"/>secunda consequentia et causa exstitit satis assignata.
-      </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7 
+          Utrum animae Christi vel angelo beato possit in verbo revelari aeternitas suae beatitudinis.
+        </title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7 
+            Utrum animae Christi vel angelo beato possit in verbo revelari aeternitas suae beatitudinis.
+          </title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="127-r"/>
+        <cb ed="#Pa" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e849"><!-- GHYaf3-l3q7 -->
+        <head xml:id="GHYaf3-d1e849-Hd1e108">Quaestio 7</head>
+        <head xml:id="GHYaf3-d1e849-Hd1e111" type="quesetion-title">
+          Utrum animae Christi vel angelo beato possit in verbo revelari aeternitas suae beatitudinis.
+        </head>
+        <p xml:id="GHYaf3-d1e849-d1e114">
+          <lb ed="#Pa" n="37"/>SEptimo circa 
+          han<lb ed="#Pa" n="38" break="no"/>distinctionem quero vtrum bea 
+          <lb ed="#Pa" n="39"/>to possit reuelari in verbo 
+          <lb ed="#Pa" n="40"/>eternitas sue beatitudinis.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e125">
+          Ui<lb ed="#Pa" n="41"/>detur quod non quia cum eternitas 
+          <lb ed="#Pa" n="42"/>btitudinis apprehendatur sub 
+          <lb ed="#Pa" n="43"/>tratione delectabilis et commodi 
+          <lb ed="#Pa" n="44"/>magni ex tali assecuratione 
+          <lb ed="#Pa" n="45"/>naturaliter sequitur delectatio 
+          <lb ed="#Pa" n="46"/>cu delectatio sequatur apprehensionem sicut vmbra cor 
+          <lb ed="#Pa" n="47"/>pus per commentatorem. xu. methaphisice commento 2.  
+          <lb ed="#Pa" n="48"/>Sit igitur ista delectatio naturaliter sequens. a. et sit 
+          <lb ed="#Pa" n="49"/>eternitas beatitudinis reuelata. b. et arguo tunc 
+          <lb ed="#Pa" n="50"/>primo reuelationem factam sic iste angelus non erit 
+          <lb ed="#Pa" n="51"/>eternaliter beatus igitur non fuit b. sibi reuelatum in ver 
+          <lb ed="#Pa" n="52"/>bo igitur a. non fuit. Falsitas patet quia a. fuisse est preter 
+          <lb ed="#Pa" n="53"/>tum igitur non potest non fuisse consequentia patet quia non potest in verbo 
+          <lb ed="#Pa" n="54"/>reuelari aliter futurum esse quam erit. Secunda pars patet 
+          <lb ed="#Pa" n="55"/>quia a. non fuit cantum in isto angelo nisi quia sibi fu 
+          <lb ed="#Pa" n="56"/>it reuelatum in verbo quod foret eternaliter beatus patet igitur 
+          <lb ed="#Pa" n="57"/>quo consequene sunt bone sed primum antecedens est impossibile igitur et 
+          <lb ed="#Pa" n="58"/>vltimum consequens. Sed hoc est falsum quia deus non potest face 
+          <lb ed="#Pa" n="59"/>re illud quod praeteritum est non fuisse sicut dicit ansel 
+          <lb ed="#Pa" n="60"/>mus in prosolo. ca. 7 et pr philosophum sextoret hicor hoc so 
+          <lb ed="#Pa" n="61"/>lo priuatur deus.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e173">
+          ⁋ Item argumentum potest fieri de 
+          sangui<lb ed="#Pa" n="62" break="no"/>neo sudore Christi ex praeuisione mortis pro tempone medio intf 
+          <lb ed="#Pa" n="63"/>sudorem emissum et tempous mortis et de eius naturali dolo 
+          <lb ed="#Pa" n="64"/>re etiam ex praeuisione mortis. sic Christus non morietur igitur non 
+          <lb ed="#Pa" n="65"/>puidit se moriturm igitur nec iste dolor fuit nec iste su 
+          <!--297.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="66"/>dor quia solum ex ista praeuisione canbatur. Similiter potest ar 
+          <lb ed="#Pa" n="67"/>gui de actuali gaudio quod habet aliquis beatus propter hoc quod 
+          <lb ed="#Pa" n="68"/>reuelatum est illi quod aliquis peccator conuerteretur ad 
+          pe<lb ed="#Pa" n="69" break="no"/>nitentiam et finaliter saluabitur et in multis casibus similibus ea 
+          <lb ed="#Pa" n="70"/>dem forma arguendi habet locum. Contra de facto sic est 
+          <lb ed="#Pa" n="71"/>gitur antecedens probatur quia securitas requisita est ad beati 
+          <lb ed="#Pa" n="72"/>tudinem sicut dicit augu et probat 12 de cmis. dei ca. 12 
+          <lb ed="#Pa" n="73"/>vbi dicit in fine quod hoc est de beatitudine angelorum 
+          <lb ed="#Pa" n="74"/>vt bono incommutabili quod deus fine vlla mole 
+          <lb ed="#Pa" n="75"/>stia perfruantur etiam in quo se ineternum mansuros 
+          <lb ed="#Pa" n="76"/>fine vlla dubitatione cognoscunt et. 13. de tri. ca. 7  
+          <lb ed="#Pa" n="77"/>loquens augustinus. de beatitudine dicit omnen quod ibi 
+          <lb ed="#Pa" n="78"/>erit bonum erit et summus deus summum bonum erit at 
+          <lb ed="#Pa" n="79"/>que ad fruendum amantibus praesto ita etiam quod et omnno 
+          <lb ed="#Pa" n="80"/>beatissimum ita semper fore certum erit 
+          beatitu<lb ed="#Pa" n="81" break="no"/>do igitur requirit certitudinem eternitatis ipsius 
+          <lb ed="#Pa" n="82"/>beatitudinis et hoc non potest esse nisi per reuelatio 
+          <lb ed="#Pa" n="83"/>nem talis igitur reuelatio non solum videtur esse 
+          <lb ed="#Pa" n="84"/>possibilis sed necessaria ad beatitudinem.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e231">
+          ⁋ In ista 
+          <lb ed="#Pa" n="85"/>questione patet quid sit dicendum ex 
+          precedenti<lb ed="#Pa" n="86" break="no"/>bus scilicet quod sic licet contrarium faciat diffinitatemn 
+          <lb ed="#Pa" n="87"/>hic tractandum argumentum principale.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e240">
+          ⁋ Unde quae 
+          <lb ed="#Pa" n="88"/>concesso quod hoc ipsum quod angeli sunt beati requirat 
+          <lb ed="#Pa" n="89"/>certitudinem eternitatis sue beatitudis videtur 
+          <lb ed="#Pa" n="90"/>sequi quod ex certitudine talis eternitatis pendet quod  
+          <lb ed="#Pa" n="91"/>ipsi beati sint et tunc sequitur quod hec sit contigens angeli 
+          <lb ed="#Pa" n="92"/>fuerunt beati quia deus posset eos annichilare. Falsi 
+          <lb ed="#Pa" n="93"/>tas patet quia talis qualibet de praeterito videtur modo esse 
+          neces<lb ed="#Pa" n="94" break="no"/>saria. Conceditur communiter et bene quo consequens est verum non 
+          loquen<lb ed="#Pa" n="95" break="no"/>do praecise de beatitudine pro actu visionis dei vel frui 
+          <lb ed="#Pa" n="96"/>tionis sed supponendo quod istud nomen beatitudo conno 
+          <lb ed="#Pa" n="97"/>tat certitudinem eternitatis illorum actuum in quibus consi 
+          <lb ed="#Pa" n="98"/>stit essentialis beatitudo. Set contra arguit sprensis sup 
+          <lb ed="#Pa" n="99"/>ponatur sicut est verisimile quod ista securitas sit clara 
+          <lb ed="#Pa" n="100"/>dei noticia in verbo et quod ipsa auget gaudium beati secundum 
+          <lb ed="#Pa" n="101"/>auctoritates praeacceptas augustinus vel quod ipsa causat gau 
+          <lb ed="#Pa" n="102"/>dium aliquod spieale igitur propter ista securitatem gabrielhm 
+          <lb ed="#Pa" n="103"/>maius gaudium intensiue quod haberet si non haberet istam secu 
+          <lb ed="#Pa" n="104"/>ritatem vel gaudium aliquod sunadditum gaudio essentia 
+          <lb ed="#Pa" n="105"/>lis beatitudinis igitur ex opposito si gabriel non habuit 
+          <lb ed="#Pa" n="106"/>istam securitatem sequitur quod ipse non habuit gaudium illud 
+          <lb ed="#Pa" n="107"/>demonstrato gaudio quod ipse habuit vel saltem sequitur 
+          <lb ed="#Pa" n="108"/>quod non habuit gaudium in illo gradu alioqui habens illam 
+          <lb ed="#Pa" n="109"/>securitatem et non habens eam ceteris paribus equaliter omnino  
+          <lb ed="#Pa" n="110"/>gauderent quod est impossibile quia tunc securitas ista non  
+          <lb ed="#Pa" n="111"/>auxisset gaudium gabrielis contra augustinus vt prius.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e295">
+          ⁋ Hic 
+          <lb ed="#Pa" n="112"/>pono imprimis hanc conclusionem quod non sufficit dicere quod 
+          <lb ed="#Pa" n="113"/>idem omnino actus sine omni ad dito qui est gaudium remissum 
+          <lb ed="#Pa" n="114"/>potest esse gaudium intensum et econuerso contra quosdam qui hoc 
+          <lb ed="#Pa" n="115"/>ponunt et propter hoc negatnt consequentiam iam factam quia dicunt quod 
+          <lb ed="#Pa" n="116"/>demonstrato toto gaudio gabrielis hec est 
+          necessa<lb ed="#Pa" n="117" break="no"/>ria hec fuit vel a. fuit ponendo quod a. sit proprium nomen 
+          <lb ed="#Pa" n="118"/>illius gaudim nec sequitur gabriel non habuit istam 
+          secu<lb ed="#Pa" n="119" break="no"/>ritatem igitur a. non fuit. Set bene sequitur quod a. non fuit inten 
+          <lb ed="#Pa" n="120"/>sum in b. gradu posito quod b. sit ille gradus a. gaudum 
+          <lb ed="#Pa" n="121"/>quem ipse habet et habuit et concedunt quod hec est contigens 
+          ga<lb ed="#Pa" n="122" break="no"/>briel habuit a. gaudium in b. gradu licet hec sit 
+          neces<lb ed="#Pa" n="123" break="no"/>saria gabriel habuit a. gaudium.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e324">
+          ⁋ Set contra istam 
+          re<lb ed="#Pa" n="124" break="no"/>sponsionem argui potest sicut argui contra hoc in 
+          ma<lb ed="#Pa" n="125" break="no"/>teria de intensione formarum et similiter per media. 
+          <lb ed="#Pa" n="126"/>p q. huius di. praecise de transitu a contradictonio in contra 
+          <lb ed="#Pa" n="127"/>dictonium. Probatur sicut arguit syiensis si hec sit nunc 
+          <lb ed="#Pa" n="128"/>contigens gabriel habuit gaudium in b. gradu tunc posi 
+          <lb ed="#Pa" n="129"/>to quod fuisset aliquis angelus quae nullum gaudium habuisset 
+          <lb ed="#Pa" n="130"/>nisi propter reuelationem quod postea foret habiturus gau 
+          <lb ed="#Pa" n="131"/>dium eternum et quod ex illa sola reuelatione in verbo 
+          <!--298.xml-->
+          <pb ed="#Pa" n="127-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>haberet iste angelus .c. gaudium sequitur quod nunc 
+          <lb ed="#Pa" n="2"/>esset contingens iste angelus habuit gaudium. c. et 
+          <lb ed="#Pa" n="3"/>hec similiter iste angelus habuit gaudium consequens est 
+          <lb ed="#Pa" n="4"/>impossibile et consequentia patet persmodum illius responsionis 
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e359">
+          <lb ed="#Pa" n="5"/>⁋ Sed hic respondet quidam quod deus est gaudium illius 
+          <lb ed="#Pa" n="6"/>qui videt in verbo tantum et quod deus est sua cognitio et 
+          <lb ed="#Pa" n="7"/>sua nolitio et sua delectatio et ideo dicunt quod hec in  
+          <lb ed="#Pa" n="8"/>isto casu est nec essaria. c. gaudium fuit sicut et hec 
+          <lb ed="#Pa" n="9"/>gaudium quod est deus fuit et tamen hec est contigens 
+          <lb ed="#Pa" n="10"/>iste angelus gaudebat sicut et hec ista reuelatio 
+          fu<lb ed="#Pa" n="11" break="no"/>it facta isti angelo.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e377">
+          ⁋ Sed hanc viam reprobati. 
+          p<lb ed="#Pa" n="12" break="no"/>qe. huius di. Probatur tunc pari ratione si deus re 
+          <lb ed="#Pa" n="13"/>uelaret alteri angelo nouiter creato in verbo 
+          su<lb ed="#Pa" n="14" break="no"/>am damnationem futuram ex qua reuelatione iste 
+          <lb ed="#Pa" n="15"/>doleret sequitur pari ratione quod deus esset 
+          tristi<lb ed="#Pa" n="16" break="no"/>cia illius angeli et eius miseria quod non esset con 
+          <lb ed="#Pa" n="17"/>cedendum ab aliquo Christiano igitur etc. Item istam 
+          re<lb ed="#Pa" n="18" break="no"/>sponsio non soluit argumentum de sudore Christi et de 
+          <lb ed="#Pa" n="19"/>dolore. Item stat difficultas similis de factis 
+          ga<lb ed="#Pa" n="20" break="no"/>brielis existentis circa denunciationem incarnationis 
+          <lb ed="#Pa" n="21"/>Item ponatur quod ex aliqua tali reuelatione propter dolo 
+          <lb ed="#Pa" n="22"/>rem vel delectationem sequentem et non alia de causa aliquis 
+          <lb ed="#Pa" n="23"/>occidisset se vel alium vel construxisset castra vel 
+          ci<lb ed="#Pa" n="24" break="no"/>uitates anede euentum istius reuelati tunc sequitur quod iste pos 
+          <lb ed="#Pa" n="25"/>set non fuisse occisus et ista castra possent non fuisse 
+          fa<lb ed="#Pa" n="26" break="no"/>cta quia potest esse quod iste nullungaudium vel dolonem 
+          habu<lb ed="#Pa" n="27" break="no"/>it igitur non euaditur difficultas. Et si ponatur omnis actus in  
+          <lb ed="#Pa" n="28"/>terior esse deus igitur ista positio tam est falsa quam 
+          <lb ed="#Pa" n="29"/>impertinens.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e420">
+          ⁋ Tertio arguit sprensis contra 
+          predi<lb ed="#Pa" n="30" break="no"/>ctam responsionem quae dicit quod hec est nunc cont ingens gabri 
+          <lb ed="#Pa" n="31"/>el habuit. agaudium in b. gradu quia supponatur quod 
+          <lb ed="#Pa" n="32"/>quando gabriel habuit a. gaudium in b. gradu sic 
+          <lb ed="#Pa" n="33"/>nunc habet et semper habuit post suam confirma 
+          <lb ed="#Pa" n="34"/>tionem quod deus preceperit sibi quod delectaretur in.  
+          <lb ed="#Pa" n="35"/>b. gradu tunc sic si hec est contingens gabriel habu 
+          <lb ed="#Pa" n="36"/>it gaudium in b. gradu ititur et sua 
+          contradicto<lb ed="#Pa" n="37" break="no"/>ria est contingens hec. scilicet gabriel non habuit gaudium 
+          <lb ed="#Pa" n="38"/>in b. gradu igitur et hec erit contingens isto casu 
+          <lb ed="#Pa" n="39"/>stante gabriel peccat mortaliter consequens est inconveni 
+          <lb ed="#Pa" n="40"/>ens dato quod nunquam aliud fecerit nec faciet nisi quod  
+          <lb ed="#Pa" n="41"/>positum est. Probatur non magis pendet delecta 
+          <lb ed="#Pa" n="42"/>tio quo ad gradum suuma futuro quam pendeat a futuro 
+          <lb ed="#Pa" n="43"/>secundum suam essentiam quia tam determinatus est 
+          <lb ed="#Pa" n="44"/>gradus eius quam determinata est essentia eius igitur si. a. 
+          <lb ed="#Pa" n="45"/>delectatio non potest non fuisse sequitur quod a. delectatio 
+          <lb ed="#Pa" n="46"/>non potest non fuisse in isto gradu in quo secundum veritatem 
+          <lb ed="#Pa" n="47"/>fuit.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e462">
+          ⁋ Secundo mihi videtur quod non sufficit ad diffi 
+          <lb ed="#Pa" n="48"/>cultatem soluendam dicere cum syrensi in sua lectura 
+          l<lb ed="#Pa" n="49" break="no"/>contradixerit in quaestione biblica quod iste idem conceptus 
+          <lb ed="#Pa" n="50"/>creatus in beato qui est et fuerit firmum iudicium quod 
+          <lb ed="#Pa" n="51"/>sua essentialis beatitudo perpetuabitur potest adhuc 
+          <lb ed="#Pa" n="52"/>nunquam fuisse tale iudicium.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e475">
+          ⁋ Pro quo notandum 
+          <lb ed="#Pa" n="53"/>est secundum eum quod reuelatio in verbo est vnus 
+          sim<lb ed="#Pa" n="54" break="no"/>plex conceptus representans essentiam diuinam qua 
+          <lb ed="#Pa" n="55"/>clare apparante apparent clare isti futura contingen 
+          <lb ed="#Pa" n="56"/>tia in ipa que futura ipsa vult illi comprehensori 
+          <lb ed="#Pa" n="57"/>ostendere et quod ille vnus conceptus complexus est 
+          securi<lb ed="#Pa" n="58" break="no"/>tas et certitudo illius comprehensoris respectu omnium fu 
+          <lb ed="#Pa" n="59"/>turorum que apparent sibi in ista essentia et ista cogni 
+          <lb ed="#Pa" n="60"/>tio siue visio simplex est securitas de eternitate be 
+          <lb ed="#Pa" n="61"/>atitudinis includentis ipsam et dilectionem fruitiuam 
+          <lb ed="#Pa" n="62"/>et delectationem sequentem. Ideo hec est contigens hec 
+          <lb ed="#Pa" n="63"/>est beatitudo fuit proprie loquendo de beatitudine et 
+          <lb ed="#Pa" n="64"/>quuista cognitio seu visio quae est securitas de eternita 
+          <lb ed="#Pa" n="65"/>te beatitudinis potest non esse securitas quia potest 
+          fi<lb ed="#Pa" n="66" break="no"/>ri si deus noluerit quod essentia nunquam representauerit 
+          <!--298.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>istam beatitudinem fore eternam quia potest facere quod ipsa 
+          <lb ed="#Pa" n="68"/>desinat igitur potest esse quod essentia diuina nunquam 
+          repre<lb ed="#Pa" n="69" break="no"/>sentabit illam fore eternam et per consequens quod illa visio bea 
+          <lb ed="#Pa" n="70"/>tifica non fuerit securitas de eternitate totius bea 
+          <lb ed="#Pa" n="71"/>titudinis includentis tres actus praedictos et per consequens quod il 
+          <lb ed="#Pa" n="72"/>lud aggregatum nunquam fuerit beatitudo prout ly bea 
+          <lb ed="#Pa" n="73"/>titudo connotat illud aggregatum esse securita 
+          <lb ed="#Pa" n="74"/>tem eterne beatitudinis et per hunc modum saluat 
+          <lb ed="#Pa" n="75"/>hanc esse contingentem hec beatitudo fuit et tamen 
+          <lb ed="#Pa" n="76"/>hanc esse necessariam hoc fuit demonstrato isto aga 
+          <lb ed="#Pa" n="77"/>gregato quia secundum rei veritatem est et fuit 
+          <lb ed="#Pa" n="78"/>hec beatitudo licet contingenter.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e538">
+          ⁋ Contra hanc 
+          <lb ed="#Pa" n="79"/>responsionem fuit posita conclusio antedicta quam 
+          <lb ed="#Pa" n="80"/>probo quia licet aliquod iudicium postquam non fuit 
+          <lb ed="#Pa" n="81"/>verum fieri possit verum sine omni mutatione 
+          iu<lb ed="#Pa" n="82" break="no"/>dicum vel iudicantis propter variationem a parte 
+          <lb ed="#Pa" n="83"/>rei signate per aristotelem in predicamentis et hoc 
+          <lb ed="#Pa" n="84"/>etiam docet experientia tum quia absque aliqua ta 
+          <lb ed="#Pa" n="85"/>li mutatione vel nouitate in re vel iudicante crea 
+          <lb ed="#Pa" n="86"/>tura hoc fieri diceretur pari ratione dicerem quod 
+          pri<lb ed="#Pa" n="87" break="no"/>usquam nunquam habens albedinem fieret albus fine noui 
+          <lb ed="#Pa" n="88"/>tate albedinis et fine nouitate inherentie albedis 
+          <lb ed="#Pa" n="89"/>praexistentis. Item obuiat illud commune principium de transitu 
+          <lb ed="#Pa" n="90"/>a contradictorio in contradictorium quae fieri non potest sine 
+          <lb ed="#Pa" n="91"/>aliqua sex casrum alibi expressarum scilicet productionis 
+          de<lb ed="#Pa" n="92" break="no"/>structionis motus localis aut temponis propter causam 
+          <lb ed="#Pa" n="93"/>finalem et efficientem hic autem non occurrit aliqua ista 
+          <lb ed="#Pa" n="94"/>rum per quam hic possit dari ratio huius transitus 
+          <lb ed="#Pa" n="95"/>Probatur si sic hoc esset potissime per viam quam 
+          <lb ed="#Pa" n="96"/>tangit iam posita responsio syrensis quia videlicet es 
+          <lb ed="#Pa" n="97"/>sentia diuina sibi representat contingenter quod a. erit 
+          <lb ed="#Pa" n="98"/>vel simile futurum sed hoc non sufficit quia anima vel 
+          <lb ed="#Pa" n="99"/>angelus non potest cognoscere a. fore formaliter per 
+          <lb ed="#Pa" n="100"/>cognitionem quae deus est sed per noticiam creatam potest 
+          iu<lb ed="#Pa" n="101" break="no"/>dicari nisi quod de facto per eam iudicatur quandiuipa 
+          ma<lb ed="#Pa" n="102" break="no"/>net. Probatur ista ratio necessitat ad fugam non  
+          <lb ed="#Pa" n="103"/>intelligibilem scilicet quod gabriel propter istam securitatem 
+          <lb ed="#Pa" n="104"/>haberet intensius gaudium quam baberet si non asse 
+          <lb ed="#Pa" n="105"/>curaretur et tamen pro ceteris paribus haberet semper 
+          <lb ed="#Pa" n="106"/>illud gaudium et in eodem gradu etiam si non 
+          habe<lb ed="#Pa" n="107" break="no"/>ret hanc securitatem.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e603">
+          ⁋ Tamen sprensis respondens ad aucto 
+          <lb ed="#Pa" n="108"/>ritatem augustinus quae dicit quod securitas est optimum in 
+          beati<lb ed="#Pa" n="109" break="no"/>tudine concedit quod securitas est optima pars 
+          beatitu<lb ed="#Pa" n="110" break="no"/>dinis inter cognitiones quod tamen est falsum cum cognitis 
+          <lb ed="#Pa" n="111"/>sit multo perfectior quia est in infinitum melioris obiecti 
+          <lb ed="#Pa" n="112"/>et postea dicit quod gabriel propter istam securitatem 
+          <lb ed="#Pa" n="113"/>quando fuerit confirmatus maius habuerit gaudium 
+          <lb ed="#Pa" n="114"/>quam si non haberet securitatem hanc et notat connam igitur 
+          <lb ed="#Pa" n="115"/>si gabriel non habuit hanc securitatem non habuit il 
+          <lb ed="#Pa" n="116"/>lud gaudium quia antecedens est contingens et consequens impossibile 
+          <lb ed="#Pa" n="117"/>gaudium enim illud est vna passio facta in voluntate et 
+          <lb ed="#Pa" n="118"/>ideo impossibile est illud non fuisse nec potest fuisse minus 
+          <lb ed="#Pa" n="119"/>gaudium quam in b. gradu.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e632">
+          ⁋ Et ideo concedit quod tunc 
+          <lb ed="#Pa" n="120"/>esset possibile quod habens securitatem istam et non 
+          ha<lb ed="#Pa" n="121" break="no"/>bens istam ceteris paribus haberent equale 
+          gaudi<lb ed="#Pa" n="122" break="no"/>um et hoc in tali casu vbi gaudium huiusmodi prouenit a co 
+          <lb ed="#Pa" n="123"/>gnitione in verbo sed augustinus loquitur secudum cursum nature quod  
+          <lb ed="#Pa" n="124"/>securitas addita addit gaudium sed hoc non 
+          obstan<lb ed="#Pa" n="125" break="no"/>te deus potest facere nunc quod gaudium non habuit 
+          secu<lb ed="#Pa" n="126" break="no"/>ritatem praedictam et tamen necessarium est quod habuit tantum 
+          <lb ed="#Pa" n="127"/>gaudium sicut raphael: alius angelus sit raphael ce 
+          <lb ed="#Pa" n="128"/>teris omnibus paribus habens securitatem de eternitate sue 
+          <lb ed="#Pa" n="129"/>beatitudinis igitur inquit hec copulatiua est nunc contigens 
+          <lb ed="#Pa" n="130"/>gabriel hunit equale gaudium cum raphaele et ga. non hunit 
+          <lb ed="#Pa" n="131"/>securitatem et sequitur quod si adherent gabrieli certitudo quod  
+          <lb ed="#Pa" n="132"/>plus non gauderet quam raphael quia fuerant tunc equales 
+          <!--299.xml-->
+          <pb ed="#Pa" n="128-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>in omnibus igitur possibile est in illo casu quod securi 
+          <lb ed="#Pa" n="2"/>tas nihil faciat ad augmentum gaudum in gabriele hec 
+          <lb ed="#Pa" n="3"/>ille.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e677">
+          ⁋ Ista deductio eu satis bona praesuppositis ab 
+          <lb ed="#Pa" n="4"/>eo dictis sed illatum apud me est inconveniens et est aug. igitur 
+          <lb ed="#Pa" n="5"/>etiam responsio ex qua sequitur hoc est inconueniens.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e684">
+          ⁋ Tertio 
+          <lb ed="#Pa" n="6"/>videtur mihi quod non sufficit dicere quod gaudium gabrielis 
+          <lb ed="#Pa" n="7"/>quod est et fuit gaudium in b. gaudium in b. potest adhuc 
+          <lb ed="#Pa" n="8"/>nunquam fuisse sicut et securitas mediante qua causabatur 
+          <lb ed="#Pa" n="9"/>potest nunquam fuisse securitas. Hanc conclusionem pono con 
+          <lb ed="#Pa" n="10"/>tra responsionem quorundam modernorum di. sicut reci 
+          <lb ed="#Pa" n="11"/>tat syriensis quod hec est adhuc contingens gabriel habuit 
+          <lb ed="#Pa" n="12"/>gaudium in b. gradu ymo et quod habuit gaudium. Et 
+          <lb ed="#Pa" n="13"/>ad argumentum superius factum in contrarium scilicet po 
+          <lb ed="#Pa" n="14"/>sito quod esset vnus qui non gauderet precise nisi quia 
+          vi<lb ed="#Pa" n="15" break="no"/>deret in verbo se postea habiturum gaudium eternum. 
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e708">
+          <lb ed="#Pa" n="16"/>⁋ Responderet quod hec esset contigens iste habuit gaudium 
+          <lb ed="#Pa" n="17"/>et hec est possibilis iste nunc non gaudebat et tamen neces 
+          <lb ed="#Pa" n="18"/>sarium est quod ista res siue passio fuerit que nunc est 
+          <lb ed="#Pa" n="19"/>gaudium suum sed potest non fuisse gaudium nec 
+          <lb ed="#Pa" n="20"/>hoc potest videre impossibile eo quod talis passio non 
+          <lb ed="#Pa" n="21"/>est delectatio vel gaudium nisi quando 
+          coniungi<lb ed="#Pa" n="22" break="no"/>tur cum apprehensione mediante qua causatur igitur 
+          <lb ed="#Pa" n="23"/>sicut est possibile adhuc quod iste non habuit securita 
+          <lb ed="#Pa" n="24"/>tem ita possibile est quod sua passio quam habebat in  
+          <lb ed="#Pa" n="25"/>mente non fuerat gaudium. Sed ista responsio non 
+          suf<lb ed="#Pa" n="26" break="no"/>ficit, tum quia fundat se in falso vt iam probatum 
+          <lb ed="#Pa" n="27"/>est videlicet quod iste non habuit de facto iudicium fir 
+          <lb ed="#Pa" n="28"/>mum de eternitate sue beatitudinis potest ad huc num 
+          <lb ed="#Pa" n="29"/>quam iudicasse probatum enim est hoc esse impossibile de omni 
+          <lb ed="#Pa" n="30"/>iudicio creato.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e743">
+          ⁋ Dices hoc non dicit dicta responsio sed 
+          <lb ed="#Pa" n="31"/>quod qui de facto habuit securitatem potest adhuc nun  
+          <lb ed="#Pa" n="32"/>quam habuisse securitatem.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e750">
+          ⁋ Contra istud dictum 
+          li<lb ed="#Pa" n="33" break="no"/>cet sit verum nec tamen ad propositum valet quia se 
+          <lb ed="#Pa" n="34"/>curitas ista super iudicium firmum non addit nisi 
+          <lb ed="#Pa" n="35"/>quod ipsum iudicium sit verum et licet iste qui vere 
+          fir<lb ed="#Pa" n="36" break="no"/>miter iudicauit et asserit quod sua beatitudo 
+          perpe<lb ed="#Pa" n="37" break="no"/>tuabitur potest nunquam vere hoc iudicasse cum 
+          im<lb ed="#Pa" n="38" break="no"/>possibile est quin iudicauerit firmiter sicut iudica 
+          <lb ed="#Pa" n="39"/>uit aut firmum iudicium etiam si esset falsum 
+          au<lb ed="#Pa" n="40" break="no"/>geret gaudium sicut si esset verum quia ex eo quod 
+          ve<lb ed="#Pa" n="41" break="no"/>rum est nihil causat quia esse verum totaliter 
+          con<lb ed="#Pa" n="42" break="no"/>tingens et accidentale ei in eo quod causat quia sicut po 
+          <lb ed="#Pa" n="43"/>test nunquam habuisse securitatem ita nunquam posset 
+          ha<lb ed="#Pa" n="44" break="no"/>buisse illud gaudium per hoc quod ipsa fuit securitas 
+          <lb ed="#Pa" n="45"/>sed per hoc quod ipsa fuerit firmum et indubitatum 
+          iu<lb ed="#Pa" n="46" break="no"/>dicium de perpetuitate beatitudinis. Probatur si 
+          <lb ed="#Pa" n="47"/>responsio principalis esset vera igitur si deus 
+          re<lb ed="#Pa" n="48" break="no"/>uelaret alicui quod ipse esset habiturus penam 
+          eter<lb ed="#Pa" n="49" break="no"/>nam ita quod propter estimationem seu securitatem do 
+          <lb ed="#Pa" n="50"/>leret et non propter aliam causam sequitur quod postea 
+          <lb ed="#Pa" n="51"/>erit contingens iste doluit et per consequens 
+          sequi<lb ed="#Pa" n="52" break="no"/>tur quod deus possit nunc facere quod punitus a 
+          princi<lb ed="#Pa" n="53" break="no"/>pio mundi pena grauissima nunquam fuit punitus quod 
+          <lb ed="#Pa" n="54"/>videtur multum impossile. Probatur etiam falsi 
+          <lb ed="#Pa" n="55"/>tas consequentis quia ponatur quod ex tali dolore 
+          ta<lb ed="#Pa" n="56" break="no"/>lis se suspendit sicut fecit iudas tunc constat quod iste 
+          <lb ed="#Pa" n="57"/>non potest ex tunc non posse se suspendisse igitur ex causa 
+          <lb ed="#Pa" n="58"/>et non dabitur alia nisi quia doluit igitur non potest 
+          <lb ed="#Pa" n="59"/>modo non doluisse quando doluit nec igitur non  
+          <lb ed="#Pa" n="60"/>estimasse quod estimauit quia non ex alia causa 
+          do<lb ed="#Pa" n="61" break="no"/>luit per casum.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e815">
+          ⁋ Quarto videtur mihi quod ad 
+          sol<lb ed="#Pa" n="62" break="no"/>uendam dictam difficultatem non sufficit dicere 
+          <lb ed="#Pa" n="63"/>quod hec sic necessaria angeli fuerunt beati hanc 
+          po<lb ed="#Pa" n="64" break="no"/>no contra viam quorumdam modernorum et etiam 
+          <lb ed="#Pa" n="65"/>quorundam dicentium quod nec deus potest angelos 
+          <lb ed="#Pa" n="66"/>destruere qui sunt de facto beati nec etiam ab eis auf¬ 
+          <!--299.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>ferre istam rem que de facto est ipsorum beatitudo quia 
+          <lb ed="#Pa" n="68"/>vt dicunt annichilare creaturam iustam vel sibi substra 
+          <lb ed="#Pa" n="69"/>here fine culpa sua et alia talia facere et si non 
+          repu<lb ed="#Pa" n="70" break="no"/>gnaret potentie dei inquantum est potentia repugnat 
+          <lb ed="#Pa" n="71"/>tamen potentie dei inquantum est summa bonitas et mina 
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e844">
+          <lb ed="#Pa" n="72"/>⁋ Et pro hac responsione videtur facere illud quod  
+          <lb ed="#Pa" n="73"/>dicit magister li. p. di. 43. ca. 3 allegans augustinum expo 
+          <lb ed="#Pa" n="74"/>nentem illa verba domini loquentis ad loth genesis. 
+          <lb ed="#Pa" n="75"/>19 non possum quicquam facere donec illo introeas 
+          <lb ed="#Pa" n="76"/>vbi dicit non posse se dixit quod sine dubio poterat per 
+          <lb ed="#Pa" n="77"/>potentiam non per iusticiam sed hoc non sufficit 
+          <lb ed="#Pa" n="78"/>quia eque faciliter defenderem errorem phisicum 
+          <lb ed="#Pa" n="79"/>dicentem quod quicquid deus agit: agit necessitate na 
+          <lb ed="#Pa" n="80"/>ture nec quod in vno tota possit agere aliter quam de 
+          fa<lb ed="#Pa" n="81" break="no"/>cto agit vel aget. Falsitas patet quia iste est error 
+          <lb ed="#Pa" n="82"/>quem in proposito reprobat magister dicens quod quidam 
+          <lb ed="#Pa" n="83"/>de sensu suo gloriantes dei potentiam sub 
+          mensu<lb ed="#Pa" n="84" break="no"/>ra coartare conati sunt etc. et ponit rationes 
+          mul<lb ed="#Pa" n="85" break="no"/>tas opinantium et soluit. Probatur hec via includit 
+          <lb ed="#Pa" n="86"/>opposita sicut est via platonis qua ponit mundum 
+          <lb ed="#Pa" n="87"/>necessarium ab alio et tamen possibilem non esse 
+          <lb ed="#Pa" n="88"/>de se si enim deus potest aliquid de sua potentia qua  
+          <lb ed="#Pa" n="89"/>tinus est potentia igitur deus potest illud et si non 
+          <lb ed="#Pa" n="90"/>potest aliquid per iusticiam vel bonitatem quati 
+          <lb ed="#Pa" n="91"/>nus bonitas cum non possit aliquo modo non esse 
+          <lb ed="#Pa" n="92"/>bonus nec etiam non potest facere illud et non poterit 
+          <lb ed="#Pa" n="93"/>facere illud quae sunt opposita. Probatur voluntas 
+          <lb ed="#Pa" n="94"/>dei et potentia dei et mina idem pentius sunt igitur si aliquid  
+          <lb ed="#Pa" n="95"/>potest dei potentia inquantum potentia absolute poterit 
+          il<lb ed="#Pa" n="96" break="no"/>lud nec obstabit ipsamet inquantum iusticia vel mina 
+          <lb ed="#Pa" n="97"/>probat aug. de li. ar. c. 8 dicit in principio quod deus to 
+          <lb ed="#Pa" n="98"/>tam substantiam quam de nichilo fecit potest redigere in  
+          <lb ed="#Pa" n="99"/>nichilum.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e907">
+          ⁋ Iuxta dictum istorrum pono conclusionem quae 
+          <lb ed="#Pa" n="100"/>videtur illi dicto similis. sed est multum dissimilis vi 
+          <lb ed="#Pa" n="101"/>delicet quod deus beatum angelum nec aufferre beati 
+          <lb ed="#Pa" n="102"/>tudinem nec aliquis beatus potest suam beatitudinem 
+          amit<lb ed="#Pa" n="103" break="no"/>tere nec desinere esse beatus et sic de similibus. Proba 
+          <lb ed="#Pa" n="104"/>tur quia propositionibus de possibili praedicatum appel 
+          <lb ed="#Pa" n="105"/>lat formam igitur si hec esset vera deus posset isti ange 
+          <lb ed="#Pa" n="106"/>lo auferre beatitudinem vel alia similis oporteret quod 
+          <lb ed="#Pa" n="107"/>ita posset facere aliquando sicut significat ista de parenti 
+          <lb ed="#Pa" n="108"/>habens formam praedicati prioris deus aufert angelo 
+          beatitu<lb ed="#Pa" n="109" break="no"/>dinem. Hec autem includit contradictionem quia deus non 
+          au<lb ed="#Pa" n="110" break="no"/>fert huic angelo beatitudinem nisi iste angelus habeat 
+          <lb ed="#Pa" n="111"/>vel habuerit beatitudinem ipse est vel fuit beatus igitur 
+          <lb ed="#Pa" n="112"/>nunquam desinet esse beatus vel erit non beatus hec enim ex 
+          <lb ed="#Pa" n="113"/>suppositis significat affirmatio huius termini bea 
+          <lb ed="#Pa" n="114"/>tus de aliquo et pari ratione habet dici quod nullus potest fina 
+          <lb ed="#Pa" n="115"/>lem perseuerantiam amittere et sic de multis aliis.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e944">
+          ⁋ Et 
+          <lb ed="#Pa" n="116"/>si dicas quod ad oppositum videtur augu. xi. de ci. dei ca. 
+          <lb ed="#Pa" n="117"/>12 vbi dicit quis enim se in actione prouentuque iusticie 
+          <lb ed="#Pa" n="118"/>perseueraturum vsque in finem sciat nisi aliqua 
+          re<lb ed="#Pa" n="119" break="no"/>uelatione ab illo fiat certus qui de hac re latenti 
+          <lb ed="#Pa" n="120"/>que iudicio iusto omnes instruit sed neminem fallit 
+          <lb ed="#Pa" n="121"/>Respondetur quod ex hoc non sequitur quod hec sit 
+          pos<lb ed="#Pa" n="122" break="no"/>sibilis aliquis amittit finalem perseuerantiam li 
+          <lb ed="#Pa" n="123"/>cet bene velit augustinus quod nullus absque 
+          reuela<lb ed="#Pa" n="124" break="no"/>tione securus est an perseueret finaliter.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e966">
+          ⁋ Secun 
+          <lb ed="#Pa" n="125"/>do probo idem quia licet perseuerantiam vel bea 
+          <lb ed="#Pa" n="126"/>titudinem possit quis perdere et licet beatus possit a deo an 
+          <lb ed="#Pa" n="127"/>nichilari cum beatus non potest perdere beatitudinem quia hoc 
+          <lb ed="#Pa" n="128"/>non daretur nisi propter hoc quod iste potest perdere hanc rem et 
+          <lb ed="#Pa" n="129"/>hec res est btintudo igitur iste demonstrato beato potest 
+          perde<lb ed="#Pa" n="130" break="no"/>re beatitudinem. Se hoc non valet cum ibi sit fallam figure 
+          <lb ed="#Pa" n="131"/>dictionis et universaliter argumentum ab absolutis ad 
+          connotati<lb ed="#Pa" n="132" break="no"/>ua posita post verbum de possibili vel de praeterito vel 
+          <!--300.xml-->
+          <pb ed="#Pa" n="128-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>de futuro non valet.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e995">
+          ⁋ Contra ponatur quod aliquis 
+          <lb ed="#Pa" n="2"/>voueat quod nunquam perdat perseuerantiam in virginitate 
+          <lb ed="#Pa" n="3"/>vel inreligione deinde semel labatur in fornicatio 
+          <lb ed="#Pa" n="4"/>nem vel in apostasiam quero an perdit perseueram 
+          <lb ed="#Pa" n="5"/>tiam quam promisit vel non si sic habetur proposi 
+          <lb ed="#Pa" n="6"/>tum si non tunc talis non fregisset votum suum quod 
+          <lb ed="#Pa" n="7"/>est absurdum probatur pari ratione deus non po 
+          <lb ed="#Pa" n="8"/>test reuelare aliquid fore quod non erit.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e1013">
+          ⁋ Ad pri 
+          <lb ed="#Pa" n="9"/>mum dicendum est quod si talis in vouendo intenderet 
+          <lb ed="#Pa" n="10"/>tantum facere votum sicut pretendunt verba ad vim 
+          <lb ed="#Pa" n="11"/>sermonis talis nec frangeret votum suum nec fram 
+          <lb ed="#Pa" n="12"/>gere pesset nec esset votum rationale sed derisori 
+          <lb ed="#Pa" n="13"/>um si autem taliter obliget se ad semper continu 
+          <lb ed="#Pa" n="14"/>andum et ad perambulandum in religione per 
+          to<lb ed="#Pa" n="15" break="no"/>tam vitam suam tunc per vnum lapsum contrarium 
+          <lb ed="#Pa" n="16"/>frangeret votum suum.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e1034">
+          ⁋ Ad secundum 
+          concedi<lb ed="#Pa" n="17" break="no"/>tur illatum in sensu composito.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e1039">
+          ⁋ Aliter igitur est 
+          <lb ed="#Pa" n="18"/>dicendum ad difficultatem principalem sicut in pri 
+          <lb ed="#Pa" n="19"/>cipio quod hec non est modo necessaria sed contingens 
+          <lb ed="#Pa" n="20"/>gabriel beatus fuit et hec similiter ista beatitudo  
+          <lb ed="#Pa" n="21"/>fuit.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e1050">
+          ⁋ Et ad argumentum in contrarium cum sui 
+          <lb ed="#Pa" n="22"/>ponitur primo quod ista securitas non sit aliud quam cla 
+          <lb ed="#Pa" n="23"/>ra noticia in verbo dicendum est quod possibile est quod 
+          <lb ed="#Pa" n="24"/>ista securitas sit noticia non in verbo etiam 
+          possibi<lb ed="#Pa" n="25" break="no"/>le est quod sit noticia in verbo non autem per modun 
+          <lb ed="#Pa" n="26"/>prius improbatum videlicet quod eadem simplex 
+          vi<lb ed="#Pa" n="27" break="no"/>sio verbi nunc sit noticia quod aliquid erit et nunc non 
+          <lb ed="#Pa" n="28"/>vel quod eadem noticia manens possit esse iudiciun 
+          <lb ed="#Pa" n="29"/>quod a. erit et non esse iudicium quod a. erit securitas igit 
+          <lb ed="#Pa" n="30"/>tur aut est vnum iudicium a deo beato impressum 
+          <lb ed="#Pa" n="31"/>vel aliter mediantibus signis exterioribus modo 
+          <lb ed="#Pa" n="32"/>communis reuelationis causatum quodquidem 
+          <lb ed="#Pa" n="33"/>iudicium non est visio verbi vel si ponatur quod iudi 
+          <lb ed="#Pa" n="34"/>cium huiusmodi etiam sit visio verbi tunc illud 
+          iu<lb ed="#Pa" n="35" break="no"/>dicium quod simul est huius iudicium et visio ver 
+          <lb ed="#Pa" n="36"/>bi non potest alias solummodo esse visio verbi 
+          pro<lb ed="#Pa" n="37" break="no"/>pter quam causam superius tactum est et illud iu  
+          <lb ed="#Pa" n="38"/>dicium est firma et indubitata credulitas eternita 
+          <lb ed="#Pa" n="39"/>tis beatitudis non autem euidens noticia nec ob aliuo 
+          <lb ed="#Pa" n="40"/>poterit dici clara noticia nisi quia nihil dubietati 
+          <lb ed="#Pa" n="41"/>habet admixtum et nisi quia est clara visio dei non autem est 
+          <lb ed="#Pa" n="42"/>clara et euidens adhesio eo modo quo scientia proprie di 
+          <lb ed="#Pa" n="43"/>cta vel intellectus principior est euidens et clara 
+          ad<lb ed="#Pa" n="44" break="no"/>hesio istud autem iudicium non potest esse simul in potentia 
+          <lb ed="#Pa" n="45"/>nata iudicare per eam et non esse huiusmodi iudicium potest tamen es 
+          <lb ed="#Pa" n="46"/>se et non esse reuelatio vel esse et non esse securitas 
+          <lb ed="#Pa" n="47"/>quia si sit reuelatio vel securitas vera est adhesio tamen ad  
+          <lb ed="#Pa" n="48"/>huc est contingens hec noticia vel hoc iudicium est 
+          se<lb ed="#Pa" n="49" break="no"/>curitas vel reuelatio vel iudicium veram. Sed 
+          gau<lb ed="#Pa" n="50" break="no"/>dium vel gradus gaudii non exigit veritatem sed suf 
+          <lb ed="#Pa" n="51"/>ficit firmitas iudicui excludens omnem hesitationem 
+          <lb ed="#Pa" n="52"/>et dubitationem et bene volo quod sic iudicans habet ma 
+          <lb ed="#Pa" n="53"/>ius gaudiumquam si sic non iudicaret non quo magis gau 
+          <lb ed="#Pa" n="54"/>deat beatifice essentialiter sed magis beatifice acciden 
+          <lb ed="#Pa" n="55"/>taliter et quia istud crementum gaudum proueniens ex 
+          <lb ed="#Pa" n="56"/>assecuratione non prouenit ex illa ex eo quod ipsa est secu 
+          <lb ed="#Pa" n="57"/>ritas sed per hoc quod ipsa est firmum iudicium potest autem 
+          <lb ed="#Pa" n="58"/>iudicium istud esse securitas et potest non esse securitas 
+          <lb ed="#Pa" n="59"/>et ideo satis est possibile quod habens securitatem huiusmodi et 
+          <lb ed="#Pa" n="60"/>non habens talem securitatem ceteris paribus ha 
+          <lb ed="#Pa" n="61"/>beant equale gaudium et tunc ista consequentia non valet hec 
+          <lb ed="#Pa" n="62"/>est contingens istud gaudium fuit vel in tali gradu 
+          <lb ed="#Pa" n="63"/>fuit.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e1144">
+          ⁋ Ex hac responsione sequitur hec finalis conclusio 
+          <lb ed="#Pa" n="64"/>quod licet hec estimatio prehabita respectu futuri non 
+          <lb ed="#Pa" n="65"/>possit non fuisse nec etiam non fuisse estimatio quod il 
+          <lb ed="#Pa" n="66"/>lud erit potest tamen non fuisse securitas vel preuisio 
+          <!--300.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>vel praescientia et sic de similibus quod illud erit. Sed contra 
+          <lb ed="#Pa" n="68"/>hoc arguit syriensis si per solam preuisionem 
+          ver<lb ed="#Pa" n="69" break="no"/>bi presciatur aliquid futurum delectabile fore sit 
+          <lb ed="#Pa" n="70"/>b. tunc nulla causa est estimanda. b. fore siue ipsum 
+          ade<lb ed="#Pa" n="71" break="no"/>pturum. b. nisi quia relucet este si sic non reluceret omnino in  
+          <lb ed="#Pa" n="72"/>verbo non esset estimatum igitur si tollatur prescientia tolle 
+          <lb ed="#Pa" n="73"/>tur estimatio. Item si stat quod ipse non prescit b. fore 
+          <lb ed="#Pa" n="74"/>nec se adepturum. b. et tamen estimat hoc saltem per 
+          <lb ed="#Pa" n="75"/>simplicem visionem in verbo sequitur quod estimat 
+          il<lb ed="#Pa" n="76" break="no"/>lud quod non apparet sibi verum quod est 
+          impossi<lb ed="#Pa" n="77" break="no"/>bile. Consequentia patet quia ablata prescientia et 
+          po<lb ed="#Pa" n="78" break="no"/>nendo b. non fore non apparet sibi verum quod ipse 
+          adi<lb ed="#Pa" n="79" break="no"/>piscetur b. cum nullam euidentiam habeat ad hoc 
+          <lb ed="#Pa" n="80"/>quin potius deberet dici quod hoc appareret sibi fal 
+          <lb ed="#Pa" n="81"/>sum et suum oppositum verum. Probatur quando esti 
+          <lb ed="#Pa" n="82"/>mat se adepturum. b. et non in visione in verbo. Aut 
+          <lb ed="#Pa" n="83"/>estimat illud tanquam aliquid per se apparens et hoc non 
+          <lb ed="#Pa" n="84"/>cum sit falsum. Aut estimat hoc propter aliam 
+          cogni<lb ed="#Pa" n="85" break="no"/>tionem et hoc non quia ponatur quod non habet cogni 
+          <lb ed="#Pa" n="86"/>tionem nisi in verbo et mediante ista non estimat. b. 
+          <lb ed="#Pa" n="87"/>fore cum ista non representet b. fore sed magis b. 
+          <lb ed="#Pa" n="88"/>non fore. Aut estimat hoc libere quia vult et sequitur 
+          <lb ed="#Pa" n="89"/>quod estimatio sit in libera potestate contra philosophum 
+          se<lb ed="#Pa" n="90" break="no"/>cundo de anima in fine ymo tunc homo posset 
+          libe<lb ed="#Pa" n="91" break="no"/>re estimare quodcunque falsum quod est absurdum. 
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e1212">
+          <lb ed="#Pa" n="92"/>⁋ Ad primum istorum negatur consequentia quia visio in ver 
+          <lb ed="#Pa" n="93"/>bo non est istomodo quo ipse ymaginatur quod 
+          lege<lb ed="#Pa" n="94" break="no"/>ret .q. in libro per vnicum actum simplicem viden 
+          <lb ed="#Pa" n="95"/>di sed aliomodo sicut post tangam.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e1223">
+          ⁋ Ad secundum 
+          <lb ed="#Pa" n="96"/>dico quod non sequitur quod estimet illud quod non  
+          <lb ed="#Pa" n="97"/>apparet sibi verum ymo ibi est firma apparentia 
+          <lb ed="#Pa" n="98"/>quod illud quod apparet sibi verum licet ibi non  
+          <lb ed="#Pa" n="99"/>sit omnimoda euidentia.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e1235">
+          ⁋ Ad tertium dico quod esti 
+          <lb ed="#Pa" n="100"/>mat illud per solam estimationem a deo sibi impres 
+          <lb ed="#Pa" n="101"/>sam deus enim immediate non precise per modum 
+          <lb ed="#Pa" n="102"/>obiecti sed sicut causa voluntaria omipotens cau 
+          <lb ed="#Pa" n="103"/>saret immediate in illo casu visionem sui que siml 
+          <lb ed="#Pa" n="104"/>esset iudicium vel estimatio huiusmodi.
+        </p>
+        <p xml:id="GHYaf3-d1e849-d1e1248">
+          ⁋ Et dico 
+          <lb ed="#Pa" n="105"/>vlterius quod illa visio repraesentat. b. fore nec potest 
+          op<lb ed="#Pa" n="106" break="no"/>positum representare sicut iste dicit et accepit quia cum 
+          <lb ed="#Pa" n="107"/>sit signum mere naturaliter significans non potest per 
+          <lb ed="#Pa" n="108"/>se significare nisi quod per se significat et representat eti 
+          <lb ed="#Pa" n="109"/>am non est in ptante voluntatis stante ista visione in  
+          <lb ed="#Pa" n="110"/>ipsa subiectiue aliter iudicare siue b erit siue 
+          non<lb ed="#Pa" n="111" break="no"/>⁋ Ad argumentum principale satis patet ex respon 
+          <lb ed="#Pa" n="112"/>sione inferente sextam conclusionem quia neganda est 
+          <lb ed="#Pa" n="113"/>secunda consequentia et causa exstitit satis assignata.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

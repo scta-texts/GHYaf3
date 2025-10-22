@@ -1,291 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 4</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 4</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="99-r"/>
-            <cb ed="#Pa" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e668"><!-- GHYaf3-l2q4 -->
-            <head xml:id="GHYaf3-d1e668-Hd1e108">Quaestio 4</head>
-            <head xml:id="GHYaf3-d1e668-Hd1e111" type="question-title">
-      Utrum viator operibus meritoriis insistendo ex hiis carior Deo fiat.
-    </head>
-            <p xml:id="GHYaf3-d1e668-d1e114">
-               <lb ed="#Pa" n="24"/>Quarto circa distinctionem 
-      <lb ed="#Pa" n="25"/>esprimam secundquaeritur. Utrum viator operibus 
-      <lb ed="#Pa" n="26"/>meritoriis insistendo ex his carior deo 
-      <lb ed="#Pa" n="27"/>  iat
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e125">
-      quod non quia tunc ex eis acquireret ma 
-      <lb ed="#Pa" n="28"/>sorem charitatem. Falsitas probatur quia qualiter 
-      fie<lb ed="#Pa" n="29" break="no"/>ret ista maioratio non sine additione ex q. 
-      praeceden<lb ed="#Pa" n="30" break="no"/>tibus non per additionem quia supfluum est fieri per plura 
-      <lb ed="#Pa" n="31"/>quod potest etc. Sed deus effectiue potest augere chari 
-      <lb ed="#Pa" n="32"/>tatem sine additione sicut fecit oe panibus et piscibus 
-      <lb ed="#Pa" n="33"/>matuem i14 15 et 3o 6 igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e141">
-      ⁋ In oppositum arguitur 
-      <lb ed="#Pa" n="34"/>per illud augustini in quadam epiuola ad hiero. et 
-      <lb ed="#Pa" n="35"/>ponitur tertio sententiarum di. 56 ca. qiet vbi dicit 
-      <lb ed="#Pa" n="36"/>et vt generaliter breuiter quod complectar quam de 
-      <lb ed="#Pa" n="37"/>virtutibus habeo notionem virtus est charitas quae 
-      <lb ed="#Pa" n="38"/>illud quod diligendum est diligitur hic etiam in 
-      <lb ed="#Pa" n="39"/>aliis maior in aliis et minor in aliis nulla est 
-      ple<lb ed="#Pa" n="40" break="no"/>nissima vero que iam non possit augeri quandiu hic 
-      <lb ed="#Pa" n="41"/>homo viuit in nemine est igitur semper potest fieri 
-      <lb ed="#Pa" n="42"/>viator charior deo quam sit. Itia quaestio introducta est 
-      <lb ed="#Pa" n="43"/>ad applicandum isti materie sophistica quedam 
-      <lb ed="#Pa" n="44"/>cuiusdam subtilis magistri et soluendum tractan 
-      <lb ed="#Pa" n="45"/>do illa per modum dubiorum.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e171">
-      ⁋ Primum 
-      dubi<lb ed="#Pa" n="46" break="no"/>um ponatur quod petrus et linus in principio b. 
-      ho<lb ed="#Pa" n="47" break="no"/>re sint equaliter deo chari et fiat linus per b. horam 
-      <lb ed="#Pa" n="48"/>continue vniformiter minus charus deo ita quod in.  
-      <lb ed="#Pa" n="49"/>a instanti terminante b. horam cesset esse charus 
-      <lb ed="#Pa" n="50"/>deo tunc queritur vtrum hec sit concedenda petrus 
-      <lb ed="#Pa" n="51"/>in a. est charior deo quam fuit linus immediate ante a. 
-      <lb ed="#Pa" n="52"/>quod sic petrus in a. est charus et ita charus sicut in 
-      <lb ed="#Pa" n="53"/>principio b. vt suppono et linus in aliquo 
-      instan<lb ed="#Pa" n="54" break="no"/>ti. b. hore fuit minus charus multo quam petrus in a. 
-      <lb ed="#Pa" n="55"/>et linus in quolibet instanti inter illud instans dandum 
-      <lb ed="#Pa" n="56"/>et a. fuit charus et minus charus quam in illo instanti 
-      <lb ed="#Pa" n="57"/>dando vt patet ex casu igitur petrus in a. est 
-      cha<lb ed="#Pa" n="58" break="no"/>rior quam fuerit linus immediate ante a.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e202">
-      ⁋ Ad opposi 
-      <lb ed="#Pa" n="59"/>tum si sic vel igitur petrus in a. est in infinitu cha 
-      <lb ed="#Pa" n="60"/>rior etc. vel solum finite si primum igitur est infini 
-      <lb ed="#Pa" n="61"/>te cum comparatiuus presupponit suum positiuum 
-      <lb ed="#Pa" n="62"/>Si secundum sit igitur in decuplo cum in aliquo 
-      <lb ed="#Pa" n="63"/>instanti ante a. petrus fuit in duplo charior lino 
-      <lb ed="#Pa" n="64"/>igitur in quolibet instanti posteriori fuit plusquam 
-      <lb ed="#Pa" n="65"/>duplo charior igitur etiam in. a. petrus est plus in  
-      <!--241.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="66"/>decuplo charior quam fuit linus immediate ante a. Et si 
-      <lb ed="#Pa" n="67"/>mili modo arguitur quecunque alia proportio 
-      de<lb ed="#Pa" n="68" break="no"/>tur et quod in aliquo instanti ante a. fuerit petrus 
-      prae<lb ed="#Pa" n="69" break="no"/>cise in duplo charior lino patet quia omnem 
-      pro<lb ed="#Pa" n="70" break="no"/>portionem ymaginabilem maioris inequalitatis 
-      <lb ed="#Pa" n="71"/>habuit petrus secundum charitatem ad linum inter ter 
-      <lb ed="#Pa" n="72"/>minum equalitatis et vltimum terminum 
-      corona<lb ed="#Pa" n="73" break="no"/>tionis quo scilicet linus desinit habere charitatem 
-      di<lb ed="#Pa" n="74" break="no"/>cendum quod propositio proposita vera est.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e244">
-      ⁋ Ad 
-      ar<lb ed="#Pa" n="75" break="no"/>gumentum in contrarium conceditur quod pe in. a. in 
-      <lb ed="#Pa" n="76"/>infinitum est charior etc. quia plusquam in duplo etc. et non 
-      <lb ed="#Pa" n="77"/>sequitur igitur petrus in a. est infinite charus. Et re 
-      <lb ed="#Pa" n="78"/>gula ve comparatiuo intelligitur quando fit comperatio 
-      <lb ed="#Pa" n="79"/>inter certos gradus aliquarum formarum etc. diceres 
-      <lb ed="#Pa" n="80"/>igitur in infinitum linus fuit minus charus immediate ante a 
-      <lb ed="#Pa" n="81"/>quam petrus sit charus in a. et quod ipsemet fuit in 
-      prin<lb ed="#Pa" n="82" break="no"/>cipio b.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e264">
-      ⁋ Secundum dubium ponitur quod in a. istanti prasenti 
-      <lb ed="#Pa" n="83"/>fuit charitas petri et lini equales et continue per to 
-      <lb ed="#Pa" n="84"/>tam horam post. a. instans fiant equaliter magis 
-      <lb ed="#Pa" n="85"/>charittunc queritur an hec sit concedenda petrus 
-      <lb ed="#Pa" n="86"/>immediate post a. habebit maionem charitatem quam 
-      li<lb ed="#Pa" n="87" break="no"/>nus habebit immediate post a. quod non quia petrus et linus 
-      imme<lb ed="#Pa" n="88" break="no"/>diate post a. habebunt equales charitates. Item si sic igitur 
-      <lb ed="#Pa" n="89"/>linus habebit minonem charitatem simmediate post. a. 
-      Re<lb ed="#Pa" n="90" break="no"/>spondetur concedendo propositum et ad argumenta respondetur 
-      <lb ed="#Pa" n="91"/>vtrobique negando consequentiam. hic possunt applicari consequenter 
-      <lb ed="#Pa" n="92"/>multa sophismata climitionis quae etiam hic ponitur. Ad  
-      <lb ed="#Pa" n="93"/>principale dicit ma. li. 2 di. 16 4 cagister quod talis 
-      mul<lb ed="#Pa" n="94" break="no"/>tiplicatio facta est sine additione etc. et ita etiam de 
-      co<lb ed="#Pa" n="95" break="no"/>sta ade formatum est corpus viri.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e295">
-      ⁋ Concordat hic de sa 
-      <lb ed="#Pa" n="96"/>cra. li. 1 parte 6 ca. 36 et dicunt plura verba si esset 
-      <lb ed="#Pa" n="97"/>bene intelligile quod dixerunt et faceret hoc multum pro opi 
-      <lb ed="#Pa" n="98"/>nione quae ponit charitatem primo paruam sine omni addito 
-      <lb ed="#Pa" n="99"/>per viam multiplicationis maiorari in seipsa. Set non 
-      <lb ed="#Pa" n="100"/>est bene ymaginabile quod praecise materia coste fieret 
-      <lb ed="#Pa" n="101"/>corpus mulieris nisi per rarefactionem et tunc talis 
-      <lb ed="#Pa" n="102"/>multiplicatio non differret a rarefactione sicut proba 
-      <lb ed="#Pa" n="103"/>ri potest per augu. 2 super genesim in fine et per consequens talis 
-      <lb ed="#Pa" n="104"/>multiplicatio non esset opus solius dei vel soli deo 
-      pos<lb ed="#Pa" n="105" break="no"/>sibile quod est contra augustinus super genen. vt recitat ma. 
-      <lb ed="#Pa" n="106"/>di. 10 ca. penultimo et tunc etiam corpus multeris 
-      <lb ed="#Pa" n="107"/>fuisset magis rarum: nec etiam est bene ymaginabile 
-      <lb ed="#Pa" n="108"/>quod ista materia extendatur ad staturam tante 
-      mu<lb ed="#Pa" n="109" break="no"/>lieris et quod esset ita depressa sicut prius vel sicut 
-      requi<lb ed="#Pa" n="110" break="no"/>rit forma mulieris sine omni nouitate materie crea 
-      <lb ed="#Pa" n="111"/>te vel apposite. Probatur hic non oportet multum 
-      cu<lb ed="#Pa" n="112" break="no"/>rare de opinione ma. et hugustinus quia opinio eorum in hoc 
-      <lb ed="#Pa" n="113"/>ducit eos ad vnum inconueniens ab omnibus communiter 
-      nega<lb ed="#Pa" n="114" break="no"/>tum scilicet quod nunquam fuerit nec erit aliquid de substantia 
-      <lb ed="#Pa" n="115"/>hominis alicuius quo ad materiam nisi quod realiter fuerit 
-      <lb ed="#Pa" n="116"/>in primo homine vt patet di. 39 2 cap. penultimo et vltio 
-      <lb ed="#Pa" n="117"/>et hugo. hoc tenet li id est de sacra. c. 17 Set doctores 
-      <lb ed="#Pa" n="118"/>hoc non concedunt quia talis multiplicatio secundum hugo 
-      <lb ed="#Pa" n="119"/>nem vt supra est opus solius dei sicut et creatio igitur et ge 
-      <lb ed="#Pa" n="120"/>neratio humana non est quo aliquod corpus per viam 
-      <lb ed="#Pa" n="121"/>nature vel non est hominis ab homine propagatio per naturam 
-      <lb ed="#Pa" n="122"/>quod est falsum. Istam tamen viam curiosius improban 
-      <lb ed="#Pa" n="123"/>dam aliis reliquo et hic solum capio quod si verum 
-      di<lb ed="#Pa" n="124" break="no"/>cerent ma. et hustinis in hac parte non iuuaret pro 
-      opinio<lb ed="#Pa" n="125" break="no"/>ne de augmento charitatis et aliarum formarum 
-      <lb ed="#Pa" n="126"/>scilicet quod similiter fieret quia aliqua forma fit intensior per actio 
-      <lb ed="#Pa" n="127"/>nem agentis naturalis.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e367">
-      ⁋ Set ista multiplicatio secudum 
-      <lb ed="#Pa" n="128"/>eos secundum ma. et husgni. est opus solius dei quia di. 16 ca. 4.  
-      <lb ed="#Pa" n="129"/>facit istam consequentiam angeli nullam naturam possunt 
-      crea<lb ed="#Pa" n="130" break="no"/>re igitur nec formare costam in muliere nec carnis sup 
-      <lb ed="#Pa" n="131"/>positum in locum coste solus enim deus id est trinitas est 
-      <!--242.xml-->
-      <pb ed="#Pa" n="99-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>creator facta est igitur femina a deo estiam si costa 
-      <lb ed="#Pa" n="2"/>ministrata sit per angelos. Item hugo vbi supra ca 
-      <lb ed="#Pa" n="3"/>33 ponit sex modos operandi et quattuor soli deo 
-      <lb ed="#Pa" n="4"/>possibiles esse scilicet de nihilo aliquid facere de aliquo 
-      <lb ed="#Pa" n="5"/>nihil de aliquo aliqua in maius et de aliquibus 
-      ali<lb ed="#Pa" n="6" break="no"/>quid in minus: et primum est opus creationis secundum 
-      <lb ed="#Pa" n="7"/>multiplicationis etc. Probatur videtur quod ma. et hu. non 
-      <lb ed="#Pa" n="8"/>negent ymo ponunt in tali multiplicatione nouum 
-      <lb ed="#Pa" n="9"/>aliquid fieri et concreari licet negent additionem ma 
-      <lb ed="#Pa" n="10"/>terie preexistentis quia aliter consequentia ma. iam proxime 
-      <lb ed="#Pa" n="11"/>posita non valereti scilicet quod angeli non poterunt facere 
-      <lb ed="#Pa" n="12"/>illam multiplicatione quia nullam possunt concreare 
-      <lb ed="#Pa" n="13"/>naturam. Hugo similiter vbi supra proximo dicit cum 
-      <lb ed="#Pa" n="14"/>de aliquo plus fit aliquid fit quia nisi ineo quod iam 
-      ali<lb ed="#Pa" n="15" break="no"/>quid est aliquid fieret ipsum quod postea plus ibi est 
-      <lb ed="#Pa" n="16"/>non esset. Ecce quam pelane ponit quod ibi sit aliquid in 
-      il<lb ed="#Pa" n="17" break="no"/>lo quod prefuit paruum vt habetur maius duplici 
-      <lb ed="#Pa" n="18"/>ter igitur potest hic dici vno modo tenendo oppositum 
-      <lb ed="#Pa" n="19"/>quod circa hoc ma. improbat pro consequentia.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e427">
-      ⁋ Respondent no 
-      <lb ed="#Pa" n="20"/>stri doctores rationi ma. et hu. qua dicitur si aliquid ex 
-      <lb ed="#Pa" n="21"/>trisecum esset additum tunc potius de illo quod de costa 
-      <lb ed="#Pa" n="22"/>mulier facta deberet dici negando consequentiam quia non 
-      <lb ed="#Pa" n="23"/>fuit facta de illa materia nisi mediante costa facta 
-      <lb ed="#Pa" n="24"/>transmutatione illius materie in costa vel quia sicut 
-      <lb ed="#Pa" n="25"/>videmus quod ad habendam perfectam quantitatem ho 
-      <lb ed="#Pa" n="26"/>minis superadditur plus de materia quam fuerit in se 
-      <lb ed="#Pa" n="27"/>mine et tamenmagis dicimus corpus perfectum esse 
-      <lb ed="#Pa" n="28"/>ex semine quam ex materia superaddita ita hic.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e449">
-      ⁋ Item 
-      <lb ed="#Pa" n="29"/>arguit magister di. 3 ca. vltimo puer qui statim post ortum 
-      <lb ed="#Pa" n="30"/>moritur in illa statura resurget quam habiturus 
-      <lb ed="#Pa" n="31"/>erat si viueret vsque ad etatem 30. annorum. vnde igi 
-      <lb ed="#Pa" n="32"/>tur ista substantia que a deo fuit parua in ortu in 
-      re<lb ed="#Pa" n="33" break="no"/>surrectione tam magna erit nisi sui in se multipli 
-      <lb ed="#Pa" n="34"/>catione.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e465">
-      ⁋ Respondetur quod sufficit quod resurgat in ma 
-      <lb ed="#Pa" n="35"/>teria aliqua quam eius anima informauit vel quae vnquam 
-      <lb ed="#Pa" n="36"/>fuit pars fetus vel embrionis et ista est maior quam 
-      <lb ed="#Pa" n="37"/>requiratur ad staturam hominis magis si tota simul 
-      <lb ed="#Pa" n="38"/>collecta fuerit.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e476">
-      ⁋ Aliter potest hoc teneriper viam iam 
-      <lb ed="#Pa" n="39"/>proximo tactam in vltima auctoritate positam a hugo 
-      <lb ed="#Pa" n="40"/>ne quod ibi creatur vel concrearetur plus de simili et sic fie 
-      <lb ed="#Pa" n="41"/>ret ibi maius quam ande non per appositionem materie extri 
-      <lb ed="#Pa" n="42"/>sece preexistentis et tamen non diceretur illa creari 
-      pro<lb ed="#Pa" n="43" break="no"/>prie sed adcreari sicut primo de generatione habetur quod  
-      <lb ed="#Pa" n="44"/>augmentatio hec differt a generatione est tamen 
-      ve<lb ed="#Pa" n="45" break="no"/>ra aggeneratio et ista via esset clara.
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e494">
-      ⁋ Aliis etiam 
-      <lb ed="#Pa" n="46"/>duobus modis clarissimis posset saluari ista mul 
-      <lb ed="#Pa" n="47"/>tiplicatio sine omni appositione vel concreatione 
-      <lb ed="#Pa" n="48"/>vel accreatione noue materie vnus modus esset 
-      <lb ed="#Pa" n="49"/>v vnumquemque istorum panum deus apposuisset in suis fru 
-      <lb ed="#Pa" n="50"/>stis mediante ministerio discipulor mille hominibus 
-      <lb ed="#Pa" n="51"/>sicut posset vnum corpus ponere in distinctis locis. 
-    </p>
-            <p xml:id="GHYaf3-d1e668-d1e510">
-               <lb ed="#Pa" n="52"/>⁋ Secunds modus esset secundum quem nullus istorum gustaret pa 
-      <lb ed="#Pa" n="53"/>nem quem alius scilicet quod quolibet istor quinque panuymaginetur 
-      <lb ed="#Pa" n="54"/>diuidi in ioo. frusta equalia et tunc habebuntur. ⁋co. 
-      <lb ed="#Pa" n="55"/>frusta equalia faciat igitur deus cuiuslibet istorum frusto 
-      <lb ed="#Pa" n="56"/>rum materiam esse in. ⁋o9. locis et perfici formis omnium 
-      ali<lb ed="#Pa" n="57" break="no"/>orum frustorum et cum hoc sua forma priori quae facto 
-      <lb ed="#Pa" n="58"/>habebuntur .25 oo.9. frusta equalia quoru nullum est aliud 
-      <lb ed="#Pa" n="59"/>nec pars alterius licet pars alia essentialis vnius sit pars 
-      <lb ed="#Pa" n="60"/>essentialis alterius et econuerso nulla tamen integralis 
-      <lb ed="#Pa" n="61"/>vnius est pars integralis alterius eorundem et si ista 
-      fru<lb ed="#Pa" n="62" break="no"/>sta de quantitate vnus panis continebatur 190. 
-      distri<lb ed="#Pa" n="63" break="no"/>buatur in quinque milia hominum cuilibet homin venirent. 5o.  
-      <lb ed="#Pa" n="64"/>frusta quae equalent dimidium panem et hoc videretur 
-      sa<lb ed="#Pa" n="65" break="no"/>tes diminutiores et conueniet cuilibet proportio bene 
-      <lb ed="#Pa" n="66"/>tis pro vna vice et si tot non sufficiant fiat diuisio in par 
-      <!--242.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>maior ecce vna multiplicatio et fidelibus esse 
-      possi<lb ed="#Pa" n="68" break="no"/>bilis fine materia extriuseca addita et forte 
-      mul<lb ed="#Pa" n="69" break="no"/>tas vias eque claras nobis ignotas nouit deus cui 
-      <lb ed="#Pa" n="70"/>non est impossibile omne verbum etc.
-      </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="99-r"/>
+        <cb ed="#Pa" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e668"><!-- GHYaf3-l2q4 -->
+        <head xml:id="GHYaf3-d1e668-Hd1e108">Quaestio 4</head>
+        <head xml:id="GHYaf3-d1e668-Hd1e111" type="question-title">
+          Utrum viator operibus meritoriis insistendo ex hiis carior Deo fiat.
+        </head>
+        <p xml:id="GHYaf3-d1e668-d1e114">
+          <lb ed="#Pa" n="24"/>Quarto circa distinctionem 
+          <lb ed="#Pa" n="25"/>esprimam secundquaeritur. Utrum viator operibus 
+          <lb ed="#Pa" n="26"/>meritoriis insistendo ex his carior deo 
+          <lb ed="#Pa" n="27"/>  iat
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e125">
+          quod non quia tunc ex eis acquireret ma 
+          <lb ed="#Pa" n="28"/>sorem charitatem. Falsitas probatur quia qualiter 
+          fie<lb ed="#Pa" n="29" break="no"/>ret ista maioratio non sine additione ex q. 
+          praeceden<lb ed="#Pa" n="30" break="no"/>tibus non per additionem quia supfluum est fieri per plura 
+          <lb ed="#Pa" n="31"/>quod potest etc. Sed deus effectiue potest augere chari 
+          <lb ed="#Pa" n="32"/>tatem sine additione sicut fecit oe panibus et piscibus 
+          <lb ed="#Pa" n="33"/>matuem i14 15 et 3o 6 igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e141">
+          ⁋ In oppositum arguitur 
+          <lb ed="#Pa" n="34"/>per illud augustini in quadam epiuola ad hiero. et 
+          <lb ed="#Pa" n="35"/>ponitur tertio sententiarum di. 56 ca. qiet vbi dicit 
+          <lb ed="#Pa" n="36"/>et vt generaliter breuiter quod complectar quam de 
+          <lb ed="#Pa" n="37"/>virtutibus habeo notionem virtus est charitas quae 
+          <lb ed="#Pa" n="38"/>illud quod diligendum est diligitur hic etiam in 
+          <lb ed="#Pa" n="39"/>aliis maior in aliis et minor in aliis nulla est 
+          ple<lb ed="#Pa" n="40" break="no"/>nissima vero que iam non possit augeri quandiu hic 
+          <lb ed="#Pa" n="41"/>homo viuit in nemine est igitur semper potest fieri 
+          <lb ed="#Pa" n="42"/>viator charior deo quam sit. Itia quaestio introducta est 
+          <lb ed="#Pa" n="43"/>ad applicandum isti materie sophistica quedam 
+          <lb ed="#Pa" n="44"/>cuiusdam subtilis magistri et soluendum tractan 
+          <lb ed="#Pa" n="45"/>do illa per modum dubiorum.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e171">
+          ⁋ Primum 
+          dubi<lb ed="#Pa" n="46" break="no"/>um ponatur quod petrus et linus in principio b. 
+          ho<lb ed="#Pa" n="47" break="no"/>re sint equaliter deo chari et fiat linus per b. horam 
+          <lb ed="#Pa" n="48"/>continue vniformiter minus charus deo ita quod in.  
+          <lb ed="#Pa" n="49"/>a instanti terminante b. horam cesset esse charus 
+          <lb ed="#Pa" n="50"/>deo tunc queritur vtrum hec sit concedenda petrus 
+          <lb ed="#Pa" n="51"/>in a. est charior deo quam fuit linus immediate ante a. 
+          <lb ed="#Pa" n="52"/>quod sic petrus in a. est charus et ita charus sicut in 
+          <lb ed="#Pa" n="53"/>principio b. vt suppono et linus in aliquo 
+          instan<lb ed="#Pa" n="54" break="no"/>ti. b. hore fuit minus charus multo quam petrus in a. 
+          <lb ed="#Pa" n="55"/>et linus in quolibet instanti inter illud instans dandum 
+          <lb ed="#Pa" n="56"/>et a. fuit charus et minus charus quam in illo instanti 
+          <lb ed="#Pa" n="57"/>dando vt patet ex casu igitur petrus in a. est 
+          cha<lb ed="#Pa" n="58" break="no"/>rior quam fuerit linus immediate ante a.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e202">
+          ⁋ Ad opposi 
+          <lb ed="#Pa" n="59"/>tum si sic vel igitur petrus in a. est in infinitu cha 
+          <lb ed="#Pa" n="60"/>rior etc. vel solum finite si primum igitur est infini 
+          <lb ed="#Pa" n="61"/>te cum comparatiuus presupponit suum positiuum 
+          <lb ed="#Pa" n="62"/>Si secundum sit igitur in decuplo cum in aliquo 
+          <lb ed="#Pa" n="63"/>instanti ante a. petrus fuit in duplo charior lino 
+          <lb ed="#Pa" n="64"/>igitur in quolibet instanti posteriori fuit plusquam 
+          <lb ed="#Pa" n="65"/>duplo charior igitur etiam in. a. petrus est plus in  
+          <!--241.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="66"/>decuplo charior quam fuit linus immediate ante a. Et si 
+          <lb ed="#Pa" n="67"/>mili modo arguitur quecunque alia proportio 
+          de<lb ed="#Pa" n="68" break="no"/>tur et quod in aliquo instanti ante a. fuerit petrus 
+          prae<lb ed="#Pa" n="69" break="no"/>cise in duplo charior lino patet quia omnem 
+          pro<lb ed="#Pa" n="70" break="no"/>portionem ymaginabilem maioris inequalitatis 
+          <lb ed="#Pa" n="71"/>habuit petrus secundum charitatem ad linum inter ter 
+          <lb ed="#Pa" n="72"/>minum equalitatis et vltimum terminum 
+          corona<lb ed="#Pa" n="73" break="no"/>tionis quo scilicet linus desinit habere charitatem 
+          di<lb ed="#Pa" n="74" break="no"/>cendum quod propositio proposita vera est.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e244">
+          ⁋ Ad 
+          ar<lb ed="#Pa" n="75" break="no"/>gumentum in contrarium conceditur quod pe in. a. in 
+          <lb ed="#Pa" n="76"/>infinitum est charior etc. quia plusquam in duplo etc. et non 
+          <lb ed="#Pa" n="77"/>sequitur igitur petrus in a. est infinite charus. Et re 
+          <lb ed="#Pa" n="78"/>gula ve comparatiuo intelligitur quando fit comperatio 
+          <lb ed="#Pa" n="79"/>inter certos gradus aliquarum formarum etc. diceres 
+          <lb ed="#Pa" n="80"/>igitur in infinitum linus fuit minus charus immediate ante a 
+          <lb ed="#Pa" n="81"/>quam petrus sit charus in a. et quod ipsemet fuit in 
+          prin<lb ed="#Pa" n="82" break="no"/>cipio b.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e264">
+          ⁋ Secundum dubium ponitur quod in a. istanti prasenti 
+          <lb ed="#Pa" n="83"/>fuit charitas petri et lini equales et continue per to 
+          <lb ed="#Pa" n="84"/>tam horam post. a. instans fiant equaliter magis 
+          <lb ed="#Pa" n="85"/>charittunc queritur an hec sit concedenda petrus 
+          <lb ed="#Pa" n="86"/>immediate post a. habebit maionem charitatem quam 
+          li<lb ed="#Pa" n="87" break="no"/>nus habebit immediate post a. quod non quia petrus et linus 
+          imme<lb ed="#Pa" n="88" break="no"/>diate post a. habebunt equales charitates. Item si sic igitur 
+          <lb ed="#Pa" n="89"/>linus habebit minonem charitatem simmediate post. a. 
+          Re<lb ed="#Pa" n="90" break="no"/>spondetur concedendo propositum et ad argumenta respondetur 
+          <lb ed="#Pa" n="91"/>vtrobique negando consequentiam. hic possunt applicari consequenter 
+          <lb ed="#Pa" n="92"/>multa sophismata climitionis quae etiam hic ponitur. Ad  
+          <lb ed="#Pa" n="93"/>principale dicit ma. li. 2 di. 16 4 cagister quod talis 
+          mul<lb ed="#Pa" n="94" break="no"/>tiplicatio facta est sine additione etc. et ita etiam de 
+          co<lb ed="#Pa" n="95" break="no"/>sta ade formatum est corpus viri.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e295">
+          ⁋ Concordat hic de sa 
+          <lb ed="#Pa" n="96"/>cra. li. 1 parte 6 ca. 36 et dicunt plura verba si esset 
+          <lb ed="#Pa" n="97"/>bene intelligile quod dixerunt et faceret hoc multum pro opi 
+          <lb ed="#Pa" n="98"/>nione quae ponit charitatem primo paruam sine omni addito 
+          <lb ed="#Pa" n="99"/>per viam multiplicationis maiorari in seipsa. Set non 
+          <lb ed="#Pa" n="100"/>est bene ymaginabile quod praecise materia coste fieret 
+          <lb ed="#Pa" n="101"/>corpus mulieris nisi per rarefactionem et tunc talis 
+          <lb ed="#Pa" n="102"/>multiplicatio non differret a rarefactione sicut proba 
+          <lb ed="#Pa" n="103"/>ri potest per augu. 2 super genesim in fine et per consequens talis 
+          <lb ed="#Pa" n="104"/>multiplicatio non esset opus solius dei vel soli deo 
+          pos<lb ed="#Pa" n="105" break="no"/>sibile quod est contra augustinus super genen. vt recitat ma. 
+          <lb ed="#Pa" n="106"/>di. 10 ca. penultimo et tunc etiam corpus multeris 
+          <lb ed="#Pa" n="107"/>fuisset magis rarum: nec etiam est bene ymaginabile 
+          <lb ed="#Pa" n="108"/>quod ista materia extendatur ad staturam tante 
+          mu<lb ed="#Pa" n="109" break="no"/>lieris et quod esset ita depressa sicut prius vel sicut 
+          requi<lb ed="#Pa" n="110" break="no"/>rit forma mulieris sine omni nouitate materie crea 
+          <lb ed="#Pa" n="111"/>te vel apposite. Probatur hic non oportet multum 
+          cu<lb ed="#Pa" n="112" break="no"/>rare de opinione ma. et hugustinus quia opinio eorum in hoc 
+          <lb ed="#Pa" n="113"/>ducit eos ad vnum inconueniens ab omnibus communiter 
+          nega<lb ed="#Pa" n="114" break="no"/>tum scilicet quod nunquam fuerit nec erit aliquid de substantia 
+          <lb ed="#Pa" n="115"/>hominis alicuius quo ad materiam nisi quod realiter fuerit 
+          <lb ed="#Pa" n="116"/>in primo homine vt patet di. 39 2 cap. penultimo et vltio 
+          <lb ed="#Pa" n="117"/>et hugo. hoc tenet li id est de sacra. c. 17 Set doctores 
+          <lb ed="#Pa" n="118"/>hoc non concedunt quia talis multiplicatio secundum hugo 
+          <lb ed="#Pa" n="119"/>nem vt supra est opus solius dei sicut et creatio igitur et ge 
+          <lb ed="#Pa" n="120"/>neratio humana non est quo aliquod corpus per viam 
+          <lb ed="#Pa" n="121"/>nature vel non est hominis ab homine propagatio per naturam 
+          <lb ed="#Pa" n="122"/>quod est falsum. Istam tamen viam curiosius improban 
+          <lb ed="#Pa" n="123"/>dam aliis reliquo et hic solum capio quod si verum 
+          di<lb ed="#Pa" n="124" break="no"/>cerent ma. et hustinis in hac parte non iuuaret pro 
+          opinio<lb ed="#Pa" n="125" break="no"/>ne de augmento charitatis et aliarum formarum 
+          <lb ed="#Pa" n="126"/>scilicet quod similiter fieret quia aliqua forma fit intensior per actio 
+          <lb ed="#Pa" n="127"/>nem agentis naturalis.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e367">
+          ⁋ Set ista multiplicatio secudum 
+          <lb ed="#Pa" n="128"/>eos secundum ma. et husgni. est opus solius dei quia di. 16 ca. 4.  
+          <lb ed="#Pa" n="129"/>facit istam consequentiam angeli nullam naturam possunt 
+          crea<lb ed="#Pa" n="130" break="no"/>re igitur nec formare costam in muliere nec carnis sup 
+          <lb ed="#Pa" n="131"/>positum in locum coste solus enim deus id est trinitas est 
+          <!--242.xml-->
+          <pb ed="#Pa" n="99-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>creator facta est igitur femina a deo estiam si costa 
+          <lb ed="#Pa" n="2"/>ministrata sit per angelos. Item hugo vbi supra ca 
+          <lb ed="#Pa" n="3"/>33 ponit sex modos operandi et quattuor soli deo 
+          <lb ed="#Pa" n="4"/>possibiles esse scilicet de nihilo aliquid facere de aliquo 
+          <lb ed="#Pa" n="5"/>nihil de aliquo aliqua in maius et de aliquibus 
+          ali<lb ed="#Pa" n="6" break="no"/>quid in minus: et primum est opus creationis secundum 
+          <lb ed="#Pa" n="7"/>multiplicationis etc. Probatur videtur quod ma. et hu. non 
+          <lb ed="#Pa" n="8"/>negent ymo ponunt in tali multiplicatione nouum 
+          <lb ed="#Pa" n="9"/>aliquid fieri et concreari licet negent additionem ma 
+          <lb ed="#Pa" n="10"/>terie preexistentis quia aliter consequentia ma. iam proxime 
+          <lb ed="#Pa" n="11"/>posita non valereti scilicet quod angeli non poterunt facere 
+          <lb ed="#Pa" n="12"/>illam multiplicatione quia nullam possunt concreare 
+          <lb ed="#Pa" n="13"/>naturam. Hugo similiter vbi supra proximo dicit cum 
+          <lb ed="#Pa" n="14"/>de aliquo plus fit aliquid fit quia nisi ineo quod iam 
+          ali<lb ed="#Pa" n="15" break="no"/>quid est aliquid fieret ipsum quod postea plus ibi est 
+          <lb ed="#Pa" n="16"/>non esset. Ecce quam pelane ponit quod ibi sit aliquid in 
+          il<lb ed="#Pa" n="17" break="no"/>lo quod prefuit paruum vt habetur maius duplici 
+          <lb ed="#Pa" n="18"/>ter igitur potest hic dici vno modo tenendo oppositum 
+          <lb ed="#Pa" n="19"/>quod circa hoc ma. improbat pro consequentia.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e427">
+          ⁋ Respondent no 
+          <lb ed="#Pa" n="20"/>stri doctores rationi ma. et hu. qua dicitur si aliquid ex 
+          <lb ed="#Pa" n="21"/>trisecum esset additum tunc potius de illo quod de costa 
+          <lb ed="#Pa" n="22"/>mulier facta deberet dici negando consequentiam quia non 
+          <lb ed="#Pa" n="23"/>fuit facta de illa materia nisi mediante costa facta 
+          <lb ed="#Pa" n="24"/>transmutatione illius materie in costa vel quia sicut 
+          <lb ed="#Pa" n="25"/>videmus quod ad habendam perfectam quantitatem ho 
+          <lb ed="#Pa" n="26"/>minis superadditur plus de materia quam fuerit in se 
+          <lb ed="#Pa" n="27"/>mine et tamenmagis dicimus corpus perfectum esse 
+          <lb ed="#Pa" n="28"/>ex semine quam ex materia superaddita ita hic.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e449">
+          ⁋ Item 
+          <lb ed="#Pa" n="29"/>arguit magister di. 3 ca. vltimo puer qui statim post ortum 
+          <lb ed="#Pa" n="30"/>moritur in illa statura resurget quam habiturus 
+          <lb ed="#Pa" n="31"/>erat si viueret vsque ad etatem 30. annorum. vnde igi 
+          <lb ed="#Pa" n="32"/>tur ista substantia que a deo fuit parua in ortu in 
+          re<lb ed="#Pa" n="33" break="no"/>surrectione tam magna erit nisi sui in se multipli 
+          <lb ed="#Pa" n="34"/>catione.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e465">
+          ⁋ Respondetur quod sufficit quod resurgat in ma 
+          <lb ed="#Pa" n="35"/>teria aliqua quam eius anima informauit vel quae vnquam 
+          <lb ed="#Pa" n="36"/>fuit pars fetus vel embrionis et ista est maior quam 
+          <lb ed="#Pa" n="37"/>requiratur ad staturam hominis magis si tota simul 
+          <lb ed="#Pa" n="38"/>collecta fuerit.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e476">
+          ⁋ Aliter potest hoc teneriper viam iam 
+          <lb ed="#Pa" n="39"/>proximo tactam in vltima auctoritate positam a hugo 
+          <lb ed="#Pa" n="40"/>ne quod ibi creatur vel concrearetur plus de simili et sic fie 
+          <lb ed="#Pa" n="41"/>ret ibi maius quam ande non per appositionem materie extri 
+          <lb ed="#Pa" n="42"/>sece preexistentis et tamen non diceretur illa creari 
+          pro<lb ed="#Pa" n="43" break="no"/>prie sed adcreari sicut primo de generatione habetur quod  
+          <lb ed="#Pa" n="44"/>augmentatio hec differt a generatione est tamen 
+          ve<lb ed="#Pa" n="45" break="no"/>ra aggeneratio et ista via esset clara.
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e494">
+          ⁋ Aliis etiam 
+          <lb ed="#Pa" n="46"/>duobus modis clarissimis posset saluari ista mul 
+          <lb ed="#Pa" n="47"/>tiplicatio sine omni appositione vel concreatione 
+          <lb ed="#Pa" n="48"/>vel accreatione noue materie vnus modus esset 
+          <lb ed="#Pa" n="49"/>v vnumquemque istorum panum deus apposuisset in suis fru 
+          <lb ed="#Pa" n="50"/>stis mediante ministerio discipulor mille hominibus 
+          <lb ed="#Pa" n="51"/>sicut posset vnum corpus ponere in distinctis locis. 
+        </p>
+        <p xml:id="GHYaf3-d1e668-d1e510">
+          <lb ed="#Pa" n="52"/>⁋ Secunds modus esset secundum quem nullus istorum gustaret pa 
+          <lb ed="#Pa" n="53"/>nem quem alius scilicet quod quolibet istor quinque panuymaginetur 
+          <lb ed="#Pa" n="54"/>diuidi in ioo. frusta equalia et tunc habebuntur. ⁋co. 
+          <lb ed="#Pa" n="55"/>frusta equalia faciat igitur deus cuiuslibet istorum frusto 
+          <lb ed="#Pa" n="56"/>rum materiam esse in. ⁋o9. locis et perfici formis omnium 
+          ali<lb ed="#Pa" n="57" break="no"/>orum frustorum et cum hoc sua forma priori quae facto 
+          <lb ed="#Pa" n="58"/>habebuntur .25 oo.9. frusta equalia quoru nullum est aliud 
+          <lb ed="#Pa" n="59"/>nec pars alterius licet pars alia essentialis vnius sit pars 
+          <lb ed="#Pa" n="60"/>essentialis alterius et econuerso nulla tamen integralis 
+          <lb ed="#Pa" n="61"/>vnius est pars integralis alterius eorundem et si ista 
+          fru<lb ed="#Pa" n="62" break="no"/>sta de quantitate vnus panis continebatur 190. 
+          distri<lb ed="#Pa" n="63" break="no"/>buatur in quinque milia hominum cuilibet homin venirent. 5o.  
+          <lb ed="#Pa" n="64"/>frusta quae equalent dimidium panem et hoc videretur 
+          sa<lb ed="#Pa" n="65" break="no"/>tes diminutiores et conueniet cuilibet proportio bene 
+          <lb ed="#Pa" n="66"/>tis pro vna vice et si tot non sufficiant fiat diuisio in par 
+          <!--242.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>maior ecce vna multiplicatio et fidelibus esse 
+          possi<lb ed="#Pa" n="68" break="no"/>bilis fine materia extriuseca addita et forte 
+          mul<lb ed="#Pa" n="69" break="no"/>tas vias eque claras nobis ignotas nouit deus cui 
+          <lb ed="#Pa" n="70"/>non est impossibile omne verbum etc.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

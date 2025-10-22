@@ -1,184 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Prooemium/Collatio</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Prooemium/Collatio</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="-r"/>
-            <cb ed="#Pa" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e771"><!-- GHYaf3-l3proeem -->
-            <head xml:id="GHYaf3-d1e771-Hd1e108">Prooemium/Collatio</head>
-            <p xml:id="GHYaf3-d1e771-d1e111">
-               <lb ed="#Pa" n="24"/>INfuniculis adam 
-      tra<lb ed="#Pa" n="25" break="no"/>ham eos oree. 2xi. Intellectualis ocu 
-      <lb ed="#Pa" n="26"/>li nature desiderium licet ignorantie 
-      <lb ed="#Pa" n="27"/>tenebris obubrati licet impositio 
-      <lb ed="#Pa" n="28"/>legibus obligati caligantis aciei cir 
-      <lb ed="#Pa" n="29"/>cuntert obtuitus et nunc incomplexa rerum formatur 
-      no<lb ed="#Pa" n="30" break="no"/>ticia intuendo et abstrahendo nunc complexa et 
-      scienti<lb ed="#Pa" n="31" break="no"/>fica arguendo et discurrendo vt in delitiis sapientie 
-      <lb ed="#Pa" n="32"/>prout suppetit oblectetur. Sed in scientiis human 
-      <lb ed="#Pa" n="33"/>tus inuentis quicquid occurrit totum cum desipit 
-      do<lb ed="#Pa" n="34" break="no"/>nec in illo superne lucis radio in quo lumen fidei 
-      dif<lb ed="#Pa" n="35" break="no"/>funditur et doctrine salutaris splendescit veritas tunc 
-      <lb ed="#Pa" n="36"/>indulescat et tunc iam sapiat cum ad miraculum refer 
-      <lb ed="#Pa" n="37"/>tur veri diuinitus reuelata illa magis sapiunt dele 
-      <lb ed="#Pa" n="38"/>ctant atque rapiunt que magnalia clamant Christi in po 
-      <lb ed="#Pa" n="39"/>tri sententiis li. 6 3 plenius exarata de quibus ex per 
-      <lb ed="#Pa" n="40"/>sona petri verbum potest accipi preassumptum. In fu 
-      <lb ed="#Pa" n="41"/>niculis. doctrinam namque petri in libro suo 3 de. 
-      q4<lb ed="#Pa" n="42" break="no"/>tradita est conuictiua et allegatiua ibi namque vincui 
-      <lb ed="#Pa" n="43"/>amorosos et alliciunt studiosos propter hoc quod vincunt 
-      <lb ed="#Pa" n="44"/>seu communiungunt funiculi nuncupantur cum praemittitur. 
-    </p>
-            <p xml:id="GHYaf3-d1e771-d1e159">
-               <lb ed="#Pa" n="45"/>⁋ In funiculis Adam non primi vtique sed secundi de 
-      <lb ed="#Pa" n="46"/>quibus dicit apostolus itt ad chomcitur. 17 factus est pri 
-      <lb ed="#Pa" n="47"/>mus adam in animam viuentem nouissimus adam in sprium 
-      <lb ed="#Pa" n="48"/>viuificantem primus de terra terrenus sed secundus de celo ce 
-      <lb ed="#Pa" n="49"/>lestis. Sed ex hoc alliciunt quod intractiua fecundantur 
-      <lb ed="#Pa" n="50"/>sequitur traham eos studiosos scilicet Christi magnalia 
-      per<lb ed="#Pa" n="51" break="no"/>tractando et ipsa studentibus ostendendo sicut 
-      loquie<lb ed="#Pa" n="52" break="no"/>tur augusti. super io. sermone 26 d. reuelatio 
-      tra<lb ed="#Pa" n="53" break="no"/>ctio est ramum videre ostendis oui et trahis illam nu 
-      <lb ed="#Pa" n="54"/>ces puero demonstrantur et trahitur quo currit 
-      tra<lb ed="#Pa" n="55" break="no"/>hitur amando fine lesione corporis trahitur cordis 
-      <lb ed="#Pa" n="56"/>vinculo trahitur ille hec dicit vbi supra dicatur. Ita 
-      <lb ed="#Pa" n="57"/>que in funiculis ade traham eos funtculi illius 
-      ada<lb ed="#Pa" n="58" break="no"/>quattuor sunt ad quos reduci poterunt omnia quae 
-      <lb ed="#Pa" n="59"/>in tertio de Christi magnalibus pertractantur.
-    </p>
-            <p xml:id="GHYaf3-d1e771-d1e194">
-      ⁋ 
-      Pri<lb ed="#Pa" n="60" break="no"/>mus funiculus est incarnationis. Secundus 
-      pas<lb ed="#Pa" n="61" break="no"/>sionis. Tertius habituum impressorum. Quartus le 
-      <lb ed="#Pa" n="62"/>galium praeceptorum.
-    </p>
-            <p xml:id="GHYaf3-d1e771-d1e203">
-      ⁋ Primus funiculus incarnatio 
-      <lb ed="#Pa" n="63"/>nis ex tribus torquetur cordulis 3 scilicet vnione 
-      <lb ed="#Pa" n="64"/>trium naturarum in Christo concurrentium corporis et 
-      <lb ed="#Pa" n="65"/>anime atque deitatis quarum quelibet vnitur cuili 
-      <!--273.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="66"/>bet distincta atque propria vnione et vna quaque 
-      cor<lb ed="#Pa" n="67" break="no"/>dula ex duplici ligamime scilicet ex duabus naturis 
-      con<lb ed="#Pa" n="68" break="no"/>stituitur in eodem vocatur que funiculus et non 
-      <lb ed="#Pa" n="69"/>funis sicut et ceteri similibus congruentiis propter 
-      sim<lb ed="#Pa" n="70" break="no"/>plicitatem diuinitatis et humilitatem 
-      humanita<lb ed="#Pa" n="71" break="no"/>tis de his funiculis seu cordulis scribitur ysalie. h3.  
-      <lb ed="#Pa" n="72"/>omnes funiculi eius non rumpentur id est non omnes quia 
-      <lb ed="#Pa" n="73"/>solum vnicus ex eis videlicet vnio corporis et anime 
-      <lb ed="#Pa" n="74"/>in morte rupta fuit et hu apud homines generliam adepti 
-      <lb ed="#Pa" n="75"/>sunt in origine Adam eccle. 49. et de dei filio dici 
-      <lb ed="#Pa" n="76"/>poterit quod oe primo homine dictum fuit gene 3 
-      Ec<lb ed="#Pa" n="77" break="no"/>ce adam quasi vnus ex nobis factus est hii funiculi. 
-      <lb ed="#Pa" n="78"/>sunt multum difficiles et perplexi viatico captiui in 
-      <lb ed="#Pa" n="79"/>tellectus trahitur cum sapientia de occultis Iob 2. ca. 2 
-      <lb ed="#Pa" n="80"/>Et ibi traxit ma. pe. vt merito dicere possit. In fu 
-      <lb ed="#Pa" n="81"/>niculis adam traham eos.
-    </p>
-            <p xml:id="GHYaf3-d1e771-d1e252">
-      ⁋ Secundus funtculus. 
-      <lb ed="#Pa" n="82"/>licet dominice passionis ex tribus similiter plectitur 
-      <lb ed="#Pa" n="83"/>cordulis linea spinea ac ferrea lignea forsitan in 
-      <lb ed="#Pa" n="84"/>discutione cum iunctus de iudice ad iudicem 
-      per<lb ed="#Pa" n="85" break="no"/>trahitur mathe .27. spinea in coronatione quando 
-      <lb ed="#Pa" n="86"/>a militibus presidis illuditur ibidem. Sed ferrea in 
-      <lb ed="#Pa" n="87"/>crucifixione quando cum clauis ligno affligitur satis 
-      <lb ed="#Pa" n="88"/>enim et amplius ille ligatur qui loco ligaminis pa 
-      <lb ed="#Pa" n="89"/>tibulo conclauatur de hoc funiculo prophetat. psalmum di 
-      <lb ed="#Pa" n="90"/>Donene probasti me et cognouisti me etc. semi. me. et 
-      fu<lb ed="#Pa" n="91" break="no"/>ni. meum inuestigasti nec mirum si inuestigatur illud quod 
-      <lb ed="#Pa" n="92"/>absconditur ibi nempe abscondit se adam gene 5  
-      <lb ed="#Pa" n="93"/>i. Christus quia ibi abscondita est fortitudo eius 
-      aba<lb ed="#Pa" n="94" break="no"/>cut p. 3 de hoc zaches. 3 homo agricola ego sum quam 
-      <lb ed="#Pa" n="95"/>tum ab adam. Exemplum meum ab adolescentia mea 
-      <lb ed="#Pa" n="96"/>dicetur ei quid sunt iste plage in medio manuum 
-      <lb ed="#Pa" n="97"/>tuarum. Et dicet his plagatus sem in medio eorum 
-      <lb ed="#Pa" n="98"/>qui diligebant me hoc funiculo detinemur in 
-      fi<lb ed="#Pa" n="99" break="no"/>de et in Christo trahimur ad salutem. Eao inquit si 
-      ex<lb ed="#Pa" n="100" break="no"/>aliatus fuero a terra omnia traham ad me ipsum 
-      <lb ed="#Pa" n="101"/>Io 12 in funiculis igitur adam traham eos. Ter 
-      <lb ed="#Pa" n="102"/>tius funiculus scilicet habituum impressorum ex tribus 
-      <lb ed="#Pa" n="103"/>iterum plectitur scilicet cordulis habitibus fide scilicet spe 
-      <lb ed="#Pa" n="104"/>et charitate ad quas ceteri reducuntur de quo fu 
-      <lb ed="#Pa" n="105"/>niculo habetur eccle. ca. 4 funiculus triplex diffi 
-      <lb ed="#Pa" n="106"/>cile rumpitur nam quis separabit nos a charitate 
-      <lb ed="#Pa" n="107"/>dei qui spem requirit et fidem tribulatior An 
-      an<lb ed="#Pa" n="108" break="no"/>gustia: an persecutioran fames: an nuditas: an 
-      pe<lb ed="#Pa" n="109" break="no"/>riculum: an gladius et certus sum quia neque mors 
-      <lb ed="#Pa" n="110"/>nec vita nec creatura alia poterit nos separare a 
-      <lb ed="#Pa" n="111"/>charitate dei que est in Christo iesu ad roma.
-    </p>
-            <p xml:id="GHYaf3-d1e771-d1e320">
-      ⁋ quifu 
-      <lb ed="#Pa" n="112"/>it adam qui fuit dei luce. 3 hoc funiculo trahi 
-      desi<lb ed="#Pa" n="113" break="no"/>derat qui clamat in Canti ca. primo trahe me post 
-      <lb ed="#Pa" n="114"/>te tra. inodo etc. In funiculis adam traham eos in  
-      <lb ed="#Pa" n="115"/>vinculis charitatis vbi the. Quartus funtculus 
-      <lb ed="#Pa" n="116"/>legalium preceptorum ex tribus etiam complectitur 
-      <lb ed="#Pa" n="117"/>cordulis ad quas reduci poterit totus decalogus 
-      <lb ed="#Pa" n="118"/>preceptorum cultu superno seruitu superno et de 
-      <lb ed="#Pa" n="119"/>bito fraterno que obseruantes inducit domiens in mon 
-      <lb ed="#Pa" n="120"/>tem sanctificationis id est celum scilicet et forte dimisit eis 
-      <lb ed="#Pa" n="121"/>terram promissionis in funiculo distributionis 77  
-      <lb ed="#Pa" n="122"/>Et quid mirum ista enim est lex adam domine deus et 
-      <lb ed="#Pa" n="123"/>7 opus enim reddet ei iuxta vias singulorum et 
-      re<lb ed="#Pa" n="124" break="no"/>stituet eis si dixerit ad eos cor suum spiritum illius 
-      <lb ed="#Pa" n="125"/>et flatum ad se trahet Iob. 34 in via per gratiam 
-      <lb ed="#Pa" n="126"/>in patria per gloriam quam nobis concedat dei fi 
-      <lb ed="#Pa" n="127"/>lius cuius ad presens noticiam querimus. qui cum 
-      <lb ed="#Pa" n="128"/>patre etc. 
-         <lb ed="#Pa" n="129"/>⁋ Liber tertius.
-      </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prooemium/Collatio</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prooemium/Collatio</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="-r"/>
+        <cb ed="#Pa" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e771"><!-- GHYaf3-l3proeem -->
+        <head xml:id="GHYaf3-d1e771-Hd1e108">Prooemium/Collatio</head>
+        <p xml:id="GHYaf3-d1e771-d1e111">
+          <lb ed="#Pa" n="24"/>INfuniculis adam 
+          tra<lb ed="#Pa" n="25" break="no"/>ham eos oree. 2xi. Intellectualis ocu 
+          <lb ed="#Pa" n="26"/>li nature desiderium licet ignorantie 
+          <lb ed="#Pa" n="27"/>tenebris obubrati licet impositio 
+          <lb ed="#Pa" n="28"/>legibus obligati caligantis aciei cir 
+          <lb ed="#Pa" n="29"/>cuntert obtuitus et nunc incomplexa rerum formatur 
+          no<lb ed="#Pa" n="30" break="no"/>ticia intuendo et abstrahendo nunc complexa et 
+          scienti<lb ed="#Pa" n="31" break="no"/>fica arguendo et discurrendo vt in delitiis sapientie 
+          <lb ed="#Pa" n="32"/>prout suppetit oblectetur. Sed in scientiis human 
+          <lb ed="#Pa" n="33"/>tus inuentis quicquid occurrit totum cum desipit 
+          do<lb ed="#Pa" n="34" break="no"/>nec in illo superne lucis radio in quo lumen fidei 
+          dif<lb ed="#Pa" n="35" break="no"/>funditur et doctrine salutaris splendescit veritas tunc 
+          <lb ed="#Pa" n="36"/>indulescat et tunc iam sapiat cum ad miraculum refer 
+          <lb ed="#Pa" n="37"/>tur veri diuinitus reuelata illa magis sapiunt dele 
+          <lb ed="#Pa" n="38"/>ctant atque rapiunt que magnalia clamant Christi in po 
+          <lb ed="#Pa" n="39"/>tri sententiis li. 6 3 plenius exarata de quibus ex per 
+          <lb ed="#Pa" n="40"/>sona petri verbum potest accipi preassumptum. In fu 
+          <lb ed="#Pa" n="41"/>niculis. doctrinam namque petri in libro suo 3 de. 
+          q4<lb ed="#Pa" n="42" break="no"/>tradita est conuictiua et allegatiua ibi namque vincui 
+          <lb ed="#Pa" n="43"/>amorosos et alliciunt studiosos propter hoc quod vincunt 
+          <lb ed="#Pa" n="44"/>seu communiungunt funiculi nuncupantur cum praemittitur. 
+        </p>
+        <p xml:id="GHYaf3-d1e771-d1e159">
+          <lb ed="#Pa" n="45"/>⁋ In funiculis Adam non primi vtique sed secundi de 
+          <lb ed="#Pa" n="46"/>quibus dicit apostolus itt ad chomcitur. 17 factus est pri 
+          <lb ed="#Pa" n="47"/>mus adam in animam viuentem nouissimus adam in sprium 
+          <lb ed="#Pa" n="48"/>viuificantem primus de terra terrenus sed secundus de celo ce 
+          <lb ed="#Pa" n="49"/>lestis. Sed ex hoc alliciunt quod intractiua fecundantur 
+          <lb ed="#Pa" n="50"/>sequitur traham eos studiosos scilicet Christi magnalia 
+          per<lb ed="#Pa" n="51" break="no"/>tractando et ipsa studentibus ostendendo sicut 
+          loquie<lb ed="#Pa" n="52" break="no"/>tur augusti. super io. sermone 26 d. reuelatio 
+          tra<lb ed="#Pa" n="53" break="no"/>ctio est ramum videre ostendis oui et trahis illam nu 
+          <lb ed="#Pa" n="54"/>ces puero demonstrantur et trahitur quo currit 
+          tra<lb ed="#Pa" n="55" break="no"/>hitur amando fine lesione corporis trahitur cordis 
+          <lb ed="#Pa" n="56"/>vinculo trahitur ille hec dicit vbi supra dicatur. Ita 
+          <lb ed="#Pa" n="57"/>que in funiculis ade traham eos funtculi illius 
+          ada<lb ed="#Pa" n="58" break="no"/>quattuor sunt ad quos reduci poterunt omnia quae 
+          <lb ed="#Pa" n="59"/>in tertio de Christi magnalibus pertractantur.
+        </p>
+        <p xml:id="GHYaf3-d1e771-d1e194">
+          ⁋ 
+          Pri<lb ed="#Pa" n="60" break="no"/>mus funiculus est incarnationis. Secundus 
+          pas<lb ed="#Pa" n="61" break="no"/>sionis. Tertius habituum impressorum. Quartus le 
+          <lb ed="#Pa" n="62"/>galium praeceptorum.
+        </p>
+        <p xml:id="GHYaf3-d1e771-d1e203">
+          ⁋ Primus funiculus incarnatio 
+          <lb ed="#Pa" n="63"/>nis ex tribus torquetur cordulis 3 scilicet vnione 
+          <lb ed="#Pa" n="64"/>trium naturarum in Christo concurrentium corporis et 
+          <lb ed="#Pa" n="65"/>anime atque deitatis quarum quelibet vnitur cuili 
+          <!--273.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="66"/>bet distincta atque propria vnione et vna quaque 
+          cor<lb ed="#Pa" n="67" break="no"/>dula ex duplici ligamime scilicet ex duabus naturis 
+          con<lb ed="#Pa" n="68" break="no"/>stituitur in eodem vocatur que funiculus et non 
+          <lb ed="#Pa" n="69"/>funis sicut et ceteri similibus congruentiis propter 
+          sim<lb ed="#Pa" n="70" break="no"/>plicitatem diuinitatis et humilitatem 
+          humanita<lb ed="#Pa" n="71" break="no"/>tis de his funiculis seu cordulis scribitur ysalie. h3.  
+          <lb ed="#Pa" n="72"/>omnes funiculi eius non rumpentur id est non omnes quia 
+          <lb ed="#Pa" n="73"/>solum vnicus ex eis videlicet vnio corporis et anime 
+          <lb ed="#Pa" n="74"/>in morte rupta fuit et hu apud homines generliam adepti 
+          <lb ed="#Pa" n="75"/>sunt in origine Adam eccle. 49. et de dei filio dici 
+          <lb ed="#Pa" n="76"/>poterit quod oe primo homine dictum fuit gene 3 
+          Ec<lb ed="#Pa" n="77" break="no"/>ce adam quasi vnus ex nobis factus est hii funiculi. 
+          <lb ed="#Pa" n="78"/>sunt multum difficiles et perplexi viatico captiui in 
+          <lb ed="#Pa" n="79"/>tellectus trahitur cum sapientia de occultis Iob 2. ca. 2 
+          <lb ed="#Pa" n="80"/>Et ibi traxit ma. pe. vt merito dicere possit. In fu 
+          <lb ed="#Pa" n="81"/>niculis adam traham eos.
+        </p>
+        <p xml:id="GHYaf3-d1e771-d1e252">
+          ⁋ Secundus funtculus. 
+          <lb ed="#Pa" n="82"/>licet dominice passionis ex tribus similiter plectitur 
+          <lb ed="#Pa" n="83"/>cordulis linea spinea ac ferrea lignea forsitan in 
+          <lb ed="#Pa" n="84"/>discutione cum iunctus de iudice ad iudicem 
+          per<lb ed="#Pa" n="85" break="no"/>trahitur mathe .27. spinea in coronatione quando 
+          <lb ed="#Pa" n="86"/>a militibus presidis illuditur ibidem. Sed ferrea in 
+          <lb ed="#Pa" n="87"/>crucifixione quando cum clauis ligno affligitur satis 
+          <lb ed="#Pa" n="88"/>enim et amplius ille ligatur qui loco ligaminis pa 
+          <lb ed="#Pa" n="89"/>tibulo conclauatur de hoc funiculo prophetat. psalmum di 
+          <lb ed="#Pa" n="90"/>Donene probasti me et cognouisti me etc. semi. me. et 
+          fu<lb ed="#Pa" n="91" break="no"/>ni. meum inuestigasti nec mirum si inuestigatur illud quod 
+          <lb ed="#Pa" n="92"/>absconditur ibi nempe abscondit se adam gene 5  
+          <lb ed="#Pa" n="93"/>i. Christus quia ibi abscondita est fortitudo eius 
+          aba<lb ed="#Pa" n="94" break="no"/>cut p. 3 de hoc zaches. 3 homo agricola ego sum quam 
+          <lb ed="#Pa" n="95"/>tum ab adam. Exemplum meum ab adolescentia mea 
+          <lb ed="#Pa" n="96"/>dicetur ei quid sunt iste plage in medio manuum 
+          <lb ed="#Pa" n="97"/>tuarum. Et dicet his plagatus sem in medio eorum 
+          <lb ed="#Pa" n="98"/>qui diligebant me hoc funiculo detinemur in 
+          fi<lb ed="#Pa" n="99" break="no"/>de et in Christo trahimur ad salutem. Eao inquit si 
+          ex<lb ed="#Pa" n="100" break="no"/>aliatus fuero a terra omnia traham ad me ipsum 
+          <lb ed="#Pa" n="101"/>Io 12 in funiculis igitur adam traham eos. Ter 
+          <lb ed="#Pa" n="102"/>tius funiculus scilicet habituum impressorum ex tribus 
+          <lb ed="#Pa" n="103"/>iterum plectitur scilicet cordulis habitibus fide scilicet spe 
+          <lb ed="#Pa" n="104"/>et charitate ad quas ceteri reducuntur de quo fu 
+          <lb ed="#Pa" n="105"/>niculo habetur eccle. ca. 4 funiculus triplex diffi 
+          <lb ed="#Pa" n="106"/>cile rumpitur nam quis separabit nos a charitate 
+          <lb ed="#Pa" n="107"/>dei qui spem requirit et fidem tribulatior An 
+          an<lb ed="#Pa" n="108" break="no"/>gustia: an persecutioran fames: an nuditas: an 
+          pe<lb ed="#Pa" n="109" break="no"/>riculum: an gladius et certus sum quia neque mors 
+          <lb ed="#Pa" n="110"/>nec vita nec creatura alia poterit nos separare a 
+          <lb ed="#Pa" n="111"/>charitate dei que est in Christo iesu ad roma.
+        </p>
+        <p xml:id="GHYaf3-d1e771-d1e320">
+          ⁋ quifu 
+          <lb ed="#Pa" n="112"/>it adam qui fuit dei luce. 3 hoc funiculo trahi 
+          desi<lb ed="#Pa" n="113" break="no"/>derat qui clamat in Canti ca. primo trahe me post 
+          <lb ed="#Pa" n="114"/>te tra. inodo etc. In funiculis adam traham eos in  
+          <lb ed="#Pa" n="115"/>vinculis charitatis vbi the. Quartus funtculus 
+          <lb ed="#Pa" n="116"/>legalium preceptorum ex tribus etiam complectitur 
+          <lb ed="#Pa" n="117"/>cordulis ad quas reduci poterit totus decalogus 
+          <lb ed="#Pa" n="118"/>preceptorum cultu superno seruitu superno et de 
+          <lb ed="#Pa" n="119"/>bito fraterno que obseruantes inducit domiens in mon 
+          <lb ed="#Pa" n="120"/>tem sanctificationis id est celum scilicet et forte dimisit eis 
+          <lb ed="#Pa" n="121"/>terram promissionis in funiculo distributionis 77  
+          <lb ed="#Pa" n="122"/>Et quid mirum ista enim est lex adam domine deus et 
+          <lb ed="#Pa" n="123"/>7 opus enim reddet ei iuxta vias singulorum et 
+          re<lb ed="#Pa" n="124" break="no"/>stituet eis si dixerit ad eos cor suum spiritum illius 
+          <lb ed="#Pa" n="125"/>et flatum ad se trahet Iob. 34 in via per gratiam 
+          <lb ed="#Pa" n="126"/>in patria per gloriam quam nobis concedat dei fi 
+          <lb ed="#Pa" n="127"/>lius cuius ad presens noticiam querimus. qui cum 
+          <lb ed="#Pa" n="128"/>patre etc. 
+          <lb ed="#Pa" n="129"/>⁋ Liber tertius.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

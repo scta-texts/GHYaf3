@@ -1,942 +1,942 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 3</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 3</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="65-v"/>
-            <cb ed="#Pa" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e440"><!-- GHYaf3-l1d17q3 -->
-            <head xml:id="GHYaf3-d1e440-Hd1e108">Quaestio 3</head>
-            <head xml:id="GHYaf3-d1e440-Hd1e111" type="question-title">
-      Utrum de peccatore possit fieri non peccator et acceptus Deo sine tali habitu sibi infuso per gratiam increatam.
-    </head>
-            <p xml:id="GHYaf3-d1e440-d1e114">
-               <lb ed="#Pa" n="78"/>TErtio circa 
-      distinctio<lb ed="#Pa" n="79" break="no"/>nem 17 Quero vtrum de peccatore 
-      <lb ed="#Pa" n="80"/>possit fieri non peccator et acceptus deo 
-      <lb ed="#Pa" n="81"/>sine habituali gratia infusa Uidetur pri 
-      <lb ed="#Pa" n="82"/>mo
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e127">
-      quod non etiam de quacumque potentia 
-      <lb ed="#Pa" n="83"/>quia culpa non potest remitti peccatori fine dono si 
-      <lb ed="#Pa" n="84"/>bii collato igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e134">
-      ⁋ Antecedens probatur quia 
-      ex<lb ed="#Pa" n="85" break="no"/>pulsio gratie et infusio gratie sunt eadem numero 
-      <lb ed="#Pa" n="86"/>nam expulsio culpe aut est mutatio acquisita et tunc 
-      <lb ed="#Pa" n="87"/>eius terminus est positiuus qui non posset dari a 
-      <lb ed="#Pa" n="88"/>lius a gratia et tunc habetur intentum.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e146">
-      ⁋ Aut est 
-      muta<lb ed="#Pa" n="89" break="no"/>tio. priuativa siue deperditiva et hoc non quia tunc 
-      ter<lb ed="#Pa" n="90" break="no"/>minus a quo esset positiuus sed culpa non est semper 
-      <lb ed="#Pa" n="91"/>aliquid positiuum.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e155">
-      ⁋ Contra non minus posset de 
-      <lb ed="#Pa" n="92"/>us alicui cui offenditur remittere offensam sine eius 
-      <lb ed="#Pa" n="93"/>mutatione ad instantiam alterius quam homo possit 
-      fa<lb ed="#Pa" n="94" break="no"/>cere hoc sed homo frequenter hoc facit igitur. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e164">
-               <lb ed="#Pa" n="95"/>⁋ Item deus posset alicui remittere culpam fine hoc 
-      <lb ed="#Pa" n="96"/>quod reciperet eum ad gratiam que est acceptatio ad  
-      <lb ed="#Pa" n="97"/>vitam eternam. Hic igitur ponenda sunt argumenta 
-      <lb ed="#Pa" n="98"/>ad partem negatiuam
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e175">
-      ⁋ Secundo tenebitur pars affirma 
-      <lb ed="#Pa" n="99"/>tiua.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e180">
-      ⁋ Tertio soluentur rationes in contrarium. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e183">
-               <lb ed="#Pa" n="100"/>⁋ Quarto mouebuntur dubia.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e189">
-      ⁋ Primo autem sic non 
-      <lb ed="#Pa" n="101"/>potest esse transitus ve contradictorio in 
-      contradi<lb ed="#Pa" n="102" break="no"/>ctorium fine mutatione reali sed talis mutatio non 
-      <lb ed="#Pa" n="103"/>potest esse in voluntate diuina igitur erit in illo  
-      <lb ed="#Pa" n="104"/>cui culpa remittitur et cum sit realis habebit terminum 
-      <lb ed="#Pa" n="105"/>realem ad quem positiuum eo quod terminus a quo  
-      <lb ed="#Pa" n="106"/>potest non esse positiuus et per consequens talis 
-      <lb ed="#Pa" n="107"/>terminus est gratia.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e207">
-      ⁋ Item iusticia cum sit formaliter pri 
-      <lb ed="#Pa" n="108"/>uatio non potest formaliter a subiecto apto 
-      na<lb ed="#Pa" n="109" break="no"/>to auferri nisi per habitum oppositum igitur. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e214">
-               <lb ed="#Pa" n="110"/>⁋ Preterea peccator est indignus vita eterna sed quando 
-      <lb ed="#Pa" n="111"/>sit charus deo sit dignus vita eterna igitur cum de 
-      <lb ed="#Pa" n="112"/>peccatore fit acceptus aliquid formaliter recipitur 
-      <lb ed="#Pa" n="113"/>consequentia patet quia ipse non est dignus vita eterna 
-      <lb ed="#Pa" n="114"/>nisi per aliquid inherens sibi formaliter quo 
-      se<lb ed="#Pa" n="115" break="no"/>dum regulas diuine iusticie iudicatur vita 
-      eter<lb ed="#Pa" n="116" break="no"/>na reddenda et nihil tale prius habuit cum erat pec 
-      <lb ed="#Pa" n="117"/>cator igitur insit sibi etc.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e234">
-      ⁋ Preterea deus non ac 
-      <lb ed="#Pa" n="118"/>ceptat peccatorem ad vitam eternam iustificatum 
-      <lb ed="#Pa" n="119"/>vero acceptat quero quid est istum acceptare ad 
-      vi<lb ed="#Pa" n="120" break="no"/>tam eternam et non videtur aliud nisi velle istum secun 
-      <lb ed="#Pa" n="121"/>dum dispositionem quam nunc habet et quam primo non  
-      <lb ed="#Pa" n="122"/>habuit esse dignum tali premio quo prius non  
-      <lb ed="#Pa" n="123"/>sit dignus et ista diuersitas non potest poni in volun 
-      <lb ed="#Pa" n="124"/>tate diuina igitur erit in illo qui acceptatur. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e252">
-               <lb ed="#Pa" n="125"/>⁋ Confirmatur quia volitio diuina que est vnus 
-      a<lb ed="#Pa" n="126" break="no"/>ctus in se non habet rationem oppositorum actuum 
-      <lb ed="#Pa" n="127"/>vt velle et nolle absque distinctione obiectorum 
-      a<lb ed="#Pa" n="128" break="no"/>lioquin contradictoria erunt vera absque distinctio 
-      <lb ed="#Pa" n="129"/>ne cavente illam veritatem igitur cum deus velit istum 
-      <lb ed="#Pa" n="130"/>iustificatum ad aliquid ad quod non vult peccatorem 
-      <lb ed="#Pa" n="131"/>propter quam diuersitatem dicitur diligere iustoa 
-      <!--175.xml-->
-      <pb ed="#Pa" n="66-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>et odire peccatores in scriptura sequitur igitur quod  
-      <lb ed="#Pa" n="2"/>illa distinctio secundum rationem ex parte volitio 
-      <lb ed="#Pa" n="3"/>nis diuine necessario requirit distinctionem actua 
-      <lb ed="#Pa" n="4"/>lem ex parte obiectorum igitur aliter se habet in se quando 
-      <lb ed="#Pa" n="5"/>dicitur dilectus deo et aliter quando oditus.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e287">
-      ⁋ Item si 
-      <lb ed="#Pa" n="6"/>nihil aliud esset in anima istius quando est ancceptus 
-      <lb ed="#Pa" n="7"/>quam quando erat peccator non videtur quod aliquomodo se 
-      <lb ed="#Pa" n="8"/>aliter habeat ad deum nec deus ad ipsum quam prius 
-      <lb ed="#Pa" n="9"/>igitur formaliter aliquid insit sibi de nouo et non 
-      <lb ed="#Pa" n="10"/>fiden neque spes quia iste manserunt in peccatore ergo 
-      cha<lb ed="#Pa" n="11" break="no"/>ritas hec scotus in sententia et fere in verbis. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e304">
-               <lb ed="#Pa" n="12"/>⁋ Item auter secundum legem nunc statutam fit peccatum 
-      <lb ed="#Pa" n="13"/>mortale secundum istam legem formaliter 
-      inclu<lb ed="#Pa" n="14" break="no"/>dit priuationem habitus infusit igitur non tollitur 
-      <lb ed="#Pa" n="15"/>sine infusione habitus.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e315">
-      ⁋ Antecedens probatur quia alias nullus te 
-      <lb ed="#Pa" n="16"/>neretur nisi vitare omne peccatum omissionis et 
-      commis<lb ed="#Pa" n="17" break="no"/>sionis.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e322">
-      ⁋ Item homo non potest ex naturalibus vi 
-      <lb ed="#Pa" n="18"/>tare omne peccatum igitur peccatum priuat aliquam formam 
-      <lb ed="#Pa" n="19"/>que non est in naturali paetante hominis alioqui ha 
-      <lb ed="#Pa" n="20"/>beret ex naturalibus omne positiuum requisitum 
-      <lb ed="#Pa" n="21"/>ad vitandum omne peccatum quod est error pelagium. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e333">
-               <lb ed="#Pa" n="22"/>⁋ Item peccatum repugnat precepto quo obligamur 
-      <lb ed="#Pa" n="23"/>ad implendum mandata ex charitate igitur per 
-      pec<lb ed="#Pa" n="24" break="no"/>catum omittitur charitas ad impletionem 
-      pre<lb ed="#Pa" n="25" break="no"/>cepti requisitam.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e344">
-      ⁋ Item viator meretur quod deus 
-      <lb ed="#Pa" n="26"/>iuste premiet eum aliter deus esset acceptor perso 
-      <lb ed="#Pa" n="27"/>narum sed sic mereri non potest homo ex puris 
-      na<lb ed="#Pa" n="28" break="no"/>turalibus quia est error pelagum de quo lib 2 di. 26  
-      <lb ed="#Pa" n="29"/>sed peccatum priuat meritum igitur oportet quod pri 
-      <lb ed="#Pa" n="30"/>uat aliquid supernaturale.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e357">
-      ⁋ Item vbi est 
-      deno<lb ed="#Pa" n="31" break="no"/>minatio intrinseca impossibile est transire de contra 
-      <lb ed="#Pa" n="32"/>dictorio in contradictorium fine mutatione sub 
-      <lb ed="#Pa" n="33"/>iecti illius de quo vel pro quae verificantur contradictoriasu 
-      <lb ed="#Pa" n="34"/>cessiue.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e369">
-      ⁋ Sed cum de peccatore et non accepto fit 
-      a<lb ed="#Pa" n="35" break="no"/>ceptus ibi est transitus ve contradictorio in 
-      contra<lb ed="#Pa" n="36" break="no"/>dictorium secundum denominationem intrinsecan 
-      <lb ed="#Pa" n="37"/>igitur. Maior patet in exemplis quia quod aliquid fiat ali 
-      <lb ed="#Pa" n="38"/>bum de non albo fine mutatione eius subiectiua 
-      <lb ed="#Pa" n="39"/>et intrinseca est contradictio quia hoc est denomina 
-      <lb ed="#Pa" n="40"/>tio intrinseca in eodem modo etiam quod de non habente 
-      <lb ed="#Pa" n="41"/>gratiam fiat habens gratiam sine forma gratie in ipso rece 
-      <lb ed="#Pa" n="42"/>pta. Maior patet quia peccatum quod modo est peccatum prius 
-      <lb ed="#Pa" n="43"/>gratiam. Et ideo peccator non fit non peccator sine collatio 
-      <lb ed="#Pa" n="44"/>ne gratie quicquid enim feceris si non impleas 
-      praece<lb ed="#Pa" n="45" break="no"/>pta ex gratia est peccatum aliter posset vitare homo omne 
-      <lb ed="#Pa" n="46"/>peccatum ex naturalibus et iniplere omnia precepta ex 
-      <lb ed="#Pa" n="47"/>naturalibus iste igitur transitus sine infusione gratie 
-      <lb ed="#Pa" n="48"/>est impossibilis quia gratia seu charitas quam praeuatpeccatum etce 
-      <lb ed="#Pa" n="49"/>tera huiusmodi dona sunt forme realiter infuse a 
-      <lb ed="#Pa" n="50"/>nime ex concilio vianum. septimo decretalium et qui 
-      <lb ed="#Pa" n="51"/>aliter sentit de sacramentis ecclesie quam sccta roma 
-      <lb ed="#Pa" n="52"/>na igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e411">
-      ⁋ Sed quamuis de fancto et oe potentia 
-      de<lb ed="#Pa" n="53" break="no"/>ordinata nullus de peccatore fiat non peccator sine gratia 
-      <lb ed="#Pa" n="54"/>infusa tamen quin oe potentia absoluta aliter non va 
-      <lb ed="#Pa" n="55"/>leat fieri non video nec credo sed oppositum firmi 
-      <lb ed="#Pa" n="56"/>ter teneo opmando tam de isto peccato loquendo quod de fa 
-      <lb ed="#Pa" n="57"/>cto est peccatum quam de illo quod esset peccatum homine non  
-      <lb ed="#Pa" n="58"/>obligato ad habendum donum supernaturale chari 
-      <lb ed="#Pa" n="59"/>tatis quo scilicet aliquis potest fieri charus deo sine 
-      in<lb ed="#Pa" n="60" break="no"/>fusione alicuius sumpernaturalis tum ad statutum 
-      <lb ed="#Pa" n="61"/>decerto tempore prout supra tactum est tum ad no 
-      <lb ed="#Pa" n="62"/>uitatem bonorum motuum quos voluntas 
-      elice<lb ed="#Pa" n="63" break="no"/>reposset ex naturalibus.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e437">
-      ⁋ Tum tertio quia ad pre 
-      <lb ed="#Pa" n="64"/>ces vel mutationem in alio posset deus 
-      origina<lb ed="#Pa" n="65" break="no"/>le vel actuale peccatum alicui remittere et ad vitam eter 
-      <lb ed="#Pa" n="66"/>nam ipsum ordinare. ymo quod plus est dico quod nec 
-      <!--175.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>oe possibili posset homo tantum peccare quin deus po 
-      <lb ed="#Pa" n="68"/>test sibi remittere totum sine omni dono sibi 
-      super<lb ed="#Pa" n="69" break="no"/>naturaliter inherente deus enim per nullas leges 
-      <lb ed="#Pa" n="70"/>ordinatas priuauit se sua piissima mina et omnipo 
-      <lb ed="#Pa" n="71"/>tentia quin plene et liberrime posset adhuc de qui  
-      <lb ed="#Pa" n="72"/>busdam futuris ita ad omnem partem contradictionis 
-      <lb ed="#Pa" n="73"/>ordinare sicut potuit ab eterno licet non valeat in 
-      <lb ed="#Pa" n="74"/>cipere ordinare sed potest modo contingentissie 
-      <lb ed="#Pa" n="75"/>et liberrime ordinasse de qualibet perte 
-      contradi<lb ed="#Pa" n="76" break="no"/>ctionis futurorum caebilium sicut sibi placet licet 
-      <lb ed="#Pa" n="77"/>hoc solo priuetur deus sicut recte dicit agat hon 
-      se<lb ed="#Pa" n="78" break="no"/>cundum philosophum octauo ethicorum ingenita posse fa 
-      <lb ed="#Pa" n="79"/>cere que vtique sunt iam fcta.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e479">
-      ⁋ Ad probandum autem 
-      <lb ed="#Pa" n="80"/>intentum arguo sicut arguit sco. 4. li. di. 16 q. 
-      2<lb ed="#Pa" n="81" break="no"/>scotus arguit remissio culpe et infusio gratie non sunt 
-      <lb ed="#Pa" n="82"/>eadem mutatio nec sunt realiter idem nec vna 
-      <lb ed="#Pa" n="83"/>includit formaliter aliam igitur culpa posset remit 
-      <lb ed="#Pa" n="84"/>ti absque infusione gratie.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e492">
-      ⁋ Antecedens probatur quia impossi 
-      <lb ed="#Pa" n="85"/>bile est idem plurificari et non plurificari 
-      sumen<lb ed="#Pa" n="86" break="no"/>do vniformiter sumendo scilicet realiter vel 
-      con<lb ed="#Pa" n="87" break="no"/>ceptibiliter quia oppositum repugnaret 
-      primopri<lb ed="#Pa" n="88" break="no"/>cipio scilicet idem simpliciter simul esse vnum et 
-      <lb ed="#Pa" n="89"/>non esse vnum.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e505">
-      ⁋ Sed remissiones culparum sunt 
-      <lb ed="#Pa" n="90"/>multe quando infusio gratie non est nisi vna quelibet namque  
-      <lb ed="#Pa" n="91"/>cul pa habet remissionem propriam et quelibet remissio 
-      <lb ed="#Pa" n="92"/>posset esse sine alia.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e515">
-      ⁋ Item de sfancto angelis qui non 
-      <lb ed="#Pa" n="93"/>peccauerunt deus infudit gratiam sine rsemissione cul 
-      <lb ed="#Pa" n="94"/>pe igitur infusto gratie et remissio culpe possunt 
-      se<lb ed="#Pa" n="95" break="no"/>paramri igitur non sunt idem.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e524">
-      ⁋ Item dneus posset 
-      <lb ed="#Pa" n="96"/>de sua potentia absoluta creare hominem in puris 
-      <lb ed="#Pa" n="97"/>naturalibus sine gratia et sine culpa igitur et post 
-      la<lb ed="#Pa" n="98" break="no"/>tum talem reparare sine infusione gratie et accepta 
-      <lb ed="#Pa" n="99"/>e ad vitam eternam.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e535">
-      ⁋ Item gratia et culpa non sunt for 
-      <lb ed="#Pa" n="100"/>naliter opposita igitur tollere culpam non est idem 
-      <lb ed="#Pa" n="101"/>quod ponere gratiam nec econtra igitur. Antecedens probatur 
-      <lb ed="#Pa" n="102"/>quia tunc sicut voluntas creatam potest effectiue vel 
-      <lb ed="#Pa" n="103"/>defectiue super esse culpe ita posset defectiue vel 
-      <lb ed="#Pa" n="104"/>effectiue super non esse gratie quod falsum est quia 
-      <lb ed="#Pa" n="105"/>tra non destruitur nisi per am nihilationem sed 
-      crea<lb ed="#Pa" n="106" break="no"/>tura non potest aliquid amnihilare quod precise per 
-      <lb ed="#Pa" n="107"/>reationem est producibile quicquid sit de aliis. 
-      <lb ed="#Pa" n="108"/>Confirmatur quia deus non necessario 
-      necessita<lb ed="#Pa" n="109" break="no"/>te absoluta quando ille vult furari vel fornicari 
-      de<lb ed="#Pa" n="110" break="no"/>truit donum positiuum quia ipse solus potest de 
-      <lb ed="#Pa" n="111"/>truere vel creare igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e564">
-      ⁋ Item deus posset 
-      ali<lb ed="#Pa" n="112" break="no"/>iuem absoluere tam a peccato quam etiam a debito habendi gra 
-      <lb ed="#Pa" n="113"/>iam et simul ipsum acceptare ad vitam eternam.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e571">
-      ⁋ Item 
-      <lb ed="#Pa" n="114"/>illa gratia quae est forma posset manere in anima de 
-      <lb ed="#Pa" n="115"/>potentia dei absoluta absque hoc quod remitteretur cul 
-      <lb ed="#Pa" n="116"/>pa vel vnquam in futuris daretur gloria nulla enim 
-      <lb ed="#Pa" n="117"/>forma creabilis in anima potest necessitare deum 
-      <lb ed="#Pa" n="118"/>ad remittendum culpam vel ad conferendum 
-      bea<lb ed="#Pa" n="119" break="no"/>titudinem.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e587">
-      ⁋ Item ostendit sco li. 4 post actum cul 
-      <lb ed="#Pa" n="120"/>pe transeuntem interiorem vel exteriorem non 
-      re<lb ed="#Pa" n="121" break="no"/>manet aliqua iniusticia actualis propria a qua dicitur 
-      <lb ed="#Pa" n="122"/>peccator tali peccato preter iniusticiam habitualem que est 
-      <lb ed="#Pa" n="123"/>carentia gratie quam tenetur habre et propter obligatio 
-      <lb ed="#Pa" n="124"/>nem ad penam correspondentem culpe quae quidem 
-      obliga<lb ed="#Pa" n="125" break="no"/>tio dicitur reatus.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e604">
-      ⁋ Sed istam obligationem deus 
-      <lb ed="#Pa" n="126"/>potest tollere sine infusione gratie et etiam stature quod 
-      <lb ed="#Pa" n="127"/>non teneretur habre gratiam igitur posset sine infusio 
-      <lb ed="#Pa" n="128"/>ne gratie tollem tam iniusticiam habitualem quam istum rea 
-      <lb ed="#Pa" n="129"/>tum igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e615">
-      ⁋ Confirmatur cum dicta 
-      contradi<lb ed="#Pa" n="130" break="no"/>ctionem non includant nisi deus posset ea facere 
-      <lb ed="#Pa" n="131"/>frustra distinguerent doctores oe potentia dei ab  
-      <lb ed="#Pa" n="132"/>soluta et ordinata.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e624">
-      ⁋ Ad soluendum argumentum 
-      <!--176.xml-->
-      <pb ed="#Pa" n="66-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>primum in contrarium subtiliter et diffuse laborat 
-      <lb ed="#Pa" n="2"/>ico li. 4 di. 6 questione secunda et ibi habetur 
-      ple<lb ed="#Pa" n="3" break="no"/>ne istud quod tenet okam de solo transitu temporis 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e640">
-               <lb ed="#Pa" n="4"/>⁋ Respondendum est igitur sicut in questione pre 
-      <lb ed="#Pa" n="5"/>cedente articulo primo et semper aduertendum 
-      <lb ed="#Pa" n="6"/>est quod quem deus semel acceptat ad vitam eternam illum 
-      <lb ed="#Pa" n="7"/>ab eterno acceptabit et determinate licet ille non  
-      <lb ed="#Pa" n="8"/>secundum quemlibet statum suum sit dignus vita 
-      eter<lb ed="#Pa" n="9" break="no"/>na et ideo si pro aliquo tempore est in statu secundum 
-      <lb ed="#Pa" n="10"/>quam est indignus vita eterna deus posset ab eter 
-      <lb ed="#Pa" n="11"/>no ordinasse quod statim pro tempore sequenti velit 
-      <lb ed="#Pa" n="12"/>acceptare statum suum vt ipse secundum talem sta 
-      <lb ed="#Pa" n="13"/>tum, sit dignus vita eterna absque alia mutatione in 
-      <lb ed="#Pa" n="14"/>ter transi tu temponis.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e666">
-      ⁋ Sed contra ponitur quod nullum tem 
-      <lb ed="#Pa" n="15"/>pus sit et fiat argumentum de angelo qui peccauit in in 
-      <lb ed="#Pa" n="16"/>stanti hic respondet quod licet non sit tempus actuale tamen 
-      <lb ed="#Pa" n="17"/>fit tempus potentiale et de illo procedit 
-      ymagina<lb ed="#Pa" n="18" break="no"/>tio sicut prius.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e677">
-      ⁋ Sed licet ista sit vna euasio tantm 
-      <lb ed="#Pa" n="19"/>grauiter est conceptibile quomodo isto homine s 
-      <lb ed="#Pa" n="20"/>forte existente in culpa per vnum diem ipse idem 
-      <lb ed="#Pa" n="21"/>omnino eodemmodo se habens et non aliter in die sequan  
-      <lb ed="#Pa" n="22"/>ti non sit in culpa et sit gratus deo cum vtique deus 
-      <lb ed="#Pa" n="23"/>in sua dilectione et acceptatione sit immutabilis 
-      <lb ed="#Pa" n="24"/>nec dicatur diligere aliquem vno tempore alio 
-      ve<lb ed="#Pa" n="25" break="no"/>ro tempore non nisi referendo hoc ad dilectionis 
-      <lb ed="#Pa" n="26"/>effectum vt patet per ma. li 3 di. 32
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e698">
-      ⁋ Sed secundum di 
-      <lb ed="#Pa" n="27"/>ctam responsionem nullus apparet effectus dile 
-      <lb ed="#Pa" n="28"/>ctionis in isto homine igitur fortoposset dici quod per 
-      <lb ed="#Pa" n="29"/>die illam quando est in culpa. Ideo dicitur peccator quia no 
-      <lb ed="#Pa" n="30"/>habet se conformiter diuine legi sicut tenetur sed  
-      <lb ed="#Pa" n="31"/>talis obligatio ad conformitatem illius legis 
-      ces<lb ed="#Pa" n="32" break="no"/>sat in die sequenti ex voluntate et ordinatione di 
-      <lb ed="#Pa" n="33"/>uina per solam mutationem temporis
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e716">
-      ⁋ Ista euasio 
-      <lb ed="#Pa" n="34"/>est subtilis sed adhuc non apparet hic quid sit mu 
-      <lb ed="#Pa" n="35"/>tatum ratione cuius mutationis possunt verifica 
-      <lb ed="#Pa" n="36"/>ri ista duo contradictoria successiue iste est peccator 
-      <lb ed="#Pa" n="37"/>et iste non est peccator mutatio namque temporis 
-      omni<lb ed="#Pa" n="38" break="no"/>no impertinenter se habet ad hoc nec est simile de prae 
-      <lb ed="#Pa" n="39"/>cipe vel de alio homine faciente statutum de nummo vel de 
-      <lb ed="#Pa" n="40"/>aliquo ordinate qui peccauit in ipsum quod aliquo 
-      <lb ed="#Pa" n="41"/>tempore elapso debeat non esse in offensa quo ad  
-      <lb ed="#Pa" n="42"/>ipsum quia ibi erit realis mutatio vel in affectione prin 
-      <lb ed="#Pa" n="43"/>cipis vel alicuius alterius licet igitur dicta 
-      con<lb ed="#Pa" n="44" break="no"/>tradictoria successiue possit verificari absque 
-      infu<lb ed="#Pa" n="45" break="no"/>sione noui habitus tamen difficile est videre quin 
-      opor<lb ed="#Pa" n="46" break="no"/>teat ibi esse actum nouum vel effectum vel muta 
-      <lb ed="#Pa" n="47"/>tionem aliquam circa illum qui debet fieri non pec 
-      <lb ed="#Pa" n="48"/>cator postquam fuit peccator.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e751">
-      ⁋ Ad secundum dicendum 
-      <lb ed="#Pa" n="49"/>quod iniusticia potest duplicitur accipi vnomodo prout est 
-      <lb ed="#Pa" n="50"/>priuatio vel carentia talis forme que est iusticia 
-      <lb ed="#Pa" n="51"/>vel charitas in subiecto apto nato et sic includerm 
-      <lb ed="#Pa" n="52"/>repugnantiam tollere iniusticiam vel talem 
-      priuatio<lb ed="#Pa" n="53" break="no"/>nem nisi per positionem habitus et hoc idem dico 
-      <lb ed="#Pa" n="54"/>generaliter de quacumque praeuatione sic dicta.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e767">
-      ⁋ Alio 
-      <lb ed="#Pa" n="55"/>modo potest vocari iniusticia seu praeuatio iusticie 
-      <lb ed="#Pa" n="56"/>carentia iusticie siue charitatis in subiecto apto 
-      <lb ed="#Pa" n="57"/>nato illam recipere quando tenetur illam non habre iuxta 
-      <lb ed="#Pa" n="58"/>modum philosophy in postpredicamentis et quinto metha 
-      <lb ed="#Pa" n="59"/>et isto modo iusticia scilicet habitus ille et priua 
-      <lb ed="#Pa" n="60"/>tio iusticie non sunt immediata circa idem subie 
-      <lb ed="#Pa" n="61"/>ctum ymo posset aliquis non habere iusticiam et cum 
-      <lb ed="#Pa" n="62"/>hoc non obligari ad eam habendum et tunc non esset 
-      <lb ed="#Pa" n="63"/>priuatus iusticia nec haberet iusticiam sic sumpta pra 
-      <lb ed="#Pa" n="64"/>uatione iusticie ex quo patet solutio rationis quia secun 
-      <lb ed="#Pa" n="65"/>do modo inusticia non est precise priuatio habitus 
-      <lb ed="#Pa" n="66"/>iusticie nisi pro tempore quando talis habitus debet inesse 
-      <!--176.xml-->
-      <cb ed="#Pa" n="b"/>
-            </p>
-            <p xml:id="GHYaf3-d1e440-d1e800">
-               <lb ed="#Pa" n="67"/>⁋ Et ideo si deus tollit obligationem talis debiti sine 
-      <lb ed="#Pa" n="68"/>infusione habitus tunc cessat esse talis priuati o si 
-      <lb ed="#Pa" n="69"/>ne positione alicuius habitus absoluti. Aliter re 
-      <lb ed="#Pa" n="70"/>pondetur quod peccatum vel iniusticia non est formaliter 
-      <lb ed="#Pa" n="71"/>priuatio alicuius habitus sed est priuatio alicu 
-      <lb ed="#Pa" n="72"/>ius rectitudinis debite inesse et secundum legem 
-      <lb ed="#Pa" n="73"/>ordinatam ad habendum talem rectitudinem requiritur 
-      <lb ed="#Pa" n="74"/>habitus non tamen oportet absolute loquendo quod recti 
-      <lb ed="#Pa" n="75"/>tudo debita inesse consistit in conformiter se habe 
-      <lb ed="#Pa" n="76"/>re obligationi diuine siue positiue siue negatiue 
-      <lb ed="#Pa" n="77"/>et igitur talis si est in peccato mortali quia difformiter 
-      <lb ed="#Pa" n="78"/>se habet obligationi deus posset facere eum non esse 
-      <lb ed="#Pa" n="79"/>in peccato vel tollendo illam obligationem vel facien 
-      <lb ed="#Pa" n="80"/>do quod ipse conformiter se habeat illi obligationi con 
-      <lb ed="#Pa" n="81"/>missiue vel omissiue vel acceptando vitam suam
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e835">
-      ⁋ Et 
-      <lb ed="#Pa" n="82"/>sic etiam diceretur quod talis mutaretur ad habsondum se 
-      <lb ed="#Pa" n="83"/>conformiter legi omie cui prius se habebat diffor 
-      <lb ed="#Pa" n="84"/>miter.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e845">
-      ⁋ Ad tertium patet ex dictis quia licet de facto 
-      <lb ed="#Pa" n="85"/>sic quod sit quis qui non est dignus etc. tamen deus posset 
-      <lb ed="#Pa" n="86"/>aliter ordinare.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e852">
-      ⁋ Ad quartum patet sicut ad primum 
-      <lb ed="#Pa" n="87"/>quia talis diuersitas nec esset in voluntate diuina nec 
-      <lb ed="#Pa" n="88"/>in illo qui sit charus deo tamen oriretur a voluntate 
-      <lb ed="#Pa" n="89"/>diuina per istum modum quia deus si eternaliter ordi 
-      <lb ed="#Pa" n="90"/>nasset quod iste si morentur circa a punireretur perpetue 
-      <lb ed="#Pa" n="91"/> Si vero in a. et deinceps non sequitur quod iste pro 
-      <lb ed="#Pa" n="92"/>toto tempore citra. a est indignus vita eterna se 
-      <lb ed="#Pa" n="93"/>cundum presentem statum et si attingat A vel tran 
-      <lb ed="#Pa" n="94"/>seat statim est dignus vita eterna et hoc non propter 
-      <lb ed="#Pa" n="95"/>variationem vel diuersitatem in actu dei nec in isto 
-      <lb ed="#Pa" n="96"/>si solum propter transitum temporis.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e876">
-      ⁋ Ad confir 
-      <lb ed="#Pa" n="97"/>mationem dicendum quod ibi est alietas et diuersitas 
-      <lb ed="#Pa" n="98"/>ex perte obiectorum quia actus ille diuinus est 
-      colla<lb ed="#Pa" n="99" break="no"/>tiuus istius peccatoris ad diuersa tempora et dispo 
-      <lb ed="#Pa" n="100"/>sitiuus de eo aliter et aliter secundum alietatem 
-      <lb ed="#Pa" n="101"/>temporum.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e889">
-      ⁋ Ideo ad successionem ta lium 
-      tempo<lb ed="#Pa" n="102" break="no"/>rum circa ipsum absque mutatione sui sed non 
-      si<lb ed="#Pa" n="103" break="no"/>ne mutatione que fieret si decederet aliter se hab 
-      <lb ed="#Pa" n="104"/>et aliter quo ad acceptari vel non acceptari
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e898">
-      ⁋ Ad  
-      <lb ed="#Pa" n="105"/>quintum per idem.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e903">
-      ⁋ Ad primum argumentum al 
-      <lb ed="#Pa" n="106"/>terius doctoris patet ex dictis quia non procedit 
-      <lb ed="#Pa" n="107"/>nisi de lege dei ordinata.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e911">
-      ⁋ Ad secundum antece 
-      <lb ed="#Pa" n="108"/>dens et tota ratio est oe potentia dei ordinata 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e916">
-               <lb ed="#Pa" n="109"/>⁋ Ad tertium et quartum per idem et etiam in quaer 
-      <lb ed="#Pa" n="110"/>to assumitur falsum scilicet quod deus esset acceptor 
-      <lb ed="#Pa" n="111"/>personarum etc. nec instantia est oe paruulis 
-      qui<lb ed="#Pa" n="112" break="no"/>bus absque eorum merito deus confert vitam eter 
-      <lb ed="#Pa" n="113"/>nam.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e929">
-      ⁋ Ad quintum negatur maior absolute et vni 
-      <lb ed="#Pa" n="114"/>uersaliter accepta quia esse charum vel acceptum 
-      <lb ed="#Pa" n="115"/>deo non est per se denominatio ab aliqua forma in 
-      <lb ed="#Pa" n="116"/>trinseca sed sufficit extrinsecum scilicet accepta 
-      <lb ed="#Pa" n="117"/>tio diuina licet iam de facto ita sit quod aliqua qua 
-      <lb ed="#Pa" n="118"/>litas requiritur scilicet gratia vt patet ex dictis. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e942">
-               <lb ed="#Pa" n="119"/>⁋ Primum dubium si peccatum mortale et gratia informans 
-      <lb ed="#Pa" n="120"/>non habent ex naturis suis formalem repug nantiam vt pre 
-      <lb ed="#Pa" n="121"/>dictum est igitur posset deus oe potentia absoluta 
-      <lb ed="#Pa" n="122"/>acceptare aliquem actum ex genere illius qui rema 
-      <lb ed="#Pa" n="123"/>neret in culpo mortali ad vitam eternam. consequen 
-      <lb ed="#Pa" n="124"/>tia patet quia omnem habentem talem gratiam 
-      po<lb ed="#Pa" n="125" break="no"/>test deus oe potentia absoluta acceptare ad praemium 
-      <lb ed="#Pa" n="126"/>eternum pro actu bono ex genere a voluntate et ta 
-      <lb ed="#Pa" n="127"/>li gratia seu charitate prouemente non obstante 
-      <lb ed="#Pa" n="128"/>quocumque quod stare posset per eandem potentiam 
-      <lb ed="#Pa" n="129"/>cum illa charitate maxime quia non plus repu 
-      <lb ed="#Pa" n="130"/>gnaret formaliter visio dei aut fruitio beatifica 
-      <lb ed="#Pa" n="131"/>peccato quam ipsa gratia. Falsitas probatur quia tunc 
-      <lb ed="#Pa" n="132"/>precise secundum eundem statum esset acceptus 
-      <!--177.xml-->
-      <pb ed="#Pa" n="67-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>deo ad premium eternum et esset debitor pene eter 
-      <lb ed="#Pa" n="2"/>ne si per seueraret in illo statu esset habiturus vitam 
-      <lb ed="#Pa" n="3"/>eternam et esset cariturus vita eterna propter penam 
-      <lb ed="#Pa" n="4"/>damni sed hoc implicat igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e990">
-      ⁋ Respondetur per duas 
-      propo<lb ed="#Pa" n="5" break="no"/>sitiones prima quod gratia creata oe potentia dei 
-      abso<lb ed="#Pa" n="6" break="no"/>luta stare potest cum culpa mortali.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e997">
-      ⁋ Secunda quod tunc 
-      <lb ed="#Pa" n="7"/>talis qualitas quae est gratia non remaneret gratia si 
-      <lb ed="#Pa" n="8"/>staret cum culpa mortali quod intelligendum est quod non  
-      <lb ed="#Pa" n="9"/>maneret gratia illi sic quod ille per eam esset gratus et ac 
-      <lb ed="#Pa" n="10"/>ceptus ad vitam eternam et per hoc ad argumentum ne 
-      <lb ed="#Pa" n="11"/>gatur consequentia vt patet ex dictis.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1011">
-      ⁋ Contra obiicitur proban 
-      <lb ed="#Pa" n="12"/>do quod simul stant quod aliquis permaneat charus deo et 
-      <lb ed="#Pa" n="13"/>tamen quod pro culpa sua simul secundum presentem iusticiam 
-      <lb ed="#Pa" n="14"/>nisi se emendet sit puniendus eternaliter tam pena 
-      <lb ed="#Pa" n="15"/>sensus quam pena damni et damnum voco eternaliter caren 
-      <lb ed="#Pa" n="16"/>tiam visionis et fruitionis beatifice. hanc autem caren 
-      <lb ed="#Pa" n="17"/>tiam omnes vocant penam damni debitam pro mortali.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1027">
-      ⁋ 
-      Sup<lb ed="#Pa" n="18" break="no"/>pono igitur quod deus praecipiat alicui sub pena vnius diei 
-      <lb ed="#Pa" n="19"/>in igne purgatorii quod non permaneat in a. culpa veni 
-      <lb ed="#Pa" n="20"/>ali per totam primam partem proportionalem diei crastine et 
-      <lb ed="#Pa" n="21"/>sub pena duor dierum in purgatorio quod non 
-      perma<lb ed="#Pa" n="22" break="no"/>neat in. a. per duas primas partes proportionales diei 
-      <lb ed="#Pa" n="23"/>crastine et sub pena trium quod non per tres et sic sine fine 
-      <lb ed="#Pa" n="24"/>consequenter de omnibus aliis posterioribus infinitis 
-      <lb ed="#Pa" n="25"/>et cum in contrarium perseueret iste per totum die 
-      cra<lb ed="#Pa" n="26" break="no"/>stinum in culpa illa veniali.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1049">
-      ⁋ Tunc arguitur iste ha 
-      <lb ed="#Pa" n="27"/>bebit tam penam damni quam sensus ponatur casus de 
-      <lb ed="#Pa" n="28"/>vtraque per infinitos dies et portabit vtramque penam per 
-      <lb ed="#Pa" n="29"/>instans sine fine et tamen non desinit habere gratiam quia cul 
-      <lb ed="#Pa" n="30"/>pa sua per casum solum erit venialis igitur ex posito 
-      si<lb ed="#Pa" n="31" break="no"/>mul habet iste gratiam et tamen est dignus pena eter 
-      <lb ed="#Pa" n="32"/>na tam sensus quam damni.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1065">
-      ⁋ Dicendum est quod iste peccauit 
-      <lb ed="#Pa" n="33"/>mortaliter licet solum venialiter vsque ad finem illius 
-      <lb ed="#Pa" n="34"/>diei peccauit vel vsque ad instans praecedens finem illius 
-      <lb ed="#Pa" n="35"/>diei per mininum tempus ab eo perceptibile vel 
-      maxi<lb ed="#Pa" n="36" break="no"/>mum ab eo non perceptibile secudum circunstantias tunc 
-      <lb ed="#Pa" n="37"/>praensentes inde ex tunc est culpabilis mortaliter quia 
-      <lb ed="#Pa" n="38"/>non cessauit infra tempus quod sibi praecipiebat sub in  
-      <lb ed="#Pa" n="39"/>timatione pene eterne quod cessaret et tale praeceptum 
-      <lb ed="#Pa" n="40"/>deliberate pretergredi est mortaliter peccare non sic 
-      <lb ed="#Pa" n="41"/>autem peccauit quadiu plene potuit scienter et deli 
-      <lb ed="#Pa" n="42"/>berate in partibus futuri temporis sibi praestituti actum 
-      <lb ed="#Pa" n="43"/>illum dimittere venialem et consequenter.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1091">
-      ⁋ Dicendum 
-      <lb ed="#Pa" n="44"/>est vlterius quasi per omnia sicut ad illud de peccato antnedemo 
-      <lb ed="#Pa" n="45"/>giste dictum est prius loco suo de quo vide supra. q. xi. 
-      <lb ed="#Pa" n="46"/>articulo secundo dubio secundo.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1100">
-      ⁋ Etiam posset dici quod licet 
-      <lb ed="#Pa" n="47"/>dicta pena non stet simul in eodem cum charitate se 
-      <lb ed="#Pa" n="48"/>cundu legem nunc ordinatam tamen absolute bene 
-      pos<lb ed="#Pa" n="49" break="no"/>set esse quod aliquis sic eternaliter puniretur et esset in 
-      <lb ed="#Pa" n="50"/>charitate qua diligeret deum super omnia et cum hoc esset 
-      <lb ed="#Pa" n="51"/>contentus quod deus tantum bonum sibi fecisset et eti 
-      <lb ed="#Pa" n="52"/>am patienter sustineret vtramque penam sensus et damni 
-      <lb ed="#Pa" n="53"/>considerata inobedientia sua.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1119">
-      ⁋ Secundum dubium an in  
-      <lb ed="#Pa" n="54"/>baptismo infundatur gratia creata videtur quod non quia 
-      <lb ed="#Pa" n="55"/>hoc maxime argueret decretalis 7 superius 
-      alle<lb ed="#Pa" n="56" break="no"/>gata sed ista non cogit hoc ponere qui ista non 
-      asse<lb ed="#Pa" n="57" break="no"/>rit gratiam in baptismo creari sed approbat 
-      opinio<lb ed="#Pa" n="58" break="no"/>nem que ponit quod in baptismo virtutes et informans 
-      <lb ed="#Pa" n="59"/>gratia infunduntur et peccatum ibi remittitur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1135">
-      ⁋ Sed  
-      <lb ed="#Pa" n="60"/>hec possunt saluari fine gratia creata quia ipsemet. 
-      <lb ed="#Pa" n="61"/>si vt videtur est gratia informans quemlibet fidelem 
-      <lb ed="#Pa" n="62"/>deo charumet spiritus sanctust charitas sua et ipse est 
-      tem<lb ed="#Pa" n="63" break="no"/>plusiritus sanctus habitaculum eius vt docet scriptura et 
-      <lb ed="#Pa" n="64"/>hoc tenet syprans etc.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1148">
-      ⁋ In contrarium tamen mouet 
-      <lb ed="#Pa" n="65"/>me quod omnes antiqui scribentes posuerunt deum nec con 
-      <lb ed="#Pa" n="66"/>positum secundum se nec alteri componibilem nec 
-      <!--177.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>materiam nec formam informantem nec ab aliquo 
-      <lb ed="#Pa" n="68"/>audiui contrarium preterquam ab vno qui a suis 
-      com<lb ed="#Pa" n="69" break="no"/>pulsus est istam sententiam retractare.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1166">
-      ⁋ Cuius 
-      mo<lb ed="#Pa" n="70" break="no"/>tiuum fuit quia dare perfectionem non arguit 
-      imper<lb ed="#Pa" n="71" break="no"/>fectionem in dante sed formam informare materi 
-      <lb ed="#Pa" n="72"/>am non est nisi sibi dare perfectionem igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1175">
-      ⁋ Set 
-      <lb ed="#Pa" n="73"/>contra esse partem essentialem arguit 
-      imperfectio<lb ed="#Pa" n="74" break="no"/>iem.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1182">
-      ⁋ Item tunc quia ex deo et homine per ipsum in  
-      <lb ed="#Pa" n="75"/>ormabile fieret per se vnum sicut ex materia et 
-      <lb ed="#Pa" n="76"/>forma sequitur quod aliqua entitas per se vna esset 
-      <lb ed="#Pa" n="77"/>melior deo quia in bonis omne totum est melius sua 
-      <lb ed="#Pa" n="78"/>parte.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1194">
-      ⁋ Item cum operationes vere forme licet 
-      me<lb ed="#Pa" n="79" break="no"/>diate et quasi per accidens conueniant 
-      informa<lb ed="#Pa" n="80" break="no"/>to sicut disgregare vel videri conuenit subiecto al 
-      <lb ed="#Pa" n="81"/>bedinis sequitur quod quilibet iustus fidelis licet non  
-      <lb ed="#Pa" n="82"/>per se sedi spiritus sancto formam suam creet mundum vel 
-      guber<lb ed="#Pa" n="83" break="no"/>net et conseruet et faciet omnia quae deus vult consequens 
-      <lb ed="#Pa" n="84"/>non est dandum.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1210">
-      ⁋ Item tunc deus posset esse intellectio 
-      <lb ed="#Pa" n="85"/>qua anima formaliter intelligit et dilectio qua 
-      dili<lb ed="#Pa" n="86" break="no"/>git et delectatio qua formaliter delectatur quod  
-      <lb ed="#Pa" n="87"/>non est dicendum.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1219">
-      ⁋ Item sequitur quod anima talis vel an 
-      <lb ed="#Pa" n="88"/>gelus esset deus vel deitas omnis enim forma nata est 
-      <lb ed="#Pa" n="89"/>denominare suum perfectibile secundm suam entitatem.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1226">
-      ⁋ Item 
-      <lb ed="#Pa" n="90"/>tunc anima talis non minus informaretur patre et fi quam. si 
-      <lb ed="#Pa" n="91"/>et per consequens cum accidens forme tribuatur mediate illi quod 
-      <lb ed="#Pa" n="92"/>informat sequitur non solum quod anima talis operetur media 
-      <lb ed="#Pa" n="93"/>te ad extra quicquid ageret deus ymo et quod generaret 
-      <lb ed="#Pa" n="94"/>filium et spiratert spiritus sanctus nec plus scirem hoc ratnabiliter 
-      <lb ed="#Pa" n="95"/>vitare quam quod subiectum albedinis videatur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1242">
-      ⁋ Et si dica 
-      <lb ed="#Pa" n="96"/>tur quod equoce est forma talis cum aliis formis illud  
-      <lb ed="#Pa" n="97"/>non valet quia non potest illam equocationem ponere nisi 
-      <lb ed="#Pa" n="98"/>in hoc quia non dependet a sua materia sicut alie 
-      for<lb ed="#Pa" n="99" break="no"/>me ita et certe nec anima intellectiua dependet cum per 
-      <lb ed="#Pa" n="100"/>naturam possit remanere sine subiecto vt patet in mor 
-      <lb ed="#Pa" n="101"/>te naturali.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1258">
-      ⁋ Econtra arguit iste doctor certum est enim 
-      <lb ed="#Pa" n="102"/>inquit quod deus et nobis et angelis inheret formaliter licet 
-      <lb ed="#Pa" n="103"/>equoce fine dependentia a subiecto hoc enim 
-      manife<lb ed="#Pa" n="104" break="no"/>stum est ex theologia et philosophia ex theologia patet dicit 
-      au<lb ed="#Pa" n="105" break="no"/>gu. 2 de li. ar. ca. 26 cum feretur itaque vt et corpus et anims 
-      <lb ed="#Pa" n="106"/>forma quadam incommutabili et semper manente formaliter cui 
-      <lb ed="#Pa" n="107"/>forme dictum est mutabis ea et mutabuntur tu autem idem 
-      <lb ed="#Pa" n="108"/>prase es etc. ecce enim quod deus non solum est forma animmi sed est 
-      <lb ed="#Pa" n="109"/>corporis.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1279">
-      ⁋ Item lyconiensis 3 ca.l celestis ierarchie 
-      <lb ed="#Pa" n="110"/>nte tertia pulchie et ex intentione declarat quod deitas est 
-      <lb ed="#Pa" n="111"/>est esse existentium et vertus viuifica viuentium et sensitiua sen 
-      <lb ed="#Pa" n="112"/>sientium et sapientia sapientium.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1288">
-      ⁋ Item commentator 3 de 
-      <lb ed="#Pa" n="113"/>anima commento. 5 sus finem detur quod quemadmodum esse 
-      sensibi<lb ed="#Pa" n="114" break="no"/>le diuiditur in formam et materiam fic ens sensibile opet 
-      di<lb ed="#Pa" n="115" break="no"/>uidi in aliquod simile materie et in aliquod simile forme. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1297">
-               <lb ed="#Pa" n="116"/>⁋ Et commento i4 intelligentie abstracte per se perficiuntur 
-      <lb ed="#Pa" n="117"/>et recipiunt se praeter primam quae libera est ab hac natura. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1304">
-               <lb ed="#Pa" n="118"/>⁋ Et qui negant primam formam informare alias remitto 
-      <lb ed="#Pa" n="119"/>omnes in 12 metha vt addiscant in commento 2ii. quomodo vnus quis 
-      <lb ed="#Pa" n="120"/>que motor orbium celestium perficitur per primum motonem et vt 
-      <lb ed="#Pa" n="121"/>idiscant in commento 12 quomodomes portester primam formam compo 
-      <lb ed="#Pa" n="122"/>iuntur ex potentia et actu nec est alia causa quia supior infor 
-      <lb ed="#Pa" n="123"/>mat inferionem et prima a nulla informatur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1320">
-      ⁋ Ad ista omnia 
-      <lb ed="#Pa" n="124"/>dico quod deus est forma abstracta quae formantur omnia actie 
-      <lb ed="#Pa" n="125"/>t quae sentimus mouemur et sumus actis ipso nos actiue 
-      <lb ed="#Pa" n="126"/>formante et nob cooperante et tamen omnibus et quia forme 
-      so<lb ed="#Pa" n="127" break="no"/>et dare esse specificum informando et est operationem sdeo quia 
-      <lb ed="#Pa" n="128"/>hec propsetas forme quae forma dicitur alicui principium 
-      ope<lb ed="#Pa" n="129" break="no"/>randi actie conuenit deo dicitur deus. Forma omnium alior ageur 
-      <lb ed="#Pa" n="130"/>tium non autem ab informanda ea et per idem patet quid sit dicendum 
-      <lb ed="#Pa" n="131"/>ad commentatorem.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1340">
-      ⁋ Tertium dubium si de peccatore debet fieri 
-      <lb ed="#Pa" n="132"/>dignus vita etena patet secudum legen dei ordinatam quod illi 
-      <!--178.xml-->
-      <pb ed="#Pa" n="67-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>infundatur gratia creata sit igitur talis petrus tunc ista 
-      <lb ed="#Pa" n="2"/>ab eterno fuisset vera petro infundetur gratia informans 
-      <lb ed="#Pa" n="3"/>in hac vita igitur per nullam potentiam dei poterit esse fal 
-      <lb ed="#Pa" n="4"/>sa saltem ante positionem rei inesse scilicet antequam petro in 
-      <lb ed="#Pa" n="5"/>fundatur gratia igitur nec de potentia dei absoluta 
-      <lb ed="#Pa" n="6"/>poterit iustificari sine infusione gratie quod est 
-      con<lb ed="#Pa" n="7" break="no"/>tra prius drcta.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1367">
-      ⁋ Si enim poterit esse falsa talis pro 
-      <lb ed="#Pa" n="8"/>positio vel igitur ab eterno et ponatur inesse tunc siml 
-      <lb ed="#Pa" n="9"/>fuisset vera et falsa vel ex tempore vel in aliquo 
-      in<lb ed="#Pa" n="10" break="no"/>stanti et tunc posset propositio de futuro vera incipe 
-      <lb ed="#Pa" n="11"/>re esse falsa sed hoc non esset per mutationem ex parte 
-      <lb ed="#Pa" n="12"/>creature quia talis nondum est igitur ex parte voluntatis 
-      <lb ed="#Pa" n="13"/>diuine. sed hoc est impossibile quia secundum augustinus 
-      <lb ed="#Pa" n="14"/>2 confes. deus non potest modo velle vnum et modo ali 
-      <lb ed="#Pa" n="15"/>id sicut creatura.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1387">
-      ⁋ Respondetur quod talis propositio 
-      <lb ed="#Pa" n="16"/>ab eterno fuisset vera et potest ab eterno fuisse fal 
-      <lb ed="#Pa" n="17"/>sa.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1394">
-      ⁋ Sed si secunda ponitur inesse non conceditur prima etc. 
-      <lb ed="#Pa" n="18"/>etiam posset incipere esse falsa per positionem rei futu 
-      <lb ed="#Pa" n="19"/>te inesse tunc non fieret mutatio in voluntate dei sed  
-      <lb ed="#Pa" n="20"/>in re.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1403">
-      ⁋ Quartum dubium aliquis potest deo reddere 
-      <lb ed="#Pa" n="21"/>omnem hononem debitum sine gratia creata igitur et 
-      me<lb ed="#Pa" n="22" break="no"/>reri et per consequens talis gratia non requiritur de lege communi. Re 
-      <lb ed="#Pa" n="23"/>spondetur negando antecedens
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1412">
-      ⁋ Quintum dubium sicut iu 
-      <lb ed="#Pa" n="24"/>stificatio sit per gratiam ita per peccatum mortale tollitur 
-      <lb ed="#Pa" n="25"/>gratia vel igitur tollitur ab habente gratiam et tunc 
-      <lb ed="#Pa" n="26"/>peccatum mortale stat cum gratia vel tollitur a non haben 
-      <lb ed="#Pa" n="27"/>te et hoc est oppositum in adiecto. Probatur vel dabitur 
-      <lb ed="#Pa" n="28"/>vltimum instans esse gratie vel primum non esse. si vl 
-      <lb ed="#Pa" n="29"/>timum vel illud est primum instans demeriti et tunc 
-      pec<lb ed="#Pa" n="30" break="no"/>catum mortale stabit simul cum gratia per illud instans 
-      <lb ed="#Pa" n="31"/>vel illud vltimum instans gratie precedit demeritum et 
-      <lb ed="#Pa" n="32"/>tunc inter hoc instans et primum instans demeriti erit 
-      <lb ed="#Pa" n="33"/>tempus medium in quo iste nec erit in peccato mor 
-      <lb ed="#Pa" n="34"/>tali nec in gratia et tunc etiam ante demeritum per tem 
-      <lb ed="#Pa" n="35"/>pus perdet gratiam et ita non propter demeritum. si 
-      <lb ed="#Pa" n="36"/>primu non esse tunc stat argumentu pecedens.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1443">
-      ⁋ Ad 
-      pri<lb ed="#Pa" n="37" break="no"/>mum istor dicendum est quod deus primo auferi grartiam quando 
-      <lb ed="#Pa" n="38"/>ipsa primo non est quia non est aliud deum gratiam auferre 
-      <lb ed="#Pa" n="39"/>nisi eam non conseruare.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1453">
-      ⁋ Ad secundum conceditur primum 
-      <lb ed="#Pa" n="40"/>instans non esse et quod impossibile est vltimum instans 
-      <lb ed="#Pa" n="41"/>esse gratie.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1460">
-      ⁋ Diceres petrus in hoc instanti habens gratiam li 
-      <lb ed="#Pa" n="42"/>ber est quod immediate post hoc aliquid et aliqualitur volet 
-      <lb ed="#Pa" n="43"/>et non necessario bene vel male venialiter igitur potest imme 
-      <lb ed="#Pa" n="44"/>diate post hoc velle male mortaliter stante tamen quod nunc 
-      <lb ed="#Pa" n="45"/>sit in gratia igitur est possibile quod hoc sit vltimum instans 
-      <lb ed="#Pa" n="46"/>esse gratie petri.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1473">
-      ⁋ Respondetur quod si stante casu 
-      im<lb ed="#Pa" n="47" break="no"/>mediate post hoc volet nulla tamen volitione post hoc 
-      <lb ed="#Pa" n="48"/>volet. Et ideo non stat simul quod nunc sit in gratia et quod 
-      in<lb ed="#Pa" n="49" break="no"/>mediate post hoc volet aliqua volitione quae sit 
-      pec<lb ed="#Pa" n="50" break="no"/>catum mortale sed erit tempus antequam peccet mortaliter 
-      <lb ed="#Pa" n="51"/>quia prerequiritur cognitio et tempus in quo possit esse de 
-      <lb ed="#Pa" n="52"/>liberatio quod tempus optet esse notabile et perceptibile. 
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1489">
-               <lb ed="#Pa" n="53"/>⁋ Et si dicis voluntas potest immediate post hoc moue 
-      <lb ed="#Pa" n="54"/>re se localiter etiam dato quod nunc non moueat se locali 
-      <lb ed="#Pa" n="55"/>ter vel aliqud aliud igitur multo fortius potest immediate 
-      <lb ed="#Pa" n="56"/>post hoc velle licet nunc non velit quia nihil estcam in po 
-      <lb ed="#Pa" n="57"/>testate voluntatis etc. Dicendum quod non est simile quia per  
-      <lb ed="#Pa" n="58"/>volitionem praecedentem potest incipere aliquid mouere lo 
-      <lb ed="#Pa" n="59"/>caliter sic etiam per voluntatem pecedentem malam quam 
-      <lb ed="#Pa" n="60"/>nunc haberet posset facere quod tota volitio immediate 
-      <lb ed="#Pa" n="61"/>post sequens hoc esset peccatum mortale sed hoc est contra 
-      <lb ed="#Pa" n="62"/>casum neum.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1513">
-      ⁋ Credo tamen quod licet communiter sit dandum pri 
-      <lb ed="#Pa" n="63"/>mum instans non esse gratie tamen possibile est dare vltimum 
-      <lb ed="#Pa" n="64"/>instans esse gratie etc. prout patuit superius in vna 
-      que<lb ed="#Pa" n="65" break="no"/>tione prime di. ve consimili materia.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1522">
-      ⁋ Sextum 
-      du<lb ed="#Pa" n="66" break="no"/>bium si gratia sit necessaria modo praedicto maxime videretur 
-      <!--178.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>ad hoc vt mediante ipsa meritorie resistatur 
-      tenta<lb ed="#Pa" n="68" break="no"/>tioni accipiatur igitur gratia mima quam solet deus crea 
-      <lb ed="#Pa" n="69"/>re et quero.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1539">
-      ⁋ Utru ista sufficit cum naturalibus vt re 
-      <lb ed="#Pa" n="70"/>istatur tentationi maxime vel non si non igitur hoc in  
-      <lb ed="#Pa" n="71"/>casu aliquis esset in gratia et tamen non posset per eam 
-      meri<lb ed="#Pa" n="72" break="no"/>torie vitare peccatum si sic igitur frustra ageret deus in mar 
-      <lb ed="#Pa" n="73"/>tyribus et aliis sanctis quia frustra fit per maius quod potest 
-      <lb ed="#Pa" n="74"/>fieri per minus.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1552">
-      ⁋ Dicendum etiam propter aliam causam 
-      <lb ed="#Pa" n="75"/>necessaria est gratia et concedo quod minima gratia quam deus 
-      <lb ed="#Pa" n="76"/>olet dare baptizatis sicut est gratia paruulorum licet 
-      <lb ed="#Pa" n="77"/>maior sit quam circuncisorum solum sufficeret cum naturali 
-      <lb ed="#Pa" n="78"/>pus ad resistendum fortissime tentationi vtpote vbi 
-      <lb ed="#Pa" n="79"/>mors imminet ne perdetur non tamen sequitur quod maior gratia su 
-      <lb ed="#Pa" n="80"/>perfluat tum quia per eam facilius resistitur tum quia magis 
-      <lb ed="#Pa" n="81"/>meritorie et feruentius per maiorem gratiam resisti potest si 
-      <lb ed="#Pa" n="82"/>naturalia sint paria.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1572">
-      ⁋ Septimum dubium viator potest 
-      <lb ed="#Pa" n="83"/>ex solis naturalibus vitare omnem culpam per magistrum 
-      <lb ed="#Pa" n="84"/>i. 2 di. 24 ca. primo igitur omnem penam igitur et pertinget si 
-      <lb ed="#Pa" n="85"/>ne gratia ad gloriam.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1581">
-      ⁋ Respondetur quod antecedens verificatur pro 
-      <lb ed="#Pa" n="86"/>tem pore status innocentie quia tunc in solis naturalibus 
-      <lb ed="#Pa" n="87"/>ideo erat dignus pena nec gloria igitur si tunc mortuus 
-      <lb ed="#Pa" n="88"/>fuisset neui fuisset sibi de vita etc. secus autem est de sta 
-      <lb ed="#Pa" n="89"/>tu nature lapse.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1592">
-      ⁋ Octauum dubium videtur quod gratia non  
-      <lb ed="#Pa" n="90"/>requiratur decommuni lege ad iusticiam et rectitudinem volun 
-      <lb ed="#Pa" n="91"/>atis quia gratiam deus auferre potest voluntatiloe 
-      poten<lb ed="#Pa" n="92" break="no"/>tia ordinata ipsa voluntate diuina rectitudinem autem 
-      <lb ed="#Pa" n="93"/>non vt patet per anselmum igitur. Prima pars antecedentis probatur quia 
-      <lb ed="#Pa" n="94"/>praecipiat deus alicui quod per vnam horam nullum actum vel 
-      <lb ed="#Pa" n="95"/>colendi vel nolendi causet et non obstante praecepto 
-      <lb ed="#Pa" n="96"/>talis in illa hora habeat actualem volitionem 
-      ser<lb ed="#Pa" n="97" break="no"/>nandi rectitudinem tunc patet propositum.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1612">
-      ⁋ Respondetur 
-      <lb ed="#Pa" n="98"/>legando antecedens. Ad probationem dicitur quod in illo casu 
-      <lb ed="#Pa" n="99"/>ste libere agit contra preceptum et ita voluntarie 
-      <lb ed="#Pa" n="100"/>intecedenter perdit gratiam et rectitudinem licet 
-      <lb ed="#Pa" n="101"/>actualitur formaliter et consequenter inuoluntarie perdat 
-      <lb ed="#Pa" n="102"/>rectitudinem quam tunc vult habere licet male quia 
-      <lb ed="#Pa" n="103"/>contra preceptum.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1629">
-      ⁋ Ad argumentum principale 
-      ne<lb ed="#Pa" n="104" break="no"/>gatur antecedens.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1634">
-      ⁋ Ad probationem dicitur quamuis de facto re 
-      <lb ed="#Pa" n="105"/>nissio culpeet infuso gratie se concomitentur non tamen 
-      <lb ed="#Pa" n="106"/>oportet hoc simplicitur et in aliquo casu secundum prius 
-      <lb ed="#Pa" n="107"/>dicta foret possibile quod remissio culpe non esset 
-      mu<lb ed="#Pa" n="108" break="no"/>atio acquisitiua nec deperditiua seu priuatiua 
-      sub<lb ed="#Pa" n="109" break="no"/>iectiue in peccatore quia iustificatur.
-    </p>
-            <p xml:id="GHYaf3-d1e440-d1e1647">
-      ⁋ Sed esset 
-      <lb ed="#Pa" n="110"/>deum ab eterno sic ordinasse quod si attingeret a. 
-      in<lb ed="#Pa" n="111" break="no"/>stans deinceps non obligaretur ad penam de hoc 
-      <lb ed="#Pa" n="112"/>ide prius dicta si quis tamen velit illud vocare 
-      <lb ed="#Pa" n="113"/>absolui ab ista duplici obligatione mutari deper 
-      <lb ed="#Pa" n="114"/>ditiue et ita vti extensiue est signato vocabuli mu 
-      <lb ed="#Pa" n="115"/>tationis deperditiue sicut facit sco. non iusto dice 
-      <lb ed="#Pa" n="116"/>re posset quod remissio culpe sit mutatio deperditiua 
-      <lb ed="#Pa" n="117"/>luis per eam deperditur obligatio ad penam.
-      </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="65-v"/>
+        <cb ed="#Pa" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e440"><!-- GHYaf3-l1d17q3 -->
+        <head xml:id="GHYaf3-d1e440-Hd1e108">Quaestio 3</head>
+        <head xml:id="GHYaf3-d1e440-Hd1e111" type="question-title">
+          Utrum de peccatore possit fieri non peccator et acceptus Deo sine tali habitu sibi infuso per gratiam increatam.
+        </head>
+        <p xml:id="GHYaf3-d1e440-d1e114">
+          <lb ed="#Pa" n="78"/>TErtio circa 
+          distinctio<lb ed="#Pa" n="79" break="no"/>nem 17 Quero vtrum de peccatore 
+          <lb ed="#Pa" n="80"/>possit fieri non peccator et acceptus deo 
+          <lb ed="#Pa" n="81"/>sine habituali gratia infusa Uidetur pri 
+          <lb ed="#Pa" n="82"/>mo
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e127">
+          quod non etiam de quacumque potentia 
+          <lb ed="#Pa" n="83"/>quia culpa non potest remitti peccatori fine dono si 
+          <lb ed="#Pa" n="84"/>bii collato igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e134">
+          ⁋ Antecedens probatur quia 
+          ex<lb ed="#Pa" n="85" break="no"/>pulsio gratie et infusio gratie sunt eadem numero 
+          <lb ed="#Pa" n="86"/>nam expulsio culpe aut est mutatio acquisita et tunc 
+          <lb ed="#Pa" n="87"/>eius terminus est positiuus qui non posset dari a 
+          <lb ed="#Pa" n="88"/>lius a gratia et tunc habetur intentum.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e146">
+          ⁋ Aut est 
+          muta<lb ed="#Pa" n="89" break="no"/>tio. priuativa siue deperditiva et hoc non quia tunc 
+          ter<lb ed="#Pa" n="90" break="no"/>minus a quo esset positiuus sed culpa non est semper 
+          <lb ed="#Pa" n="91"/>aliquid positiuum.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e155">
+          ⁋ Contra non minus posset de 
+          <lb ed="#Pa" n="92"/>us alicui cui offenditur remittere offensam sine eius 
+          <lb ed="#Pa" n="93"/>mutatione ad instantiam alterius quam homo possit 
+          fa<lb ed="#Pa" n="94" break="no"/>cere hoc sed homo frequenter hoc facit igitur. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e164">
+          <lb ed="#Pa" n="95"/>⁋ Item deus posset alicui remittere culpam fine hoc 
+          <lb ed="#Pa" n="96"/>quod reciperet eum ad gratiam que est acceptatio ad  
+          <lb ed="#Pa" n="97"/>vitam eternam. Hic igitur ponenda sunt argumenta 
+          <lb ed="#Pa" n="98"/>ad partem negatiuam
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e175">
+          ⁋ Secundo tenebitur pars affirma 
+          <lb ed="#Pa" n="99"/>tiua.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e180">
+          ⁋ Tertio soluentur rationes in contrarium. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e183">
+          <lb ed="#Pa" n="100"/>⁋ Quarto mouebuntur dubia.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e189">
+          ⁋ Primo autem sic non 
+          <lb ed="#Pa" n="101"/>potest esse transitus ve contradictorio in 
+          contradi<lb ed="#Pa" n="102" break="no"/>ctorium fine mutatione reali sed talis mutatio non 
+          <lb ed="#Pa" n="103"/>potest esse in voluntate diuina igitur erit in illo  
+          <lb ed="#Pa" n="104"/>cui culpa remittitur et cum sit realis habebit terminum 
+          <lb ed="#Pa" n="105"/>realem ad quem positiuum eo quod terminus a quo  
+          <lb ed="#Pa" n="106"/>potest non esse positiuus et per consequens talis 
+          <lb ed="#Pa" n="107"/>terminus est gratia.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e207">
+          ⁋ Item iusticia cum sit formaliter pri 
+          <lb ed="#Pa" n="108"/>uatio non potest formaliter a subiecto apto 
+          na<lb ed="#Pa" n="109" break="no"/>to auferri nisi per habitum oppositum igitur. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e214">
+          <lb ed="#Pa" n="110"/>⁋ Preterea peccator est indignus vita eterna sed quando 
+          <lb ed="#Pa" n="111"/>sit charus deo sit dignus vita eterna igitur cum de 
+          <lb ed="#Pa" n="112"/>peccatore fit acceptus aliquid formaliter recipitur 
+          <lb ed="#Pa" n="113"/>consequentia patet quia ipse non est dignus vita eterna 
+          <lb ed="#Pa" n="114"/>nisi per aliquid inherens sibi formaliter quo 
+          se<lb ed="#Pa" n="115" break="no"/>dum regulas diuine iusticie iudicatur vita 
+          eter<lb ed="#Pa" n="116" break="no"/>na reddenda et nihil tale prius habuit cum erat pec 
+          <lb ed="#Pa" n="117"/>cator igitur insit sibi etc.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e234">
+          ⁋ Preterea deus non ac 
+          <lb ed="#Pa" n="118"/>ceptat peccatorem ad vitam eternam iustificatum 
+          <lb ed="#Pa" n="119"/>vero acceptat quero quid est istum acceptare ad 
+          vi<lb ed="#Pa" n="120" break="no"/>tam eternam et non videtur aliud nisi velle istum secun 
+          <lb ed="#Pa" n="121"/>dum dispositionem quam nunc habet et quam primo non  
+          <lb ed="#Pa" n="122"/>habuit esse dignum tali premio quo prius non  
+          <lb ed="#Pa" n="123"/>sit dignus et ista diuersitas non potest poni in volun 
+          <lb ed="#Pa" n="124"/>tate diuina igitur erit in illo qui acceptatur. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e252">
+          <lb ed="#Pa" n="125"/>⁋ Confirmatur quia volitio diuina que est vnus 
+          a<lb ed="#Pa" n="126" break="no"/>ctus in se non habet rationem oppositorum actuum 
+          <lb ed="#Pa" n="127"/>vt velle et nolle absque distinctione obiectorum 
+          a<lb ed="#Pa" n="128" break="no"/>lioquin contradictoria erunt vera absque distinctio 
+          <lb ed="#Pa" n="129"/>ne cavente illam veritatem igitur cum deus velit istum 
+          <lb ed="#Pa" n="130"/>iustificatum ad aliquid ad quod non vult peccatorem 
+          <lb ed="#Pa" n="131"/>propter quam diuersitatem dicitur diligere iustoa 
+          <!--175.xml-->
+          <pb ed="#Pa" n="66-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>et odire peccatores in scriptura sequitur igitur quod  
+          <lb ed="#Pa" n="2"/>illa distinctio secundum rationem ex parte volitio 
+          <lb ed="#Pa" n="3"/>nis diuine necessario requirit distinctionem actua 
+          <lb ed="#Pa" n="4"/>lem ex parte obiectorum igitur aliter se habet in se quando 
+          <lb ed="#Pa" n="5"/>dicitur dilectus deo et aliter quando oditus.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e287">
+          ⁋ Item si 
+          <lb ed="#Pa" n="6"/>nihil aliud esset in anima istius quando est ancceptus 
+          <lb ed="#Pa" n="7"/>quam quando erat peccator non videtur quod aliquomodo se 
+          <lb ed="#Pa" n="8"/>aliter habeat ad deum nec deus ad ipsum quam prius 
+          <lb ed="#Pa" n="9"/>igitur formaliter aliquid insit sibi de nouo et non 
+          <lb ed="#Pa" n="10"/>fiden neque spes quia iste manserunt in peccatore ergo 
+          cha<lb ed="#Pa" n="11" break="no"/>ritas hec scotus in sententia et fere in verbis. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e304">
+          <lb ed="#Pa" n="12"/>⁋ Item auter secundum legem nunc statutam fit peccatum 
+          <lb ed="#Pa" n="13"/>mortale secundum istam legem formaliter 
+          inclu<lb ed="#Pa" n="14" break="no"/>dit priuationem habitus infusit igitur non tollitur 
+          <lb ed="#Pa" n="15"/>sine infusione habitus.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e315">
+          ⁋ Antecedens probatur quia alias nullus te 
+          <lb ed="#Pa" n="16"/>neretur nisi vitare omne peccatum omissionis et 
+          commis<lb ed="#Pa" n="17" break="no"/>sionis.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e322">
+          ⁋ Item homo non potest ex naturalibus vi 
+          <lb ed="#Pa" n="18"/>tare omne peccatum igitur peccatum priuat aliquam formam 
+          <lb ed="#Pa" n="19"/>que non est in naturali paetante hominis alioqui ha 
+          <lb ed="#Pa" n="20"/>beret ex naturalibus omne positiuum requisitum 
+          <lb ed="#Pa" n="21"/>ad vitandum omne peccatum quod est error pelagium. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e333">
+          <lb ed="#Pa" n="22"/>⁋ Item peccatum repugnat precepto quo obligamur 
+          <lb ed="#Pa" n="23"/>ad implendum mandata ex charitate igitur per 
+          pec<lb ed="#Pa" n="24" break="no"/>catum omittitur charitas ad impletionem 
+          pre<lb ed="#Pa" n="25" break="no"/>cepti requisitam.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e344">
+          ⁋ Item viator meretur quod deus 
+          <lb ed="#Pa" n="26"/>iuste premiet eum aliter deus esset acceptor perso 
+          <lb ed="#Pa" n="27"/>narum sed sic mereri non potest homo ex puris 
+          na<lb ed="#Pa" n="28" break="no"/>turalibus quia est error pelagum de quo lib 2 di. 26  
+          <lb ed="#Pa" n="29"/>sed peccatum priuat meritum igitur oportet quod pri 
+          <lb ed="#Pa" n="30"/>uat aliquid supernaturale.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e357">
+          ⁋ Item vbi est 
+          deno<lb ed="#Pa" n="31" break="no"/>minatio intrinseca impossibile est transire de contra 
+          <lb ed="#Pa" n="32"/>dictorio in contradictorium fine mutatione sub 
+          <lb ed="#Pa" n="33"/>iecti illius de quo vel pro quae verificantur contradictoriasu 
+          <lb ed="#Pa" n="34"/>cessiue.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e369">
+          ⁋ Sed cum de peccatore et non accepto fit 
+          a<lb ed="#Pa" n="35" break="no"/>ceptus ibi est transitus ve contradictorio in 
+          contra<lb ed="#Pa" n="36" break="no"/>dictorium secundum denominationem intrinsecan 
+          <lb ed="#Pa" n="37"/>igitur. Maior patet in exemplis quia quod aliquid fiat ali 
+          <lb ed="#Pa" n="38"/>bum de non albo fine mutatione eius subiectiua 
+          <lb ed="#Pa" n="39"/>et intrinseca est contradictio quia hoc est denomina 
+          <lb ed="#Pa" n="40"/>tio intrinseca in eodem modo etiam quod de non habente 
+          <lb ed="#Pa" n="41"/>gratiam fiat habens gratiam sine forma gratie in ipso rece 
+          <lb ed="#Pa" n="42"/>pta. Maior patet quia peccatum quod modo est peccatum prius 
+          <lb ed="#Pa" n="43"/>gratiam. Et ideo peccator non fit non peccator sine collatio 
+          <lb ed="#Pa" n="44"/>ne gratie quicquid enim feceris si non impleas 
+          praece<lb ed="#Pa" n="45" break="no"/>pta ex gratia est peccatum aliter posset vitare homo omne 
+          <lb ed="#Pa" n="46"/>peccatum ex naturalibus et iniplere omnia precepta ex 
+          <lb ed="#Pa" n="47"/>naturalibus iste igitur transitus sine infusione gratie 
+          <lb ed="#Pa" n="48"/>est impossibilis quia gratia seu charitas quam praeuatpeccatum etce 
+          <lb ed="#Pa" n="49"/>tera huiusmodi dona sunt forme realiter infuse a 
+          <lb ed="#Pa" n="50"/>nime ex concilio vianum. septimo decretalium et qui 
+          <lb ed="#Pa" n="51"/>aliter sentit de sacramentis ecclesie quam sccta roma 
+          <lb ed="#Pa" n="52"/>na igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e411">
+          ⁋ Sed quamuis de fancto et oe potentia 
+          de<lb ed="#Pa" n="53" break="no"/>ordinata nullus de peccatore fiat non peccator sine gratia 
+          <lb ed="#Pa" n="54"/>infusa tamen quin oe potentia absoluta aliter non va 
+          <lb ed="#Pa" n="55"/>leat fieri non video nec credo sed oppositum firmi 
+          <lb ed="#Pa" n="56"/>ter teneo opmando tam de isto peccato loquendo quod de fa 
+          <lb ed="#Pa" n="57"/>cto est peccatum quam de illo quod esset peccatum homine non  
+          <lb ed="#Pa" n="58"/>obligato ad habendum donum supernaturale chari 
+          <lb ed="#Pa" n="59"/>tatis quo scilicet aliquis potest fieri charus deo sine 
+          in<lb ed="#Pa" n="60" break="no"/>fusione alicuius sumpernaturalis tum ad statutum 
+          <lb ed="#Pa" n="61"/>decerto tempore prout supra tactum est tum ad no 
+          <lb ed="#Pa" n="62"/>uitatem bonorum motuum quos voluntas 
+          elice<lb ed="#Pa" n="63" break="no"/>reposset ex naturalibus.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e437">
+          ⁋ Tum tertio quia ad pre 
+          <lb ed="#Pa" n="64"/>ces vel mutationem in alio posset deus 
+          origina<lb ed="#Pa" n="65" break="no"/>le vel actuale peccatum alicui remittere et ad vitam eter 
+          <lb ed="#Pa" n="66"/>nam ipsum ordinare. ymo quod plus est dico quod nec 
+          <!--175.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>oe possibili posset homo tantum peccare quin deus po 
+          <lb ed="#Pa" n="68"/>test sibi remittere totum sine omni dono sibi 
+          super<lb ed="#Pa" n="69" break="no"/>naturaliter inherente deus enim per nullas leges 
+          <lb ed="#Pa" n="70"/>ordinatas priuauit se sua piissima mina et omnipo 
+          <lb ed="#Pa" n="71"/>tentia quin plene et liberrime posset adhuc de qui  
+          <lb ed="#Pa" n="72"/>busdam futuris ita ad omnem partem contradictionis 
+          <lb ed="#Pa" n="73"/>ordinare sicut potuit ab eterno licet non valeat in 
+          <lb ed="#Pa" n="74"/>cipere ordinare sed potest modo contingentissie 
+          <lb ed="#Pa" n="75"/>et liberrime ordinasse de qualibet perte 
+          contradi<lb ed="#Pa" n="76" break="no"/>ctionis futurorum caebilium sicut sibi placet licet 
+          <lb ed="#Pa" n="77"/>hoc solo priuetur deus sicut recte dicit agat hon 
+          se<lb ed="#Pa" n="78" break="no"/>cundum philosophum octauo ethicorum ingenita posse fa 
+          <lb ed="#Pa" n="79"/>cere que vtique sunt iam fcta.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e479">
+          ⁋ Ad probandum autem 
+          <lb ed="#Pa" n="80"/>intentum arguo sicut arguit sco. 4. li. di. 16 q. 
+          2<lb ed="#Pa" n="81" break="no"/>scotus arguit remissio culpe et infusio gratie non sunt 
+          <lb ed="#Pa" n="82"/>eadem mutatio nec sunt realiter idem nec vna 
+          <lb ed="#Pa" n="83"/>includit formaliter aliam igitur culpa posset remit 
+          <lb ed="#Pa" n="84"/>ti absque infusione gratie.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e492">
+          ⁋ Antecedens probatur quia impossi 
+          <lb ed="#Pa" n="85"/>bile est idem plurificari et non plurificari 
+          sumen<lb ed="#Pa" n="86" break="no"/>do vniformiter sumendo scilicet realiter vel 
+          con<lb ed="#Pa" n="87" break="no"/>ceptibiliter quia oppositum repugnaret 
+          primopri<lb ed="#Pa" n="88" break="no"/>cipio scilicet idem simpliciter simul esse vnum et 
+          <lb ed="#Pa" n="89"/>non esse vnum.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e505">
+          ⁋ Sed remissiones culparum sunt 
+          <lb ed="#Pa" n="90"/>multe quando infusio gratie non est nisi vna quelibet namque  
+          <lb ed="#Pa" n="91"/>cul pa habet remissionem propriam et quelibet remissio 
+          <lb ed="#Pa" n="92"/>posset esse sine alia.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e515">
+          ⁋ Item de sfancto angelis qui non 
+          <lb ed="#Pa" n="93"/>peccauerunt deus infudit gratiam sine rsemissione cul 
+          <lb ed="#Pa" n="94"/>pe igitur infusto gratie et remissio culpe possunt 
+          se<lb ed="#Pa" n="95" break="no"/>paramri igitur non sunt idem.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e524">
+          ⁋ Item dneus posset 
+          <lb ed="#Pa" n="96"/>de sua potentia absoluta creare hominem in puris 
+          <lb ed="#Pa" n="97"/>naturalibus sine gratia et sine culpa igitur et post 
+          la<lb ed="#Pa" n="98" break="no"/>tum talem reparare sine infusione gratie et accepta 
+          <lb ed="#Pa" n="99"/>e ad vitam eternam.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e535">
+          ⁋ Item gratia et culpa non sunt for 
+          <lb ed="#Pa" n="100"/>naliter opposita igitur tollere culpam non est idem 
+          <lb ed="#Pa" n="101"/>quod ponere gratiam nec econtra igitur. Antecedens probatur 
+          <lb ed="#Pa" n="102"/>quia tunc sicut voluntas creatam potest effectiue vel 
+          <lb ed="#Pa" n="103"/>defectiue super esse culpe ita posset defectiue vel 
+          <lb ed="#Pa" n="104"/>effectiue super non esse gratie quod falsum est quia 
+          <lb ed="#Pa" n="105"/>tra non destruitur nisi per am nihilationem sed 
+          crea<lb ed="#Pa" n="106" break="no"/>tura non potest aliquid amnihilare quod precise per 
+          <lb ed="#Pa" n="107"/>reationem est producibile quicquid sit de aliis. 
+          <lb ed="#Pa" n="108"/>Confirmatur quia deus non necessario 
+          necessita<lb ed="#Pa" n="109" break="no"/>te absoluta quando ille vult furari vel fornicari 
+          de<lb ed="#Pa" n="110" break="no"/>truit donum positiuum quia ipse solus potest de 
+          <lb ed="#Pa" n="111"/>truere vel creare igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e564">
+          ⁋ Item deus posset 
+          ali<lb ed="#Pa" n="112" break="no"/>iuem absoluere tam a peccato quam etiam a debito habendi gra 
+          <lb ed="#Pa" n="113"/>iam et simul ipsum acceptare ad vitam eternam.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e571">
+          ⁋ Item 
+          <lb ed="#Pa" n="114"/>illa gratia quae est forma posset manere in anima de 
+          <lb ed="#Pa" n="115"/>potentia dei absoluta absque hoc quod remitteretur cul 
+          <lb ed="#Pa" n="116"/>pa vel vnquam in futuris daretur gloria nulla enim 
+          <lb ed="#Pa" n="117"/>forma creabilis in anima potest necessitare deum 
+          <lb ed="#Pa" n="118"/>ad remittendum culpam vel ad conferendum 
+          bea<lb ed="#Pa" n="119" break="no"/>titudinem.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e587">
+          ⁋ Item ostendit sco li. 4 post actum cul 
+          <lb ed="#Pa" n="120"/>pe transeuntem interiorem vel exteriorem non 
+          re<lb ed="#Pa" n="121" break="no"/>manet aliqua iniusticia actualis propria a qua dicitur 
+          <lb ed="#Pa" n="122"/>peccator tali peccato preter iniusticiam habitualem que est 
+          <lb ed="#Pa" n="123"/>carentia gratie quam tenetur habre et propter obligatio 
+          <lb ed="#Pa" n="124"/>nem ad penam correspondentem culpe quae quidem 
+          obliga<lb ed="#Pa" n="125" break="no"/>tio dicitur reatus.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e604">
+          ⁋ Sed istam obligationem deus 
+          <lb ed="#Pa" n="126"/>potest tollere sine infusione gratie et etiam stature quod 
+          <lb ed="#Pa" n="127"/>non teneretur habre gratiam igitur posset sine infusio 
+          <lb ed="#Pa" n="128"/>ne gratie tollem tam iniusticiam habitualem quam istum rea 
+          <lb ed="#Pa" n="129"/>tum igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e615">
+          ⁋ Confirmatur cum dicta 
+          contradi<lb ed="#Pa" n="130" break="no"/>ctionem non includant nisi deus posset ea facere 
+          <lb ed="#Pa" n="131"/>frustra distinguerent doctores oe potentia dei ab  
+          <lb ed="#Pa" n="132"/>soluta et ordinata.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e624">
+          ⁋ Ad soluendum argumentum 
+          <!--176.xml-->
+          <pb ed="#Pa" n="66-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>primum in contrarium subtiliter et diffuse laborat 
+          <lb ed="#Pa" n="2"/>ico li. 4 di. 6 questione secunda et ibi habetur 
+          ple<lb ed="#Pa" n="3" break="no"/>ne istud quod tenet okam de solo transitu temporis 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e640">
+          <lb ed="#Pa" n="4"/>⁋ Respondendum est igitur sicut in questione pre 
+          <lb ed="#Pa" n="5"/>cedente articulo primo et semper aduertendum 
+          <lb ed="#Pa" n="6"/>est quod quem deus semel acceptat ad vitam eternam illum 
+          <lb ed="#Pa" n="7"/>ab eterno acceptabit et determinate licet ille non  
+          <lb ed="#Pa" n="8"/>secundum quemlibet statum suum sit dignus vita 
+          eter<lb ed="#Pa" n="9" break="no"/>na et ideo si pro aliquo tempore est in statu secundum 
+          <lb ed="#Pa" n="10"/>quam est indignus vita eterna deus posset ab eter 
+          <lb ed="#Pa" n="11"/>no ordinasse quod statim pro tempore sequenti velit 
+          <lb ed="#Pa" n="12"/>acceptare statum suum vt ipse secundum talem sta 
+          <lb ed="#Pa" n="13"/>tum, sit dignus vita eterna absque alia mutatione in 
+          <lb ed="#Pa" n="14"/>ter transi tu temponis.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e666">
+          ⁋ Sed contra ponitur quod nullum tem 
+          <lb ed="#Pa" n="15"/>pus sit et fiat argumentum de angelo qui peccauit in in 
+          <lb ed="#Pa" n="16"/>stanti hic respondet quod licet non sit tempus actuale tamen 
+          <lb ed="#Pa" n="17"/>fit tempus potentiale et de illo procedit 
+          ymagina<lb ed="#Pa" n="18" break="no"/>tio sicut prius.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e677">
+          ⁋ Sed licet ista sit vna euasio tantm 
+          <lb ed="#Pa" n="19"/>grauiter est conceptibile quomodo isto homine s 
+          <lb ed="#Pa" n="20"/>forte existente in culpa per vnum diem ipse idem 
+          <lb ed="#Pa" n="21"/>omnino eodemmodo se habens et non aliter in die sequan  
+          <lb ed="#Pa" n="22"/>ti non sit in culpa et sit gratus deo cum vtique deus 
+          <lb ed="#Pa" n="23"/>in sua dilectione et acceptatione sit immutabilis 
+          <lb ed="#Pa" n="24"/>nec dicatur diligere aliquem vno tempore alio 
+          ve<lb ed="#Pa" n="25" break="no"/>ro tempore non nisi referendo hoc ad dilectionis 
+          <lb ed="#Pa" n="26"/>effectum vt patet per ma. li 3 di. 32
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e698">
+          ⁋ Sed secundum di 
+          <lb ed="#Pa" n="27"/>ctam responsionem nullus apparet effectus dile 
+          <lb ed="#Pa" n="28"/>ctionis in isto homine igitur fortoposset dici quod per 
+          <lb ed="#Pa" n="29"/>die illam quando est in culpa. Ideo dicitur peccator quia no 
+          <lb ed="#Pa" n="30"/>habet se conformiter diuine legi sicut tenetur sed  
+          <lb ed="#Pa" n="31"/>talis obligatio ad conformitatem illius legis 
+          ces<lb ed="#Pa" n="32" break="no"/>sat in die sequenti ex voluntate et ordinatione di 
+          <lb ed="#Pa" n="33"/>uina per solam mutationem temporis
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e716">
+          ⁋ Ista euasio 
+          <lb ed="#Pa" n="34"/>est subtilis sed adhuc non apparet hic quid sit mu 
+          <lb ed="#Pa" n="35"/>tatum ratione cuius mutationis possunt verifica 
+          <lb ed="#Pa" n="36"/>ri ista duo contradictoria successiue iste est peccator 
+          <lb ed="#Pa" n="37"/>et iste non est peccator mutatio namque temporis 
+          omni<lb ed="#Pa" n="38" break="no"/>no impertinenter se habet ad hoc nec est simile de prae 
+          <lb ed="#Pa" n="39"/>cipe vel de alio homine faciente statutum de nummo vel de 
+          <lb ed="#Pa" n="40"/>aliquo ordinate qui peccauit in ipsum quod aliquo 
+          <lb ed="#Pa" n="41"/>tempore elapso debeat non esse in offensa quo ad  
+          <lb ed="#Pa" n="42"/>ipsum quia ibi erit realis mutatio vel in affectione prin 
+          <lb ed="#Pa" n="43"/>cipis vel alicuius alterius licet igitur dicta 
+          con<lb ed="#Pa" n="44" break="no"/>tradictoria successiue possit verificari absque 
+          infu<lb ed="#Pa" n="45" break="no"/>sione noui habitus tamen difficile est videre quin 
+          opor<lb ed="#Pa" n="46" break="no"/>teat ibi esse actum nouum vel effectum vel muta 
+          <lb ed="#Pa" n="47"/>tionem aliquam circa illum qui debet fieri non pec 
+          <lb ed="#Pa" n="48"/>cator postquam fuit peccator.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e751">
+          ⁋ Ad secundum dicendum 
+          <lb ed="#Pa" n="49"/>quod iniusticia potest duplicitur accipi vnomodo prout est 
+          <lb ed="#Pa" n="50"/>priuatio vel carentia talis forme que est iusticia 
+          <lb ed="#Pa" n="51"/>vel charitas in subiecto apto nato et sic includerm 
+          <lb ed="#Pa" n="52"/>repugnantiam tollere iniusticiam vel talem 
+          priuatio<lb ed="#Pa" n="53" break="no"/>nem nisi per positionem habitus et hoc idem dico 
+          <lb ed="#Pa" n="54"/>generaliter de quacumque praeuatione sic dicta.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e767">
+          ⁋ Alio 
+          <lb ed="#Pa" n="55"/>modo potest vocari iniusticia seu praeuatio iusticie 
+          <lb ed="#Pa" n="56"/>carentia iusticie siue charitatis in subiecto apto 
+          <lb ed="#Pa" n="57"/>nato illam recipere quando tenetur illam non habre iuxta 
+          <lb ed="#Pa" n="58"/>modum philosophy in postpredicamentis et quinto metha 
+          <lb ed="#Pa" n="59"/>et isto modo iusticia scilicet habitus ille et priua 
+          <lb ed="#Pa" n="60"/>tio iusticie non sunt immediata circa idem subie 
+          <lb ed="#Pa" n="61"/>ctum ymo posset aliquis non habere iusticiam et cum 
+          <lb ed="#Pa" n="62"/>hoc non obligari ad eam habendum et tunc non esset 
+          <lb ed="#Pa" n="63"/>priuatus iusticia nec haberet iusticiam sic sumpta pra 
+          <lb ed="#Pa" n="64"/>uatione iusticie ex quo patet solutio rationis quia secun 
+          <lb ed="#Pa" n="65"/>do modo inusticia non est precise priuatio habitus 
+          <lb ed="#Pa" n="66"/>iusticie nisi pro tempore quando talis habitus debet inesse 
+          <!--176.xml-->
+          <cb ed="#Pa" n="b"/>
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e800">
+          <lb ed="#Pa" n="67"/>⁋ Et ideo si deus tollit obligationem talis debiti sine 
+          <lb ed="#Pa" n="68"/>infusione habitus tunc cessat esse talis priuati o si 
+          <lb ed="#Pa" n="69"/>ne positione alicuius habitus absoluti. Aliter re 
+          <lb ed="#Pa" n="70"/>pondetur quod peccatum vel iniusticia non est formaliter 
+          <lb ed="#Pa" n="71"/>priuatio alicuius habitus sed est priuatio alicu 
+          <lb ed="#Pa" n="72"/>ius rectitudinis debite inesse et secundum legem 
+          <lb ed="#Pa" n="73"/>ordinatam ad habendum talem rectitudinem requiritur 
+          <lb ed="#Pa" n="74"/>habitus non tamen oportet absolute loquendo quod recti 
+          <lb ed="#Pa" n="75"/>tudo debita inesse consistit in conformiter se habe 
+          <lb ed="#Pa" n="76"/>re obligationi diuine siue positiue siue negatiue 
+          <lb ed="#Pa" n="77"/>et igitur talis si est in peccato mortali quia difformiter 
+          <lb ed="#Pa" n="78"/>se habet obligationi deus posset facere eum non esse 
+          <lb ed="#Pa" n="79"/>in peccato vel tollendo illam obligationem vel facien 
+          <lb ed="#Pa" n="80"/>do quod ipse conformiter se habeat illi obligationi con 
+          <lb ed="#Pa" n="81"/>missiue vel omissiue vel acceptando vitam suam
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e835">
+          ⁋ Et 
+          <lb ed="#Pa" n="82"/>sic etiam diceretur quod talis mutaretur ad habsondum se 
+          <lb ed="#Pa" n="83"/>conformiter legi omie cui prius se habebat diffor 
+          <lb ed="#Pa" n="84"/>miter.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e845">
+          ⁋ Ad tertium patet ex dictis quia licet de facto 
+          <lb ed="#Pa" n="85"/>sic quod sit quis qui non est dignus etc. tamen deus posset 
+          <lb ed="#Pa" n="86"/>aliter ordinare.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e852">
+          ⁋ Ad quartum patet sicut ad primum 
+          <lb ed="#Pa" n="87"/>quia talis diuersitas nec esset in voluntate diuina nec 
+          <lb ed="#Pa" n="88"/>in illo qui sit charus deo tamen oriretur a voluntate 
+          <lb ed="#Pa" n="89"/>diuina per istum modum quia deus si eternaliter ordi 
+          <lb ed="#Pa" n="90"/>nasset quod iste si morentur circa a punireretur perpetue 
+          <lb ed="#Pa" n="91"/> Si vero in a. et deinceps non sequitur quod iste pro 
+          <lb ed="#Pa" n="92"/>toto tempore citra. a est indignus vita eterna se 
+          <lb ed="#Pa" n="93"/>cundum presentem statum et si attingat A vel tran 
+          <lb ed="#Pa" n="94"/>seat statim est dignus vita eterna et hoc non propter 
+          <lb ed="#Pa" n="95"/>variationem vel diuersitatem in actu dei nec in isto 
+          <lb ed="#Pa" n="96"/>si solum propter transitum temporis.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e876">
+          ⁋ Ad confir 
+          <lb ed="#Pa" n="97"/>mationem dicendum quod ibi est alietas et diuersitas 
+          <lb ed="#Pa" n="98"/>ex perte obiectorum quia actus ille diuinus est 
+          colla<lb ed="#Pa" n="99" break="no"/>tiuus istius peccatoris ad diuersa tempora et dispo 
+          <lb ed="#Pa" n="100"/>sitiuus de eo aliter et aliter secundum alietatem 
+          <lb ed="#Pa" n="101"/>temporum.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e889">
+          ⁋ Ideo ad successionem ta lium 
+          tempo<lb ed="#Pa" n="102" break="no"/>rum circa ipsum absque mutatione sui sed non 
+          si<lb ed="#Pa" n="103" break="no"/>ne mutatione que fieret si decederet aliter se hab 
+          <lb ed="#Pa" n="104"/>et aliter quo ad acceptari vel non acceptari
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e898">
+          ⁋ Ad  
+          <lb ed="#Pa" n="105"/>quintum per idem.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e903">
+          ⁋ Ad primum argumentum al 
+          <lb ed="#Pa" n="106"/>terius doctoris patet ex dictis quia non procedit 
+          <lb ed="#Pa" n="107"/>nisi de lege dei ordinata.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e911">
+          ⁋ Ad secundum antece 
+          <lb ed="#Pa" n="108"/>dens et tota ratio est oe potentia dei ordinata 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e916">
+          <lb ed="#Pa" n="109"/>⁋ Ad tertium et quartum per idem et etiam in quaer 
+          <lb ed="#Pa" n="110"/>to assumitur falsum scilicet quod deus esset acceptor 
+          <lb ed="#Pa" n="111"/>personarum etc. nec instantia est oe paruulis 
+          qui<lb ed="#Pa" n="112" break="no"/>bus absque eorum merito deus confert vitam eter 
+          <lb ed="#Pa" n="113"/>nam.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e929">
+          ⁋ Ad quintum negatur maior absolute et vni 
+          <lb ed="#Pa" n="114"/>uersaliter accepta quia esse charum vel acceptum 
+          <lb ed="#Pa" n="115"/>deo non est per se denominatio ab aliqua forma in 
+          <lb ed="#Pa" n="116"/>trinseca sed sufficit extrinsecum scilicet accepta 
+          <lb ed="#Pa" n="117"/>tio diuina licet iam de facto ita sit quod aliqua qua 
+          <lb ed="#Pa" n="118"/>litas requiritur scilicet gratia vt patet ex dictis. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e942">
+          <lb ed="#Pa" n="119"/>⁋ Primum dubium si peccatum mortale et gratia informans 
+          <lb ed="#Pa" n="120"/>non habent ex naturis suis formalem repug nantiam vt pre 
+          <lb ed="#Pa" n="121"/>dictum est igitur posset deus oe potentia absoluta 
+          <lb ed="#Pa" n="122"/>acceptare aliquem actum ex genere illius qui rema 
+          <lb ed="#Pa" n="123"/>neret in culpo mortali ad vitam eternam. consequen 
+          <lb ed="#Pa" n="124"/>tia patet quia omnem habentem talem gratiam 
+          po<lb ed="#Pa" n="125" break="no"/>test deus oe potentia absoluta acceptare ad praemium 
+          <lb ed="#Pa" n="126"/>eternum pro actu bono ex genere a voluntate et ta 
+          <lb ed="#Pa" n="127"/>li gratia seu charitate prouemente non obstante 
+          <lb ed="#Pa" n="128"/>quocumque quod stare posset per eandem potentiam 
+          <lb ed="#Pa" n="129"/>cum illa charitate maxime quia non plus repu 
+          <lb ed="#Pa" n="130"/>gnaret formaliter visio dei aut fruitio beatifica 
+          <lb ed="#Pa" n="131"/>peccato quam ipsa gratia. Falsitas probatur quia tunc 
+          <lb ed="#Pa" n="132"/>precise secundum eundem statum esset acceptus 
+          <!--177.xml-->
+          <pb ed="#Pa" n="67-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>deo ad premium eternum et esset debitor pene eter 
+          <lb ed="#Pa" n="2"/>ne si per seueraret in illo statu esset habiturus vitam 
+          <lb ed="#Pa" n="3"/>eternam et esset cariturus vita eterna propter penam 
+          <lb ed="#Pa" n="4"/>damni sed hoc implicat igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e990">
+          ⁋ Respondetur per duas 
+          propo<lb ed="#Pa" n="5" break="no"/>sitiones prima quod gratia creata oe potentia dei 
+          abso<lb ed="#Pa" n="6" break="no"/>luta stare potest cum culpa mortali.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e997">
+          ⁋ Secunda quod tunc 
+          <lb ed="#Pa" n="7"/>talis qualitas quae est gratia non remaneret gratia si 
+          <lb ed="#Pa" n="8"/>staret cum culpa mortali quod intelligendum est quod non  
+          <lb ed="#Pa" n="9"/>maneret gratia illi sic quod ille per eam esset gratus et ac 
+          <lb ed="#Pa" n="10"/>ceptus ad vitam eternam et per hoc ad argumentum ne 
+          <lb ed="#Pa" n="11"/>gatur consequentia vt patet ex dictis.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1011">
+          ⁋ Contra obiicitur proban 
+          <lb ed="#Pa" n="12"/>do quod simul stant quod aliquis permaneat charus deo et 
+          <lb ed="#Pa" n="13"/>tamen quod pro culpa sua simul secundum presentem iusticiam 
+          <lb ed="#Pa" n="14"/>nisi se emendet sit puniendus eternaliter tam pena 
+          <lb ed="#Pa" n="15"/>sensus quam pena damni et damnum voco eternaliter caren 
+          <lb ed="#Pa" n="16"/>tiam visionis et fruitionis beatifice. hanc autem caren 
+          <lb ed="#Pa" n="17"/>tiam omnes vocant penam damni debitam pro mortali.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1027">
+          ⁋ 
+          Sup<lb ed="#Pa" n="18" break="no"/>pono igitur quod deus praecipiat alicui sub pena vnius diei 
+          <lb ed="#Pa" n="19"/>in igne purgatorii quod non permaneat in a. culpa veni 
+          <lb ed="#Pa" n="20"/>ali per totam primam partem proportionalem diei crastine et 
+          <lb ed="#Pa" n="21"/>sub pena duor dierum in purgatorio quod non 
+          perma<lb ed="#Pa" n="22" break="no"/>neat in. a. per duas primas partes proportionales diei 
+          <lb ed="#Pa" n="23"/>crastine et sub pena trium quod non per tres et sic sine fine 
+          <lb ed="#Pa" n="24"/>consequenter de omnibus aliis posterioribus infinitis 
+          <lb ed="#Pa" n="25"/>et cum in contrarium perseueret iste per totum die 
+          cra<lb ed="#Pa" n="26" break="no"/>stinum in culpa illa veniali.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1049">
+          ⁋ Tunc arguitur iste ha 
+          <lb ed="#Pa" n="27"/>bebit tam penam damni quam sensus ponatur casus de 
+          <lb ed="#Pa" n="28"/>vtraque per infinitos dies et portabit vtramque penam per 
+          <lb ed="#Pa" n="29"/>instans sine fine et tamen non desinit habere gratiam quia cul 
+          <lb ed="#Pa" n="30"/>pa sua per casum solum erit venialis igitur ex posito 
+          si<lb ed="#Pa" n="31" break="no"/>mul habet iste gratiam et tamen est dignus pena eter 
+          <lb ed="#Pa" n="32"/>na tam sensus quam damni.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1065">
+          ⁋ Dicendum est quod iste peccauit 
+          <lb ed="#Pa" n="33"/>mortaliter licet solum venialiter vsque ad finem illius 
+          <lb ed="#Pa" n="34"/>diei peccauit vel vsque ad instans praecedens finem illius 
+          <lb ed="#Pa" n="35"/>diei per mininum tempus ab eo perceptibile vel 
+          maxi<lb ed="#Pa" n="36" break="no"/>mum ab eo non perceptibile secudum circunstantias tunc 
+          <lb ed="#Pa" n="37"/>praensentes inde ex tunc est culpabilis mortaliter quia 
+          <lb ed="#Pa" n="38"/>non cessauit infra tempus quod sibi praecipiebat sub in  
+          <lb ed="#Pa" n="39"/>timatione pene eterne quod cessaret et tale praeceptum 
+          <lb ed="#Pa" n="40"/>deliberate pretergredi est mortaliter peccare non sic 
+          <lb ed="#Pa" n="41"/>autem peccauit quadiu plene potuit scienter et deli 
+          <lb ed="#Pa" n="42"/>berate in partibus futuri temporis sibi praestituti actum 
+          <lb ed="#Pa" n="43"/>illum dimittere venialem et consequenter.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1091">
+          ⁋ Dicendum 
+          <lb ed="#Pa" n="44"/>est vlterius quasi per omnia sicut ad illud de peccato antnedemo 
+          <lb ed="#Pa" n="45"/>giste dictum est prius loco suo de quo vide supra. q. xi. 
+          <lb ed="#Pa" n="46"/>articulo secundo dubio secundo.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1100">
+          ⁋ Etiam posset dici quod licet 
+          <lb ed="#Pa" n="47"/>dicta pena non stet simul in eodem cum charitate se 
+          <lb ed="#Pa" n="48"/>cundu legem nunc ordinatam tamen absolute bene 
+          pos<lb ed="#Pa" n="49" break="no"/>set esse quod aliquis sic eternaliter puniretur et esset in 
+          <lb ed="#Pa" n="50"/>charitate qua diligeret deum super omnia et cum hoc esset 
+          <lb ed="#Pa" n="51"/>contentus quod deus tantum bonum sibi fecisset et eti 
+          <lb ed="#Pa" n="52"/>am patienter sustineret vtramque penam sensus et damni 
+          <lb ed="#Pa" n="53"/>considerata inobedientia sua.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1119">
+          ⁋ Secundum dubium an in  
+          <lb ed="#Pa" n="54"/>baptismo infundatur gratia creata videtur quod non quia 
+          <lb ed="#Pa" n="55"/>hoc maxime argueret decretalis 7 superius 
+          alle<lb ed="#Pa" n="56" break="no"/>gata sed ista non cogit hoc ponere qui ista non 
+          asse<lb ed="#Pa" n="57" break="no"/>rit gratiam in baptismo creari sed approbat 
+          opinio<lb ed="#Pa" n="58" break="no"/>nem que ponit quod in baptismo virtutes et informans 
+          <lb ed="#Pa" n="59"/>gratia infunduntur et peccatum ibi remittitur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1135">
+          ⁋ Sed  
+          <lb ed="#Pa" n="60"/>hec possunt saluari fine gratia creata quia ipsemet. 
+          <lb ed="#Pa" n="61"/>si vt videtur est gratia informans quemlibet fidelem 
+          <lb ed="#Pa" n="62"/>deo charumet spiritus sanctust charitas sua et ipse est 
+          tem<lb ed="#Pa" n="63" break="no"/>plusiritus sanctus habitaculum eius vt docet scriptura et 
+          <lb ed="#Pa" n="64"/>hoc tenet syprans etc.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1148">
+          ⁋ In contrarium tamen mouet 
+          <lb ed="#Pa" n="65"/>me quod omnes antiqui scribentes posuerunt deum nec con 
+          <lb ed="#Pa" n="66"/>positum secundum se nec alteri componibilem nec 
+          <!--177.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>materiam nec formam informantem nec ab aliquo 
+          <lb ed="#Pa" n="68"/>audiui contrarium preterquam ab vno qui a suis 
+          com<lb ed="#Pa" n="69" break="no"/>pulsus est istam sententiam retractare.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1166">
+          ⁋ Cuius 
+          mo<lb ed="#Pa" n="70" break="no"/>tiuum fuit quia dare perfectionem non arguit 
+          imper<lb ed="#Pa" n="71" break="no"/>fectionem in dante sed formam informare materi 
+          <lb ed="#Pa" n="72"/>am non est nisi sibi dare perfectionem igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1175">
+          ⁋ Set 
+          <lb ed="#Pa" n="73"/>contra esse partem essentialem arguit 
+          imperfectio<lb ed="#Pa" n="74" break="no"/>iem.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1182">
+          ⁋ Item tunc quia ex deo et homine per ipsum in  
+          <lb ed="#Pa" n="75"/>ormabile fieret per se vnum sicut ex materia et 
+          <lb ed="#Pa" n="76"/>forma sequitur quod aliqua entitas per se vna esset 
+          <lb ed="#Pa" n="77"/>melior deo quia in bonis omne totum est melius sua 
+          <lb ed="#Pa" n="78"/>parte.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1194">
+          ⁋ Item cum operationes vere forme licet 
+          me<lb ed="#Pa" n="79" break="no"/>diate et quasi per accidens conueniant 
+          informa<lb ed="#Pa" n="80" break="no"/>to sicut disgregare vel videri conuenit subiecto al 
+          <lb ed="#Pa" n="81"/>bedinis sequitur quod quilibet iustus fidelis licet non  
+          <lb ed="#Pa" n="82"/>per se sedi spiritus sancto formam suam creet mundum vel 
+          guber<lb ed="#Pa" n="83" break="no"/>net et conseruet et faciet omnia quae deus vult consequens 
+          <lb ed="#Pa" n="84"/>non est dandum.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1210">
+          ⁋ Item tunc deus posset esse intellectio 
+          <lb ed="#Pa" n="85"/>qua anima formaliter intelligit et dilectio qua 
+          dili<lb ed="#Pa" n="86" break="no"/>git et delectatio qua formaliter delectatur quod  
+          <lb ed="#Pa" n="87"/>non est dicendum.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1219">
+          ⁋ Item sequitur quod anima talis vel an 
+          <lb ed="#Pa" n="88"/>gelus esset deus vel deitas omnis enim forma nata est 
+          <lb ed="#Pa" n="89"/>denominare suum perfectibile secundm suam entitatem.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1226">
+          ⁋ Item 
+          <lb ed="#Pa" n="90"/>tunc anima talis non minus informaretur patre et fi quam. si 
+          <lb ed="#Pa" n="91"/>et per consequens cum accidens forme tribuatur mediate illi quod 
+          <lb ed="#Pa" n="92"/>informat sequitur non solum quod anima talis operetur media 
+          <lb ed="#Pa" n="93"/>te ad extra quicquid ageret deus ymo et quod generaret 
+          <lb ed="#Pa" n="94"/>filium et spiratert spiritus sanctus nec plus scirem hoc ratnabiliter 
+          <lb ed="#Pa" n="95"/>vitare quam quod subiectum albedinis videatur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1242">
+          ⁋ Et si dica 
+          <lb ed="#Pa" n="96"/>tur quod equoce est forma talis cum aliis formis illud  
+          <lb ed="#Pa" n="97"/>non valet quia non potest illam equocationem ponere nisi 
+          <lb ed="#Pa" n="98"/>in hoc quia non dependet a sua materia sicut alie 
+          for<lb ed="#Pa" n="99" break="no"/>me ita et certe nec anima intellectiua dependet cum per 
+          <lb ed="#Pa" n="100"/>naturam possit remanere sine subiecto vt patet in mor 
+          <lb ed="#Pa" n="101"/>te naturali.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1258">
+          ⁋ Econtra arguit iste doctor certum est enim 
+          <lb ed="#Pa" n="102"/>inquit quod deus et nobis et angelis inheret formaliter licet 
+          <lb ed="#Pa" n="103"/>equoce fine dependentia a subiecto hoc enim 
+          manife<lb ed="#Pa" n="104" break="no"/>stum est ex theologia et philosophia ex theologia patet dicit 
+          au<lb ed="#Pa" n="105" break="no"/>gu. 2 de li. ar. ca. 26 cum feretur itaque vt et corpus et anims 
+          <lb ed="#Pa" n="106"/>forma quadam incommutabili et semper manente formaliter cui 
+          <lb ed="#Pa" n="107"/>forme dictum est mutabis ea et mutabuntur tu autem idem 
+          <lb ed="#Pa" n="108"/>prase es etc. ecce enim quod deus non solum est forma animmi sed est 
+          <lb ed="#Pa" n="109"/>corporis.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1279">
+          ⁋ Item lyconiensis 3 ca.l celestis ierarchie 
+          <lb ed="#Pa" n="110"/>nte tertia pulchie et ex intentione declarat quod deitas est 
+          <lb ed="#Pa" n="111"/>est esse existentium et vertus viuifica viuentium et sensitiua sen 
+          <lb ed="#Pa" n="112"/>sientium et sapientia sapientium.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1288">
+          ⁋ Item commentator 3 de 
+          <lb ed="#Pa" n="113"/>anima commento. 5 sus finem detur quod quemadmodum esse 
+          sensibi<lb ed="#Pa" n="114" break="no"/>le diuiditur in formam et materiam fic ens sensibile opet 
+          di<lb ed="#Pa" n="115" break="no"/>uidi in aliquod simile materie et in aliquod simile forme. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1297">
+          <lb ed="#Pa" n="116"/>⁋ Et commento i4 intelligentie abstracte per se perficiuntur 
+          <lb ed="#Pa" n="117"/>et recipiunt se praeter primam quae libera est ab hac natura. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1304">
+          <lb ed="#Pa" n="118"/>⁋ Et qui negant primam formam informare alias remitto 
+          <lb ed="#Pa" n="119"/>omnes in 12 metha vt addiscant in commento 2ii. quomodo vnus quis 
+          <lb ed="#Pa" n="120"/>que motor orbium celestium perficitur per primum motonem et vt 
+          <lb ed="#Pa" n="121"/>idiscant in commento 12 quomodomes portester primam formam compo 
+          <lb ed="#Pa" n="122"/>iuntur ex potentia et actu nec est alia causa quia supior infor 
+          <lb ed="#Pa" n="123"/>mat inferionem et prima a nulla informatur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1320">
+          ⁋ Ad ista omnia 
+          <lb ed="#Pa" n="124"/>dico quod deus est forma abstracta quae formantur omnia actie 
+          <lb ed="#Pa" n="125"/>t quae sentimus mouemur et sumus actis ipso nos actiue 
+          <lb ed="#Pa" n="126"/>formante et nob cooperante et tamen omnibus et quia forme 
+          so<lb ed="#Pa" n="127" break="no"/>et dare esse specificum informando et est operationem sdeo quia 
+          <lb ed="#Pa" n="128"/>hec propsetas forme quae forma dicitur alicui principium 
+          ope<lb ed="#Pa" n="129" break="no"/>randi actie conuenit deo dicitur deus. Forma omnium alior ageur 
+          <lb ed="#Pa" n="130"/>tium non autem ab informanda ea et per idem patet quid sit dicendum 
+          <lb ed="#Pa" n="131"/>ad commentatorem.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1340">
+          ⁋ Tertium dubium si de peccatore debet fieri 
+          <lb ed="#Pa" n="132"/>dignus vita etena patet secudum legen dei ordinatam quod illi 
+          <!--178.xml-->
+          <pb ed="#Pa" n="67-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>infundatur gratia creata sit igitur talis petrus tunc ista 
+          <lb ed="#Pa" n="2"/>ab eterno fuisset vera petro infundetur gratia informans 
+          <lb ed="#Pa" n="3"/>in hac vita igitur per nullam potentiam dei poterit esse fal 
+          <lb ed="#Pa" n="4"/>sa saltem ante positionem rei inesse scilicet antequam petro in 
+          <lb ed="#Pa" n="5"/>fundatur gratia igitur nec de potentia dei absoluta 
+          <lb ed="#Pa" n="6"/>poterit iustificari sine infusione gratie quod est 
+          con<lb ed="#Pa" n="7" break="no"/>tra prius drcta.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1367">
+          ⁋ Si enim poterit esse falsa talis pro 
+          <lb ed="#Pa" n="8"/>positio vel igitur ab eterno et ponatur inesse tunc siml 
+          <lb ed="#Pa" n="9"/>fuisset vera et falsa vel ex tempore vel in aliquo 
+          in<lb ed="#Pa" n="10" break="no"/>stanti et tunc posset propositio de futuro vera incipe 
+          <lb ed="#Pa" n="11"/>re esse falsa sed hoc non esset per mutationem ex parte 
+          <lb ed="#Pa" n="12"/>creature quia talis nondum est igitur ex parte voluntatis 
+          <lb ed="#Pa" n="13"/>diuine. sed hoc est impossibile quia secundum augustinus 
+          <lb ed="#Pa" n="14"/>2 confes. deus non potest modo velle vnum et modo ali 
+          <lb ed="#Pa" n="15"/>id sicut creatura.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1387">
+          ⁋ Respondetur quod talis propositio 
+          <lb ed="#Pa" n="16"/>ab eterno fuisset vera et potest ab eterno fuisse fal 
+          <lb ed="#Pa" n="17"/>sa.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1394">
+          ⁋ Sed si secunda ponitur inesse non conceditur prima etc. 
+          <lb ed="#Pa" n="18"/>etiam posset incipere esse falsa per positionem rei futu 
+          <lb ed="#Pa" n="19"/>te inesse tunc non fieret mutatio in voluntate dei sed  
+          <lb ed="#Pa" n="20"/>in re.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1403">
+          ⁋ Quartum dubium aliquis potest deo reddere 
+          <lb ed="#Pa" n="21"/>omnem hononem debitum sine gratia creata igitur et 
+          me<lb ed="#Pa" n="22" break="no"/>reri et per consequens talis gratia non requiritur de lege communi. Re 
+          <lb ed="#Pa" n="23"/>spondetur negando antecedens
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1412">
+          ⁋ Quintum dubium sicut iu 
+          <lb ed="#Pa" n="24"/>stificatio sit per gratiam ita per peccatum mortale tollitur 
+          <lb ed="#Pa" n="25"/>gratia vel igitur tollitur ab habente gratiam et tunc 
+          <lb ed="#Pa" n="26"/>peccatum mortale stat cum gratia vel tollitur a non haben 
+          <lb ed="#Pa" n="27"/>te et hoc est oppositum in adiecto. Probatur vel dabitur 
+          <lb ed="#Pa" n="28"/>vltimum instans esse gratie vel primum non esse. si vl 
+          <lb ed="#Pa" n="29"/>timum vel illud est primum instans demeriti et tunc 
+          pec<lb ed="#Pa" n="30" break="no"/>catum mortale stabit simul cum gratia per illud instans 
+          <lb ed="#Pa" n="31"/>vel illud vltimum instans gratie precedit demeritum et 
+          <lb ed="#Pa" n="32"/>tunc inter hoc instans et primum instans demeriti erit 
+          <lb ed="#Pa" n="33"/>tempus medium in quo iste nec erit in peccato mor 
+          <lb ed="#Pa" n="34"/>tali nec in gratia et tunc etiam ante demeritum per tem 
+          <lb ed="#Pa" n="35"/>pus perdet gratiam et ita non propter demeritum. si 
+          <lb ed="#Pa" n="36"/>primu non esse tunc stat argumentu pecedens.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1443">
+          ⁋ Ad 
+          pri<lb ed="#Pa" n="37" break="no"/>mum istor dicendum est quod deus primo auferi grartiam quando 
+          <lb ed="#Pa" n="38"/>ipsa primo non est quia non est aliud deum gratiam auferre 
+          <lb ed="#Pa" n="39"/>nisi eam non conseruare.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1453">
+          ⁋ Ad secundum conceditur primum 
+          <lb ed="#Pa" n="40"/>instans non esse et quod impossibile est vltimum instans 
+          <lb ed="#Pa" n="41"/>esse gratie.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1460">
+          ⁋ Diceres petrus in hoc instanti habens gratiam li 
+          <lb ed="#Pa" n="42"/>ber est quod immediate post hoc aliquid et aliqualitur volet 
+          <lb ed="#Pa" n="43"/>et non necessario bene vel male venialiter igitur potest imme 
+          <lb ed="#Pa" n="44"/>diate post hoc velle male mortaliter stante tamen quod nunc 
+          <lb ed="#Pa" n="45"/>sit in gratia igitur est possibile quod hoc sit vltimum instans 
+          <lb ed="#Pa" n="46"/>esse gratie petri.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1473">
+          ⁋ Respondetur quod si stante casu 
+          im<lb ed="#Pa" n="47" break="no"/>mediate post hoc volet nulla tamen volitione post hoc 
+          <lb ed="#Pa" n="48"/>volet. Et ideo non stat simul quod nunc sit in gratia et quod 
+          in<lb ed="#Pa" n="49" break="no"/>mediate post hoc volet aliqua volitione quae sit 
+          pec<lb ed="#Pa" n="50" break="no"/>catum mortale sed erit tempus antequam peccet mortaliter 
+          <lb ed="#Pa" n="51"/>quia prerequiritur cognitio et tempus in quo possit esse de 
+          <lb ed="#Pa" n="52"/>liberatio quod tempus optet esse notabile et perceptibile. 
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1489">
+          <lb ed="#Pa" n="53"/>⁋ Et si dicis voluntas potest immediate post hoc moue 
+          <lb ed="#Pa" n="54"/>re se localiter etiam dato quod nunc non moueat se locali 
+          <lb ed="#Pa" n="55"/>ter vel aliqud aliud igitur multo fortius potest immediate 
+          <lb ed="#Pa" n="56"/>post hoc velle licet nunc non velit quia nihil estcam in po 
+          <lb ed="#Pa" n="57"/>testate voluntatis etc. Dicendum quod non est simile quia per  
+          <lb ed="#Pa" n="58"/>volitionem praecedentem potest incipere aliquid mouere lo 
+          <lb ed="#Pa" n="59"/>caliter sic etiam per voluntatem pecedentem malam quam 
+          <lb ed="#Pa" n="60"/>nunc haberet posset facere quod tota volitio immediate 
+          <lb ed="#Pa" n="61"/>post sequens hoc esset peccatum mortale sed hoc est contra 
+          <lb ed="#Pa" n="62"/>casum neum.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1513">
+          ⁋ Credo tamen quod licet communiter sit dandum pri 
+          <lb ed="#Pa" n="63"/>mum instans non esse gratie tamen possibile est dare vltimum 
+          <lb ed="#Pa" n="64"/>instans esse gratie etc. prout patuit superius in vna 
+          que<lb ed="#Pa" n="65" break="no"/>tione prime di. ve consimili materia.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1522">
+          ⁋ Sextum 
+          du<lb ed="#Pa" n="66" break="no"/>bium si gratia sit necessaria modo praedicto maxime videretur 
+          <!--178.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>ad hoc vt mediante ipsa meritorie resistatur 
+          tenta<lb ed="#Pa" n="68" break="no"/>tioni accipiatur igitur gratia mima quam solet deus crea 
+          <lb ed="#Pa" n="69"/>re et quero.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1539">
+          ⁋ Utru ista sufficit cum naturalibus vt re 
+          <lb ed="#Pa" n="70"/>istatur tentationi maxime vel non si non igitur hoc in  
+          <lb ed="#Pa" n="71"/>casu aliquis esset in gratia et tamen non posset per eam 
+          meri<lb ed="#Pa" n="72" break="no"/>torie vitare peccatum si sic igitur frustra ageret deus in mar 
+          <lb ed="#Pa" n="73"/>tyribus et aliis sanctis quia frustra fit per maius quod potest 
+          <lb ed="#Pa" n="74"/>fieri per minus.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1552">
+          ⁋ Dicendum etiam propter aliam causam 
+          <lb ed="#Pa" n="75"/>necessaria est gratia et concedo quod minima gratia quam deus 
+          <lb ed="#Pa" n="76"/>olet dare baptizatis sicut est gratia paruulorum licet 
+          <lb ed="#Pa" n="77"/>maior sit quam circuncisorum solum sufficeret cum naturali 
+          <lb ed="#Pa" n="78"/>pus ad resistendum fortissime tentationi vtpote vbi 
+          <lb ed="#Pa" n="79"/>mors imminet ne perdetur non tamen sequitur quod maior gratia su 
+          <lb ed="#Pa" n="80"/>perfluat tum quia per eam facilius resistitur tum quia magis 
+          <lb ed="#Pa" n="81"/>meritorie et feruentius per maiorem gratiam resisti potest si 
+          <lb ed="#Pa" n="82"/>naturalia sint paria.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1572">
+          ⁋ Septimum dubium viator potest 
+          <lb ed="#Pa" n="83"/>ex solis naturalibus vitare omnem culpam per magistrum 
+          <lb ed="#Pa" n="84"/>i. 2 di. 24 ca. primo igitur omnem penam igitur et pertinget si 
+          <lb ed="#Pa" n="85"/>ne gratia ad gloriam.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1581">
+          ⁋ Respondetur quod antecedens verificatur pro 
+          <lb ed="#Pa" n="86"/>tem pore status innocentie quia tunc in solis naturalibus 
+          <lb ed="#Pa" n="87"/>ideo erat dignus pena nec gloria igitur si tunc mortuus 
+          <lb ed="#Pa" n="88"/>fuisset neui fuisset sibi de vita etc. secus autem est de sta 
+          <lb ed="#Pa" n="89"/>tu nature lapse.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1592">
+          ⁋ Octauum dubium videtur quod gratia non  
+          <lb ed="#Pa" n="90"/>requiratur decommuni lege ad iusticiam et rectitudinem volun 
+          <lb ed="#Pa" n="91"/>atis quia gratiam deus auferre potest voluntatiloe 
+          poten<lb ed="#Pa" n="92" break="no"/>tia ordinata ipsa voluntate diuina rectitudinem autem 
+          <lb ed="#Pa" n="93"/>non vt patet per anselmum igitur. Prima pars antecedentis probatur quia 
+          <lb ed="#Pa" n="94"/>praecipiat deus alicui quod per vnam horam nullum actum vel 
+          <lb ed="#Pa" n="95"/>colendi vel nolendi causet et non obstante praecepto 
+          <lb ed="#Pa" n="96"/>talis in illa hora habeat actualem volitionem 
+          ser<lb ed="#Pa" n="97" break="no"/>nandi rectitudinem tunc patet propositum.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1612">
+          ⁋ Respondetur 
+          <lb ed="#Pa" n="98"/>legando antecedens. Ad probationem dicitur quod in illo casu 
+          <lb ed="#Pa" n="99"/>ste libere agit contra preceptum et ita voluntarie 
+          <lb ed="#Pa" n="100"/>intecedenter perdit gratiam et rectitudinem licet 
+          <lb ed="#Pa" n="101"/>actualitur formaliter et consequenter inuoluntarie perdat 
+          <lb ed="#Pa" n="102"/>rectitudinem quam tunc vult habere licet male quia 
+          <lb ed="#Pa" n="103"/>contra preceptum.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1629">
+          ⁋ Ad argumentum principale 
+          ne<lb ed="#Pa" n="104" break="no"/>gatur antecedens.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1634">
+          ⁋ Ad probationem dicitur quamuis de facto re 
+          <lb ed="#Pa" n="105"/>nissio culpeet infuso gratie se concomitentur non tamen 
+          <lb ed="#Pa" n="106"/>oportet hoc simplicitur et in aliquo casu secundum prius 
+          <lb ed="#Pa" n="107"/>dicta foret possibile quod remissio culpe non esset 
+          mu<lb ed="#Pa" n="108" break="no"/>atio acquisitiua nec deperditiua seu priuatiua 
+          sub<lb ed="#Pa" n="109" break="no"/>iectiue in peccatore quia iustificatur.
+        </p>
+        <p xml:id="GHYaf3-d1e440-d1e1647">
+          ⁋ Sed esset 
+          <lb ed="#Pa" n="110"/>deum ab eterno sic ordinasse quod si attingeret a. 
+          in<lb ed="#Pa" n="111" break="no"/>stans deinceps non obligaretur ad penam de hoc 
+          <lb ed="#Pa" n="112"/>ide prius dicta si quis tamen velit illud vocare 
+          <lb ed="#Pa" n="113"/>absolui ab ista duplici obligatione mutari deper 
+          <lb ed="#Pa" n="114"/>ditiue et ita vti extensiue est signato vocabuli mu 
+          <lb ed="#Pa" n="115"/>tationis deperditiue sicut facit sco. non iusto dice 
+          <lb ed="#Pa" n="116"/>re posset quod remissio culpe sit mutatio deperditiua 
+          <lb ed="#Pa" n="117"/>luis per eam deperditur obligatio ad penam.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

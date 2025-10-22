@@ -1,151 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 9</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 9</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="91-r"/>
-            <cb ed="#Pa" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e614"><!-- GHYaf3-l1d33q9 -->
-            <head xml:id="GHYaf3-d1e614-Hd1e108">Quaestio 9</head>
-            <head xml:id="GHYaf3-d1e614-Hd1e111" type="question-title">
-      Utrum omne idem patri sit omnibus modis idem patri.
-    </head>
-            <p xml:id="GHYaf3-d1e614-d1e114">
-      <!--225.xml-->
-               <pb ed="#Pa" n="91-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>VLtimo circa distinctionem 
-      <lb ed="#Pa" n="2"/>Etrigesimam tertiam Quero pro istamet 
-      <lb ed="#Pa" n="3"/>distinctione. Utrum omne idem patri 
-      <lb ed="#Pa" n="4"/>sit omnibus modis idem patri
-    </p>
-            <p xml:id="GHYaf3-d1e614-d1e132">
-      quod non quid 
-      <lb ed="#Pa" n="5"/>aliquid idem patri distinguitur a patre et non est 
-      <lb ed="#Pa" n="6"/>pater sicut hoc idem patri demonstrando filium et 
-      ali<lb ed="#Pa" n="7" break="no"/>quod idem patri est pater et non distinguitur ab eo sicut 
-      <lb ed="#Pa" n="8"/>essentia diuina et etiam generans igitur aliquo modo est 
-      <lb ed="#Pa" n="9"/>essentia vel generans vel pater idem pateri quo hoc idem 
-      <lb ed="#Pa" n="10"/>patri non est sibi idem demonstrando filium. probatur 
-      ni<lb ed="#Pa" n="11" break="no"/>hil est omnibus modis idem patri quia nihil est hoc 
-      mo<lb ed="#Pa" n="12" break="no"/>do idem patri quo modo lapis est idem sibiipsi quia 
-      <lb ed="#Pa" n="13"/>iste modus est realiter iste lapis et nihil per lapidem est 
-      <lb ed="#Pa" n="14"/>idem patri vel ipso lapide.
-    </p>
-            <p xml:id="GHYaf3-d1e614-d1e156">
-      ⁋ Contra si non igitur 
-      <lb ed="#Pa" n="15"/>aliqud idem patri aliquo modo non est idem patri et adquo 
-      <lb ed="#Pa" n="16"/>modo est idem patri vtpote idem sibi essentialiter non idem 
-      <lb ed="#Pa" n="17"/>sibi personaliter quod non videtur quia distinctio perso 
-      <lb ed="#Pa" n="18"/>nalis et ydemptitas essentialis penitus idem sunt tamen 
-      <lb ed="#Pa" n="19"/>distinctio est illud quod distinguitur et ydemptitas 
-      il<lb ed="#Pa" n="20" break="no"/>lud quod est idem distincto et ydemptitas alicuius eiui 
-      <lb ed="#Pa" n="21"/>dem respectu alicuius eiusdem nullo modo distinguntur et 
-      <lb ed="#Pa" n="22"/>per consequens iste modus distinctionis est iste modus 
-      yden<lb ed="#Pa" n="23" break="no"/>ptitatis et econtra. et per consequens quod isto modo est idem patri 
-      <lb ed="#Pa" n="24"/>scilicet ydemptitatis etiam isto modo est idem filio scilicet 
-      distin<lb ed="#Pa" n="25" break="no"/>ctionis quia si non isto modo esset idem sibi et iste modus 
-      <lb ed="#Pa" n="26"/>est iste modus non esset isto modo qui datur idem ipsi.
-    </p>
-            <p xml:id="GHYaf3-d1e614-d1e186">
-      ⁋ De 
-      <lb ed="#Pa" n="27"/>distinctione et ydemptitate in diuinis satis dictum est 
-      <lb ed="#Pa" n="28"/>in octo q. praecedentibus nec hec est inducta hic nisi 
-      <lb ed="#Pa" n="29"/>vt ista distinctio habeat suam q. que habet tot 
-      alia<lb ed="#Pa" n="30" break="no"/>rum distinctionum quaestiones. Ad presens igitur est dicen 
-      <lb ed="#Pa" n="31"/>dum quod non sicut sufficientur probat secunda ratio 
-      princi<lb ed="#Pa" n="32" break="no"/>palis ymo et ipsa probant quod nec pater est idem sibiipsi 
-      <lb ed="#Pa" n="33"/>omibus modis nec aliqua res sibiipsi.
-    </p>
-            <p xml:id="GHYaf3-d1e614-d1e204">
-      ⁋ Contra si a. 
-      <lb ed="#Pa" n="34"/>non omnimodo est idem sibiipsi igitur a aliquo modo non 
-      <lb ed="#Pa" n="35"/>est idem sibiipsi igitur a. aliquo modo distinguitur a seip 
-      <lb ed="#Pa" n="36"/>so negatur vltima consequentia.
-    </p>
-            <p xml:id="GHYaf3-d1e614-d1e213">
-      ⁋ Contra nihil requiritur plus 
-      <lb ed="#Pa" n="37"/>quod a. distinguitur. a. b. nisi quod a. sit et quod b sit et quod a. non 
-      <lb ed="#Pa" n="38"/>sit b. igitur a. simili. Uidetur quod si a. aliquo modo non est 
-      <lb ed="#Pa" n="39"/>idem sibiipsi et est igitur distinguitur aliquo modo a 
-      seip<lb ed="#Pa" n="40" break="no"/>so. Dicendum quod non est simile sicut nec sequitur quod ideo 
-      <lb ed="#Pa" n="41"/>a.e aliquo modo distiguitur quia ab a. est et non est idem 
-      sibi<lb ed="#Pa" n="42" break="no"/>ipsi contingenter vel no est idem sibiipsi necessario. 
-      Di<lb ed="#Pa" n="43" break="no"/>ces si. a. est et aliquomodo non est idem sibiipsi igitur aliquo  
-      <lb ed="#Pa" n="44"/>modo est non idem sibiipsi consequentia tenet quia a negatiua de prdi 
-      <lb ed="#Pa" n="45"/>cato finito posita constantia subiecti etc.
-    </p>
-            <p xml:id="GHYaf3-d1e614-d1e235">
-      ⁋ Dicendum 
-      <lb ed="#Pa" n="46"/>quod ista regula frequentur fallit sicut patet hic sor non est ho 
-      <lb ed="#Pa" n="47"/>mines et est igitur sortes est non homines. Similiter in praedica 
-      <lb ed="#Pa" n="48"/>tis compositis non sequitur sor non est album lignu et est 
-      <lb ed="#Pa" n="49"/>igitur sortes est non album lignum. Et licet argumenta ad  
-      <lb ed="#Pa" n="50"/>primam partem concludant verum primum tamen tangit dubium 
-      <lb ed="#Pa" n="51"/>illud. An idem patri vno modo distinguitur a patre alio 
-      <lb ed="#Pa" n="52"/>modo et est dicendum quod sic quia hoc ide patri essentialit 
-      <lb ed="#Pa" n="53"/>demonstrando filium v spitu sancto distinguitur ab eo personaliter 
-    </p>
-            <p xml:id="GHYaf3-d1e614-d1e255">
-               <lb ed="#Pa" n="54"/>⁋ Ad argumentum in contrarium Dicendum quod licet 
-      yden<lb ed="#Pa" n="55" break="no"/>ptitas qua filius est idem patri essentialiter et distin 
-      <lb ed="#Pa" n="56"/>ctio qua distinguitur ab eo personaliter sit omnino idem 
-      <lb ed="#Pa" n="57"/>non tamen oportet quod eo quo e idem essentialiter illi sit 
-      <lb ed="#Pa" n="58"/>idem personaliter nec quod a quo distinguitur persona 
-      <lb ed="#Pa" n="59"/>liter ab eo distinguitur essentialiter sicut licet 
-      simi<lb ed="#Pa" n="60" break="no"/>litudo qua sortes albus est similis platoni albo et 
-      <lb ed="#Pa" n="61"/>dissimilitudo qua sortes est dissimilis socrati nigro 
-      <lb ed="#Pa" n="62"/>sint omnino idem non tamen ideo est sor. albus 
-      il<lb ed="#Pa" n="63" break="no"/>li similis cui est dissimilis nec econuerso etc. 
-    </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 9</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 9</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="91-r"/>
+        <cb ed="#Pa" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e614"><!-- GHYaf3-l1d33q9 -->
+        <head xml:id="GHYaf3-d1e614-Hd1e108">Quaestio 9</head>
+        <head xml:id="GHYaf3-d1e614-Hd1e111" type="question-title">
+          Utrum omne idem patri sit omnibus modis idem patri.
+        </head>
+        <p xml:id="GHYaf3-d1e614-d1e114">
+          <!--225.xml-->
+          <pb ed="#Pa" n="91-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>VLtimo circa distinctionem 
+          <lb ed="#Pa" n="2"/>Etrigesimam tertiam Quero pro istamet 
+          <lb ed="#Pa" n="3"/>distinctione. Utrum omne idem patri 
+          <lb ed="#Pa" n="4"/>sit omnibus modis idem patri
+        </p>
+        <p xml:id="GHYaf3-d1e614-d1e132">
+          quod non quid 
+          <lb ed="#Pa" n="5"/>aliquid idem patri distinguitur a patre et non est 
+          <lb ed="#Pa" n="6"/>pater sicut hoc idem patri demonstrando filium et 
+          ali<lb ed="#Pa" n="7" break="no"/>quod idem patri est pater et non distinguitur ab eo sicut 
+          <lb ed="#Pa" n="8"/>essentia diuina et etiam generans igitur aliquo modo est 
+          <lb ed="#Pa" n="9"/>essentia vel generans vel pater idem pateri quo hoc idem 
+          <lb ed="#Pa" n="10"/>patri non est sibi idem demonstrando filium. probatur 
+          ni<lb ed="#Pa" n="11" break="no"/>hil est omnibus modis idem patri quia nihil est hoc 
+          mo<lb ed="#Pa" n="12" break="no"/>do idem patri quo modo lapis est idem sibiipsi quia 
+          <lb ed="#Pa" n="13"/>iste modus est realiter iste lapis et nihil per lapidem est 
+          <lb ed="#Pa" n="14"/>idem patri vel ipso lapide.
+        </p>
+        <p xml:id="GHYaf3-d1e614-d1e156">
+          ⁋ Contra si non igitur 
+          <lb ed="#Pa" n="15"/>aliqud idem patri aliquo modo non est idem patri et adquo 
+          <lb ed="#Pa" n="16"/>modo est idem patri vtpote idem sibi essentialiter non idem 
+          <lb ed="#Pa" n="17"/>sibi personaliter quod non videtur quia distinctio perso 
+          <lb ed="#Pa" n="18"/>nalis et ydemptitas essentialis penitus idem sunt tamen 
+          <lb ed="#Pa" n="19"/>distinctio est illud quod distinguitur et ydemptitas 
+          il<lb ed="#Pa" n="20" break="no"/>lud quod est idem distincto et ydemptitas alicuius eiui 
+          <lb ed="#Pa" n="21"/>dem respectu alicuius eiusdem nullo modo distinguntur et 
+          <lb ed="#Pa" n="22"/>per consequens iste modus distinctionis est iste modus 
+          yden<lb ed="#Pa" n="23" break="no"/>ptitatis et econtra. et per consequens quod isto modo est idem patri 
+          <lb ed="#Pa" n="24"/>scilicet ydemptitatis etiam isto modo est idem filio scilicet 
+          distin<lb ed="#Pa" n="25" break="no"/>ctionis quia si non isto modo esset idem sibi et iste modus 
+          <lb ed="#Pa" n="26"/>est iste modus non esset isto modo qui datur idem ipsi.
+        </p>
+        <p xml:id="GHYaf3-d1e614-d1e186">
+          ⁋ De 
+          <lb ed="#Pa" n="27"/>distinctione et ydemptitate in diuinis satis dictum est 
+          <lb ed="#Pa" n="28"/>in octo q. praecedentibus nec hec est inducta hic nisi 
+          <lb ed="#Pa" n="29"/>vt ista distinctio habeat suam q. que habet tot 
+          alia<lb ed="#Pa" n="30" break="no"/>rum distinctionum quaestiones. Ad presens igitur est dicen 
+          <lb ed="#Pa" n="31"/>dum quod non sicut sufficientur probat secunda ratio 
+          princi<lb ed="#Pa" n="32" break="no"/>palis ymo et ipsa probant quod nec pater est idem sibiipsi 
+          <lb ed="#Pa" n="33"/>omibus modis nec aliqua res sibiipsi.
+        </p>
+        <p xml:id="GHYaf3-d1e614-d1e204">
+          ⁋ Contra si a. 
+          <lb ed="#Pa" n="34"/>non omnimodo est idem sibiipsi igitur a aliquo modo non 
+          <lb ed="#Pa" n="35"/>est idem sibiipsi igitur a. aliquo modo distinguitur a seip 
+          <lb ed="#Pa" n="36"/>so negatur vltima consequentia.
+        </p>
+        <p xml:id="GHYaf3-d1e614-d1e213">
+          ⁋ Contra nihil requiritur plus 
+          <lb ed="#Pa" n="37"/>quod a. distinguitur. a. b. nisi quod a. sit et quod b sit et quod a. non 
+          <lb ed="#Pa" n="38"/>sit b. igitur a. simili. Uidetur quod si a. aliquo modo non est 
+          <lb ed="#Pa" n="39"/>idem sibiipsi et est igitur distinguitur aliquo modo a 
+          seip<lb ed="#Pa" n="40" break="no"/>so. Dicendum quod non est simile sicut nec sequitur quod ideo 
+          <lb ed="#Pa" n="41"/>a.e aliquo modo distiguitur quia ab a. est et non est idem 
+          sibi<lb ed="#Pa" n="42" break="no"/>ipsi contingenter vel no est idem sibiipsi necessario. 
+          Di<lb ed="#Pa" n="43" break="no"/>ces si. a. est et aliquomodo non est idem sibiipsi igitur aliquo  
+          <lb ed="#Pa" n="44"/>modo est non idem sibiipsi consequentia tenet quia a negatiua de prdi 
+          <lb ed="#Pa" n="45"/>cato finito posita constantia subiecti etc.
+        </p>
+        <p xml:id="GHYaf3-d1e614-d1e235">
+          ⁋ Dicendum 
+          <lb ed="#Pa" n="46"/>quod ista regula frequentur fallit sicut patet hic sor non est ho 
+          <lb ed="#Pa" n="47"/>mines et est igitur sortes est non homines. Similiter in praedica 
+          <lb ed="#Pa" n="48"/>tis compositis non sequitur sor non est album lignu et est 
+          <lb ed="#Pa" n="49"/>igitur sortes est non album lignum. Et licet argumenta ad  
+          <lb ed="#Pa" n="50"/>primam partem concludant verum primum tamen tangit dubium 
+          <lb ed="#Pa" n="51"/>illud. An idem patri vno modo distinguitur a patre alio 
+          <lb ed="#Pa" n="52"/>modo et est dicendum quod sic quia hoc ide patri essentialit 
+          <lb ed="#Pa" n="53"/>demonstrando filium v spitu sancto distinguitur ab eo personaliter 
+        </p>
+        <p xml:id="GHYaf3-d1e614-d1e255">
+          <lb ed="#Pa" n="54"/>⁋ Ad argumentum in contrarium Dicendum quod licet 
+          yden<lb ed="#Pa" n="55" break="no"/>ptitas qua filius est idem patri essentialiter et distin 
+          <lb ed="#Pa" n="56"/>ctio qua distinguitur ab eo personaliter sit omnino idem 
+          <lb ed="#Pa" n="57"/>non tamen oportet quod eo quo e idem essentialiter illi sit 
+          <lb ed="#Pa" n="58"/>idem personaliter nec quod a quo distinguitur persona 
+          <lb ed="#Pa" n="59"/>liter ab eo distinguitur essentialiter sicut licet 
+          simi<lb ed="#Pa" n="60" break="no"/>litudo qua sortes albus est similis platoni albo et 
+          <lb ed="#Pa" n="61"/>dissimilitudo qua sortes est dissimilis socrati nigro 
+          <lb ed="#Pa" n="62"/>sint omnino idem non tamen ideo est sor. albus 
+          il<lb ed="#Pa" n="63" break="no"/>li similis cui est dissimilis nec econuerso etc. 
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

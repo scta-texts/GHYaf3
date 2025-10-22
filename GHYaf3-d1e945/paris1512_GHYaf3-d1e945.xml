@@ -1,421 +1,421 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 4</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 4</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="141-v"/>
-            <cb ed="#Pa" n="b"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e945"><!-- GHYaf3-l4q4 -->
-            <head xml:id="GHYaf3-d1e945-Hd1e108">Quaestio 4</head>
-            <head xml:id="GHYaf3-d1e945-Hd1e111" type="question-title">
-      Utrum corpus Christi realiter sub speciebus quae fuerunt panis et vini contineatur.
-    </head>
-            <p xml:id="GHYaf3-d1e945-d1e114">
-               <lb ed="#Pa" n="78"/>VTrum corpus chri 
-      <lb ed="#Pa" n="79"/>sti realiter sub speciebus quae 
-      <lb ed="#Pa" n="80"/>fuerunt panis et vini conti 
-      <lb ed="#Pa" n="81"/>neatur.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e125">
-      quod non quia hoc esset 
-      <lb ed="#Pa" n="82"/>per transsubstantiationem 
-      pa<lb ed="#Pa" n="83" break="no"/>nis in corpus christi et per 
-      <lb ed="#Pa" n="84"/>consequens panis non rema 
-      <lb ed="#Pa" n="85"/>neret sub illis speciebus quia 
-      <lb ed="#Pa" n="86"/>hoc continet diffinitio trant 
-      <lb ed="#Pa" n="87"/>substantiationis ponens ibidem accidentia mane 
-      <lb ed="#Pa" n="88"/>re fine subiecto et hoc etiam tenet ma. li. 4 di. 12 
-      <lb ed="#Pa" n="89"/>in principio.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e145">
-      Item thomas in quarto. di. 2i. in prin 
-      <lb ed="#Pa" n="90"/>cipio responsionis ad primam q. dicit quod ista 
-      posi<lb ed="#Pa" n="91" break="no"/>tio que ponit substantiam panis manere sub illis 
-      <lb ed="#Pa" n="92"/>speciebus cum corpore Christi post consecra. est here 
-      <lb ed="#Pa" n="93"/>tica sed consequens videtur falsum quia tunc 
-      il<lb ed="#Pa" n="94" break="no"/>le species non possunt nutrire quia non possent con 
-      <lb ed="#Pa" n="95"/>uerti in substantiam rei alende cum non sit ibi ma 
-      <lb ed="#Pa" n="96"/>teria in qua recipi possit forma alendi. Item ibi 
-      <lb ed="#Pa" n="97"/>remanet grauitas sed grauitas est forma substan 
-      <lb ed="#Pa" n="98"/>tialis elementi grauis vel mixti vt patet tertio ce 
-      <lb ed="#Pa" n="99"/>li.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e170">
-      Item tunc corpus christi esset simul in diuersis 
-      <lb ed="#Pa" n="100"/>locis et pari ratione quodlibet aliud corpus pos 
-      <lb ed="#Pa" n="101"/>set esse simul in diuersis locis per diuinam poten 
-      <lb ed="#Pa" n="102"/>tiam. Falsitas probatur quia tunc sequitur has 
-      <lb ed="#Pa" n="103"/>esse possibiles idem est fractum et integrum secun 
-      <lb ed="#Pa" n="104"/>dum idem et idem lignum est incineratum et idem 
-      <lb ed="#Pa" n="105"/>plenum et vacuum motum et quiescens et vigilans 
-      <lb ed="#Pa" n="106"/>et dormiens viuum et mortuum et idem homo pec 
-      <lb ed="#Pa" n="107"/>caret et mereretur vitam eternam et simul 
-      baptisa<lb ed="#Pa" n="108" break="no"/>retur et celebraret missam. Item vel igitur corpus 
-      <lb ed="#Pa" n="109"/>christi esset sub illis speciebus circunscriptiue vel 
-      <lb ed="#Pa" n="110"/>solum diffinitiue non primum quia tunc totum cor 
-      <lb ed="#Pa" n="111"/>pus christi non esset sub qualibet particula 
-      specie<lb ed="#Pa" n="112" break="no"/>rum. non secundum quia esse diffinitiue alicubi est 
-      <lb ed="#Pa" n="113"/>sic esse ibi quod non alibi igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e203">
-      Item quomodo 
-      pos<lb ed="#Pa" n="114" break="no"/>set esse quod corpus Christi esset alicubi per totum in 
-      lo<lb ed="#Pa" n="115" break="no"/>co toto et in qualibet parte huiusmodi enim 
-      pro<lb ed="#Pa" n="116" break="no"/>prium videtur spiritui.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e212">
-      ⁋ Ad oppositum est magister di. 
-      <lb ed="#Pa" n="117"/>io quarti libri. Ad quem dicendum est quod sic. Sed e 
-      <lb ed="#Pa" n="118"/>tunc restat primo soluere dubium tactum in 
-      pri<lb ed="#Pa" n="119" break="no"/>mo argumento an scilicet forma substantialis ibi 
-      <lb ed="#Pa" n="120"/>remaneat oe pane et tenendum est quod non.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e223">
-      ⁋ Et con 
-      <lb ed="#Pa" n="121"/>cedendum est viterius cum magister di. 12 in principio 
-      <lb ed="#Pa" n="122"/>quod ibi remaneant accidentia fine subiecto. Item de 
-      <lb ed="#Pa" n="123"/>grauitate dicitur quod grauitas substantialis est for 
-      <lb ed="#Pa" n="124"/>ma accidentalis grauitas autem virtualis aqua 
-      <lb ed="#Pa" n="125"/>nata est efficere in se ipsa aut in sua materia 
-      gra<lb ed="#Pa" n="126" break="no"/>uitatem accidentalem bene est forma 
-      substantia<lb ed="#Pa" n="127" break="no"/>lis elementi vel mirti et sic intelligo auctoritates 
-      <lb ed="#Pa" n="128"/>Isto etiam modo possumus dicere quod forma 
-      sub<lb ed="#Pa" n="129" break="no"/>stantialis ignis est calor virtualis constat enim 
-      <lb ed="#Pa" n="130"/>quod omni accidente circunscripto adhuc ignis essat 
-      <!--327.xml-->
-      <pb ed="#Pa" n="142-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>calidus id est natus esset efficere calorem tam in se quam 
-      <lb ed="#Pa" n="2"/>in alio et eodem modo etiam sol est calidus. Con 
-      <lb ed="#Pa" n="3"/>tra arguit syrens. posita terra in aere et circunscri 
-      <lb ed="#Pa" n="4"/>pta per potentiam dei omni grauitate accidentali 
-      <lb ed="#Pa" n="5"/>que esset principium motus deorsum et 
-      vniuersa<lb ed="#Pa" n="6" break="no"/>liter omni accidente aut staret ibi terra ista aut 
-      <lb ed="#Pa" n="7"/>descenderet. Si staret ibi naturaliter ibi tunc 
-      re<lb ed="#Pa" n="8" break="no"/>sisteret mouenti sursum et per consequens si esset 
-      <lb ed="#Pa" n="9"/>sursum moueretur ad illum locum naturaliter 
-      de<lb ed="#Pa" n="10" break="no"/>scendendo sub grauitate superaddita et per 
-      con<lb ed="#Pa" n="11" break="no"/>sequens grauitas superaddita nunc superfluit. 
-      <lb ed="#Pa" n="12"/>Si datur secundum quod descenderet sequitur idem quod  
-      <lb ed="#Pa" n="13"/>grauitas ista accidentalis superflueret. 
-      Respon<lb ed="#Pa" n="14" break="no"/>detur quod terra in dicto casu ibi staret nec aliter re 
-      <lb ed="#Pa" n="15"/>sisteret pellenti quam corpus neutrum nec vna celi 
-      <lb ed="#Pa" n="16"/>particula si ibi poneretur.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e288">
-      ⁋ Diceres retineat de 
-      <lb ed="#Pa" n="17"/>us illam terram immobiliter ita quod a nulla 
-      crea<lb ed="#Pa" n="18" break="no"/>tura per aliquod tempouns pelli posset tunc nec cedit nec 
-      <lb ed="#Pa" n="19"/>diuiditur cum illuc manus pertingeret igitur 
-      ma<lb ed="#Pa" n="20" break="no"/>nus eam sentiret et per consequens substantia foret 
-      <lb ed="#Pa" n="21"/>sensibilis sine accidentibus.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e301">
-      ⁋ Respondetur quod 
-      ma<lb ed="#Pa" n="22" break="no"/>nus illo veniens non procederet nec istam subintret 
-      <lb ed="#Pa" n="23"/>sed ibi sisteret impedita et non perciperet vnde non  
-      <lb ed="#Pa" n="24"/>tangitur tactu sensationis sed tactu applicationis 
-      <lb ed="#Pa" n="25"/>sicut lapis tangit lapidem sicut si deus modo tene 
-      <lb ed="#Pa" n="26"/>ret de facto aerem immobilem in eodem situ cuius 
-      <lb ed="#Pa" n="27"/>nullam qualitatem possem percipere me sentire vel 
-      <lb ed="#Pa" n="28"/>non sentire propter similitudinem cum qualibet 
-      <lb ed="#Pa" n="29"/>manus mee eodem modo me haberem circa 
-      prece<lb ed="#Pa" n="30" break="no"/>ptionem istius sicut in casuargumenti. Hic videtur 
-      <lb ed="#Pa" n="31"/>rationabilior opinio dicere sicut dicunt aliqui quod 
-      <lb ed="#Pa" n="32"/>substantia materialis omni accidente spoliata sen 
-      <lb ed="#Pa" n="33"/>titur vere et per se ipsam est dura et a tactu 
-      expe<lb ed="#Pa" n="34" break="no"/>ritur esse dura hoc enim est contra phsoanum nec consonat 
-      <lb ed="#Pa" n="35"/>fidei quia vel in hostia consecrata est duplex duri 
-      <lb ed="#Pa" n="36"/>cies vel grauitas et compactio quod videtur 
-      super<lb ed="#Pa" n="37" break="no"/>fluum vel omnia sunt hec accidentia vere super 
-      ad<lb ed="#Pa" n="38" break="no"/>dita et non ipsa substantia cum hec maneant in 
-      ho<lb ed="#Pa" n="39" break="no"/>stia consecrata sicut docet experientia cum fide 
-      vn<lb ed="#Pa" n="40" break="no"/>de terra omni circunscripto accidente non est dura 
-      <lb ed="#Pa" n="41"/>nec compacta sed ita leniter diuiditur et cedit sicut 
-      <lb ed="#Pa" n="42"/>aer in vocando compactum continuum quia per casum 
-      <lb ed="#Pa" n="43"/>adhuc remaneret quanta nec etiam esset grauius nec 
-      <lb ed="#Pa" n="44"/>lenis. Tertio potest argui contra conclusionem prin 
-      <lb ed="#Pa" n="45"/>cipalem per hoc quod hostia consecrata videtur 
-      nu<lb ed="#Pa" n="46" break="no"/>trire. Sed accidentia non possunt nutrire sicut nec 
-      <lb ed="#Pa" n="47"/>possunt transire in substantiam rei alende quia ibi 
-      <lb ed="#Pa" n="48"/>defficit materia substantialis Respondetur quod 
-      nu<lb ed="#Pa" n="49" break="no"/>tritio proprie dicta que est per conuersionem alimenti 
-      <lb ed="#Pa" n="50"/>in rem alendam species sacramentales nutrire non  
-      <lb ed="#Pa" n="51"/>possunt. Sed deus in fine ponit ibi substantiam 
-      ali<lb ed="#Pa" n="52" break="no"/>quam vocando autem nutritionem quancumque reductio 
-      <lb ed="#Pa" n="53"/>nem membrorum animalis ad statum priorem secundum 
-      <lb ed="#Pa" n="54"/>qualitates sic potest homo nutriri ex hostiis 
-      con<lb ed="#Pa" n="55" break="no"/>secratis et similiter aimmal brutum quia hostia consecrata 
-      <lb ed="#Pa" n="56"/>habet quandam actionem naturalem in menbra hominis et 
-      <lb ed="#Pa" n="57"/>animalis bruti qualem actionem habet hostia non 
-      con<lb ed="#Pa" n="58" break="no"/>secrata et ideo simili modo potest reducere 
-      comple<lb ed="#Pa" n="59" break="no"/>xionem lapsam ad statum naturalem saltem secundum 
-      <lb ed="#Pa" n="60"/>qualitates licet non possit conuerti per actionem 
-      <lb ed="#Pa" n="61"/>naturalem in materiam menbri et animalis nec etiam 
-      se<lb ed="#Pa" n="62" break="no"/>quitur quod in hostia consecrata sit aliqua materia quia 
-      <lb ed="#Pa" n="63"/>ista nutritio secundo modo dicta non fit per hoc quod 
-      <lb ed="#Pa" n="64"/>hostia compatitur sed per hoc quod agit in menbru 
-      <lb ed="#Pa" n="65"/>cui approximatur.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e400">
-      ⁋ Et tunc consequenter diceretur 
-      <lb ed="#Pa" n="66"/>quod licet ad tempus posset homo sustentari per talem 
-      <!--327.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>restaurationem qualitatum non tamen diupropter con 
-      <lb ed="#Pa" n="68"/>tinuam deperditionem substantie que non restauratur 
-      <lb ed="#Pa" n="69"/>isto modo et tunc esset dicendum quod hostia consecrata 
-      <lb ed="#Pa" n="70"/>non similiter valet ad nutritionem sicut non 
-      conse<lb ed="#Pa" n="71" break="no"/>crata quia non est ad nutritionem corporalem ordinata 
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e420">
-               <lb ed="#Pa" n="72"/>⁋ Aliter potest dici quod species ordinate in hostia con 
-      <lb ed="#Pa" n="73"/>secrata faciunt effectus suos sicut iam dictum est 
-      <lb ed="#Pa" n="74"/>producunt enim qualitates actiue sibi similes quali 
-      <lb ed="#Pa" n="75"/>tates oe potentia materie rei alende per quas 
-      re<lb ed="#Pa" n="76" break="no"/>ducitur complexio lapsa ad statum naturalem secundum 
-      <lb ed="#Pa" n="77"/>qualitatem correspondemn tem speciebus hostie 
-      con<lb ed="#Pa" n="78" break="no"/>secrate sic quod non vltra non sunt nobis sensibiliter 
-      <lb ed="#Pa" n="79"/>apparentes species panis vel vini tunc deus repo 
-      <lb ed="#Pa" n="80"/>nit ibi materiam in quam agens corrumpens illas species 
-      <lb ed="#Pa" n="81"/>dicitur inducere formam quia sufficientes dispositiones 
-      <lb ed="#Pa" n="82"/>agit ad hoc vt de illa materia sic disposita agens 
-      <lb ed="#Pa" n="83"/>naturale educeret formam carnis vel ossis etc. et ita 
-      <lb ed="#Pa" n="84"/>fieret vera nutritio ymo et agens corrumpens species 
-      <lb ed="#Pa" n="85"/>in instanti corruptionis produceret formam
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e453">
-      ⁋ Secunde 
-      <lb ed="#Pa" n="86"/>pubium iuxta illud argumentum.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e458">
-      ⁋ An corpus Christi 
-      <lb ed="#Pa" n="87"/>posset esse realiter per diuinam potentiam in pluribus 
-      <lb ed="#Pa" n="88"/>locis extense. Et apparet michi cum scoto okam 
-      <lb ed="#Pa" n="89"/>ytens. et aliis doctoribus multis ymo quia iam de 
-      <lb ed="#Pa" n="90"/>facto est simul in diuersis locis modo non 
-      quantita<lb ed="#Pa" n="91" break="no"/>tiuo quod esse non posset fine duplici miraculo sed  
-      <lb ed="#Pa" n="92"/>modo quantitatiuo hoc fieret vno solo miraculo 
-      igi<lb ed="#Pa" n="93" break="no"/>tur si primum conceditur possibilitas secundi non 
-      de<lb ed="#Pa" n="94" break="no"/>bet negari. Argumentum autem in contrarium esset bonum 
-      <lb ed="#Pa" n="95"/>apud phactum sed apud theologos non tantum valet quia 
-      <lb ed="#Pa" n="96"/>satis est possibile quod idem corpus in vno loco viuat et in 
-      <lb ed="#Pa" n="97"/>alio sit mortuum et sic de similibus nec mirum cum 
-      cor<lb ed="#Pa" n="98" break="no"/>pus Christi in pixide moueatur et tunc alibi non mouetur 
-      <lb ed="#Pa" n="99"/>Contra ex isto sequitur quod agens creatum posset agere 
-      <lb ed="#Pa" n="100"/>in passum improportionabiliter distans vel quod sub 
-      <lb ed="#Pa" n="101"/>iectum posset esse alicubi sine accidente suo forma 
-      <lb ed="#Pa" n="102"/>iter ipsin informante quia si idem calefactibile esset 
-      <lb ed="#Pa" n="103"/>hic et rome et ignis ageret in istud calefactibile 
-      <lb ed="#Pa" n="104"/>hic.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e500">
-      ⁋ Tunc quaro aut ageret in illud calefactibile 
-      <lb ed="#Pa" n="105"/>rome ita quod calor qui causatur hic in isto subiecto 
-      <lb ed="#Pa" n="106"/>sit in eodem calefactibili rome et tunc sequitur primum 
-      <lb ed="#Pa" n="107"/>aut non et tunc sequitur secundum.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e509">
-      ⁋ Respondetur quod  
-      <lb ed="#Pa" n="108"/>non est contradictio quod subiectum habens accidens sit 
-      <lb ed="#Pa" n="109"/>alicubi vbi non est tale suum accidens
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e517">
-      ⁋ Tertium pu 
-      <lb ed="#Pa" n="110"/>bium qualiter corpus Christi sit in loco vtrum circun 
-      <lb ed="#Pa" n="111"/>scriptiue vel diffinitiue Et est dicendum quod solum diffi 
-      <lb ed="#Pa" n="112"/>nitiue nec debet exponi esse diffinitiue in loco per 
-      <lb ed="#Pa" n="113"/>non esse alibi sed per esse ibi et non esse simul alibi 
-      <lb ed="#Pa" n="114"/>et vtrobique per naturam si accipiatur et eius loca 
-      <lb ed="#Pa" n="115"/>desperata inter quae est medium iterceptum nec aliqua 
-      <lb ed="#Pa" n="116"/>est inter loca huius continuatio secundum rectam 
-      <lb ed="#Pa" n="117"/>lineam vel obliquam.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e537">
-      ⁋ Quartum dubium quod tangitur in  
-      <lb ed="#Pa" n="118"/>vltimo argumento quomodo concipietur quod corpus 
-      <lb ed="#Pa" n="119"/>aliquod possit esse totum in loco aliquo et totum 
-      <lb ed="#Pa" n="120"/>n qualibet eius parte
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e546">
-      ⁋ Ad illud respondet okam 
-      <lb ed="#Pa" n="121"/>satis bene in lectura Christi dicens quod circa illud viden 
-      <lb ed="#Pa" n="122"/>de sunt due difficultates vna quomodo idem corpus 
-      <lb ed="#Pa" n="123"/>numero possit simul secundum se existere in pluribus 
-      lo<lb ed="#Pa" n="124" break="no"/>cis. alia quomodo multe partes eiusdem corporis 
-      <lb ed="#Pa" n="125"/>possint simul coexistere eidem vni loco et qui videt 
-      <lb ed="#Pa" n="126"/>perfecte ista duo videt quomodo corpus ipsi existit 
-      <lb ed="#Pa" n="127"/>sub hostia totum sub tota et totum sub qualibet 
-      <lb ed="#Pa" n="128"/>larticula. Quantum ad primum non videtur maior 
-      <lb ed="#Pa" n="129"/>difficultas quod idem corpus numero coexistat 
-      plu<lb ed="#Pa" n="130" break="no"/>ribus locis simul secundum se totum quam quod eadem aimma 
-      <lb ed="#Pa" n="131"/>intellectiua simul existat secundum se totam in toto cor 
-      <lb ed="#Pa" n="132"/>pore et in qualibet eius parte vel quod idem angelus 
-      <!--328.xml-->
-      <pb ed="#Pa" n="142-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>in aliquo toto loco existat et in qualibet parte illius. 
-      <lb ed="#Pa" n="2"/>Sed hoc ponimus secundum veritatem phisicam et theo 
-      <lb ed="#Pa" n="3"/>logicam igitur aliud non est Impossibile. Quantum 
-      <lb ed="#Pa" n="4"/>ad secundum non est maior difficultas quam quod duo cor 
-      <lb ed="#Pa" n="5"/>pora existant simul in eodem loco adequato et hoc 
-      <lb ed="#Pa" n="6"/>siue sint corpora gloriosa siue non quia gloria vel 
-      <lb ed="#Pa" n="7"/>non gloria nihil ad hoc facit Sed fide tenemus quod  
-      <lb ed="#Pa" n="8"/>Christus introiuit ad discipulos clausis ianuis et exiuit 
-      <lb ed="#Pa" n="9"/>clausum vterum virginis et clausum sepulchium non 
-      <lb ed="#Pa" n="10"/>est autem maior difficultas quod due partes eiusdem 
-      <lb ed="#Pa" n="11"/>corporis sint simul in eodem loco Istis suppositis 
-      <lb ed="#Pa" n="12"/>patet qualiter corpus Christi potest secudum se totum et 
-      <lb ed="#Pa" n="13"/>secum quaelibet sui partem simul esse in tota hostia 
-      <lb ed="#Pa" n="14"/>sub speciebus panis et sub qualibet eius parte quia 
-      <lb ed="#Pa" n="15"/>ex istis patet possibilitas quod vna pars sit si mul cum 
-      <lb ed="#Pa" n="16"/>alia et quod eadem pars sit in multis locis vel 
-      parti<lb ed="#Pa" n="17" break="no"/>bus hostie simul et plus non ponitur ibi nisi quod partes 
-      <lb ed="#Pa" n="18"/>eius remaneant adhuc in toto constituentes totum. 
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e620">
-               <lb ed="#Pa" n="19"/>⁋ Quintum dubium vtrum corpus Christi existens sub 
-      <lb ed="#Pa" n="20"/>lacramento sit ibi situaliter dicendum quod non quia non  
-      <lb ed="#Pa" n="21"/>habet ibi partem extra partem quo ad situm igitur 
-      <lb ed="#Pa" n="22"/>non est ibi situaliter hoc enim videntur intelligere 
-      <lb ed="#Pa" n="23"/>loquentes per situaliter hoc etiam patet per thoman 
-      <lb ed="#Pa" n="24"/>libro quarto di. 10. q. 53 vbi tenet quod non est ibi 
-      situa<lb ed="#Pa" n="25" break="no"/>liter per hoc argumentum quia alibi situatur est 
-      con<lb ed="#Pa" n="26" break="no"/>mensurari illi situi et ita quod pars correspondeat perti 
-      <lb ed="#Pa" n="27"/>et totum toti.
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e642">
-      ⁋ Sed corpus Christi non sic commensuratur 
-      <lb ed="#Pa" n="28"/>speciebus hec enim est conclusio ecclesie hoc etiam dicit 
-      <lb ed="#Pa" n="29"/>Inmocentius de officio misse parte tertia capi. 5.  
-      <lb ed="#Pa" n="30"/>Reor salua fidei immunitate hec etiam est sententia ma. 
-      <lb ed="#Pa" n="31"/>li. 4 di. 1i. et. 12 et probat per auctoritates 
-      sancto<lb ed="#Pa" n="32" break="no"/>rum. Item hili. vbi est pars corporis domini sub 
-      sa<lb ed="#Pa" n="33" break="no"/>cramento ibi est totum sed sub omni parte 
-      sacra<lb ed="#Pa" n="34" break="no"/>menti est aliqua pars domini igitur et etc. sed nunquam est ibi 
-      <lb ed="#Pa" n="35"/>positio Respondetur quod positio vno modo accipitur 
-      <lb ed="#Pa" n="36"/>pro ordine partium in toto et talis est ibi quia caput 
-      <lb ed="#Pa" n="37"/>continuatur collo et non pedi nec digito in corpore 
-      <lb ed="#Pa" n="38"/>Christi sub hostia et ista positio per se conuenit 
-      cuili<lb ed="#Pa" n="39" break="no"/>bet substantie corporee vt posset patere per auctorem 
-      <lb ed="#Pa" n="40"/>sexto phisicorum. Aliomodo accipitur positio pro 
-      or<lb ed="#Pa" n="41" break="no"/>dine partium in toto et sic non est in corpore christi 
-      <lb ed="#Pa" n="42"/>sub hostia vnde corpus Christi est ibi vere quantum et 
-      <lb ed="#Pa" n="43"/>ibi est ordo partium in toto secundum quem ordinem est 
-      <lb ed="#Pa" n="44"/>ibi primum et secundum tertium non quidem primitate na 
-      <lb ed="#Pa" n="45"/>ture vel perfectionis aut secundum situm et sic de 
-      <lb ed="#Pa" n="46"/>aliis modis prioritatis que ponitaristoteles. Se 
-      <lb ed="#Pa" n="47"/>in proposito est quasi prioritas continuationis nam ex 
-      <lb ed="#Pa" n="48"/>vna parte caput nulli continuatur nec sibi aliquod  
-      <lb ed="#Pa" n="49"/>aliud ex alia autem sibi continuatur collum et non pectus 
-      <lb ed="#Pa" n="50"/>nec tibia et collo ex alia parte caput et alia parte 
-      <lb ed="#Pa" n="51"/>pectus et humeri et sic procedendo vsque ad pedes et 
-      <lb ed="#Pa" n="52"/>ita ille ordo seruatur in corpore Christi in eucharistia 
-      <lb ed="#Pa" n="53"/>sicut in celo non tamen ordo situalis quia non est ibi 
-      <lb ed="#Pa" n="54"/>commensuratiue illis speciebus nec alicui situi 
-      ex<lb ed="#Pa" n="55" break="no"/>teriori sed in se est vere extense et distanter secundum 
-      <lb ed="#Pa" n="56"/>partes ita quod caput tantum distat a pede intrinsece 
-      <lb ed="#Pa" n="57"/>in corpore sub illis speciebus quantum in celo et ita 
-      <lb ed="#Pa" n="58"/>Christus posset ibi mouere manum suam a capite ad 
-      pe<lb ed="#Pa" n="59" break="no"/>des et conuersim velociter vel tarde sicut sibi 
-      pla<lb ed="#Pa" n="60" break="no"/>ceret ita quod illa velocitas vel tarditas attenderetur 
-      <lb ed="#Pa" n="61"/>penes distantiam partium in corpore sed non penes 
-      <lb ed="#Pa" n="62"/>distantiam situalem respectu illarum specierum vel 
-      <lb ed="#Pa" n="63"/>alterius situs quia ex quo sub qualibet parte 
-      il<lb ed="#Pa" n="64" break="no"/>larum specierum est totum corpus Christi qualibet pars 
-      <lb ed="#Pa" n="65"/>eius. Ideo non posset aliqua eius pars moueri ad 
-      <lb ed="#Pa" n="66"/>aliquam partem hostie in qua prius non fuit
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e729">
-      ⁋ Sextum 
-      <!--328.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>oubium cuiusmodi locationes mutationes siant 
-      <lb ed="#Pa" n="68"/>ibi cum de existente in loco diffinitiue et non circum 
-      <lb ed="#Pa" n="69"/>scriptiue sic existens in loco circunscriptiue seu 
-      con<lb ed="#Pa" n="70" break="no"/>mensuratiue et modo quantitatiuo vel econverso. 
-    </p>
-            <p xml:id="GHYaf3-d1e945-d1e746">
-               <lb ed="#Pa" n="71"/>⁋ Ad istud bene respondet vbi prius quod hoc posset con 
-      <lb ed="#Pa" n="72"/>tingere tripliciter scilicet quod de materia non extensa fiat 
-      <lb ed="#Pa" n="73"/>extensa vnomodo quod extensa maionem locum occupet 
-      <lb ed="#Pa" n="74"/>uam quando non est extensa. Aliomodo quod minonem. Ter 
-      <lb ed="#Pa" n="75"/>tiomodo quod equalem. Si primo modo fiat tunc sunt 
-      <lb ed="#Pa" n="76"/>ibi due mutationes vna acquisitiua quia illa materia 
-      <lb ed="#Pa" n="77"/>acquirit vnum nouum locum et alia deperditiua quia 
-      <lb ed="#Pa" n="78"/>quando fuit non extensa fuit tota cum toto loco et 
-      <lb ed="#Pa" n="79"/>tota cum qaalibet parte. Sed quando extenditur 
-      <lb ed="#Pa" n="80"/>tunc est tota cum toto loco et tota cum qualibet paerte 
-      <lb ed="#Pa" n="81"/>et per consequens omnes partes perdent aliqua 
-      <lb ed="#Pa" n="82"/>loca que prius habuerunt quia prius fuit pes cum 
-      <lb ed="#Pa" n="83"/>capite et modo distant et ideo vtrumque perdit loca 
-      <lb ed="#Pa" n="84"/>que prius habuit. Si secundo modo tunc sola mutatio 
-      <lb ed="#Pa" n="85"/>deperditiua quia totum occupat oe loco quam prius 
-      <lb ed="#Pa" n="86"/>et per consequens perdit partem illius loci 
-      maio<lb ed="#Pa" n="87" break="no"/>ris et etiam partes perdunt multa loca prius habi 
-      <lb ed="#Pa" n="88"/>ta sicut in priori modo Si tertiomodo tunc etiam est 
-      <lb ed="#Pa" n="89"/>mutatio deperditiua quia tunc partes quarum que  
-      <lb ed="#Pa" n="90"/>libet fuit cum toto et cum qualibet parte iam 
-      dimit<lb ed="#Pa" n="91" break="no"/>tunt loca prius habita excepto vno si autem 
-      econ<lb ed="#Pa" n="92" break="no"/>uerso de materia extensa fiat non extensa hoc simili 
-      <lb ed="#Pa" n="93"/>potest tripliciter contingere et si totum remanebit in  
-      <lb ed="#Pa" n="94"/>loco equali erit mutatio acquisitiua et non 
-      deper<lb ed="#Pa" n="95" break="no"/>ditiua quia quelibet pars acquirit multa loca quae 
-      <lb ed="#Pa" n="96"/>non prehabuit Sed nec totum nec aliqua pars perdit 
-      <lb ed="#Pa" n="97"/>ocum aliquem quam prehabuit. Si vero fiat in  
-      <lb ed="#Pa" n="98"/>loco maiori similiter erit ibi mutatio acquisitiua non  
-      <lb ed="#Pa" n="99"/>deperditiua sed in minori tunc hec erit mutatio tam 
-      <lb ed="#Pa" n="100"/>deperditiua quam acquisitiua sicut patet aduertenti 
-      <lb ed="#Pa" n="101"/>ex predictis et cetera.
-      </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="141-v"/>
+        <cb ed="#Pa" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e945"><!-- GHYaf3-l4q4 -->
+        <head xml:id="GHYaf3-d1e945-Hd1e108">Quaestio 4</head>
+        <head xml:id="GHYaf3-d1e945-Hd1e111" type="question-title">
+          Utrum corpus Christi realiter sub speciebus quae fuerunt panis et vini contineatur.
+        </head>
+        <p xml:id="GHYaf3-d1e945-d1e114">
+          <lb ed="#Pa" n="78"/>VTrum corpus chri 
+          <lb ed="#Pa" n="79"/>sti realiter sub speciebus quae 
+          <lb ed="#Pa" n="80"/>fuerunt panis et vini conti 
+          <lb ed="#Pa" n="81"/>neatur.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e125">
+          quod non quia hoc esset 
+          <lb ed="#Pa" n="82"/>per transsubstantiationem 
+          pa<lb ed="#Pa" n="83" break="no"/>nis in corpus christi et per 
+          <lb ed="#Pa" n="84"/>consequens panis non rema 
+          <lb ed="#Pa" n="85"/>neret sub illis speciebus quia 
+          <lb ed="#Pa" n="86"/>hoc continet diffinitio trant 
+          <lb ed="#Pa" n="87"/>substantiationis ponens ibidem accidentia mane 
+          <lb ed="#Pa" n="88"/>re fine subiecto et hoc etiam tenet ma. li. 4 di. 12 
+          <lb ed="#Pa" n="89"/>in principio.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e145">
+          Item thomas in quarto. di. 2i. in prin 
+          <lb ed="#Pa" n="90"/>cipio responsionis ad primam q. dicit quod ista 
+          posi<lb ed="#Pa" n="91" break="no"/>tio que ponit substantiam panis manere sub illis 
+          <lb ed="#Pa" n="92"/>speciebus cum corpore Christi post consecra. est here 
+          <lb ed="#Pa" n="93"/>tica sed consequens videtur falsum quia tunc 
+          il<lb ed="#Pa" n="94" break="no"/>le species non possunt nutrire quia non possent con 
+          <lb ed="#Pa" n="95"/>uerti in substantiam rei alende cum non sit ibi ma 
+          <lb ed="#Pa" n="96"/>teria in qua recipi possit forma alendi. Item ibi 
+          <lb ed="#Pa" n="97"/>remanet grauitas sed grauitas est forma substan 
+          <lb ed="#Pa" n="98"/>tialis elementi grauis vel mixti vt patet tertio ce 
+          <lb ed="#Pa" n="99"/>li.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e170">
+          Item tunc corpus christi esset simul in diuersis 
+          <lb ed="#Pa" n="100"/>locis et pari ratione quodlibet aliud corpus pos 
+          <lb ed="#Pa" n="101"/>set esse simul in diuersis locis per diuinam poten 
+          <lb ed="#Pa" n="102"/>tiam. Falsitas probatur quia tunc sequitur has 
+          <lb ed="#Pa" n="103"/>esse possibiles idem est fractum et integrum secun 
+          <lb ed="#Pa" n="104"/>dum idem et idem lignum est incineratum et idem 
+          <lb ed="#Pa" n="105"/>plenum et vacuum motum et quiescens et vigilans 
+          <lb ed="#Pa" n="106"/>et dormiens viuum et mortuum et idem homo pec 
+          <lb ed="#Pa" n="107"/>caret et mereretur vitam eternam et simul 
+          baptisa<lb ed="#Pa" n="108" break="no"/>retur et celebraret missam. Item vel igitur corpus 
+          <lb ed="#Pa" n="109"/>christi esset sub illis speciebus circunscriptiue vel 
+          <lb ed="#Pa" n="110"/>solum diffinitiue non primum quia tunc totum cor 
+          <lb ed="#Pa" n="111"/>pus christi non esset sub qualibet particula 
+          specie<lb ed="#Pa" n="112" break="no"/>rum. non secundum quia esse diffinitiue alicubi est 
+          <lb ed="#Pa" n="113"/>sic esse ibi quod non alibi igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e203">
+          Item quomodo 
+          pos<lb ed="#Pa" n="114" break="no"/>set esse quod corpus Christi esset alicubi per totum in 
+          lo<lb ed="#Pa" n="115" break="no"/>co toto et in qualibet parte huiusmodi enim 
+          pro<lb ed="#Pa" n="116" break="no"/>prium videtur spiritui.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e212">
+          ⁋ Ad oppositum est magister di. 
+          <lb ed="#Pa" n="117"/>io quarti libri. Ad quem dicendum est quod sic. Sed e 
+          <lb ed="#Pa" n="118"/>tunc restat primo soluere dubium tactum in 
+          pri<lb ed="#Pa" n="119" break="no"/>mo argumento an scilicet forma substantialis ibi 
+          <lb ed="#Pa" n="120"/>remaneat oe pane et tenendum est quod non.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e223">
+          ⁋ Et con 
+          <lb ed="#Pa" n="121"/>cedendum est viterius cum magister di. 12 in principio 
+          <lb ed="#Pa" n="122"/>quod ibi remaneant accidentia fine subiecto. Item de 
+          <lb ed="#Pa" n="123"/>grauitate dicitur quod grauitas substantialis est for 
+          <lb ed="#Pa" n="124"/>ma accidentalis grauitas autem virtualis aqua 
+          <lb ed="#Pa" n="125"/>nata est efficere in se ipsa aut in sua materia 
+          gra<lb ed="#Pa" n="126" break="no"/>uitatem accidentalem bene est forma 
+          substantia<lb ed="#Pa" n="127" break="no"/>lis elementi vel mirti et sic intelligo auctoritates 
+          <lb ed="#Pa" n="128"/>Isto etiam modo possumus dicere quod forma 
+          sub<lb ed="#Pa" n="129" break="no"/>stantialis ignis est calor virtualis constat enim 
+          <lb ed="#Pa" n="130"/>quod omni accidente circunscripto adhuc ignis essat 
+          <!--327.xml-->
+          <pb ed="#Pa" n="142-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>calidus id est natus esset efficere calorem tam in se quam 
+          <lb ed="#Pa" n="2"/>in alio et eodem modo etiam sol est calidus. Con 
+          <lb ed="#Pa" n="3"/>tra arguit syrens. posita terra in aere et circunscri 
+          <lb ed="#Pa" n="4"/>pta per potentiam dei omni grauitate accidentali 
+          <lb ed="#Pa" n="5"/>que esset principium motus deorsum et 
+          vniuersa<lb ed="#Pa" n="6" break="no"/>liter omni accidente aut staret ibi terra ista aut 
+          <lb ed="#Pa" n="7"/>descenderet. Si staret ibi naturaliter ibi tunc 
+          re<lb ed="#Pa" n="8" break="no"/>sisteret mouenti sursum et per consequens si esset 
+          <lb ed="#Pa" n="9"/>sursum moueretur ad illum locum naturaliter 
+          de<lb ed="#Pa" n="10" break="no"/>scendendo sub grauitate superaddita et per 
+          con<lb ed="#Pa" n="11" break="no"/>sequens grauitas superaddita nunc superfluit. 
+          <lb ed="#Pa" n="12"/>Si datur secundum quod descenderet sequitur idem quod  
+          <lb ed="#Pa" n="13"/>grauitas ista accidentalis superflueret. 
+          Respon<lb ed="#Pa" n="14" break="no"/>detur quod terra in dicto casu ibi staret nec aliter re 
+          <lb ed="#Pa" n="15"/>sisteret pellenti quam corpus neutrum nec vna celi 
+          <lb ed="#Pa" n="16"/>particula si ibi poneretur.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e288">
+          ⁋ Diceres retineat de 
+          <lb ed="#Pa" n="17"/>us illam terram immobiliter ita quod a nulla 
+          crea<lb ed="#Pa" n="18" break="no"/>tura per aliquod tempouns pelli posset tunc nec cedit nec 
+          <lb ed="#Pa" n="19"/>diuiditur cum illuc manus pertingeret igitur 
+          ma<lb ed="#Pa" n="20" break="no"/>nus eam sentiret et per consequens substantia foret 
+          <lb ed="#Pa" n="21"/>sensibilis sine accidentibus.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e301">
+          ⁋ Respondetur quod 
+          ma<lb ed="#Pa" n="22" break="no"/>nus illo veniens non procederet nec istam subintret 
+          <lb ed="#Pa" n="23"/>sed ibi sisteret impedita et non perciperet vnde non  
+          <lb ed="#Pa" n="24"/>tangitur tactu sensationis sed tactu applicationis 
+          <lb ed="#Pa" n="25"/>sicut lapis tangit lapidem sicut si deus modo tene 
+          <lb ed="#Pa" n="26"/>ret de facto aerem immobilem in eodem situ cuius 
+          <lb ed="#Pa" n="27"/>nullam qualitatem possem percipere me sentire vel 
+          <lb ed="#Pa" n="28"/>non sentire propter similitudinem cum qualibet 
+          <lb ed="#Pa" n="29"/>manus mee eodem modo me haberem circa 
+          prece<lb ed="#Pa" n="30" break="no"/>ptionem istius sicut in casuargumenti. Hic videtur 
+          <lb ed="#Pa" n="31"/>rationabilior opinio dicere sicut dicunt aliqui quod 
+          <lb ed="#Pa" n="32"/>substantia materialis omni accidente spoliata sen 
+          <lb ed="#Pa" n="33"/>titur vere et per se ipsam est dura et a tactu 
+          expe<lb ed="#Pa" n="34" break="no"/>ritur esse dura hoc enim est contra phsoanum nec consonat 
+          <lb ed="#Pa" n="35"/>fidei quia vel in hostia consecrata est duplex duri 
+          <lb ed="#Pa" n="36"/>cies vel grauitas et compactio quod videtur 
+          super<lb ed="#Pa" n="37" break="no"/>fluum vel omnia sunt hec accidentia vere super 
+          ad<lb ed="#Pa" n="38" break="no"/>dita et non ipsa substantia cum hec maneant in 
+          ho<lb ed="#Pa" n="39" break="no"/>stia consecrata sicut docet experientia cum fide 
+          vn<lb ed="#Pa" n="40" break="no"/>de terra omni circunscripto accidente non est dura 
+          <lb ed="#Pa" n="41"/>nec compacta sed ita leniter diuiditur et cedit sicut 
+          <lb ed="#Pa" n="42"/>aer in vocando compactum continuum quia per casum 
+          <lb ed="#Pa" n="43"/>adhuc remaneret quanta nec etiam esset grauius nec 
+          <lb ed="#Pa" n="44"/>lenis. Tertio potest argui contra conclusionem prin 
+          <lb ed="#Pa" n="45"/>cipalem per hoc quod hostia consecrata videtur 
+          nu<lb ed="#Pa" n="46" break="no"/>trire. Sed accidentia non possunt nutrire sicut nec 
+          <lb ed="#Pa" n="47"/>possunt transire in substantiam rei alende quia ibi 
+          <lb ed="#Pa" n="48"/>defficit materia substantialis Respondetur quod 
+          nu<lb ed="#Pa" n="49" break="no"/>tritio proprie dicta que est per conuersionem alimenti 
+          <lb ed="#Pa" n="50"/>in rem alendam species sacramentales nutrire non  
+          <lb ed="#Pa" n="51"/>possunt. Sed deus in fine ponit ibi substantiam 
+          ali<lb ed="#Pa" n="52" break="no"/>quam vocando autem nutritionem quancumque reductio 
+          <lb ed="#Pa" n="53"/>nem membrorum animalis ad statum priorem secundum 
+          <lb ed="#Pa" n="54"/>qualitates sic potest homo nutriri ex hostiis 
+          con<lb ed="#Pa" n="55" break="no"/>secratis et similiter aimmal brutum quia hostia consecrata 
+          <lb ed="#Pa" n="56"/>habet quandam actionem naturalem in menbra hominis et 
+          <lb ed="#Pa" n="57"/>animalis bruti qualem actionem habet hostia non 
+          con<lb ed="#Pa" n="58" break="no"/>secrata et ideo simili modo potest reducere 
+          comple<lb ed="#Pa" n="59" break="no"/>xionem lapsam ad statum naturalem saltem secundum 
+          <lb ed="#Pa" n="60"/>qualitates licet non possit conuerti per actionem 
+          <lb ed="#Pa" n="61"/>naturalem in materiam menbri et animalis nec etiam 
+          se<lb ed="#Pa" n="62" break="no"/>quitur quod in hostia consecrata sit aliqua materia quia 
+          <lb ed="#Pa" n="63"/>ista nutritio secundo modo dicta non fit per hoc quod 
+          <lb ed="#Pa" n="64"/>hostia compatitur sed per hoc quod agit in menbru 
+          <lb ed="#Pa" n="65"/>cui approximatur.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e400">
+          ⁋ Et tunc consequenter diceretur 
+          <lb ed="#Pa" n="66"/>quod licet ad tempus posset homo sustentari per talem 
+          <!--327.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>restaurationem qualitatum non tamen diupropter con 
+          <lb ed="#Pa" n="68"/>tinuam deperditionem substantie que non restauratur 
+          <lb ed="#Pa" n="69"/>isto modo et tunc esset dicendum quod hostia consecrata 
+          <lb ed="#Pa" n="70"/>non similiter valet ad nutritionem sicut non 
+          conse<lb ed="#Pa" n="71" break="no"/>crata quia non est ad nutritionem corporalem ordinata 
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e420">
+          <lb ed="#Pa" n="72"/>⁋ Aliter potest dici quod species ordinate in hostia con 
+          <lb ed="#Pa" n="73"/>secrata faciunt effectus suos sicut iam dictum est 
+          <lb ed="#Pa" n="74"/>producunt enim qualitates actiue sibi similes quali 
+          <lb ed="#Pa" n="75"/>tates oe potentia materie rei alende per quas 
+          re<lb ed="#Pa" n="76" break="no"/>ducitur complexio lapsa ad statum naturalem secundum 
+          <lb ed="#Pa" n="77"/>qualitatem correspondemn tem speciebus hostie 
+          con<lb ed="#Pa" n="78" break="no"/>secrate sic quod non vltra non sunt nobis sensibiliter 
+          <lb ed="#Pa" n="79"/>apparentes species panis vel vini tunc deus repo 
+          <lb ed="#Pa" n="80"/>nit ibi materiam in quam agens corrumpens illas species 
+          <lb ed="#Pa" n="81"/>dicitur inducere formam quia sufficientes dispositiones 
+          <lb ed="#Pa" n="82"/>agit ad hoc vt de illa materia sic disposita agens 
+          <lb ed="#Pa" n="83"/>naturale educeret formam carnis vel ossis etc. et ita 
+          <lb ed="#Pa" n="84"/>fieret vera nutritio ymo et agens corrumpens species 
+          <lb ed="#Pa" n="85"/>in instanti corruptionis produceret formam
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e453">
+          ⁋ Secunde 
+          <lb ed="#Pa" n="86"/>pubium iuxta illud argumentum.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e458">
+          ⁋ An corpus Christi 
+          <lb ed="#Pa" n="87"/>posset esse realiter per diuinam potentiam in pluribus 
+          <lb ed="#Pa" n="88"/>locis extense. Et apparet michi cum scoto okam 
+          <lb ed="#Pa" n="89"/>ytens. et aliis doctoribus multis ymo quia iam de 
+          <lb ed="#Pa" n="90"/>facto est simul in diuersis locis modo non 
+          quantita<lb ed="#Pa" n="91" break="no"/>tiuo quod esse non posset fine duplici miraculo sed  
+          <lb ed="#Pa" n="92"/>modo quantitatiuo hoc fieret vno solo miraculo 
+          igi<lb ed="#Pa" n="93" break="no"/>tur si primum conceditur possibilitas secundi non 
+          de<lb ed="#Pa" n="94" break="no"/>bet negari. Argumentum autem in contrarium esset bonum 
+          <lb ed="#Pa" n="95"/>apud phactum sed apud theologos non tantum valet quia 
+          <lb ed="#Pa" n="96"/>satis est possibile quod idem corpus in vno loco viuat et in 
+          <lb ed="#Pa" n="97"/>alio sit mortuum et sic de similibus nec mirum cum 
+          cor<lb ed="#Pa" n="98" break="no"/>pus Christi in pixide moueatur et tunc alibi non mouetur 
+          <lb ed="#Pa" n="99"/>Contra ex isto sequitur quod agens creatum posset agere 
+          <lb ed="#Pa" n="100"/>in passum improportionabiliter distans vel quod sub 
+          <lb ed="#Pa" n="101"/>iectum posset esse alicubi sine accidente suo forma 
+          <lb ed="#Pa" n="102"/>iter ipsin informante quia si idem calefactibile esset 
+          <lb ed="#Pa" n="103"/>hic et rome et ignis ageret in istud calefactibile 
+          <lb ed="#Pa" n="104"/>hic.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e500">
+          ⁋ Tunc quaro aut ageret in illud calefactibile 
+          <lb ed="#Pa" n="105"/>rome ita quod calor qui causatur hic in isto subiecto 
+          <lb ed="#Pa" n="106"/>sit in eodem calefactibili rome et tunc sequitur primum 
+          <lb ed="#Pa" n="107"/>aut non et tunc sequitur secundum.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e509">
+          ⁋ Respondetur quod  
+          <lb ed="#Pa" n="108"/>non est contradictio quod subiectum habens accidens sit 
+          <lb ed="#Pa" n="109"/>alicubi vbi non est tale suum accidens
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e517">
+          ⁋ Tertium pu 
+          <lb ed="#Pa" n="110"/>bium qualiter corpus Christi sit in loco vtrum circun 
+          <lb ed="#Pa" n="111"/>scriptiue vel diffinitiue Et est dicendum quod solum diffi 
+          <lb ed="#Pa" n="112"/>nitiue nec debet exponi esse diffinitiue in loco per 
+          <lb ed="#Pa" n="113"/>non esse alibi sed per esse ibi et non esse simul alibi 
+          <lb ed="#Pa" n="114"/>et vtrobique per naturam si accipiatur et eius loca 
+          <lb ed="#Pa" n="115"/>desperata inter quae est medium iterceptum nec aliqua 
+          <lb ed="#Pa" n="116"/>est inter loca huius continuatio secundum rectam 
+          <lb ed="#Pa" n="117"/>lineam vel obliquam.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e537">
+          ⁋ Quartum dubium quod tangitur in  
+          <lb ed="#Pa" n="118"/>vltimo argumento quomodo concipietur quod corpus 
+          <lb ed="#Pa" n="119"/>aliquod possit esse totum in loco aliquo et totum 
+          <lb ed="#Pa" n="120"/>n qualibet eius parte
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e546">
+          ⁋ Ad illud respondet okam 
+          <lb ed="#Pa" n="121"/>satis bene in lectura Christi dicens quod circa illud viden 
+          <lb ed="#Pa" n="122"/>de sunt due difficultates vna quomodo idem corpus 
+          <lb ed="#Pa" n="123"/>numero possit simul secundum se existere in pluribus 
+          lo<lb ed="#Pa" n="124" break="no"/>cis. alia quomodo multe partes eiusdem corporis 
+          <lb ed="#Pa" n="125"/>possint simul coexistere eidem vni loco et qui videt 
+          <lb ed="#Pa" n="126"/>perfecte ista duo videt quomodo corpus ipsi existit 
+          <lb ed="#Pa" n="127"/>sub hostia totum sub tota et totum sub qualibet 
+          <lb ed="#Pa" n="128"/>larticula. Quantum ad primum non videtur maior 
+          <lb ed="#Pa" n="129"/>difficultas quod idem corpus numero coexistat 
+          plu<lb ed="#Pa" n="130" break="no"/>ribus locis simul secundum se totum quam quod eadem aimma 
+          <lb ed="#Pa" n="131"/>intellectiua simul existat secundum se totam in toto cor 
+          <lb ed="#Pa" n="132"/>pore et in qualibet eius parte vel quod idem angelus 
+          <!--328.xml-->
+          <pb ed="#Pa" n="142-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>in aliquo toto loco existat et in qualibet parte illius. 
+          <lb ed="#Pa" n="2"/>Sed hoc ponimus secundum veritatem phisicam et theo 
+          <lb ed="#Pa" n="3"/>logicam igitur aliud non est Impossibile. Quantum 
+          <lb ed="#Pa" n="4"/>ad secundum non est maior difficultas quam quod duo cor 
+          <lb ed="#Pa" n="5"/>pora existant simul in eodem loco adequato et hoc 
+          <lb ed="#Pa" n="6"/>siue sint corpora gloriosa siue non quia gloria vel 
+          <lb ed="#Pa" n="7"/>non gloria nihil ad hoc facit Sed fide tenemus quod  
+          <lb ed="#Pa" n="8"/>Christus introiuit ad discipulos clausis ianuis et exiuit 
+          <lb ed="#Pa" n="9"/>clausum vterum virginis et clausum sepulchium non 
+          <lb ed="#Pa" n="10"/>est autem maior difficultas quod due partes eiusdem 
+          <lb ed="#Pa" n="11"/>corporis sint simul in eodem loco Istis suppositis 
+          <lb ed="#Pa" n="12"/>patet qualiter corpus Christi potest secudum se totum et 
+          <lb ed="#Pa" n="13"/>secum quaelibet sui partem simul esse in tota hostia 
+          <lb ed="#Pa" n="14"/>sub speciebus panis et sub qualibet eius parte quia 
+          <lb ed="#Pa" n="15"/>ex istis patet possibilitas quod vna pars sit si mul cum 
+          <lb ed="#Pa" n="16"/>alia et quod eadem pars sit in multis locis vel 
+          parti<lb ed="#Pa" n="17" break="no"/>bus hostie simul et plus non ponitur ibi nisi quod partes 
+          <lb ed="#Pa" n="18"/>eius remaneant adhuc in toto constituentes totum. 
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e620">
+          <lb ed="#Pa" n="19"/>⁋ Quintum dubium vtrum corpus Christi existens sub 
+          <lb ed="#Pa" n="20"/>lacramento sit ibi situaliter dicendum quod non quia non  
+          <lb ed="#Pa" n="21"/>habet ibi partem extra partem quo ad situm igitur 
+          <lb ed="#Pa" n="22"/>non est ibi situaliter hoc enim videntur intelligere 
+          <lb ed="#Pa" n="23"/>loquentes per situaliter hoc etiam patet per thoman 
+          <lb ed="#Pa" n="24"/>libro quarto di. 10. q. 53 vbi tenet quod non est ibi 
+          situa<lb ed="#Pa" n="25" break="no"/>liter per hoc argumentum quia alibi situatur est 
+          con<lb ed="#Pa" n="26" break="no"/>mensurari illi situi et ita quod pars correspondeat perti 
+          <lb ed="#Pa" n="27"/>et totum toti.
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e642">
+          ⁋ Sed corpus Christi non sic commensuratur 
+          <lb ed="#Pa" n="28"/>speciebus hec enim est conclusio ecclesie hoc etiam dicit 
+          <lb ed="#Pa" n="29"/>Inmocentius de officio misse parte tertia capi. 5.  
+          <lb ed="#Pa" n="30"/>Reor salua fidei immunitate hec etiam est sententia ma. 
+          <lb ed="#Pa" n="31"/>li. 4 di. 1i. et. 12 et probat per auctoritates 
+          sancto<lb ed="#Pa" n="32" break="no"/>rum. Item hili. vbi est pars corporis domini sub 
+          sa<lb ed="#Pa" n="33" break="no"/>cramento ibi est totum sed sub omni parte 
+          sacra<lb ed="#Pa" n="34" break="no"/>menti est aliqua pars domini igitur et etc. sed nunquam est ibi 
+          <lb ed="#Pa" n="35"/>positio Respondetur quod positio vno modo accipitur 
+          <lb ed="#Pa" n="36"/>pro ordine partium in toto et talis est ibi quia caput 
+          <lb ed="#Pa" n="37"/>continuatur collo et non pedi nec digito in corpore 
+          <lb ed="#Pa" n="38"/>Christi sub hostia et ista positio per se conuenit 
+          cuili<lb ed="#Pa" n="39" break="no"/>bet substantie corporee vt posset patere per auctorem 
+          <lb ed="#Pa" n="40"/>sexto phisicorum. Aliomodo accipitur positio pro 
+          or<lb ed="#Pa" n="41" break="no"/>dine partium in toto et sic non est in corpore christi 
+          <lb ed="#Pa" n="42"/>sub hostia vnde corpus Christi est ibi vere quantum et 
+          <lb ed="#Pa" n="43"/>ibi est ordo partium in toto secundum quem ordinem est 
+          <lb ed="#Pa" n="44"/>ibi primum et secundum tertium non quidem primitate na 
+          <lb ed="#Pa" n="45"/>ture vel perfectionis aut secundum situm et sic de 
+          <lb ed="#Pa" n="46"/>aliis modis prioritatis que ponitaristoteles. Se 
+          <lb ed="#Pa" n="47"/>in proposito est quasi prioritas continuationis nam ex 
+          <lb ed="#Pa" n="48"/>vna parte caput nulli continuatur nec sibi aliquod  
+          <lb ed="#Pa" n="49"/>aliud ex alia autem sibi continuatur collum et non pectus 
+          <lb ed="#Pa" n="50"/>nec tibia et collo ex alia parte caput et alia parte 
+          <lb ed="#Pa" n="51"/>pectus et humeri et sic procedendo vsque ad pedes et 
+          <lb ed="#Pa" n="52"/>ita ille ordo seruatur in corpore Christi in eucharistia 
+          <lb ed="#Pa" n="53"/>sicut in celo non tamen ordo situalis quia non est ibi 
+          <lb ed="#Pa" n="54"/>commensuratiue illis speciebus nec alicui situi 
+          ex<lb ed="#Pa" n="55" break="no"/>teriori sed in se est vere extense et distanter secundum 
+          <lb ed="#Pa" n="56"/>partes ita quod caput tantum distat a pede intrinsece 
+          <lb ed="#Pa" n="57"/>in corpore sub illis speciebus quantum in celo et ita 
+          <lb ed="#Pa" n="58"/>Christus posset ibi mouere manum suam a capite ad 
+          pe<lb ed="#Pa" n="59" break="no"/>des et conuersim velociter vel tarde sicut sibi 
+          pla<lb ed="#Pa" n="60" break="no"/>ceret ita quod illa velocitas vel tarditas attenderetur 
+          <lb ed="#Pa" n="61"/>penes distantiam partium in corpore sed non penes 
+          <lb ed="#Pa" n="62"/>distantiam situalem respectu illarum specierum vel 
+          <lb ed="#Pa" n="63"/>alterius situs quia ex quo sub qualibet parte 
+          il<lb ed="#Pa" n="64" break="no"/>larum specierum est totum corpus Christi qualibet pars 
+          <lb ed="#Pa" n="65"/>eius. Ideo non posset aliqua eius pars moueri ad 
+          <lb ed="#Pa" n="66"/>aliquam partem hostie in qua prius non fuit
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e729">
+          ⁋ Sextum 
+          <!--328.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>oubium cuiusmodi locationes mutationes siant 
+          <lb ed="#Pa" n="68"/>ibi cum de existente in loco diffinitiue et non circum 
+          <lb ed="#Pa" n="69"/>scriptiue sic existens in loco circunscriptiue seu 
+          con<lb ed="#Pa" n="70" break="no"/>mensuratiue et modo quantitatiuo vel econverso. 
+        </p>
+        <p xml:id="GHYaf3-d1e945-d1e746">
+          <lb ed="#Pa" n="71"/>⁋ Ad istud bene respondet vbi prius quod hoc posset con 
+          <lb ed="#Pa" n="72"/>tingere tripliciter scilicet quod de materia non extensa fiat 
+          <lb ed="#Pa" n="73"/>extensa vnomodo quod extensa maionem locum occupet 
+          <lb ed="#Pa" n="74"/>uam quando non est extensa. Aliomodo quod minonem. Ter 
+          <lb ed="#Pa" n="75"/>tiomodo quod equalem. Si primo modo fiat tunc sunt 
+          <lb ed="#Pa" n="76"/>ibi due mutationes vna acquisitiua quia illa materia 
+          <lb ed="#Pa" n="77"/>acquirit vnum nouum locum et alia deperditiua quia 
+          <lb ed="#Pa" n="78"/>quando fuit non extensa fuit tota cum toto loco et 
+          <lb ed="#Pa" n="79"/>tota cum qaalibet parte. Sed quando extenditur 
+          <lb ed="#Pa" n="80"/>tunc est tota cum toto loco et tota cum qualibet paerte 
+          <lb ed="#Pa" n="81"/>et per consequens omnes partes perdent aliqua 
+          <lb ed="#Pa" n="82"/>loca que prius habuerunt quia prius fuit pes cum 
+          <lb ed="#Pa" n="83"/>capite et modo distant et ideo vtrumque perdit loca 
+          <lb ed="#Pa" n="84"/>que prius habuit. Si secundo modo tunc sola mutatio 
+          <lb ed="#Pa" n="85"/>deperditiua quia totum occupat oe loco quam prius 
+          <lb ed="#Pa" n="86"/>et per consequens perdit partem illius loci 
+          maio<lb ed="#Pa" n="87" break="no"/>ris et etiam partes perdunt multa loca prius habi 
+          <lb ed="#Pa" n="88"/>ta sicut in priori modo Si tertiomodo tunc etiam est 
+          <lb ed="#Pa" n="89"/>mutatio deperditiua quia tunc partes quarum que  
+          <lb ed="#Pa" n="90"/>libet fuit cum toto et cum qualibet parte iam 
+          dimit<lb ed="#Pa" n="91" break="no"/>tunt loca prius habita excepto vno si autem 
+          econ<lb ed="#Pa" n="92" break="no"/>uerso de materia extensa fiat non extensa hoc simili 
+          <lb ed="#Pa" n="93"/>potest tripliciter contingere et si totum remanebit in  
+          <lb ed="#Pa" n="94"/>loco equali erit mutatio acquisitiua et non 
+          deper<lb ed="#Pa" n="95" break="no"/>ditiua quia quelibet pars acquirit multa loca quae 
+          <lb ed="#Pa" n="96"/>non prehabuit Sed nec totum nec aliqua pars perdit 
+          <lb ed="#Pa" n="97"/>ocum aliquem quam prehabuit. Si vero fiat in  
+          <lb ed="#Pa" n="98"/>loco maiori similiter erit ibi mutatio acquisitiua non  
+          <lb ed="#Pa" n="99"/>deperditiua sed in minori tunc hec erit mutatio tam 
+          <lb ed="#Pa" n="100"/>deperditiua quam acquisitiua sicut patet aduertenti 
+          <lb ed="#Pa" n="101"/>ex predictis et cetera.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

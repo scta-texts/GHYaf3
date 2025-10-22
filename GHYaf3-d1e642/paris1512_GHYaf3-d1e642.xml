@@ -1,1439 +1,1439 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Quaestio 3</title>
-            <author ref="#Wodeham">Adam Wodeham</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Quaestio 3</title>
-               <date when="2021-03-03">March 3, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-03-03" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#Pa" n="95-r"/>
-            <cb ed="#Pa" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="GHYaf3-d1e642"><!-- GHYaf3-l2q3 -->
-            <head xml:id="GHYaf3-d1e642-Hd1e108">Quaestio 3</head>
-            <head xml:id="GHYaf3-d1e642-Hd1e111" type="question-title">
-      Utrum creatura rationalis habens gratiam possit mereri suam gratiam augmentari.
-    </head>
-            <p xml:id="GHYaf3-d1e642-d1e114">
-               <lb ed="#Pa" n="53"/>TErtio circa istam 
-      di<lb ed="#Pa" n="54" break="no"/>stinctionem quero ad materiam de 
-      <lb ed="#Pa" n="55"/>augmentatione formarum vtrum 
-      crea<lb ed="#Pa" n="56" break="no"/>tura rationalis habens gratiam 
-      pos<lb ed="#Pa" n="57" break="no"/>sit mereri suam gratiam augmentari 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e127">
-               <lb ed="#Pa" n="58"/>⁋ Uidetur quod non quia nulla gratia potest fie 
-      <lb ed="#Pa" n="59"/>ri maior quod est ex prima questione praesentis distinctio 
-      <lb ed="#Pa" n="60"/>nis quia nec precedens nec addita nec resultans ex 
-      <lb ed="#Pa" n="61"/>vtra que. igitur contra per augustinum vbi supra in princi 
-      <lb ed="#Pa" n="62"/>pio huius secundi gratia meretur augeri etc. Item 
-      augu<lb ed="#Pa" n="63" break="no"/>stinus super canonicam. Io ome 3 recitat magister li. 3 di 
-      <lb ed="#Pa" n="64"/>stinctione 2. cap. vltimo vbi dicitur nunquid mox vt 
-      na<lb ed="#Pa" n="65" break="no"/>scitur charitas tam prorsus perfecta est ymo vt per 
-      <!--233.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="66"/>ficiatur nascitur cum nata fuerit nutritur cum fuerit 
-      nu<lb ed="#Pa" n="67" break="no"/>trita roboratur cum fuerit roborata perficitur cum ad 
-      per<lb ed="#Pa" n="68" break="no"/>fectum venerit dicit cupio dissolui.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e158">
-      ⁋ Item augustinus 
-      <lb ed="#Pa" n="69"/>euechm vltio vel penultimo cap. crescente caritate mi 
-      <lb ed="#Pa" n="70"/>iuitur cupiditas igitur caritas secundum eum crescit. 
-      <lb ed="#Pa" n="71"/>Respondeo quod idem est iudicium de charitate et aliis 
-      <lb ed="#Pa" n="72"/>formis secundum quas est motus quomodo ad intem 
-      <lb ed="#Pa" n="73"/>sionem et remissionem ideo vniformiter restat dubita 
-      <lb ed="#Pa" n="74"/>re de omnibus primo an aliqua talis forma susci 
-      <lb ed="#Pa" n="75"/>piat magis et minus Secundo an augeatur vel di 
-      <lb ed="#Pa" n="76"/>minuatur Tertio an intendatur vel remittatur. 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e179">
-               <lb ed="#Pa" n="77"/>⁋ Ad primum dicendum quod non de virtute sermonis 
-      <lb ed="#Pa" n="78"/>loquedo siue sit propositio copulatiua siue sit de 
-      <lb ed="#Pa" n="79"/>copulato extremo quia licet aliqua forma possit 
-      <lb ed="#Pa" n="80"/>fieri maior vel minor per rarefactionem vel condempsa 
-      <lb ed="#Pa" n="81"/>tionem nulla tamen proprie loquendo suscipit magis 
-      <lb ed="#Pa" n="82"/>et minus in se nec etiam potest esse intensior vel remissi 
-      <lb ed="#Pa" n="83"/>or quam est nec etiam posset augeri vel minui intensiue 
-      <lb ed="#Pa" n="84"/>et ratio est quia non posset realiter in se recipere a 
-      <lb ed="#Pa" n="85"/>liquid sue speciei nec etiam aliquid alterius speciei Se 
-      <lb ed="#Pa" n="86"/>cundo dico quod non suscipit magis et minus per praedicationem 
-      <lb ed="#Pa" n="87"/>quia non potest dici forma talis puta albedo sit magis 
-      <lb ed="#Pa" n="88"/>albedo quam ante nec intensa albedo est magis albedo  
-      <lb ed="#Pa" n="89"/>quam remissa licet sit maior id est intensior. Sed talis de 
-      <lb ed="#Pa" n="90"/>nominatio concretiua tantum conuenit proprie sub 
-      <lb ed="#Pa" n="91"/>iecto secundum tales formas in ipso receptas nam 
-      sub<lb ed="#Pa" n="92" break="no"/>ectum est primo minus tale et post magis tale vel 
-      <lb ed="#Pa" n="93"/>econuerso dico tertio quod ad intellectum auctorum 
-      <lb ed="#Pa" n="94"/>loquentium concedi posset quod forma suscipit magis 
-      <lb ed="#Pa" n="95"/>et minus et intra eandem spciem id est quod vna vice est maior 
-      <lb ed="#Pa" n="96"/>et alia vice minor intensiue manens in eadem specie et 
-      <lb ed="#Pa" n="97"/>in eodem subiecto adequate.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e227">
-      ⁋ Aliomodo quod alicui 
-      <lb ed="#Pa" n="98"/>forme aduenit aliquid faciens eam perfectionem et 
-      <lb ed="#Pa" n="99"/>tunc dicitur suscipere magis quandoque aliqua pars 
-      ei<lb ed="#Pa" n="100" break="no"/>detrahitur et tunc dicitur suscipere minus non quod  
-      <lb ed="#Pa" n="101"/>eadem sit primo maior et post minor et econuersa. 
-      <lb ed="#Pa" n="102"/>Sed quia resultans ex priore et adueniente est ma 
-      <lb ed="#Pa" n="103"/>ior et etiam remanens post alicuius gradus substra 
-      <lb ed="#Pa" n="104"/>ctionem est minor.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e245">
-      ⁋ Ad secundum dubium potest dici 
-      <lb ed="#Pa" n="105"/>quod sicut patet primo de generatione et secundo de anima 
-      <lb ed="#Pa" n="106"/>in augmentatione vera auctum prefuit et aliquid  
-      <lb ed="#Pa" n="107"/>sibi adgeneratur ita quod quelibet pars aucta est au 
-      <lb ed="#Pa" n="108"/>cta quod ad vim vocis non posset intelligi sed sic quod in  
-      <lb ed="#Pa" n="109"/>augmentatione restiltat maius scilicet compositum ex prae 
-      <lb ed="#Pa" n="110"/>existente et adueniente et in diminutione relinquitur 
-      <lb ed="#Pa" n="111"/>minus quam prius fuerit scilicet pars illius a quo incipit 
-      <lb ed="#Pa" n="112"/>diminutio et ad similem sensum dicitur de forma aliquam 
-      <lb ed="#Pa" n="113"/>quod vere augeatur et minuatur tamen sicut vulgaris 
-      <lb ed="#Pa" n="114"/>locutio concedit idem vel numero primo esse maius 
-      <lb ed="#Pa" n="115"/>et postea minus ita proportionabiliter posset 
-      con<lb ed="#Pa" n="116" break="no"/>cedi de formis ita scilicet quod idem sit auctum esse quod esse cui 
-      <lb ed="#Pa" n="117"/>aliquid est appositum et ad genitum secundum 
-      quan<lb ed="#Pa" n="118" break="no"/>libet notabilem partem sui et sic illud quod prefuit 
-      <lb ed="#Pa" n="119"/>augetur vel est auctum et etiam illud quod prefuit 
-      <lb ed="#Pa" n="120"/>ex diminutum a quo scilicet per corruptionem secundum quam 
-      <lb ed="#Pa" n="121"/>libet partem notabilem substra hebatur quod se 
-      <lb ed="#Pa" n="122"/>cum prius constituebat vere et per se vnum. Notandum 
-      <lb ed="#Pa" n="123"/>tamen quod indifferenter est in augmentatione hominis et 
-      <lb ed="#Pa" n="124"/>aliorum animalium propter animam intellectiuam propter quam 
-      <lb ed="#Pa" n="125"/>ho manet idem nunero non sic autem omnino est in aliis. Nota 
-      <lb ed="#Pa" n="126"/>etiam quod animata proprime dmuinti augeri forem autem sicut cha 
-      <lb ed="#Pa" n="127"/>ritas albedo minus proprie
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e297">
-      ⁋ Ex dictis patet ad ter 
-      <lb ed="#Pa" n="128"/>tiam partem dubii qualit er. s forma potest intendi vel 
-      <lb ed="#Pa" n="129"/>remitti
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e304">
-      ⁋ Tertium dubium principale an foram habeat 
-      <lb ed="#Pa" n="130"/>latitudinem veram intensiua vel gradualem et est 
-      dicen<lb ed="#Pa" n="131" break="no"/>dum quod sic quia habet in se plures partes distinctas rea 
-      <!--234.xml-->
-      <pb ed="#Pa" n="95-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>liter constituentes eam qualitatiue sicut plures par 
-      <lb ed="#Pa" n="2"/>tes distincte situaliter constituunt aliquid per se vnum 
-      <lb ed="#Pa" n="3"/>extem siue.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e324">
-      ⁋ Tertium dubium an augmentatio forme 
-      <lb ed="#Pa" n="4"/>sit motus vel mutatio dicendum quod si fiat successiueque  
-      <lb ed="#Pa" n="5"/>est motus si subito tunc est mutatio et si sit in subiecto 
-      <lb ed="#Pa" n="6"/>tunc subiectum dicitur moueri vel mutari tali augmenta 
-      <lb ed="#Pa" n="7"/>tione et non ipsa forma. Si vero fieret non in 
-      subie<lb ed="#Pa" n="8" break="no"/>cto sicut bene posset fieri a deo tunc talis 
-      augmen<lb ed="#Pa" n="9" break="no"/>tatio non esset motus nec mutatio qui nihil ibi mo 
-      <lb ed="#Pa" n="10"/>ueretur.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e343">
-      ⁋ Dices pars precedens aliter se nunc ha 
-      <lb ed="#Pa" n="11"/>bet quam prius quia aliquid sibi acquiritur igitur mutatur 
-      <lb ed="#Pa" n="12"/>Respondetur quod si se habet nunc aliter quam prius scilicet secundum 
-      <lb ed="#Pa" n="13"/>locum vel secundum formam in se subiectiue receptam bene 
-      <lb ed="#Pa" n="14"/>sequitur ipsa mutari. Si autem solum habet se aliter 
-      <lb ed="#Pa" n="15"/>relatiue et in ordine ad aliud non oportet sicut non 
-      <lb ed="#Pa" n="16"/>sequitur in simili filium dei mutari in incarnatione de 
-      <lb ed="#Pa" n="17"/>quo videbitur circa principium tertii. Diceres subie 
-      <lb ed="#Pa" n="18"/>ctum mouetur ista augmentatione et non alio motu 
-      <lb ed="#Pa" n="19"/>quam sit ista augmentatio igitur subiectum augmentatur 
-      <lb ed="#Pa" n="20"/>probatur charitas augetur et ista augientatio est 
-      <lb ed="#Pa" n="21"/>motus igitur charitas mouetur. Item si charitas augman 
-      <lb ed="#Pa" n="22"/>tatur illa augmentatio non distiguitur a charitate 
-      <lb ed="#Pa" n="23"/>sed est ipsa charitas igitur augmentatio 
-      augmen<lb ed="#Pa" n="24" break="no"/>tatur et cum augmentatio sit etiam alteratio igitur 
-      al<lb ed="#Pa" n="25" break="no"/>teratio augmentabitur probatur augmentatio et al 
-      <lb ed="#Pa" n="26"/>teratio sunt motus distincti et charitas est termi 
-      <lb ed="#Pa" n="27"/>nus alterationis igitur non est terminus 
-      augmenta<lb ed="#Pa" n="28" break="no"/>tionis et per consequens non augetur. Ad primum dicitur 
-      <lb ed="#Pa" n="29"/>quod eadem mutatio denominat subiectum et aliter 
-      for<lb ed="#Pa" n="30" break="no"/>mam ideo negatur consequentia sicut non sequitur ca 
-      <lb ed="#Pa" n="31"/>lefacere est agere sed ignis calefacit aquam igitur 
-      <lb ed="#Pa" n="32"/>ignis agit aquam per idem ad secundum.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e393">
-      ⁋ Ad tertiu dicitur 
-      <lb ed="#Pa" n="33"/>quod non tota charitas dicitur augmentatio sed pars ap 
-      <lb ed="#Pa" n="34"/>posita et ideo non sequitur quod augmentatio 
-      augmen<lb ed="#Pa" n="35" break="no"/>tetur quia pars apposita non dicitur augmentari. Sed vel 
-      <lb ed="#Pa" n="36"/>ipsum totum vel praeexistens iuxta intellectum prius datum 
-      <lb ed="#Pa" n="37"/>etiam non videtur inconveniens quod augmentatio per accidens 
-      <lb ed="#Pa" n="38"/>augmentetur et quod altatio augmentatur licet non opor 
-      <lb ed="#Pa" n="39"/>teat sequi de alteratione eo quod licet ista 
-      augmen<lb ed="#Pa" n="40" break="no"/>tatio sit alteratio non tamen eiusdem sed est augmen 
-      <lb ed="#Pa" n="41"/>tatio forme et alteratio subiecti sicut ipsa non est 
-      <lb ed="#Pa" n="42"/>motus forme sed subiecti.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e417">
-      ⁋ Ad quartum dicendum 
-      <lb ed="#Pa" n="43"/>quod in proposito non sunt motus distincti sed vnus motus 
-      <lb ed="#Pa" n="44"/>qui tamen respectu vnius est alteratio et respectu 
-      <lb ed="#Pa" n="45"/>alterius augmentatio.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e426">
-      ⁋ Quartum dubium an aliqua 
-      <lb ed="#Pa" n="46"/>paria charitas possit fieri vel acquiri per tempus 
-      <lb ed="#Pa" n="47"/>nfinitum sine interruptione credo quod sic per deum producem 
-      <lb ed="#Pa" n="48"/>do aliquam partem in certo tempone et partem proportionalem 
-      <lb ed="#Pa" n="49"/>sequentem in tanto tempone et sic in infinitum.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e437">
-      ⁋ Quintur 
-      <lb ed="#Pa" n="50"/>dubium. An possit deus inducere in tempone finito for 
-      <lb ed="#Pa" n="51"/>mam infinitam dicendum si non sit repugnantia formam hu 
-      <lb ed="#Pa" n="52"/>ius esse conclusio esset consequenda si autem est 
-      repu<lb ed="#Pa" n="53" break="no"/>gnantia dicendum quod non
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e448">
-      ⁋ Sextum dubium vtrum charitas 
-      <lb ed="#Pa" n="54"/>possit augeri per actum instantaneum et tenet syrati quod 
-      <lb ed="#Pa" n="55"/>non quia si sic sequitur quod quilibet viator posset in paruo 
-      <lb ed="#Pa" n="56"/>tempone acquirere tantam charitatem vel maiorem quantam 
-      <lb ed="#Pa" n="57"/>habuit anima Christi consequentia probatur quia charitas anime 
-      <lb ed="#Pa" n="58"/>Christi est finita. que sit a. et sit b. actus instantaneus per  
-      <lb ed="#Pa" n="59"/>quem viator meretur charitatem .c. et sit proportio .c. 
-      <lb ed="#Pa" n="60"/>ad a. subcentupla et ponatur quod antequam talis eliciat 
-      <lb ed="#Pa" n="61"/>actum aliquem ipse habeat deliberationes sufficientes 
-      <lb ed="#Pa" n="62"/>respectu diuersorum obiectorum vel actuum ad 
-      elicien<lb ed="#Pa" n="63" break="no"/>dum centum tales actus qualis est b. et maneant ille 
-      <lb ed="#Pa" n="64"/>deliberationes per vnam totam horam et faciat ille pri 
-      <lb ed="#Pa" n="65"/>mum actuum illorum in prima centesima illius hore 
-      <lb ed="#Pa" n="66"/>tunc pari ratione potest facere secundum in secunda et sic con¬ 
-      <!--234.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>sequenter nec oportet quod fiat expectatio per maius tempus 
-      <lb ed="#Pa" n="68"/>quia deliberatio et dispositio potentie per omnia requisita 
-      <lb ed="#Pa" n="69"/>ad actum volendi causandum mado iam expresso habentur 
-      <lb ed="#Pa" n="70"/>per causam in principio et habebuntur in qualibet par 
-      <lb ed="#Pa" n="71"/>te proportionali respectu actus tunc causandi 
-      secun<lb ed="#Pa" n="72" break="no"/>dum ordinem iam pretactum. Ad istud respondi di. 1 1. 
-      <lb ed="#Pa" n="73"/>q. 8 quod actus instantanee elicitus necessario 
-      conti<lb ed="#Pa" n="74" break="no"/>nuatur per tempus secundum se totum per partem 
-      <lb ed="#Pa" n="75"/>ante partem ita quod non ex toto cessabit citra finem ali 
-      <lb ed="#Pa" n="76"/>cuius temporis parui in cuius principio si sumatur 
-      <lb ed="#Pa" n="77"/>mediante deliberatione quod tunc est dilectio dei 
-      cau<lb ed="#Pa" n="78" break="no"/>sanda et sequitur electio conforis illi sententie seu 
-      <lb ed="#Pa" n="79"/>dictumini non est in potestate talis nature 
-      intelle<lb ed="#Pa" n="80" break="no"/>ctualis circa ffinem vnius parui temponris scilicet minimi per 
-      <lb ed="#Pa" n="81"/>ceptibilis vel maximi non perceptibilis secudum circum 
-      <lb ed="#Pa" n="82"/>stantias et dispositiones precise tunc habitas sententiari 
-      <lb ed="#Pa" n="83"/>quod tunc vel tunc non sit actus habendus et tunc vel tunc 
-      <lb ed="#Pa" n="84"/>sit alia distinctio causanda nec etiam in discursu istius 
-      <lb ed="#Pa" n="85"/>temponis dumcurrunt iste partes proportionales iuxta yma 
-      <lb ed="#Pa" n="86"/>ginationem argumeti facti nec in principio poterit 
-      <lb ed="#Pa" n="87"/>sententiari distincte quod in tali parte est secudus actus 
-      <lb ed="#Pa" n="88"/>causandus et in tali tertius et sic deinceps quia non  
-      <lb ed="#Pa" n="89"/>est in ptante naturali talis intellectus creati aliquam 
-      <lb ed="#Pa" n="90"/>istarum partium disticte percipere quare igitur meri 
-      <lb ed="#Pa" n="91"/>torie elicere potest tot actus similes cum non possit 
-      <lb ed="#Pa" n="92"/>primum dimittere citra finem temponis dandi.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e540">
-      ⁋ Ex istis sic 
-      <lb ed="#Pa" n="93"/>premissis soluuntur multa argumenta predicti do 
-      <lb ed="#Pa" n="94"/>ctoris contra necessariam continuationem actus eli 
-      <lb ed="#Pa" n="95"/>citi in principio temponis dati vsque in finem huius Arguit 
-      <lb ed="#Pa" n="96"/>entum sic ponatur quod voluntas velit ex deliberatione atecede 
-      <lb ed="#Pa" n="97"/>istud tempus non habere actum istum vltra medietatem 
-      ta<lb ed="#Pa" n="98" break="no"/>lis temponis parui dati et si hoc vel igitur habebit actum 
-      <lb ed="#Pa" n="99"/>istum post medietatem datit praeis istius vel non si non tunc 
-      <lb ed="#Pa" n="100"/>habita deliberatione prima poterit ipsum dimittere 
-      <lb ed="#Pa" n="101"/>et habere actum alium quandoquie ex tunc voluerit si non  
-      <lb ed="#Pa" n="102"/>tunc actum istum inuite continuat quod est contra ansi. 
-      <lb ed="#Pa" n="103"/>de libero arbitrio capitu. quinto dicentem ligari 
-      <lb ed="#Pa" n="104"/>potest hoc inuitus quia nollens potest occidi velle autem 
-      <lb ed="#Pa" n="105"/>non posset inuitus quia velle non potest nolens
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e571">
-      ⁋ Si 
-      <lb ed="#Pa" n="106"/>mile dicit Augustinus de duabus animabus capitulo 6  
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e576">
-               <lb ed="#Pa" n="107"/>⁋ Dicetur forte quod ipsi loquuntur de velle proprie 
-      <lb ed="#Pa" n="108"/>dicto scilicet de belle libero pro tunc quando est liberum.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e583">
-      ⁋ Set 
-      <lb ed="#Pa" n="109"/>volitio elicita in principio datit praeis non est post pri 
-      <lb ed="#Pa" n="110"/>mum instans libera pro isto tempone. Contra arguit iste do 
-      <lb ed="#Pa" n="111"/>ctor quia licet prima pars huius responsionis sit 
-      ve<lb ed="#Pa" n="112" break="no"/>ra scilicet quod ipsi loquuntur de velle libero et proprie 
-      <lb ed="#Pa" n="113"/>dicto non tamen secunda pars qua dicitur quod volitio hu 
-      <lb ed="#Pa" n="114"/>ius pro isto tempone post primum eius instans non est libera 
-      <lb ed="#Pa" n="115"/>sed necessario habita ita inquit necessario quod non  
-      <lb ed="#Pa" n="116"/>est in ptante voluntatis illius quis si habeat huiusmodi 
-      <lb ed="#Pa" n="117"/>actum in primo instanti illius temporis habet istum 
-      <lb ed="#Pa" n="118"/>vel aliquid eius post medietatem illius temponis datiz 
-      <lb ed="#Pa" n="119"/>quia dicit augustinus vbi supra quod non cogitur facere 
-      <lb ed="#Pa" n="120"/>aliquid vel non facit istud vel volens facit cum igitur 
-      <lb ed="#Pa" n="121"/>voluntas non cogatur retinere huiusmodi actum post 
-      medie<lb ed="#Pa" n="122" break="no"/>tatem temponis dati vel igitur non retinet eum tunc vel si 
-      <lb ed="#Pa" n="123"/>etinens volens retinet.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e618">
-      ⁋ Ad istud argumentum 
-      pa<lb ed="#Pa" n="124" break="no"/>tet primo quod supponit falsum scilicet quod talis voluntas possit 
-      <lb ed="#Pa" n="125"/>discernere inter medietates illius parui temponis et di 
-      <lb ed="#Pa" n="126"/>stincte percipere quando erit prima medietas et quando se 
-      <lb ed="#Pa" n="127"/>cunda et oe partibus partium eius cuius oppositum 
-      <lb ed="#Pa" n="128"/>probaui supra prima di.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e631">
-      ⁋ Sed hoc non soluit argu 
-      <lb ed="#Pa" n="129"/>mentum dato quod talis intellectus non possit 
-      distin<lb ed="#Pa" n="130" break="no"/>te percipere tempus minus nouit tamen quod illud paruum 
-      <lb ed="#Pa" n="131"/>epris habet infinitas partes et per consequens voluntas 
-      <lb ed="#Pa" n="132"/>potest velle diligere deum precise per medietatem 
-      <!--235.xml-->
-      <pb ed="#Pa" n="96-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>primam istius temponis velit igitur sic et tunc queritur vtrum 
-      <lb ed="#Pa" n="2"/>habebit istum actum post istam medietatem vel non et 
-      con<lb ed="#Pa" n="3" break="no"/>sequenter per omnia arguitur sicut prius Respondetur 
-      <lb ed="#Pa" n="4"/>quod licet intellectus iciat istud tempus paruum habere 
-      <lb ed="#Pa" n="5"/>duas medietates non tamen potest distincte eas per  
-      <lb ed="#Pa" n="6"/>cipere nec etiam in principio illius temponis percipit 
-      in<lb ed="#Pa" n="7" break="no"/>stans medium eiusdem distincte et ideo no est in ptante 
-      <lb ed="#Pa" n="8"/>voluntatis disticte percipere vel scire quando vere fue 
-      <lb ed="#Pa" n="9"/>rit medium illius temponis.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e669">
-      ⁋ Unde concedo quod si ipsa isto 
-      <lb ed="#Pa" n="10"/>modo velit in principio istius temponis a. quando ponit 
-      <lb ed="#Pa" n="11"/>primo actum mediante dictamine iutellectus 
-      si<lb ed="#Pa" n="12" break="no"/>cut exprimitur in argumento quod ipsa non potest 
-      exe<lb ed="#Pa" n="13" break="no"/>qui sicut eligit exequendum ymo si tunc eliciat istam 
-      <lb ed="#Pa" n="14"/>dilectionem quam simul cum vellet non remanere vltra 
-      <lb ed="#Pa" n="15"/>primam medietatem illius temponis ipsa non habet in sua na 
-      <lb ed="#Pa" n="16"/>turali potentia quiz actus ille remaneat plus quam vel 
-      <lb ed="#Pa" n="17"/>let cum ipsa non possit iterum citra finem dati temponis 
-      illu<lb ed="#Pa" n="18" break="no"/>actum deliberate suspendere vnde breuiter in tali 
-      <lb ed="#Pa" n="19"/>casu ipsa vult sibi et tali potentie actiue impossibi 
-      <lb ed="#Pa" n="20"/>le et cum arguitur quod tunc post primam medietatem temponis 
-      <lb ed="#Pa" n="21"/>voluntas diligeret vel vellet inuite.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e698">
-      ⁋ Respondeo 
-      <lb ed="#Pa" n="22"/>sicut alias quod non sequitur quod in secunda perte a. ipsa simplici 
-      <lb ed="#Pa" n="23"/>ter et absolute vellet seu diligeret inuite quia tunc ve 
-      <lb ed="#Pa" n="24"/>let diligere et velle ea dilectione et volitione qua 
-      <lb ed="#Pa" n="25"/>habuit in principio ipsius a. et ideo tunc volens 
-      <lb ed="#Pa" n="26"/>eam habebit et non simpliciter inuite tamen 
-      habe<lb ed="#Pa" n="27" break="no"/>bit eam tunc inuite secundum quid eo quod in principio a. 
-      <lb ed="#Pa" n="28"/>temponis voluntas vult illam dilectionem fore in prima me 
-      <lb ed="#Pa" n="29"/>dietate. a. temponis et non vltra et quia ille actus volendi 
-      <lb ed="#Pa" n="30"/>cum precise durat per totum. a. tempus igitur in secunda me 
-      <lb ed="#Pa" n="31"/>dietate. a. temponis adhuc vult voluntas istam dilectionem 
-      <lb ed="#Pa" n="32"/>tunc non fore et tamen tunc erit per casum igitur tunc 
-      <lb ed="#Pa" n="33"/>erit contra suum velle ideo erit secudum quid inuite. 
-      <lb ed="#Pa" n="34"/>Ansel. autem intelligit quod non posset simpliciter inuite 
-      <lb ed="#Pa" n="35"/>velle volitione libera proprie licet multa velle 
-      na<lb ed="#Pa" n="36" break="no"/>turalia precedentia omnem deliberationem sepissime 
-      <lb ed="#Pa" n="37"/>recipiat vel saltem sit possibile quod recipiat velit nolit 
-      <lb ed="#Pa" n="38"/>⁋Aliter posset dici et forte melius quod ansel intel 
-      <lb ed="#Pa" n="39"/>ligit quod nemo potest inuitus primo causare velle pro 
-      <lb ed="#Pa" n="40"/>prie liberum et tamen velit nolit si recipiat tale retine 
-      <lb ed="#Pa" n="41"/>bit et cum probatur in contrarium per augustinum qui non co 
-      <lb ed="#Pa" n="42"/>gitur etc. Si hec auctoritas applicetur ad primam 
-      pr<lb ed="#Pa" n="43" break="no"/>ductionem instantaneam et liberam illius dilectionis o 
-      <lb ed="#Pa" n="44"/>vocetur .c. de qua et eius continuatione est hic sermo 
-      <lb ed="#Pa" n="45"/>auctoritas facit pro me quia .c. continuatur et libere et 
-      <lb ed="#Pa" n="46"/>non coacte nec necessitate libertati contraria causal 
-      <lb ed="#Pa" n="47"/>et hoc sonat auctoritas que exprimit facere et non 
-      <lb ed="#Pa" n="48"/>continuare vel conseruare.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e759">
-      ⁋ Si vero applicetur 
-      au<lb ed="#Pa" n="49" break="no"/>ctoritas ad continuationem .c. dico quod voluntas liberi 
-      <lb ed="#Pa" n="50"/>in principio a. temponis causando c. cogit seipsam et ne 
-      <lb ed="#Pa" n="51"/>cessitat ad continuandum .c. vel aliquam eius partem nec 
-      <lb ed="#Pa" n="52"/>hoc est inconveniens etiam secundum auctoritates vult enim 
-      <lb ed="#Pa" n="53"/>anselmus quod voluntas posset seipsam necessitare et 
-      <lb ed="#Pa" n="54"/>cogere malum vt inlibello ve cocordia cap. ter. 
-      di<lb ed="#Pa" n="55" break="no"/>cit opus voluntatis cui datum est vt quod vult quod sit et quod 
-      <lb ed="#Pa" n="56"/>non vult non sit voluntarium seu spototaneum est quando sponta 
-      <lb ed="#Pa" n="57"/>nea voluntate fit et vnifariam est nec essarium quia et 
-      vo<lb ed="#Pa" n="58" break="no"/>luntate cogitur fieri
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e783">
-      ⁋ Sed has necessitates facii 
-      <lb ed="#Pa" n="59"/>voluntatis libertas quae prius quam sit eas cauere potest sic 
-      <lb ed="#Pa" n="60"/>dicam in casu isto quod voluntas libere causando actum aliter 
-      <lb ed="#Pa" n="61"/>quem necessitat seipsam et cogit ad continuationem 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e792">
-               <lb ed="#Pa" n="62"/>⁋ Secundo arguit idem doctor sic si voluntas ceteris 
-      <lb ed="#Pa" n="63"/>paribus in dicto casu necessitatur tenere dilectio 
-      <lb ed="#Pa" n="64"/>nem .c. per tempus a. quid igitur necessitat eam non 
-      <lb ed="#Pa" n="65"/>passio aliqua quae ponatur quod nullam habebit nec 
-      co<lb ed="#Pa" n="66" break="no"/>gnitio quia tunc sequaretur quod quanto fortius vellet hare 
-      <lb ed="#Pa" n="67"/> 
-               <lb ed="#Pa" n="68"/> 
-               <lb ed="#Pa" n="69"/> 
-               <lb ed="#Pa" n="70"/> 
-               <lb ed="#Pa" n="71"/> 
-               <lb ed="#Pa" n="72"/> 
-               <!--235.xml-->
-               <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="73"/>aliquam volitionem huiusmodi tanto fortius et diutius 
-      ha<lb ed="#Pa" n="74" break="no"/>beret istam quia quanto volitionem aliquam nollet tanto 
-      <lb ed="#Pa" n="75"/>uagis cognosceret illud quod nollet habre et per te 
-      co<lb ed="#Pa" n="76" break="no"/>gnitio est causa retentionis igitur fortior cognitio 
-      <lb ed="#Pa" n="77"/>fortioris retentionis nec posset dici quod voluntas 
-      ne<lb ed="#Pa" n="78" break="no"/>cessitet se quia voluntas nollet habree istam nolitionem post 
-      <lb ed="#Pa" n="79"/>medietatem. A temponis.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e838">
-      ⁋ Ad istud dico quod ipsamet 
-      vo<lb ed="#Pa" n="80" break="no"/>luntas supposito vniformi concursu omnim aliorum puta 
-      <lb ed="#Pa" n="81"/>cognitionis concausantis volitionem .c. et huiusmodi 
-      ne<lb ed="#Pa" n="82" break="no"/>cessitat ad continuandum omnes autem alie cause ibi con 
-      <lb ed="#Pa" n="83"/>currentes agunt quantum possunt ex parte earum et ideo 
-      <lb ed="#Pa" n="84"/>si voluntas ponat se libere ad idem sequitur effectus et 
-      <lb ed="#Pa" n="85"/>permanebit et omnia alia vniformiter permanebunt do 
-      <lb ed="#Pa" n="86"/>nec volunta libere cesset ab actu c sicut libere eum 
-      <lb ed="#Pa" n="87"/>causauit non est autem in ptante voluntatis create 
-      feren<lb ed="#Pa" n="88" break="no"/>tis se in aliquid subito et fine medio suspendere to 
-      <lb ed="#Pa" n="89"/>taliter motum illum quia tunc foret instans instanti imme 
-      <lb ed="#Pa" n="90"/>diatum sicut alias declaraui et hoc precise si talis 
-      <lb ed="#Pa" n="91"/>latio in aliquid sit productio vere rei sicut est in proposit o 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e868">
-               <lb ed="#Pa" n="92"/>⁋ Sed quato voluntas omnibus aliis causis partiali 
-      <lb ed="#Pa" n="93"/>bus requisitis principiat dilectionem aliquam iuxta 
-      <lb ed="#Pa" n="94"/>modum predictum tunc velle habitum in principio a. 
-      ten<lb ed="#Pa" n="95" break="no"/>poris de non habenda .c. dilectione vltra primam 
-      me<lb ed="#Pa" n="96" break="no"/>dietatem illius temponis non sufficit siue pluries ad hoc 
-      <lb ed="#Pa" n="97"/>quod dilectio c non retineatur vltra medietatem. a. temponis 
-      <lb ed="#Pa" n="98"/>tum quia hoc est proprium soli die voluntati quod per hoc quod nunc 
-      <lb ed="#Pa" n="99"/>vult aliis aliquid fieri vel destrui eo ipo tunc fiat 
-      <lb ed="#Pa" n="100"/>vel cesset ipse enim solus est qui dicit et facta sunt 
-      <lb ed="#Pa" n="101"/>tum quia velle illud quo vult post medietatem a temponis c. 
-      <lb ed="#Pa" n="102"/>non esse non repugnat ipsi .c. dilecti cum compatiatur .c. in  
-      <lb ed="#Pa" n="103"/>principio a. et per totam primam medietatem a. etiam secundem 
-      <lb ed="#Pa" n="104"/>istum doctonem igitur per istud velle numnquam cessabit .c. 
-      <lb ed="#Pa" n="105"/>nisi aliud sit in causa nec poni poterit aliud in cau 
-      <lb ed="#Pa" n="106"/>sa cum omnia alia ponuntur vniformiter se habre igitur 
-      opor<lb ed="#Pa" n="107" break="no"/>tet quod ipsa voluntas velit isto tunc adueniente aliquid 
-      <lb ed="#Pa" n="108"/>volitione repugnante .c. vel velit tunc .c. non esse
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e907">
-      ⁋ Sed  
-      <lb ed="#Pa" n="109"/>hoc non est possibile voluntati ex se propter impercepti 
-      <lb ed="#Pa" n="110"/>bilitatem vt est dictum igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e914">
-      ⁋ Ad formam igitur argu 
-      <lb ed="#Pa" n="111"/>menti dicitur quod voluntas necessitet seipsam etc. cum dicitur quod 
-      <lb ed="#Pa" n="112"/>voluntas nolet habre etc. dico quod in isto casu voluntas 
-      <lb ed="#Pa" n="113"/>vult sibi impossibile deducere ad effectum quia non est 
-      <lb ed="#Pa" n="114"/>in eius ptante naturali scire quando precise erit lapsa 
-      <lb ed="#Pa" n="115"/>prima medietas a. temponis vt predixi.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e927">
-      ⁋ Tertio 
-      Ar<lb ed="#Pa" n="116" break="no"/>guit doctor iste si stante casu priori oporteat .c. 
-      con<lb ed="#Pa" n="117" break="no"/>tinuare per totum a. vel igitur per totum illud tempus 
-      ma<lb ed="#Pa" n="118" break="no"/>net actus iste eque intensus sicut fuit in primo. in 
-      stan<lb ed="#Pa" n="119" break="no"/>ti vel non si sic tunc lapso isto paruo tempone continuabitur 
-      <lb ed="#Pa" n="120"/>vltra per tantundem tempus nisi aliqua circunstantia 
-      remit<lb ed="#Pa" n="121" break="no"/>tatur quod non oportet contingere voluntas ipsa 
-      conser<lb ed="#Pa" n="122" break="no"/>uans .c. remittetur igitur remanebit actus .c. ita 
-      for<lb ed="#Pa" n="123" break="no"/>tis in fine. a. temponis igitur necesse est ipsum vlterius conti 
-      <lb ed="#Pa" n="124"/>nuare per equale tempus ipsi. a. et pari ratione tertio quar 
-      <lb ed="#Pa" n="125"/>to et sic sine fine.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e951">
-      ⁋ Item si maneret actus vniformiter in  
-      <lb ed="#Pa" n="126"/>tensus per huiusmodi tempouns pari ratione foret in angelis 
-      <lb ed="#Pa" n="127"/>beatis quia non videretur posse dari ratio diuersitatis 
-      <lb ed="#Pa" n="128"/>et si sic tunc si viderent deum velle vnum et postea statim 
-      <lb ed="#Pa" n="129"/>oppositum non possent se conformare volutati dmie infra 
-      <lb ed="#Pa" n="130"/>illud tempuns et per consequens haberent tunc tales actus inuite
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e964">
-      ⁋ Item similiter 
-      <lb ed="#Pa" n="131"/>fuisset in Christo et sic postquam fuit mortuus voluit seite 
-      <lb ed="#Pa" n="132"/>rum mori quia in instanti mortis sue voluit seiqueum mori et 
-      <lb ed="#Pa" n="133"/>si hoc igitur secundem istam responsionem de necessitate ista 
-      <lb ed="#Pa" n="134"/>volitio continuabitur vltra igitur Item si ista volitio. o 
-      <lb ed="#Pa" n="135"/>manet vniformis per totum a. quero autem potest corrum 
-      <lb ed="#Pa" n="136"/>pi subito aut non si subito igitur infra istud tempus potest cor 
-      <lb ed="#Pa" n="137"/>rumpi si non igitur vltra illud instans quod erit finis a. 
-      <lb ed="#Pa" n="138"/>temponis necessario permanebit
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e985">
-      ⁋ Item si sic maneret per ta 
-      <!--236.xml-->
-      <pb ed="#Pa" n="96-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>tum. a. in equali gradu tunc conatus voluntatis quo 
-      <lb ed="#Pa" n="2"/>conaretur in principio talis temponis non intenderet actum 
-      <lb ed="#Pa" n="3"/>illum consequens est falsum igiturct. Si detur alia pars quod 
-      <lb ed="#Pa" n="4"/>actus ille non maneat continuus in equali gradu 
-      <lb ed="#Pa" n="5"/>per illud tempus a. sequitur quod continue naturaliter 
-      <lb ed="#Pa" n="6"/>remittitur per illud tempus donec in fine illius temporis 
-      <lb ed="#Pa" n="7"/>cesset esse quod non videtur verum quia sicut agens 
-      <lb ed="#Pa" n="8"/>istum actum subito potuit producere pro eo quod ad eius re 
-      <lb ed="#Pa" n="9"/>ceptionem erat passum satis dispositum et actuum suffi 
-      <lb ed="#Pa" n="10"/>ciens et sufficienter presens non videtur ratio quin  
-      <lb ed="#Pa" n="11"/>actus iste subito poterit corrumpi igitur non requi 
-      <lb ed="#Pa" n="12"/>ritur quod successiue remittatur et partialiter cesset 
-      <lb ed="#Pa" n="13"/>esse Item sicut ibi non est aliqua resistentia quin c 
-      <lb ed="#Pa" n="14"/>actus subito producatur ita nec quin subito 
-      corrunm<lb ed="#Pa" n="15" break="no"/>pitur et si in tali actus acquisitione vel destructio 
-      <lb ed="#Pa" n="16"/>ne esset verus motus pari ratione foret verus mo 
-      <lb ed="#Pa" n="17"/>tus in productione actus cognitionis vel scientie con 
-      <lb ed="#Pa" n="18"/>tra phsoahum septimo phisicorum nec obstat quod ibi non est 
-      <lb ed="#Pa" n="19"/>materia quia ita vere ista successio mensuratur tempone 
-      <lb ed="#Pa" n="20"/>sicut si ibi esset materia.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1037">
-      ⁋ Ad argumentum cum inqui 
-      <lb ed="#Pa" n="21"/>rituran actus c. manebit eque intensus per totum 
-      <lb ed="#Pa" n="22"/>a. tempons vel non dico quod vtraque pars contingere potest 
-      <lb ed="#Pa" n="23"/>Sic omnes enim alie concause illius actus et circun 
-      <lb ed="#Pa" n="24"/>stantie eius intensiores prouenientes maneant 
-      vni<lb ed="#Pa" n="25" break="no"/>formes per totum tempons a. nec nouiter aliud impediat 
-      <lb ed="#Pa" n="26"/>tunc manebit actus eque intensus vsque ad finem. a 
-      <lb ed="#Pa" n="27"/>temponis exclusiue si aliqua de causis eius actis 
-      remit<lb ed="#Pa" n="28" break="no"/>tatur vel impediatur infra tempus a. tunc vel infra. a. 
-      <lb ed="#Pa" n="29"/>cessabit vel remittetur actus c.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1059">
-      ⁋ Sed hoc non 
-      sta<lb ed="#Pa" n="30" break="no"/>bit per ipsam voluntatem sed aliunde prouenit et 
-      <lb ed="#Pa" n="31"/>tunc non remanebunt omnes et precise eedem 
-      cir<lb ed="#Pa" n="32" break="no"/>cunstantie sicut prius contra casum argumenti.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1068">
-      ⁋ Ad  
-      <lb ed="#Pa" n="33"/>primam igitur formam cum probatur dato quod maneat vni 
-      <lb ed="#Pa" n="34"/>formis tunc pari ratione per tantundem tempus etc. 
-      di<lb ed="#Pa" n="35" break="no"/>co quod non sequitur ymo libere potest voluntas cessa 
-      <lb ed="#Pa" n="36"/>re totaliter ab isto casu in vltimo instanti temponis 
-      a<lb ed="#Pa" n="37" break="no"/>ita quod hoc sit primum instans non esse eius sicut 
-      tota<lb ed="#Pa" n="38" break="no"/>titer produxit ipsum in primo instanti temponis a. Magister au 
-      <lb ed="#Pa" n="39"/>tem iste ymagiatur quod in isto vltimo instanti. a. temponis 
-      <lb ed="#Pa" n="40"/>deberet esse actus intensus sicut ante et hoc non  
-      <lb ed="#Pa" n="41"/>oportet et tamen ita posset contingere et si hoc pla 
-      <lb ed="#Pa" n="42"/>ceat tunc voluntati nouiter tunc adhuc ceteris pa 
-      <lb ed="#Pa" n="43"/>ribus maneret iterum per tantundem tempus infra quod  
-      <lb ed="#Pa" n="44"/>ab isto actu cessare non posset et ita etiam de fine 
-      ten<lb ed="#Pa" n="45" break="no"/>poris vel tertum vel quarti. Non dico tamen quod si ha 
-      <lb ed="#Pa" n="46"/>bet actum istum ita fortem sicut prius in fine temponis dati quod 
-      <lb ed="#Pa" n="47"/>iterum eo ipso haberet per tantundem tempons et sic de aliis 
-      <lb ed="#Pa" n="48"/>quia hoc non oportet.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1105">
-      ⁋ Sed si in fine dati temponis noui 
-      <lb ed="#Pa" n="49"/>ter velit actum huius tunc habere vel retinere et ce 
-      <lb ed="#Pa" n="50"/>tera sint paria que iuuant ad actum conseruandum 
-      <lb ed="#Pa" n="51"/>tunc oportet si vero in isto finali voluntas teneret 
-      <lb ed="#Pa" n="52"/>illum actum non ex noua complacentia et aduertentia tunc 
-      <lb ed="#Pa" n="53"/>esset casuale quantum ad voluntatem actum istum 
-      ces<lb ed="#Pa" n="54" break="no"/>sare ante finem secunditemporis equalis vel non.  
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1121">
-               <lb ed="#Pa" n="55"/>⁋ Ad secundam formam concedo quod ceteris paribus it 
-      <lb ed="#Pa" n="56"/>esset in angelis beatis de actibus illis quos libe 
-      <lb ed="#Pa" n="57"/>re causant et libere dimittunt si cetera sint paria 
-      <lb ed="#Pa" n="58"/>hic et ibi nisi quod minus tempus potest ex natura sua 
-      <lb ed="#Pa" n="59"/>angelus percipere quam purus homo precise pro statu 
-      <lb ed="#Pa" n="60"/>nature lapse in quo corpus quod corrumpitur ag 
-      <lb ed="#Pa" n="61"/>grauat animam et cum probatur quod non quia tunc si deum 
-      <lb ed="#Pa" n="62"/>videret velle vnum in principio istius parui temporias 
-      <lb ed="#Pa" n="63"/>et statim post oppositum ctc. dicendum quod istud antece 
-      <lb ed="#Pa" n="64"/>dens non subest potentie naturali actiue angeli bene 
-      <lb ed="#Pa" n="65"/>tamen subest diuine omnipotentie in medio illius perui 
-      <lb ed="#Pa" n="66"/>temponis facere eos sentire vel firmiter credere quod de 
-      <!--236.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>us vult eos aliud velle et habito tali iudicio possunt 
-      <lb ed="#Pa" n="68"/>se in volito simul cum illo iudicio in eis a deo causa 
-      <lb ed="#Pa" n="69"/>to libere vel necessario conformare et ita potest via 
-      <lb ed="#Pa" n="70"/>tor si simile circa ipsum fieret a deo.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1164">
-      ⁋ Sed tunc 
-      di<lb ed="#Pa" n="71" break="no"/>mittitur casus argumenti quia tunc non habet pre 
-      <lb ed="#Pa" n="72"/>cise ista adiutoria seu circunstantias quas prius. 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1171">
-               <lb ed="#Pa" n="73"/>⁋ Ad tertiam formam dico quod Christus per diuinam volitio 
-      <lb ed="#Pa" n="74"/>nem fortaliter solum pro instanti mortis voluit 
-      pre<lb ed="#Pa" n="75" break="no"/>sentialiter mori supposito quod anima subito separetur 
-      <lb ed="#Pa" n="76"/>a corpore et qualibet eius parte
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1182">
-      ⁋ Et Idem dico 
-      <lb ed="#Pa" n="77"/>de anima Christi si deus ipse fuit illi anime volitio qua for 
-      <lb ed="#Pa" n="78"/>formaliter voluit ipsum mori de hac igitur Christi voli 
-      <lb ed="#Pa" n="79"/>tione nulla est ad prepositum difficultas sed loquems 
-      <lb ed="#Pa" n="80"/>do de creata volitione anime Christi certum est quod ipsa ante 
-      <lb ed="#Pa" n="81"/>mortem voluit tali volitione Christum mori in futuro. 
-      <lb ed="#Pa" n="82"/>Sed vtrum ipsa voluerit tunc praesentialiter Christum mori 
-      <lb ed="#Pa" n="83"/>cum actualiter moriebatur supposito quod Christi mors et 
-      <lb ed="#Pa" n="84"/>aliorum sit instantanea fides non determinat.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1202">
-      ⁋ 
-      Di<lb ed="#Pa" n="85" break="no"/>co tamen quod si in instanti. b. mortis Christi ipsa voluerit 
-      <lb ed="#Pa" n="86"/>Christum tunc mori volitione creata siue a deo siue ab  
-      <lb ed="#Pa" n="87"/>eo causata quod ipsa post istud instans voluit christum 
-      <lb ed="#Pa" n="88"/>mori quia non potuit simul et semel subito resistere 
-      <lb ed="#Pa" n="89"/>ab hoc velle alioquin instans iustanti succedere 
-      <lb ed="#Pa" n="90"/>posset fine medio nec hoc est mirum si attendatur quod 
-      <lb ed="#Pa" n="91"/>christum mori in b. instanti non est nisi animam chri 
-      <lb ed="#Pa" n="92"/>sti esse in b. primo separatam a suo corpore quid enim 
-      <lb ed="#Pa" n="93"/>inconveniens dabitur certe non nisi quam post quam b. tran 
-      <lb ed="#Pa" n="94"/>sut per momentum paruum temponis voluerit ista aimma 
-      <lb ed="#Pa" n="95"/>seipam esse primo in b. a suo corpore separatam 
-      Di<lb ed="#Pa" n="96" break="no"/>ces tunc sequitur quod anima voluerit aliquid esse abso 
-      <lb ed="#Pa" n="97"/>lute vel fieri et tamen suum volitum non obtinuerunt 
-      <lb ed="#Pa" n="98"/>patet consequentia quia post b instans voluit primo 
-      <lb ed="#Pa" n="99"/>esse separata a suo corpore et hoc effici non potuit 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1237">
-               <lb ed="#Pa" n="100"/>⁋ Dicendum quod non sequitur quod non obtinuerunt vo 
-      <lb ed="#Pa" n="101"/>litum sufficit enim quod volitum fuerit tamen ipsa 
-      nun<lb ed="#Pa" n="102" break="no"/>quam voluit quod Christus post. b. moreretur ymo voluit con 
-      <lb ed="#Pa" n="103"/>trarium cum hoc tamen stat quod ipsa diutius voluerit 
-      <lb ed="#Pa" n="104"/>Christum mori in b. quam obtinuerit saltem quantum ad circum 
-      <lb ed="#Pa" n="105"/>stantiam aliquam concurrentem ex parte voliti quia scilicet 
-      ip<lb ed="#Pa" n="106" break="no"/>sum. b. non ita diumansit sicut ipsa voluit christu 
-      <lb ed="#Pa" n="107"/>mori in b. et deus etiam ita voluit eam diutius velle 
-      <lb ed="#Pa" n="108"/>qui aliter non dedit sibi pro posse. Aliter potest dici 
-      <lb ed="#Pa" n="109"/>ad hominem et multum leuiter secudum principia 
-      eius<lb ed="#Pa" n="110" break="no"/>dem doctoris quod ab instanti et deinceps ista 
-      voli<lb ed="#Pa" n="111" break="no"/>tio non remansit volitio sed hanc responsionem non 
-      <lb ed="#Pa" n="112"/>teneo.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1268">
-      ⁋ Ad quartam formam dicendum quod potest 
-      cor<lb ed="#Pa" n="113" break="no"/>rumpi subito vel successiue sed non citra finem. a. temponis 
-      <lb ed="#Pa" n="114"/>ceteris partibus sed primo subito in eius fine. 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1276">
-               <lb ed="#Pa" n="115"/>⁋ Et ad argumentum in contrarium patet ex 
-      responsio<lb ed="#Pa" n="116" break="no"/>ne ad primam formam.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1283">
-      ⁋ Ad quintam formam dicendum 
-      <lb ed="#Pa" n="117"/>quod voluntatem conari non est nisi niti habere perfe 
-      <lb ed="#Pa" n="118"/>ctam contemplationem seu cognitionem secundum optimas 
-      <lb ed="#Pa" n="119"/>et placibilitas et magis electiuas conditiones 
-      <lb ed="#Pa" n="120"/>obiecti sic enim recolligere se et vires alias vt 
-      ha<lb ed="#Pa" n="121" break="no"/>beantur alique circunstantie prime in optimo est 
-      <lb ed="#Pa" n="122"/>conatus magnus ad bene et intense volendu
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1299">
-      ⁋ Quan 
-      <lb ed="#Pa" n="123"/>tum igitur ad formam argumenti neganda est conse 
-      <lb ed="#Pa" n="124"/>quentia quia licet conatus talis ante actum faciat 
-      <lb ed="#Pa" n="125"/>multum ad intensionem actus tum quia facit appone 
-      <lb ed="#Pa" n="126"/>re illa que posita augent actum tum quia facit 
-      amo<lb ed="#Pa" n="127" break="no"/>uere illa que impedirent intensionem actus tum si 
-      <lb ed="#Pa" n="128"/>omnia ista procurentur et maneant vsque in finem a. temponis 
-      <lb ed="#Pa" n="129"/>sicut principale presupponit argumentum actus 
-      re<lb ed="#Pa" n="130" break="no"/>manebit equaliter intensus vsque in finem a.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1319">
-      ⁋ Set 
-      <lb ed="#Pa" n="131"/>tunc suspendi poterit ex libero motu voluntatis 
-      <lb ed="#Pa" n="132"/>sicut est superius declaratum probatur due forme pro¬ 
-      <!--237.xml-->
-      <pb ed="#Pa" n="97-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>bantes quod non opetet actum .c. successiue defficere vel 
-      <lb ed="#Pa" n="2"/>desinere probant verum.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1337">
-      ⁋ Ad tertiam formam qua di 
-      <lb ed="#Pa" n="3"/>citur quod tunc eius corruptio vel productio esset 
-      ve<lb ed="#Pa" n="4" break="no"/>re motus concedo.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1344">
-      ⁋ Ad philosophum dicendum est quod intel 
-      <lb ed="#Pa" n="5"/>ligit quod non est necessarium ex natura talium formarum 
-      <lb ed="#Pa" n="6"/>vel receptionum earum quod ipse producantur vel defficiant 
-      <lb ed="#Pa" n="7"/>successiue quod concedo.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1354">
-      ⁋ Secundo probatur aliter 
-      <lb ed="#Pa" n="8"/>ab isto doctore quod charitas non augetur per meri 
-      <lb ed="#Pa" n="9"/>tum instantaneum quia si sic igitur per meritum temponale 
-      <lb ed="#Pa" n="10"/>augetur in infinitum quia meritum temprorale 
-      excede<lb ed="#Pa" n="11" break="no"/>ret meritum instantaneum improportionabiliter 
-      con<lb ed="#Pa" n="12" break="no"/>sequentia probatur ex hoc quod si augeretur charitas 
-      <lb ed="#Pa" n="13"/>per meritum instantaneum igitur etiam per meritum 
-      <lb ed="#Pa" n="14"/>vltimi instantis quia pro tunc meretur per istum actum 
-      <lb ed="#Pa" n="15"/>premium. eternum aliter eim frustra teneret istum actum 
-      <lb ed="#Pa" n="16"/>pro tunc.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1376">
-      ⁋ Sed constat quod pro quolibet instanti tam 
-      <lb ed="#Pa" n="17"/>tum augeretur sicut pro vltimo instanti quia non  
-      <lb ed="#Pa" n="18"/>est maior ratio oe vno quam de alioymo non est aliquod 
-      <lb ed="#Pa" n="19"/>instans per totum istud quin si desisteret in illo 
-      in<lb ed="#Pa" n="20" break="no"/>stanti ita quod foret vltimum quin in isto mereretur 
-      si<lb ed="#Pa" n="21" break="no"/>cut et modo igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1389">
-      ⁋ Item si actus voluntatis es 
-      <lb ed="#Pa" n="22"/>set pro tunc primo contra preceptum esset demeri 
-      <lb ed="#Pa" n="23"/>torius et modo esset ita bonus sicut tunc malus igi 
-      <lb ed="#Pa" n="24"/>tur modo meritorius.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1398">
-      ⁋ Probatur si actus 
-      continu<lb ed="#Pa" n="25" break="no"/>atus per tale tempus foret demeritorius pro vltimo 
-      <lb ed="#Pa" n="26"/>instanti foret demeritorius.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1405">
-      ⁋ Aliter enim esset 
-      ali<lb ed="#Pa" n="27" break="no"/>quis actus malus pro quo non deberetur pena igitur 
-      <lb ed="#Pa" n="28"/>etiam actus bonus pro tunc foret meritorius.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1412">
-      ⁋ Item 
-      <lb ed="#Pa" n="29"/>si pro illo instanti non deberetur aliquod premium 
-      <lb ed="#Pa" n="30"/>sequeretur quod deus inequaliter merentes equali 
-      <lb ed="#Pa" n="31"/>ter premiaret posito casu communi de duobus 
-      equa<lb ed="#Pa" n="32" break="no"/>liter merentibus vsque ad a. quorum vnus habet 
-      <lb ed="#Pa" n="33"/>actum meritorium in a. et alius non sit a. vltimum 
-      <lb ed="#Pa" n="34"/>instans tempus dandi.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1429">
-      ⁋ Respondetur negando  
-      <lb ed="#Pa" n="35"/>primam consequentiam quia viator per bonum 
-      <lb ed="#Pa" n="36"/>actum tunc solum nouiter meretur quando actus 
-      <lb ed="#Pa" n="37"/>est sublibero dominio voluntatis ita quod pro illa men 
-      <lb ed="#Pa" n="38"/>sura est in naturali libertate voluntatis prima se 
-      <lb ed="#Pa" n="39"/>cundum naturam actui licet forsan simul duratio 
-      <lb ed="#Pa" n="40"/>ne habere vel non habere tenere vel non tenere non 
-      <lb ed="#Pa" n="41"/>autem pro mensura pro qua vel in quae non posset non 
-      <lb ed="#Pa" n="42"/>habere actum talem sicut est in illo paruo tempo 
-      <lb ed="#Pa" n="43"/>re et ideo si precise duret actus per illud tempus 
-      <lb ed="#Pa" n="44"/>tunc nihil plus meretur ex tali continuatione 
-      vl<lb ed="#Pa" n="45" break="no"/>tra eius instantaneam productionem liberam.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1455">
-      ⁋ Et 
-      <lb ed="#Pa" n="46"/>cum arguitur si augetur gratia per meritum 
-      vl<lb ed="#Pa" n="47" break="no"/>timi instantis igitur meritum cuiuslibet nature 
-      ne<lb ed="#Pa" n="48" break="no"/>gatur consequentia quia si ex distractione sola et 
-      <lb ed="#Pa" n="49"/>non ex noua electione nec vere nec interpretatiue 
-      <lb ed="#Pa" n="50"/>perseueret in illo actu bono in vltimo instanti illi 
-      <lb ed="#Pa" n="51"/>us minimi temponis tunc nullum meritum nouiter sibi ex 
-      <lb ed="#Pa" n="52"/>hoc accrescit nec vnquam accrescet donec ex noua ele 
-      <lb ed="#Pa" n="53"/>ctione vere vel interpretatiue habita perseueret in 
-      <lb ed="#Pa" n="54"/>actu huius libere precanto. Sed quotiens nouiter 
-      <lb ed="#Pa" n="55"/>in illum complacuerit in tantum quod illum 
-      princi<lb ed="#Pa" n="56" break="no"/>piaret nouiter si non esset totiens additum sibi 
-      pre<lb ed="#Pa" n="57" break="no"/>miusim sibi ascribitur sicut si nouiter tunc ab ipso li 
-      <lb ed="#Pa" n="58"/>bere causaretur.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1486">
-      ⁋ Et ideo si in vltimo instanti 
-      il<lb ed="#Pa" n="59" break="no"/>lius temporis haberet nouam electionem vel 
-      con<lb ed="#Pa" n="60" break="no"/>placentiam ad continuandum illum actum 
-      novi<lb ed="#Pa" n="61" break="no"/>ter meretur premium et gratiam sibi augeri.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1495">
-      ⁋ Et 
-      <lb ed="#Pa" n="62"/>ideo patet quod non est eadem ratio quo ad hoc de vltio 
-      <lb ed="#Pa" n="63"/>instanti et de aliis precedentibus quia nec citius 
-      pos<lb ed="#Pa" n="64" break="no"/>set illum actum dimittere ex suis naturalibus vt proba 
-      <lb ed="#Pa" n="65"/>ui.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1506">
-      ⁋ Quattuor media que probant quod in vltimo in 
-      <lb ed="#Pa" n="66"/>tanti meretur si aptentur ad posse et non ad esse con 
-      <!--237.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>cessa est conclusio quam deducerenti si autem aptentur 
-      <lb ed="#Pa" n="68"/>ad hoc quod oporteat sic esse non est verum.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1519">
-      ⁋ Et ideo 
-      <lb ed="#Pa" n="69"/>respondeo ad primum quod frustra quo ad crementum 
-      <lb ed="#Pa" n="70"/>meriti continuatur vltimum instans vel etiam habe 
-      <lb ed="#Pa" n="71"/>tur in isto nisi ex electione noua vere vel interpre 
-      <lb ed="#Pa" n="72"/>tatiue tunc habita habeatur per idem ad secundem quia 
-      <lb ed="#Pa" n="73"/> electiue perseueret in vltimo instanti contra 
-      pro<lb ed="#Pa" n="74" break="no"/>hibitionem nouiter vel ab antiquo sibi factam in  
-      <lb ed="#Pa" n="75"/>actu vsque etiam meritorie habito concedo quod esset 
-      <lb ed="#Pa" n="76"/>sibi tunc demeritorius et suo modo est dicendum 
-      <lb ed="#Pa" n="77"/>de meritorio sicut prius.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1542">
-      ⁋ Ad tertium dico quod prece 
-      <lb ed="#Pa" n="78"/>pta negatiua obligant ad semper et ideo nisi talis 
-      <lb ed="#Pa" n="79"/>in vltimo instanti temporis dati cesset ab actu 
-      pro<lb ed="#Pa" n="80" break="no"/>hibito cum tunc cessare possit iudicabitur consen 
-      <lb ed="#Pa" n="81"/>tire et ideo tunc iste actus ceteris paribus est no 
-      <lb ed="#Pa" n="82"/>uiter demeritorius. Sed de actu meritorio non est 
-      <lb ed="#Pa" n="83"/>ita quia nullus viator totiens mereri obligatur 
-      <lb ed="#Pa" n="84"/>sicut posset. Sed si super hoc haberet quis 
-      prece<lb ed="#Pa" n="85" break="no"/>ptum tunc peccaret etiam nisi nouiter talem actum 
-      <lb ed="#Pa" n="86"/>eligeret vel alium meritorium vel non 
-      imprehabi<lb ed="#Pa" n="87" break="no"/>tum complacenter vere vel interpretatiue et si spon 
-      <lb ed="#Pa" n="88"/>tanee non obligatus ad hoc sic se habeat nouiter in  
-      <lb ed="#Pa" n="89"/>illo instanti quod actum huiusmodi nouiter poneret nisi es 
-      <lb ed="#Pa" n="90"/>set prehabitus crescit eius meritum et si non 
-      habe<lb ed="#Pa" n="91" break="no"/>at non decrescit.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1575">
-      ⁋ Ad quartum dicendum est quod si al 
-      <lb ed="#Pa" n="92"/>terum eorum. ex noua electione vera vel interpreta 
-      <lb ed="#Pa" n="93"/>tiua habeat actum in a. et aliter ab eo cessat in eo 
-      <lb ed="#Pa" n="94"/>a non causando aliquem alium eque bonum tunc 
-      <lb ed="#Pa" n="95"/>non equaliter merentur et tunc etiam primo plus 
-      <lb ed="#Pa" n="96"/>correspondet oe premio.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1588">
-      ⁋ Si autem ex sola distra 
-      <lb ed="#Pa" n="97"/>ctione habeatur ille actus ab vno istorum in a. et 
-      <lb ed="#Pa" n="98"/>non ab alio tunc non merentur inequaliter nec eti 
-      <lb ed="#Pa" n="99"/>am premiabuntur inequaliter ceteris paribus. 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1597">
-               <lb ed="#Pa" n="100"/>⁋ Tertio principaliter iste doctor sic si per meritum 
-      <lb ed="#Pa" n="101"/>instantaneum augeatur charitas sequitur quam 
-      ali<lb ed="#Pa" n="102" break="no"/>quis in vna hora posset augere suam charitatem 
-      <lb ed="#Pa" n="103"/>infinite quia in omni parte proportionali posset pl 
-      <lb ed="#Pa" n="104"/>ad hoc facere quam in instanti.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1610">
-      ⁋ Hic respondet olrelcen 
-      <lb ed="#Pa" n="105"/>et ego in parte sustinui quod non in omni parte proportio 
-      <lb ed="#Pa" n="106"/>nali tantum facit ad augmentum gratie actus con 
-      <lb ed="#Pa" n="107"/>tinuatio sicut ipsius instantanea libera causatio ymo 
-      <lb ed="#Pa" n="108"/>nec sola continuatio meriti augmentat gratiam.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1621">
-      ⁋ Con 
-      <lb ed="#Pa" n="109"/>tra tunc ita bonum esset homini semper dormire sicut deum 
-      <lb ed="#Pa" n="110"/>continue summe diligere si continuatio ista non auge 
-      <lb ed="#Pa" n="111"/>ret meritum. Item si sic tunc in casu vnius simplicissimus 
-      <lb ed="#Pa" n="112"/>habens actum remissum magis meretur infra illud 
-      <lb ed="#Pa" n="113"/>tempus quam summe contemplans continue deum per idem tempons 
-      <lb ed="#Pa" n="114"/>consequentia probatur quia actus contemplantis excedit 
-      <lb ed="#Pa" n="115"/>actum simplicitatis in certo gradu sic quod in decuplo 
-      <lb ed="#Pa" n="116"/>igitur si simplex ille infra tempus datum decies replica 
-      <lb ed="#Pa" n="117"/>ret actum suum ipse tantum vel plus meretur sicut 
-      con<lb ed="#Pa" n="118" break="no"/>templans ille per suum continuatum quod non videtur.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1646">
-      ⁋ Item 
-      <lb ed="#Pa" n="119"/>imprudenter continuaret aliquis bonum opus suum quia ma 
-      <lb ed="#Pa" n="120"/>gis esset meritorium sibi dimittere actum et iter 
-      si<lb ed="#Pa" n="121" break="no"/>militer operari. Item tunc illud confilium apostoli non esset pru 
-      <lb ed="#Pa" n="122"/>dnter datum sine intermissione orate. Item agise in cano 
-      <lb ed="#Pa" n="123"/>nica sua multum valet deprecatio iusti assidua. 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1659">
-               <lb ed="#Pa" n="124"/>⁋ Item de moyse legitur quod quando orauit continue 
-      <lb ed="#Pa" n="125"/>vincebat israel quando cessabat orare vincebat 
-      <lb ed="#Pa" n="126"/>amalech. Item. 10. ethicorum laudat philosophus multum 
-      <lb ed="#Pa" n="127"/>felicitatem speculatiuam quia ipsa est continua. Item continu 
-      <lb ed="#Pa" n="128"/>atio in malo est thesaurizatio ire dei. et per consequens auget 
-      <lb ed="#Pa" n="129"/>demeritum. igitur continua boni auget meritum consequens patet 
-      <lb ed="#Pa" n="130"/>acobi. 5 de diuilibus conseruantibus diuitias vsque  
-      <lb ed="#Pa" n="131"/>ad putrefactionem ad ro. 2 An diuitias bonitati 
-      <lb ed="#Pa" n="132"/>eius et paciem et longanimitates eis ontempnunt. Item augustinis  
-      <!--238.xml-->
-      <pb ed="#Pa" n="97-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>de vera et falsa penitentia di. 5 in principio dicit. 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1690">
-               <lb ed="#Pa" n="2"/>⁋ Consideret peccator quantitatem criminis in lo 
-      <lb ed="#Pa" n="3"/>co in tempore in perseuerantia etc. post consideret 
-      <lb ed="#Pa" n="4"/>quantum perseuerauerit et defleat quod 
-      perse<lb ed="#Pa" n="5" break="no"/>uerauerit peccauit. Item tunc summe deum 
-      odi<lb ed="#Pa" n="6" break="no"/>ens continue per aliquod tempus minus 
-      pecca<lb ed="#Pa" n="7" break="no"/>ret quam si interim illud odium corrumperet et iterum 
-      <lb ed="#Pa" n="8"/>resumeret. Item tunc volens occidere mille viros 
-      <lb ed="#Pa" n="9"/>et ex equali malicia continuata exequens non 
-      ma<lb ed="#Pa" n="10" break="no"/>gis peccaret quam qui ceteris paribus occideret unum 
-      <lb ed="#Pa" n="11"/>solum. Si dicas quod ymo quia actus exterior est potior 
-      <lb ed="#Pa" n="12"/>quia est lesiuus plurium.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1716">
-      ⁋ Contra igitur pari ratio	¬ 
-      <lb ed="#Pa" n="13"/>ne est magis offensiua dei executio talis impetus 
-      <lb ed="#Pa" n="14"/>respectu multorum quam respectu vnius. Falsitas pro 
-      <lb ed="#Pa" n="15"/>batur quia si voluntas interior non sit pelor 
-      pro<lb ed="#Pa" n="16" break="no"/>pter continuationem actus interioris mali igitur 
-      <lb ed="#Pa" n="17"/>nec actus exteriores ex eorum continuatione. Item 
-      <lb ed="#Pa" n="18"/>tunc veniale additum mortali precedenti esset 
-      ali<lb ed="#Pa" n="19" break="no"/>cui grauius si nouiter fieret quam continuatio morta 
-      <lb ed="#Pa" n="20"/>lis quia pro veniali deberetur noua pena et pro 
-      <lb ed="#Pa" n="21"/>continuatione mortalis non. Item tunc ecclesia er 
-      <lb ed="#Pa" n="22"/>raret in puniendo continuationem malitie. Item 
-      <lb ed="#Pa" n="23"/>tunc per quemcunque actum satiffactorium posset 
-      <lb ed="#Pa" n="24"/>homo satiffacere pro quolibet constat enim quod ita 
-      <lb ed="#Pa" n="25"/>diu talis actus posset continuari quod esset satiffacto 
-      <lb ed="#Pa" n="26"/>rius pro grauissimo delicto igitur si ita bonus est 
-      <lb ed="#Pa" n="27"/>in principio sicut postea per cotinuationem patet 
-      <lb ed="#Pa" n="28"/>intentum.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1753">
-      ⁋ Item mathei. 5 docet christus petere 
-      <lb ed="#Pa" n="29"/>querere et pulsare et idem luc xi. vbi de hoc 
-      pa<lb ed="#Pa" n="30" break="no"/>nit parabolam de petente amicum suum vt accom 
-      <lb ed="#Pa" n="31"/>modaret sibi tres panes. Item luce 16 dicit chri 
-      <lb ed="#Pa" n="32"/>stus oportet semper orare et non deficere et ponit 
-      <lb ed="#Pa" n="33"/>exemplum de iniquo iudice vindicante viduam 
-      <lb ed="#Pa" n="34"/>de aduersario suo propter instantiam suam in 
-      pe<lb ed="#Pa" n="35" break="no"/>tendo probatur laudantur seculares bene et diu 
-      <lb ed="#Pa" n="36"/>durantes et equi in via non deficientes mirum igitir 
-      <lb ed="#Pa" n="37"/>tur est si non laudantur homines opera bona con 
-      <lb ed="#Pa" n="38"/>tinuantes.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1777">
-      ⁋ Ad ista patet pro maiori parte ex dicti 
-      <lb ed="#Pa" n="39"/>bene enim volo quod longua continuatio boni actus 
-      <lb ed="#Pa" n="40"/>volendi procedentis ex charitate ymo omnis con 
-      <lb ed="#Pa" n="41"/>tinuatio siue breuis siue longa equiualens vere vel 
-      <lb ed="#Pa" n="42"/>interpretatiue pluribus causationibus talis actus 
-      <lb ed="#Pa" n="43"/>auget meritum et charitatem vie et consequenter 
-      <lb ed="#Pa" n="44"/>premium intellectus et quantum pretacta media 
-      <lb ed="#Pa" n="45"/>istius doctoris illud probant illis inhereo. Et 
-      si<lb ed="#Pa" n="46" break="no"/>militer dico ymo fortius multo ve continuatione 
-      <lb ed="#Pa" n="47"/>actus mali quantum ad demeritum quia 
-      tenere<lb ed="#Pa" n="48" break="no"/>tur quilibet citius quomodo posset culpam 
-      mor<lb ed="#Pa" n="49" break="no"/>talem inchoatam dimittere et ideo actio temporis 
-      <lb ed="#Pa" n="50"/>minimi ab ipso distincte perceptibilis quo primo 
-      <lb ed="#Pa" n="51"/>posset aduertere se teneri dimittere tale malum 
-      <lb ed="#Pa" n="52"/>et non dimittit omittit nouiter peccando mortali 
-      <lb ed="#Pa" n="53"/>ter non ponendo actum displicentie talis actus et 
-      <lb ed="#Pa" n="54"/>non cessando ab actu tali citius quo poterit vere 
-      <lb ed="#Pa" n="55"/>vel interpretatiue intelligitur nouiter consentire 
-      <lb ed="#Pa" n="56"/>et hoc quia vt supra dixi pecepta negatiua obligant 
-      <lb ed="#Pa" n="57"/>ad semper.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1822">
-      ⁋ In actibus autem bonis non 
-      continu<lb ed="#Pa" n="58" break="no"/>tis totaliter vadit ita quod ibi continuatio expleta di 
-      <lb ed="#Pa" n="59"/>stracte parum aut nihil prodest.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1829">
-      ⁋ Iteratio autem vo 
-      <lb ed="#Pa" n="60"/>luntaria boni actus ex charitate semper iuuat. 
-      Se<lb ed="#Pa" n="61" break="no"/>cundo tamen dico quod continuatio boni actus per tale 
-      <lb ed="#Pa" n="62"/>tempus minimum ceteris paribus non auget gratiam nec 
-      <lb ed="#Pa" n="63"/>meritum intem siue nisi accedat adiutorium diuinum vel 
-      <lb ed="#Pa" n="64"/>aliud singulare et per ista satis esset obuiandum huic 
-      <lb ed="#Pa" n="65"/>magistro qui nititur probare quod nullum sit meritum instam 
-      <lb ed="#Pa" n="66"/>taneum sed omnem continuu et temporale et quod omnis continua¬ 
-      <!--238.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>tio actus boni ex charitate procedens est nouiter 
-      me<lb ed="#Pa" n="68" break="no"/>ritoria cuius oppositum est secunda conclusio.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1855">
-      ⁋ Ad 
-      pri<lb ed="#Pa" n="69" break="no"/>mum igitur dico quod si homo deliberate eliceret 
-      a<lb ed="#Pa" n="70" break="no"/>ctum bonum et infra terminum dati temponis dormiret non 
-      <lb ed="#Pa" n="71"/>noceret quantum ad meritum dummodo in fine eiusdem 
-      <lb ed="#Pa" n="72"/>temponis aditerato bene volendum vel bene agendum ita 
-      <lb ed="#Pa" n="73"/>vigil existeret sicut prius. Secundum non procedit con 
-      <lb ed="#Pa" n="74"/>tra me cum loquatur de tempore infra quod vnus 
-      <lb ed="#Pa" n="75"/>simplex sepe potest intermittere et resumere actum 
-      <lb ed="#Pa" n="76"/>suum. Tertiu satis est solutum prius.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1875">
-      ⁋ Ad 
-      quar<lb ed="#Pa" n="77" break="no"/>tum consilium illud apostoli et auctoritates sanctorum 
-      <lb ed="#Pa" n="78"/>non recipiunt aliud paruum tempus sed magnam 
-      conti<lb ed="#Pa" n="79" break="no"/>nuationem quia consilium est oe possibilibus fieri 
-      <lb ed="#Pa" n="80"/>et dimitti etc.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1886">
-      ⁋ Ideo dico de aristotele. Et per 
-      il<lb ed="#Pa" n="81" break="no"/>lud patet ad 5 6 et 7 et. 10.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1891">
-      ⁋ Ad 1i est dicendum 
-      <lb ed="#Pa" n="82"/>quod ex malitia voluntatis continuata precise per tem 
-      <lb ed="#Pa" n="83"/>us a. nec mille homines nec vnicum posset quis 
-      <lb ed="#Pa" n="84"/>occidere sine pluri.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1901">
-      ⁋ Ideo argumentum illud non pro 
-      <lb ed="#Pa" n="85"/>cedit oporteret enim non solum semel sed sepissime 
-      <lb ed="#Pa" n="86"/>actus malos interiores renouare antequam malitia 
-      <lb ed="#Pa" n="87"/>voluntatis circa tot homines completur et bene 
-      <lb ed="#Pa" n="88"/>volo quod repetitio voluntaria actuum consimilium ag 
-      <lb ed="#Pa" n="89"/>grauat demeritum frequentatum vnde iste actus solus 
-      <lb ed="#Pa" n="90"/>communis prius quo ex malitia vellet mille homines iniuste 
-      <lb ed="#Pa" n="91"/>occidere nunquam sine pluri circa eorum aliquem con 
-      <lb ed="#Pa" n="92"/>pleretur oportet enim addere actus alios malos 
-      <lb ed="#Pa" n="93"/>quibus de terminat primo occidere nunc istum tunc 
-      <lb ed="#Pa" n="94"/>illum et ita deinceps.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1925">
-      ⁋ Ad 12 per idem.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1928">
-      ⁋ Ad 13 
-      <lb ed="#Pa" n="95"/>negatur consequentia quia citra finem. a. temporis 
-      <lb ed="#Pa" n="96"/>non est in sua potestate nouiter peccare venialiter 
-      <lb ed="#Pa" n="97"/>vel mortaliter. sed continuatio peccati mortalis 
-      vl<lb ed="#Pa" n="98" break="no"/>tra tempus a. plus aggrauat quam aliquod veniale.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1939">
-      ⁋ Ad  
-      <lb ed="#Pa" n="99"/>i4 negatur consequentia quia ecclesia non puniret 
-      <lb ed="#Pa" n="100"/>istam breuem continuationem plusquam instantaneam 
-      <lb ed="#Pa" n="101"/>causationem actus mali per idem patet. Ad 13 et 
-      <lb ed="#Pa" n="102"/>ad alia que sequuntur.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1950">
-      ⁋ Octauum dubium principa 
-      <lb ed="#Pa" n="103"/>e. Utrum aliquis viator possit diligendo deum vel alias 
-      <lb ed="#Pa" n="104"/>bene volendo mereri augmentum gratie in primo 
-      in<lb ed="#Pa" n="105" break="no"/>stanti in quo infunditur gratia sibir et videtur quod sic qui 
-      si<lb ed="#Pa" n="106" break="no"/>cut arguit ma. qudam pro hac conclusione aliquis viator 
-      <lb ed="#Pa" n="107"/>potest extra charitatem vel gratiam recipere diligere 
-      <lb ed="#Pa" n="108"/>deum cum cum aliis circunstantiis bonis ex genere et 
-      <lb ed="#Pa" n="109"/>continuando actum illum vsque ad certumltempus potest in  
-      <lb ed="#Pa" n="110"/>illo instanti et vltra habere actum illum 
-      circustantio<lb ed="#Pa" n="111" break="no"/>natum cum omnibus circunstantius requisitis ad meritum 
-      <lb ed="#Pa" n="112"/>et cum gratia sit igitur ita in illo instanti primo tunc 
-      <lb ed="#Pa" n="113"/>sic talis in illo instanti primo merebitur per actum illum 
-      <lb ed="#Pa" n="114"/>dilectionis sed non potest mereri gratiam primam igitur me 
-      <lb ed="#Pa" n="115"/>rebitur per actum istum gratiam primam augeri in illo instanti 
-      <lb ed="#Pa" n="116"/>quia no differt deus creationem suam et hanc rationem 
-      <lb ed="#Pa" n="117"/>sic intelligo et tunc est bona aliter non concludit 
-      vi<lb ed="#Pa" n="118" break="no"/>delicet quod in isto sensu in quo habuit gratiam sic 
-      ha<lb ed="#Pa" n="119" break="no"/>beat se voluntas circa obiectum istius actus quod istum 
-      <lb ed="#Pa" n="120"/>eliceret si alias non haberet si enim distractus ha 
-      <lb ed="#Pa" n="121"/>beat illum ita quod eius habitio non tunc sit sibi im 
-      <lb ed="#Pa" n="122"/>putabilis nouiter non oportet quod tunc sit nouiter 
-      <lb ed="#Pa" n="123"/>meritorius actus iste.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e1998">
-      ⁋ Secundo sic si Christus 
-      me<lb ed="#Pa" n="124" break="no"/>ruit in primo instanti quedam bona sibi dari licet 
-      <lb ed="#Pa" n="125"/>non gratiam secundum omens quasi si ipse non 
-      re<lb ed="#Pa" n="126" break="no"/>cepisset gratiam summam cuius fuit capax in pri 
-      <lb ed="#Pa" n="127"/>mo instanti ostensis sibi obiectis diligibilibus sicut 
-      <lb ed="#Pa" n="128"/>fuerunt iam et datis sibi naturalibus ita perfectis sicut 
-      <lb ed="#Pa" n="129"/>am habuit defacto eliciendo actus in casu dato 
-      <lb ed="#Pa" n="130"/>quos eliciebat in primo instanti vel remissiones 
-      <lb ed="#Pa" n="131"/>per illos meruisset augmentum gratie sue sicut 
-      vi<lb ed="#Pa" n="132" break="no"/>detur igitur alie creature poterunt in casu proportionali 
-      <!--239.xml-->
-      <pb ed="#Pa" n="98-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>augeri charitatem suam primam. Ista ratio licet 
-      <lb ed="#Pa" n="2"/>sit probabilis tamen capit multa dubia et propter 
-      <lb ed="#Pa" n="3"/>ea sibi non initar.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2034">
-      ⁋ Tertio sic aliquis potest totam gratiam 
-      <lb ed="#Pa" n="4"/>preexistentem in eo in hoc instanti intendere nunc 
-      <lb ed="#Pa" n="5"/>eliciendo dilectionem sed non magis difficile nec 
-      <lb ed="#Pa" n="6"/>plus sequitur inconueniens si nunc primo detur gra 
-      <lb ed="#Pa" n="7"/>tia quod mereatur quis augmentum gratie nunc igitur 
-      <lb ed="#Pa" n="8"/>Quarto sic iste viator cui dabitur gratia in aliquo  
-      <lb ed="#Pa" n="9"/>instanti futuro poterit demereri tunc primo et po 
-      <lb ed="#Pa" n="10"/>nere obicem libere infusioni gratie igitur posset 
-      li<lb ed="#Pa" n="11" break="no"/>bere elicere actum meritorium pro illo instanti pri 
-      <lb ed="#Pa" n="12"/>mo quia non est rationabile quod possit tunc peccare et non 
-      <lb ed="#Pa" n="13"/>non possit tunc mereri ex quo tunc habebit 
-      grati<lb ed="#Pa" n="14" break="no"/>am per casum. Quinto si non augetur eodem 
-      in<lb ed="#Pa" n="15" break="no"/>stanti quo in funditur et hoc retento casu primi 
-      ar<lb ed="#Pa" n="16" break="no"/>gumenti vel casu meliori deus differt dare gratiam 
-      <lb ed="#Pa" n="17"/>quam aliquis meretur eodem instanti consequens 
-      <lb ed="#Pa" n="18"/>est contra ansel. de casu dyaboli capi. 3.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2069">
-      ⁋ In hoc 
-      <lb ed="#Pa" n="19"/>enini casu deus esset causa non acceptationis gratie 
-      <lb ed="#Pa" n="20"/>Similiter si deus sic differret dare gratiam vel 
-      igi<lb ed="#Pa" n="21" break="no"/>tur fine medio daret eam ante omnem actum 
-      me<lb ed="#Pa" n="22" break="no"/>ritorium futurum et gratiam debitam tali actui 
-      <lb ed="#Pa" n="23"/>futuro aut non si sic tunc instans esset immediatum 
-      <lb ed="#Pa" n="24"/>instanti si non tunc differret donec cum ista gratia 
-      <lb ed="#Pa" n="25"/>alia daretur ymo donec infinite darentur. Item tunc 
-      <lb ed="#Pa" n="26"/>fine medio peccaret vel ante instans collationis 
-      <lb ed="#Pa" n="27"/>gratie merite vel primo in illo instanti in quo si non pec 
-      <lb ed="#Pa" n="28"/>caret reciperet gratiam et in peccato huiusmodi perse 
-      <lb ed="#Pa" n="29"/>ueraret nunquam reciperet premium pro illo actu quod 
-      <lb ed="#Pa" n="30"/>non videtur conueniens hic ma. ille in sententia. item 
-      <lb ed="#Pa" n="31"/>vt videtur sequeretur si moreretur ante illud instans 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2100">
-               <lb ed="#Pa" n="32"/>⁋ Item eo ipso quod actuali dilectione habens grati 
-      <lb ed="#Pa" n="33"/>am meretur melior est quam alius habens in eodem instanti gra 
-      <lb ed="#Pa" n="34"/>tiam equalem qui tunc non actualiter meretur et si est me 
-      <lb ed="#Pa" n="35"/>lior isto igitur habet melionem gratiam illo per 
-      regu<lb ed="#Pa" n="36" break="no"/>lam augustini prope finem ench. quem sepe superius 
-      <lb ed="#Pa" n="37"/>allegaui. Sed contra si per actum meritorium 
-      pos<lb ed="#Pa" n="38" break="no"/>set augeri charitas in primo instanti in quo infundi 
-      <lb ed="#Pa" n="39"/>tur cum nullus actus sit meritorius nisi per 
-      charita<lb ed="#Pa" n="40" break="no"/>tem habitam qua ratione charitas cum primo infunditur 
-      <lb ed="#Pa" n="41"/>reddit aliquem actum meliorem quam esset sine illa pa 
-      <lb ed="#Pa" n="42"/>ri ratione et char tas merita reddit actum 
-      gra<lb ed="#Pa" n="43" break="no"/>tiosorem quam esset sine illa et per consequens iterum 
-      <lb ed="#Pa" n="44"/>istud meritum augeret charitatem et charitas 
-      me<lb ed="#Pa" n="45" break="no"/>ritum et sic sine fine consequens est inconueniens 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2133">
-               <lb ed="#Pa" n="46"/>⁋ Hic supponendum est in primis quod alias declara 
-      <lb ed="#Pa" n="47"/>ui 17 q. primi articuli. q. 6 ar. 2 in solutione 
-      pri<lb ed="#Pa" n="48" break="no"/>mi dubii quod portio per quam quis sua priori chari 
-      <lb ed="#Pa" n="49"/>tate prioritate temporis vel nature meretur per bo 
-      <lb ed="#Pa" n="50"/>num actum appositioni non reddit ipsum actum quae 
-      <lb ed="#Pa" n="51"/>acquisita est magis meritorium quam reddatur meri 
-      <lb ed="#Pa" n="52"/>orius per charitatem priorem a. qua processit quia 
-      <lb ed="#Pa" n="53"/>tunc sequeretur mutua talis reflexio fine fine sed  
-      <lb ed="#Pa" n="54"/>bene econuerso actus procedens ex preexistente 
-      <lb ed="#Pa" n="55"/>charitate meretur eam augeri seu potius est 
-      me<lb ed="#Pa" n="56" break="no"/>ritum quo augetur.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2159">
-      ⁋ Et ex hoc ad dubium 
-      dicen<lb ed="#Pa" n="57" break="no"/>dum mihi videtur quod sicut sol in primo instanti sue 
-      <lb ed="#Pa" n="58"/>creationis illuminauit medium ita posset 
-      contin<lb ed="#Pa" n="59" break="no"/>gere vt quis in primo instanti quo sibi infunditur 
-      <lb ed="#Pa" n="60"/>prima charitas ex ipsa tunc actualiter mereatur 
-      <lb ed="#Pa" n="61"/>et per consequens quod ipse sit melior quam si non tunc 
-      <lb ed="#Pa" n="62"/>ex illa mere libere meretur si haberet illam fine 
-      <lb ed="#Pa" n="63"/>merito libere elicito. Sed si est melior quod esset pre 
-      <lb ed="#Pa" n="64"/>cise ex priori charitate igitur habet maionem 
-      cha<lb ed="#Pa" n="65" break="no"/>ritatem quam illa ex regula pretacta in vltimo 
-      argu<lb ed="#Pa" n="66" break="no"/>mento igitur propositum. Argumenta igitur ad  
-      <!--239.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>primam partem concedo concludere verum.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2190">
-      ⁋ Ad  
-      <lb ed="#Pa" n="68"/>argumentum vero in contrarium neganda est con 
-      <lb ed="#Pa" n="69"/>sequentia et ratio negationis patet vbi supra 
-      li<lb ed="#Pa" n="70" break="no"/>bro primo. Contra sit igitur quod quis in illo primo 
-      <lb ed="#Pa" n="71"/>instanti infusionis gratie mereatur tantam quan  
-      <lb ed="#Pa" n="72"/>ta sibi infunditur fine meritis. tunc arguo sic ista 
-      <lb ed="#Pa" n="73"/>gratia aucta simul data est igitur non est ratio qua 
-      <lb ed="#Pa" n="74"/>re aliquid eius detur ex merito plusquam quod tota sic 
-      de<lb ed="#Pa" n="75" break="no"/>tur in primo instanti sed si tota detur ex merito me 
-      <lb ed="#Pa" n="76"/>reretur aliquis primam gratiam consequens est 
-      <lb ed="#Pa" n="77"/>falsum et contra apostolum quia tunc foreti 
-      gra<lb ed="#Pa" n="78" break="no"/>tia et contra ma. et sanctos loquentes contra 
-      pe<lb ed="#Pa" n="79" break="no"/>lagium potest negari consequentia quia deus po 
-      <lb ed="#Pa" n="80"/>test satis sic distinguere inter medietates quarum 
-      <lb ed="#Pa" n="81"/>illarum meruit et quam non. Contra gratia 
-      au<lb ed="#Pa" n="82" break="no"/>cta est forma simplex non habens partes realiter 
-      <lb ed="#Pa" n="83"/>distinctas igitur si aliquid eius habetur ex 
-      meri<lb ed="#Pa" n="84" break="no"/>to tota habetur ex merito dicetur quod ymo habet 
-      <lb ed="#Pa" n="85"/>partes realiter distinctas inter se. Contra deus 
-      <lb ed="#Pa" n="86"/>potest facere vnum angelum perfectiorem in sub 
-      <lb ed="#Pa" n="87"/>stantia quam nunc sit et si hoc potest fieri per 
-      additio<lb ed="#Pa" n="88" break="no"/>nem iste angelus componeretur ex angelis. Item 
-      <lb ed="#Pa" n="89"/>tota gratia data in primo instanti informauit ant 
-      <lb ed="#Pa" n="90"/>mam eque primo quo ad omnes suas partes 
-      igi<lb ed="#Pa" n="91" break="no"/>tur qualemcunque actiuitatem vel meliorationem 
-      <lb ed="#Pa" n="92"/>fecit respectu dilectionis tunc habite vnus gradus 
-      <lb ed="#Pa" n="93"/>illius gratie talem et tantam et aliter igitur si se 
-      <lb ed="#Pa" n="94"/>cundum vnam medietatem fuit principium merem 
-      <lb ed="#Pa" n="95"/>di sequitur et secundum se totam et per consequens 
-      <lb ed="#Pa" n="96"/>ex nullo actu suo esset tunc sua gratia aucta quod  
-      <lb ed="#Pa" n="97"/>propositum alioquin sequitur mutua eorum 
-      au<lb ed="#Pa" n="98" break="no"/>gmentatio sine termino. Item si non tota gratia 
-      <lb ed="#Pa" n="99"/>haberet actiuitatem in illo instanti tunc ista 
-      gra<lb ed="#Pa" n="100" break="no"/>tia secundum aliquid sui esset minus potens quod se 
-      <lb ed="#Pa" n="101"/>cundum aliquid eius equale. Falsitas patet quia 
-      <lb ed="#Pa" n="102"/>nihil deest persectionis vni quam alteri.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2269">
-      ⁋ 
-      Respon<lb ed="#Pa" n="103" break="no"/>det hic ma. qui prius quod non sunt in re distincti 
-      gra<lb ed="#Pa" n="104" break="no"/>dus in charitate sed vnus tantum secundum rem 
-      <lb ed="#Pa" n="105"/>et multi se cundum rationem vnde concedo inquit 
-      <lb ed="#Pa" n="106"/>quod tota ista meretur. Sed non vt tanta est sed 
-      me<lb ed="#Pa" n="107" break="no"/>retur ea qua tanta in potentia quanta est alia cha 
-      <lb ed="#Pa" n="108"/>ritas subdupla in hoc casu et meretur eandem 
-      si<lb ed="#Pa" n="109" break="no"/>mili modo capiendo et dum infertur quod tunc mere 
-      <lb ed="#Pa" n="110"/>ri posset quis primam gratiam nego inquit conse 
-      <lb ed="#Pa" n="111"/>quentiam ad intellectum contra pelagium 
-      acce<lb ed="#Pa" n="112" break="no"/>ptum qui fuit quod per actum preuenientem omnem 
-      <lb ed="#Pa" n="113"/>gratiam gratum facientem posset homo mereri 
-      <lb ed="#Pa" n="114"/>primam gratiam vel appositionem prime gratie 
-      <lb ed="#Pa" n="115"/>quin tamen consequens ad intellectum alium sit 
-      <lb ed="#Pa" n="116"/>verum non video inquit mereretur enim istam gra 
-      <lb ed="#Pa" n="117"/>tiam presuppositam merito suo vnomodo sicut in  
-      <lb ed="#Pa" n="118"/>posterioribus instantibus est concedendum 
-      sup<lb ed="#Pa" n="119" break="no"/>posita continua augmentatione gratie et quod non  
-      <lb ed="#Pa" n="120"/>sit cumulus formarum. Sed vna et eadem 
-      mane<lb ed="#Pa" n="121" break="no"/>at a principio vsque ad finem non tamen meruit pri 
-      <lb ed="#Pa" n="122"/>mam gratiam sibi infundi per actum procedentem 
-      <lb ed="#Pa" n="123"/>eius infusionem nec volo inquit fine modificatio 
-      <lb ed="#Pa" n="124"/>ne dicere quod meruit primam gratiam quia non me 
-      <lb ed="#Pa" n="125"/>ruit quod foret prima enim ipsa precessit origine 
-      <lb ed="#Pa" n="126"/>meritum qui vero ponunt cumulationem 
-      forma<lb ed="#Pa" n="127" break="no"/>rum satis clare possunt euadere inquit iste et 
-      be<lb ed="#Pa" n="128" break="no"/>ne quod talis vno gradu mereretur alium qui licet si 
-      <lb ed="#Pa" n="129"/>mul fuerunt creati suspendit tamen deus ad 
-      pla<lb ed="#Pa" n="130" break="no"/>citum creationem alterius illarum quae est origine posterior 
-      <lb ed="#Pa" n="131"/>respectu huius meriti et ita dicendum est quod si fuerit 
-      ne<lb ed="#Pa" n="132" break="no"/>gata cumulatio forarum quod non poterit ad meritum face 
-      <!--240.xml-->
-      <pb ed="#Pa" n="98-v"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>in primo instanti secundum quod tanta nec poterit ha 
-      <lb ed="#Pa" n="2"/>bere totam causalitatem suam respectu illius actus 
-      <lb ed="#Pa" n="3"/>it a quod possit tota vt tanta vti dum sic creatur. Sic re 
-      <lb ed="#Pa" n="4"/>spondet iste ma. consequenter secundum duas vias 
-      <lb ed="#Pa" n="5"/>quarum tamen primam inid 1 q. huius etiam multiplicitur 
-      <lb ed="#Pa" n="6"/>improbaui ideo secunda eius ratio magis valet et quod 
-      <lb ed="#Pa" n="7"/>dicit quod in charitate sit tantum vnus gradus secundum 
-      <lb ed="#Pa" n="8"/>rem et multi secundum rationem videtur esse damnatum 
-      <lb ed="#Pa" n="9"/>in suo simili per articulum parisieni. 1 q. huius secundi libri 
-      <lb ed="#Pa" n="10"/>positis contra responsionem similem de distinctione 
-      <lb ed="#Pa" n="11"/>secum rationem graduum charitatis etiam quod sicut gra 
-      <lb ed="#Pa" n="12"/>dus realiter adinuicem distingui. 1 q. probaui ideo 
-      <lb ed="#Pa" n="13"/>hec responsio dimittatur.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2371">
-      ⁋ Set contra ista adhuc 
-      insta<lb ed="#Pa" n="14" break="no"/>tur si gratia prima apposita vel data omnino gratu 
-      <lb ed="#Pa" n="15"/>fine meritis in tanto vel tanto gradu cum actu istis 
-      <lb ed="#Pa" n="16"/>circunstantiis circunstantionato potuit facere ad tam 
-      <lb ed="#Pa" n="17"/>tum augmentum gratie gratis date tunc primo et si 
-      <lb ed="#Pa" n="18"/>ne meritis infuse igitur maior gratia dupla vel triple 
-      <lb ed="#Pa" n="19"/>cum eodem actu praecise aliunde eque bene per omnia circunstam 
-      <lb ed="#Pa" n="20"/>tionato potuisset in plus de lege communi et si hoc tunc per  
-      <lb ed="#Pa" n="21"/>gratiam appositam ex vi meriti fuisset actus melior in 
-      <lb ed="#Pa" n="22"/>ratione meriti et ita sequitur mutua melioratio fine fi 
-      <lb ed="#Pa" n="23"/>ne consequentia prima patet quia alioquin actus melius circunstantio 
-      <lb ed="#Pa" n="24"/>natus et minus bene circunstantionatus tantundem seu 
-      <lb ed="#Pa" n="25"/>equale appositioni per viam meriti de gratia meruisset. 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2400">
-               <lb ed="#Pa" n="26"/>⁋ Ista consequentia patet ex hoc duplex gratia est melior circum 
-      <lb ed="#Pa" n="27"/>stationata respectu eiusdem actus omnino quam gratia sub 
-      <lb ed="#Pa" n="28"/>dupla consequens tamen est inconveniens. Igitur hic respon 
-      <lb ed="#Pa" n="29"/>det ma. qui prius negando istam consequentiam tanta gratia 
-      <lb ed="#Pa" n="30"/>facit ad tantum augmentum gratie ergo ceteris paribus 
-      <lb ed="#Pa" n="31"/>et manente eodem actu maior faceret ad maius augmen 
-      <lb ed="#Pa" n="32"/>tum. Ad probationem dicit concedo conclusionem ad quan 
-      <lb ed="#Pa" n="33"/>deducitur non enim video inquit quin si duo habentes 
-      <lb ed="#Pa" n="34"/>gratiam inequalem fecerint actus in omnibus equales 
-      <lb ed="#Pa" n="35"/>e qualiter merebuntur neque sequitur habens maiorem gra 
-      <lb ed="#Pa" n="36"/>tiam est magis acceptus deo ex gratia sua igitur 
-      opera<lb ed="#Pa" n="37" break="no"/>tio sua equalis opationi alterius est plus accepta alio 
-      <lb ed="#Pa" n="38"/>quin in casu habens maiorem gratiam et habens actum remis 
-      <lb ed="#Pa" n="39"/>siorem alicuius generis plus meretur quam alius faciens 
-      in<lb ed="#Pa" n="40" break="no"/>tensionem ceteris paribus consequens est falsum vt videtur. Con 
-      <lb ed="#Pa" n="41"/>tra tamen istum ma. posset argui quia mirum videtur quod ex 
-      <lb ed="#Pa" n="42"/>quo concedit actum eundem vel equalem melius circunstam 
-      <lb ed="#Pa" n="43"/>tionatum aliis circunstantiis esse melionem quare hoc 
-      <lb ed="#Pa" n="44"/>negabitur contra doctores alios de circunstantia cha 
-      <lb ed="#Pa" n="45"/>ritatis quae causetur quasi circunstantia optima actus 
-      <lb ed="#Pa" n="46"/>boni. Item iste actus praecise per gratiam aduenientem in 
-      tan<lb ed="#Pa" n="47" break="no"/>to gradu fit meritorius igitur si maior gratia ades 
-      <lb ed="#Pa" n="48"/>set magis esset meritorius probatur vel intelligit ma. 
-      <lb ed="#Pa" n="49"/>iste dictum suum de actum quem charitas coefficit vel quod  
-      <lb ed="#Pa" n="50"/>non coefficit sed cui superuenit et reddit ipse merito 
-      <lb ed="#Pa" n="51"/>rinm qui alias non esset meritorius sicut in casu sui an 
-      <lb ed="#Pa" n="52"/>gumenti primi pro conclusione affirmatiua huius octa 
-      <lb ed="#Pa" n="53"/>ui dubii principalis. Si primo modo tunc non est possi 
-      <lb ed="#Pa" n="54"/>bile nisi deo impediente quod omnia alia sint paria preter 
-      <lb ed="#Pa" n="55"/>charitates et quod tamen actus sit equalis ex maiori 
-      <lb ed="#Pa" n="56"/>charitate proueniens et qui ex minori si loquitur in se 
-      <lb ed="#Pa" n="57"/>cundo casu tunc conclusio ad quam deducit non esset in 
-      <lb ed="#Pa" n="58"/>conueniens quia si per gratiam superuenientem actui et 
-      <lb ed="#Pa" n="59"/>non efficientem ipsum redditur actus meritorius 
-      vti<lb ed="#Pa" n="60" break="no"/>que per maionem gratiam superuenientem redditur ma 
-      <lb ed="#Pa" n="61"/>gis meritorius. Probatur sequitur quod valde paruus 
-      <lb ed="#Pa" n="62"/>gradus conatus vel cognitionis magis promoueret si 
-      <lb ed="#Pa" n="63"/>bi ratione meriti dilectionem dei vel proximi quam tota 
-      <lb ed="#Pa" n="64"/>charitas seu gratia quam deus posset causare in tali per  
-      <lb ed="#Pa" n="65"/>sona vltra gratiam baptismalem consequens est in  
-      <lb ed="#Pa" n="66"/>conueaiens et consequentia patet cuilibet aduertem 
-      <!--240.xml-->
-      <cb ed="#Pa" n="b"/>
-               <lb ed="#Pa" n="67"/>ti.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2498">
-      ⁋ Item charitas in tali casu ex quo non 
-      princi<lb ed="#Pa" n="68" break="no"/>ptat actum bonum non videtur reddere illum actum 
-      <lb ed="#Pa" n="69"/>acceptum deo seu meritorium nisi pro quanto vltra 
-      <lb ed="#Pa" n="70"/>hoc quod talis actus est ex suo genere moraliter 
-      bo<lb ed="#Pa" n="71" break="no"/>nus reddit personam talem bonam caram et deo 
-      <lb ed="#Pa" n="72"/>acceptam.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2511">
-      ⁋ Unde constat quod homini satis placet 
-      <lb ed="#Pa" n="73"/>opus aliquod in persona sibi chara quod in perso 
-      <lb ed="#Pa" n="74"/>na alia no placeret et ideo respexit deus ad abel et 
-      <lb ed="#Pa" n="75"/>et ad munera eius et ideo quia plus placet deo op 
-      <lb ed="#Pa" n="76"/>quod procedit a persona placente videtur quod si a perso 
-      <lb ed="#Pa" n="77"/>na sibi magis chara procederet plus placeret po 
-      <lb ed="#Pa" n="78"/>namus quod vtraque agat secundum vltimum conatum suum 
-      <lb ed="#Pa" n="79"/>actum talem quem non coefficiat charitas.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2529">
-      ⁋ Ali 
-      <lb ed="#Pa" n="80"/>ter igitur respondeo ad argumentum quod prima con 
-      <lb ed="#Pa" n="81"/>equentia est bona sed secunda non valet et causa 
-      <lb ed="#Pa" n="82"/>reddita est libro primo et hec sint dicta de actu qui  
-      <lb ed="#Pa" n="83"/>non procedit effectiue a charitate sed qui solum 
-      <lb ed="#Pa" n="84"/>ex assisientia charitatis redditur meritorius vt pri 
-      <lb ed="#Pa" n="85"/>us dixi.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2546">
-      ⁋ Sed de actu qui a charitate procedit con 
-      <lb ed="#Pa" n="86"/>cedo cum magistro priori quod non sequitur magis 
-      <lb ed="#Pa" n="87"/>charus habet actum equalem meritorium cum mi 
-      <lb ed="#Pa" n="88"/>nus charo igitur magis charus magis illo mere 
-      <lb ed="#Pa" n="89"/>tur quia si omnia essent paria vtrobique procederet 
-      <lb ed="#Pa" n="90"/>quod actus proueniens a maiori charitate esset 
-      inten<lb ed="#Pa" n="91" break="no"/>sior igitur si precise sit equalis actus tunc procedit 
-      <lb ed="#Pa" n="92"/>a maiori conatu vel ab aliqua alia circunstantia 
-      <lb ed="#Pa" n="93"/>meliori in illo quam in isto et posset contingere quod plus 
-      <lb ed="#Pa" n="94"/>acceptat deus maioritatem conatus respectu hu 
-      <lb ed="#Pa" n="95"/>ius actus equalis super conatum magis chari quam 
-      <lb ed="#Pa" n="96"/>econtra excessum charitatis magis chari super cha 
-      <lb ed="#Pa" n="97"/>ritatem minus chari respectu eiusdem vel 
-      equa<lb ed="#Pa" n="98" break="no"/>lis actus vt prius seriosius declaraui et ita potest 
-      con<lb ed="#Pa" n="99" break="no"/>tingere quod actus magis chari equalis sit magis me 
-      <lb ed="#Pa" n="100"/>ritorius et potest contingere quod eque secundum quod  
-      <lb ed="#Pa" n="101"/>excessus conatus magis chari super conatum 
-      al<lb ed="#Pa" n="102" break="no"/>terius potest preponderare in acceptione diuina 
-      <lb ed="#Pa" n="103"/>respectu huius actus excessus charitatis super 
-      <lb ed="#Pa" n="104"/>charitatem quam excessus conatus super conatum et 
-      <lb ed="#Pa" n="105"/>etiam quod non oporteat equalem actum magis 
-      ea<lb ed="#Pa" n="106" break="no"/>rum esse magis meritorium loquendo de actu quem 
-      <lb ed="#Pa" n="107"/>comprincipiat ipsa charitas actiue bene suadet 
-      <lb ed="#Pa" n="108"/>ma. qui prius sic quia secundum beatum gregori 
-      <lb ed="#Pa" n="109"/>um in omelia ve confes cum augentur dona etc. 
-      <lb ed="#Pa" n="110"/>Et seruum bonum pro apportato lucro 
-      remune<lb ed="#Pa" n="111" break="no"/>rat seruum vero a bono opere torpentem dampnat 
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2605">
-               <lb ed="#Pa" n="112"/>⁋ Ex isto sic arguitur plus exigit deus ab eo cui 
-      <lb ed="#Pa" n="113"/>plus dedit et plus debet qui plus accepit igitur 
-      <lb ed="#Pa" n="114"/>non satiffacit si precise reddat equale cum illo 
-      qui<lb ed="#Pa" n="115" break="no"/>minus accepit et per consequens non solum non  
-      <lb ed="#Pa" n="116"/>est plus remunerandus ymo videtur 
-      vituperan<lb ed="#Pa" n="117" break="no"/>dus de negligentia posset tamen contingere casus 
-      <lb ed="#Pa" n="118"/>vt praedixi quod ex equali actu magis mereretur si 
-      ha<lb ed="#Pa" n="119" break="no"/>beret minus claram cognitionem quam minus 
-      cha<lb ed="#Pa" n="120" break="no"/>rus propter quod forte non obstante excessu 
-      cha<lb ed="#Pa" n="121" break="no"/>ritatis sue super charitatem alterius nisi plus co 
-      <lb ed="#Pa" n="122"/>naretur agere bene quam alter facit non haberet 
-      a<lb ed="#Pa" n="123" break="no"/>ctum dilectionis eque intensum sicut ille et ita ni 
-      <lb ed="#Pa" n="124"/>sus suus preponderaret.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2636">
-      ⁋ Nonum dubium 
-      prin<lb ed="#Pa" n="125" break="no"/>cipale posset esse contra conclusionem 
-      principa<lb ed="#Pa" n="126" break="no"/>lem precedentis dubii quia si aliquis posset 
-      me<lb ed="#Pa" n="127" break="no"/>reri augmentum gratie potentie sue cum primo 
-      <lb ed="#Pa" n="128"/>infunditur tunc aliquis viator posset augere 
-      me<lb ed="#Pa" n="129" break="no"/>ritum suum in hoc instanti per unum tale velle merito 
-      <lb ed="#Pa" n="130"/>rium volo diligen deum post hoc instans.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2652">
-      ⁋ alsitas probatur 
-      <lb ed="#Pa" n="131"/>qui in nullo certo augeret quia non plus esset ista volitio 
-      <lb ed="#Pa" n="132"/>respectu vnius temponis sequentis quam respectu cuiuslibet 
-      <!--241.xml-->
-      <pb ed="#Pa" n="99-r"/>
-               <cb ed="#Pa" n="a"/>
-               <lb ed="#Pa" n="1"/>alterius nec plus respectu vnius gradus dilectionis quam 
-      <lb ed="#Pa" n="2"/>respectu alterius sed maior gradus et maius tempus ha 
-      <lb ed="#Pa" n="3"/>benda in futuro si per velle presens taxentur facient plus 
-      <lb ed="#Pa" n="4"/>ad meritum ceteris paribus quam minora igitur. 
-      Respon<lb ed="#Pa" n="5" break="no"/>det hic ma. qui prius et bene quod voluntas potest 
-      auge<lb ed="#Pa" n="6" break="no"/>re suum meritum per vnam talem volitionem volo 
-      dilige<lb ed="#Pa" n="7" break="no"/>re post hoc instans vel dare pauperibus omnes 
-      de<lb ed="#Pa" n="8" break="no"/>cimas omnium bonorum meorum que habeo in futu 
-      <lb ed="#Pa" n="9"/>ro et quod non est taxandum hoc meritum iuxta vnum gradum 
-      <lb ed="#Pa" n="10"/>future dilectionis plusquam iuxta alium nec iuxta vnum 
-      <lb ed="#Pa" n="11"/>tempus futurum plusquam iuxta aliud.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2689">
-      ⁋ Sed iuxta 
-      <lb ed="#Pa" n="12"/>qualitatem dilectionis quam habet vere vel 
-      inter<lb ed="#Pa" n="13" break="no"/>pretatiue respectu dei dum vult sic confuse.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2696">
-      ⁋ Ad ar 
-      <lb ed="#Pa" n="14"/>gumentum principale. q. patet ex solutione primi dubii 
-      <lb ed="#Pa" n="15"/>principalis quod oe vi vocis loquendo nulla ibi chari 
-      <lb ed="#Pa" n="16"/>tas augetur: sed per augmentationem quae est ibi prouenit vna 
-      <lb ed="#Pa" n="17"/>compositio perfectior praecedente.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2708">
-      ⁋ Contra tunc per talem 
-      suc<lb ed="#Pa" n="18" break="no"/>cessiuam augmentationem ista qualitas aucta 
-      habe<lb ed="#Pa" n="19" break="no"/>bit in fine partes infinitas quaru nulla sit pars alteri 
-      <lb ed="#Pa" n="20"/>us. Falsitas probatur quia omnis pars totius homoge 
-      <lb ed="#Pa" n="21"/>nei est pars alicuius eiusdem totius igitur.
-    </p>
-            <p xml:id="GHYaf3-d1e642-d1e2719">
-      ⁋ Respondetur 
-      <lb ed="#Pa" n="22"/>negando consequentiam sed bene sequitur quod ibi sunt infinite 
-      <lb ed="#Pa" n="23"/>partes quarum nulla est pars alterius earundem etc.
-      </p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#Wodeham">Adam Wodeham</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2021-03-03">March 3, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Pa" n="paris1512">Paris, 1512</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-03-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Pa" n="95-r"/>
+        <cb ed="#Pa" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="GHYaf3-d1e642"><!-- GHYaf3-l2q3 -->
+        <head xml:id="GHYaf3-d1e642-Hd1e108">Quaestio 3</head>
+        <head xml:id="GHYaf3-d1e642-Hd1e111" type="question-title">
+          Utrum creatura rationalis habens gratiam possit mereri suam gratiam augmentari.
+        </head>
+        <p xml:id="GHYaf3-d1e642-d1e114">
+          <lb ed="#Pa" n="53"/>TErtio circa istam 
+          di<lb ed="#Pa" n="54" break="no"/>stinctionem quero ad materiam de 
+          <lb ed="#Pa" n="55"/>augmentatione formarum vtrum 
+          crea<lb ed="#Pa" n="56" break="no"/>tura rationalis habens gratiam 
+          pos<lb ed="#Pa" n="57" break="no"/>sit mereri suam gratiam augmentari 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e127">
+          <lb ed="#Pa" n="58"/>⁋ Uidetur quod non quia nulla gratia potest fie 
+          <lb ed="#Pa" n="59"/>ri maior quod est ex prima questione praesentis distinctio 
+          <lb ed="#Pa" n="60"/>nis quia nec precedens nec addita nec resultans ex 
+          <lb ed="#Pa" n="61"/>vtra que. igitur contra per augustinum vbi supra in princi 
+          <lb ed="#Pa" n="62"/>pio huius secundi gratia meretur augeri etc. Item 
+          augu<lb ed="#Pa" n="63" break="no"/>stinus super canonicam. Io ome 3 recitat magister li. 3 di 
+          <lb ed="#Pa" n="64"/>stinctione 2. cap. vltimo vbi dicitur nunquid mox vt 
+          na<lb ed="#Pa" n="65" break="no"/>scitur charitas tam prorsus perfecta est ymo vt per 
+          <!--233.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="66"/>ficiatur nascitur cum nata fuerit nutritur cum fuerit 
+          nu<lb ed="#Pa" n="67" break="no"/>trita roboratur cum fuerit roborata perficitur cum ad 
+          per<lb ed="#Pa" n="68" break="no"/>fectum venerit dicit cupio dissolui.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e158">
+          ⁋ Item augustinus 
+          <lb ed="#Pa" n="69"/>euechm vltio vel penultimo cap. crescente caritate mi 
+          <lb ed="#Pa" n="70"/>iuitur cupiditas igitur caritas secundum eum crescit. 
+          <lb ed="#Pa" n="71"/>Respondeo quod idem est iudicium de charitate et aliis 
+          <lb ed="#Pa" n="72"/>formis secundum quas est motus quomodo ad intem 
+          <lb ed="#Pa" n="73"/>sionem et remissionem ideo vniformiter restat dubita 
+          <lb ed="#Pa" n="74"/>re de omnibus primo an aliqua talis forma susci 
+          <lb ed="#Pa" n="75"/>piat magis et minus Secundo an augeatur vel di 
+          <lb ed="#Pa" n="76"/>minuatur Tertio an intendatur vel remittatur. 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e179">
+          <lb ed="#Pa" n="77"/>⁋ Ad primum dicendum quod non de virtute sermonis 
+          <lb ed="#Pa" n="78"/>loquedo siue sit propositio copulatiua siue sit de 
+          <lb ed="#Pa" n="79"/>copulato extremo quia licet aliqua forma possit 
+          <lb ed="#Pa" n="80"/>fieri maior vel minor per rarefactionem vel condempsa 
+          <lb ed="#Pa" n="81"/>tionem nulla tamen proprie loquendo suscipit magis 
+          <lb ed="#Pa" n="82"/>et minus in se nec etiam potest esse intensior vel remissi 
+          <lb ed="#Pa" n="83"/>or quam est nec etiam posset augeri vel minui intensiue 
+          <lb ed="#Pa" n="84"/>et ratio est quia non posset realiter in se recipere a 
+          <lb ed="#Pa" n="85"/>liquid sue speciei nec etiam aliquid alterius speciei Se 
+          <lb ed="#Pa" n="86"/>cundo dico quod non suscipit magis et minus per praedicationem 
+          <lb ed="#Pa" n="87"/>quia non potest dici forma talis puta albedo sit magis 
+          <lb ed="#Pa" n="88"/>albedo quam ante nec intensa albedo est magis albedo  
+          <lb ed="#Pa" n="89"/>quam remissa licet sit maior id est intensior. Sed talis de 
+          <lb ed="#Pa" n="90"/>nominatio concretiua tantum conuenit proprie sub 
+          <lb ed="#Pa" n="91"/>iecto secundum tales formas in ipso receptas nam 
+          sub<lb ed="#Pa" n="92" break="no"/>ectum est primo minus tale et post magis tale vel 
+          <lb ed="#Pa" n="93"/>econuerso dico tertio quod ad intellectum auctorum 
+          <lb ed="#Pa" n="94"/>loquentium concedi posset quod forma suscipit magis 
+          <lb ed="#Pa" n="95"/>et minus et intra eandem spciem id est quod vna vice est maior 
+          <lb ed="#Pa" n="96"/>et alia vice minor intensiue manens in eadem specie et 
+          <lb ed="#Pa" n="97"/>in eodem subiecto adequate.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e227">
+          ⁋ Aliomodo quod alicui 
+          <lb ed="#Pa" n="98"/>forme aduenit aliquid faciens eam perfectionem et 
+          <lb ed="#Pa" n="99"/>tunc dicitur suscipere magis quandoque aliqua pars 
+          ei<lb ed="#Pa" n="100" break="no"/>detrahitur et tunc dicitur suscipere minus non quod  
+          <lb ed="#Pa" n="101"/>eadem sit primo maior et post minor et econuersa. 
+          <lb ed="#Pa" n="102"/>Sed quia resultans ex priore et adueniente est ma 
+          <lb ed="#Pa" n="103"/>ior et etiam remanens post alicuius gradus substra 
+          <lb ed="#Pa" n="104"/>ctionem est minor.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e245">
+          ⁋ Ad secundum dubium potest dici 
+          <lb ed="#Pa" n="105"/>quod sicut patet primo de generatione et secundo de anima 
+          <lb ed="#Pa" n="106"/>in augmentatione vera auctum prefuit et aliquid  
+          <lb ed="#Pa" n="107"/>sibi adgeneratur ita quod quelibet pars aucta est au 
+          <lb ed="#Pa" n="108"/>cta quod ad vim vocis non posset intelligi sed sic quod in  
+          <lb ed="#Pa" n="109"/>augmentatione restiltat maius scilicet compositum ex prae 
+          <lb ed="#Pa" n="110"/>existente et adueniente et in diminutione relinquitur 
+          <lb ed="#Pa" n="111"/>minus quam prius fuerit scilicet pars illius a quo incipit 
+          <lb ed="#Pa" n="112"/>diminutio et ad similem sensum dicitur de forma aliquam 
+          <lb ed="#Pa" n="113"/>quod vere augeatur et minuatur tamen sicut vulgaris 
+          <lb ed="#Pa" n="114"/>locutio concedit idem vel numero primo esse maius 
+          <lb ed="#Pa" n="115"/>et postea minus ita proportionabiliter posset 
+          con<lb ed="#Pa" n="116" break="no"/>cedi de formis ita scilicet quod idem sit auctum esse quod esse cui 
+          <lb ed="#Pa" n="117"/>aliquid est appositum et ad genitum secundum 
+          quan<lb ed="#Pa" n="118" break="no"/>libet notabilem partem sui et sic illud quod prefuit 
+          <lb ed="#Pa" n="119"/>augetur vel est auctum et etiam illud quod prefuit 
+          <lb ed="#Pa" n="120"/>ex diminutum a quo scilicet per corruptionem secundum quam 
+          <lb ed="#Pa" n="121"/>libet partem notabilem substra hebatur quod se 
+          <lb ed="#Pa" n="122"/>cum prius constituebat vere et per se vnum. Notandum 
+          <lb ed="#Pa" n="123"/>tamen quod indifferenter est in augmentatione hominis et 
+          <lb ed="#Pa" n="124"/>aliorum animalium propter animam intellectiuam propter quam 
+          <lb ed="#Pa" n="125"/>ho manet idem nunero non sic autem omnino est in aliis. Nota 
+          <lb ed="#Pa" n="126"/>etiam quod animata proprime dmuinti augeri forem autem sicut cha 
+          <lb ed="#Pa" n="127"/>ritas albedo minus proprie
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e297">
+          ⁋ Ex dictis patet ad ter 
+          <lb ed="#Pa" n="128"/>tiam partem dubii qualit er. s forma potest intendi vel 
+          <lb ed="#Pa" n="129"/>remitti
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e304">
+          ⁋ Tertium dubium principale an foram habeat 
+          <lb ed="#Pa" n="130"/>latitudinem veram intensiua vel gradualem et est 
+          dicen<lb ed="#Pa" n="131" break="no"/>dum quod sic quia habet in se plures partes distinctas rea 
+          <!--234.xml-->
+          <pb ed="#Pa" n="95-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>liter constituentes eam qualitatiue sicut plures par 
+          <lb ed="#Pa" n="2"/>tes distincte situaliter constituunt aliquid per se vnum 
+          <lb ed="#Pa" n="3"/>extem siue.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e324">
+          ⁋ Tertium dubium an augmentatio forme 
+          <lb ed="#Pa" n="4"/>sit motus vel mutatio dicendum quod si fiat successiueque  
+          <lb ed="#Pa" n="5"/>est motus si subito tunc est mutatio et si sit in subiecto 
+          <lb ed="#Pa" n="6"/>tunc subiectum dicitur moueri vel mutari tali augmenta 
+          <lb ed="#Pa" n="7"/>tione et non ipsa forma. Si vero fieret non in 
+          subie<lb ed="#Pa" n="8" break="no"/>cto sicut bene posset fieri a deo tunc talis 
+          augmen<lb ed="#Pa" n="9" break="no"/>tatio non esset motus nec mutatio qui nihil ibi mo 
+          <lb ed="#Pa" n="10"/>ueretur.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e343">
+          ⁋ Dices pars precedens aliter se nunc ha 
+          <lb ed="#Pa" n="11"/>bet quam prius quia aliquid sibi acquiritur igitur mutatur 
+          <lb ed="#Pa" n="12"/>Respondetur quod si se habet nunc aliter quam prius scilicet secundum 
+          <lb ed="#Pa" n="13"/>locum vel secundum formam in se subiectiue receptam bene 
+          <lb ed="#Pa" n="14"/>sequitur ipsa mutari. Si autem solum habet se aliter 
+          <lb ed="#Pa" n="15"/>relatiue et in ordine ad aliud non oportet sicut non 
+          <lb ed="#Pa" n="16"/>sequitur in simili filium dei mutari in incarnatione de 
+          <lb ed="#Pa" n="17"/>quo videbitur circa principium tertii. Diceres subie 
+          <lb ed="#Pa" n="18"/>ctum mouetur ista augmentatione et non alio motu 
+          <lb ed="#Pa" n="19"/>quam sit ista augmentatio igitur subiectum augmentatur 
+          <lb ed="#Pa" n="20"/>probatur charitas augetur et ista augientatio est 
+          <lb ed="#Pa" n="21"/>motus igitur charitas mouetur. Item si charitas augman 
+          <lb ed="#Pa" n="22"/>tatur illa augmentatio non distiguitur a charitate 
+          <lb ed="#Pa" n="23"/>sed est ipsa charitas igitur augmentatio 
+          augmen<lb ed="#Pa" n="24" break="no"/>tatur et cum augmentatio sit etiam alteratio igitur 
+          al<lb ed="#Pa" n="25" break="no"/>teratio augmentabitur probatur augmentatio et al 
+          <lb ed="#Pa" n="26"/>teratio sunt motus distincti et charitas est termi 
+          <lb ed="#Pa" n="27"/>nus alterationis igitur non est terminus 
+          augmenta<lb ed="#Pa" n="28" break="no"/>tionis et per consequens non augetur. Ad primum dicitur 
+          <lb ed="#Pa" n="29"/>quod eadem mutatio denominat subiectum et aliter 
+          for<lb ed="#Pa" n="30" break="no"/>mam ideo negatur consequentia sicut non sequitur ca 
+          <lb ed="#Pa" n="31"/>lefacere est agere sed ignis calefacit aquam igitur 
+          <lb ed="#Pa" n="32"/>ignis agit aquam per idem ad secundum.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e393">
+          ⁋ Ad tertiu dicitur 
+          <lb ed="#Pa" n="33"/>quod non tota charitas dicitur augmentatio sed pars ap 
+          <lb ed="#Pa" n="34"/>posita et ideo non sequitur quod augmentatio 
+          augmen<lb ed="#Pa" n="35" break="no"/>tetur quia pars apposita non dicitur augmentari. Sed vel 
+          <lb ed="#Pa" n="36"/>ipsum totum vel praeexistens iuxta intellectum prius datum 
+          <lb ed="#Pa" n="37"/>etiam non videtur inconveniens quod augmentatio per accidens 
+          <lb ed="#Pa" n="38"/>augmentetur et quod altatio augmentatur licet non opor 
+          <lb ed="#Pa" n="39"/>teat sequi de alteratione eo quod licet ista 
+          augmen<lb ed="#Pa" n="40" break="no"/>tatio sit alteratio non tamen eiusdem sed est augmen 
+          <lb ed="#Pa" n="41"/>tatio forme et alteratio subiecti sicut ipsa non est 
+          <lb ed="#Pa" n="42"/>motus forme sed subiecti.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e417">
+          ⁋ Ad quartum dicendum 
+          <lb ed="#Pa" n="43"/>quod in proposito non sunt motus distincti sed vnus motus 
+          <lb ed="#Pa" n="44"/>qui tamen respectu vnius est alteratio et respectu 
+          <lb ed="#Pa" n="45"/>alterius augmentatio.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e426">
+          ⁋ Quartum dubium an aliqua 
+          <lb ed="#Pa" n="46"/>paria charitas possit fieri vel acquiri per tempus 
+          <lb ed="#Pa" n="47"/>nfinitum sine interruptione credo quod sic per deum producem 
+          <lb ed="#Pa" n="48"/>do aliquam partem in certo tempone et partem proportionalem 
+          <lb ed="#Pa" n="49"/>sequentem in tanto tempone et sic in infinitum.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e437">
+          ⁋ Quintur 
+          <lb ed="#Pa" n="50"/>dubium. An possit deus inducere in tempone finito for 
+          <lb ed="#Pa" n="51"/>mam infinitam dicendum si non sit repugnantia formam hu 
+          <lb ed="#Pa" n="52"/>ius esse conclusio esset consequenda si autem est 
+          repu<lb ed="#Pa" n="53" break="no"/>gnantia dicendum quod non
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e448">
+          ⁋ Sextum dubium vtrum charitas 
+          <lb ed="#Pa" n="54"/>possit augeri per actum instantaneum et tenet syrati quod 
+          <lb ed="#Pa" n="55"/>non quia si sic sequitur quod quilibet viator posset in paruo 
+          <lb ed="#Pa" n="56"/>tempone acquirere tantam charitatem vel maiorem quantam 
+          <lb ed="#Pa" n="57"/>habuit anima Christi consequentia probatur quia charitas anime 
+          <lb ed="#Pa" n="58"/>Christi est finita. que sit a. et sit b. actus instantaneus per  
+          <lb ed="#Pa" n="59"/>quem viator meretur charitatem .c. et sit proportio .c. 
+          <lb ed="#Pa" n="60"/>ad a. subcentupla et ponatur quod antequam talis eliciat 
+          <lb ed="#Pa" n="61"/>actum aliquem ipse habeat deliberationes sufficientes 
+          <lb ed="#Pa" n="62"/>respectu diuersorum obiectorum vel actuum ad 
+          elicien<lb ed="#Pa" n="63" break="no"/>dum centum tales actus qualis est b. et maneant ille 
+          <lb ed="#Pa" n="64"/>deliberationes per vnam totam horam et faciat ille pri 
+          <lb ed="#Pa" n="65"/>mum actuum illorum in prima centesima illius hore 
+          <lb ed="#Pa" n="66"/>tunc pari ratione potest facere secundum in secunda et sic con¬ 
+          <!--234.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>sequenter nec oportet quod fiat expectatio per maius tempus 
+          <lb ed="#Pa" n="68"/>quia deliberatio et dispositio potentie per omnia requisita 
+          <lb ed="#Pa" n="69"/>ad actum volendi causandum mado iam expresso habentur 
+          <lb ed="#Pa" n="70"/>per causam in principio et habebuntur in qualibet par 
+          <lb ed="#Pa" n="71"/>te proportionali respectu actus tunc causandi 
+          secun<lb ed="#Pa" n="72" break="no"/>dum ordinem iam pretactum. Ad istud respondi di. 1 1. 
+          <lb ed="#Pa" n="73"/>q. 8 quod actus instantanee elicitus necessario 
+          conti<lb ed="#Pa" n="74" break="no"/>nuatur per tempus secundum se totum per partem 
+          <lb ed="#Pa" n="75"/>ante partem ita quod non ex toto cessabit citra finem ali 
+          <lb ed="#Pa" n="76"/>cuius temporis parui in cuius principio si sumatur 
+          <lb ed="#Pa" n="77"/>mediante deliberatione quod tunc est dilectio dei 
+          cau<lb ed="#Pa" n="78" break="no"/>sanda et sequitur electio conforis illi sententie seu 
+          <lb ed="#Pa" n="79"/>dictumini non est in potestate talis nature 
+          intelle<lb ed="#Pa" n="80" break="no"/>ctualis circa ffinem vnius parui temponris scilicet minimi per 
+          <lb ed="#Pa" n="81"/>ceptibilis vel maximi non perceptibilis secudum circum 
+          <lb ed="#Pa" n="82"/>stantias et dispositiones precise tunc habitas sententiari 
+          <lb ed="#Pa" n="83"/>quod tunc vel tunc non sit actus habendus et tunc vel tunc 
+          <lb ed="#Pa" n="84"/>sit alia distinctio causanda nec etiam in discursu istius 
+          <lb ed="#Pa" n="85"/>temponis dumcurrunt iste partes proportionales iuxta yma 
+          <lb ed="#Pa" n="86"/>ginationem argumeti facti nec in principio poterit 
+          <lb ed="#Pa" n="87"/>sententiari distincte quod in tali parte est secudus actus 
+          <lb ed="#Pa" n="88"/>causandus et in tali tertius et sic deinceps quia non  
+          <lb ed="#Pa" n="89"/>est in ptante naturali talis intellectus creati aliquam 
+          <lb ed="#Pa" n="90"/>istarum partium disticte percipere quare igitur meri 
+          <lb ed="#Pa" n="91"/>torie elicere potest tot actus similes cum non possit 
+          <lb ed="#Pa" n="92"/>primum dimittere citra finem temponis dandi.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e540">
+          ⁋ Ex istis sic 
+          <lb ed="#Pa" n="93"/>premissis soluuntur multa argumenta predicti do 
+          <lb ed="#Pa" n="94"/>ctoris contra necessariam continuationem actus eli 
+          <lb ed="#Pa" n="95"/>citi in principio temponis dati vsque in finem huius Arguit 
+          <lb ed="#Pa" n="96"/>entum sic ponatur quod voluntas velit ex deliberatione atecede 
+          <lb ed="#Pa" n="97"/>istud tempus non habere actum istum vltra medietatem 
+          ta<lb ed="#Pa" n="98" break="no"/>lis temponis parui dati et si hoc vel igitur habebit actum 
+          <lb ed="#Pa" n="99"/>istum post medietatem datit praeis istius vel non si non tunc 
+          <lb ed="#Pa" n="100"/>habita deliberatione prima poterit ipsum dimittere 
+          <lb ed="#Pa" n="101"/>et habere actum alium quandoquie ex tunc voluerit si non  
+          <lb ed="#Pa" n="102"/>tunc actum istum inuite continuat quod est contra ansi. 
+          <lb ed="#Pa" n="103"/>de libero arbitrio capitu. quinto dicentem ligari 
+          <lb ed="#Pa" n="104"/>potest hoc inuitus quia nollens potest occidi velle autem 
+          <lb ed="#Pa" n="105"/>non posset inuitus quia velle non potest nolens
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e571">
+          ⁋ Si 
+          <lb ed="#Pa" n="106"/>mile dicit Augustinus de duabus animabus capitulo 6  
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e576">
+          <lb ed="#Pa" n="107"/>⁋ Dicetur forte quod ipsi loquuntur de velle proprie 
+          <lb ed="#Pa" n="108"/>dicto scilicet de belle libero pro tunc quando est liberum.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e583">
+          ⁋ Set 
+          <lb ed="#Pa" n="109"/>volitio elicita in principio datit praeis non est post pri 
+          <lb ed="#Pa" n="110"/>mum instans libera pro isto tempone. Contra arguit iste do 
+          <lb ed="#Pa" n="111"/>ctor quia licet prima pars huius responsionis sit 
+          ve<lb ed="#Pa" n="112" break="no"/>ra scilicet quod ipsi loquuntur de velle libero et proprie 
+          <lb ed="#Pa" n="113"/>dicto non tamen secunda pars qua dicitur quod volitio hu 
+          <lb ed="#Pa" n="114"/>ius pro isto tempone post primum eius instans non est libera 
+          <lb ed="#Pa" n="115"/>sed necessario habita ita inquit necessario quod non  
+          <lb ed="#Pa" n="116"/>est in ptante voluntatis illius quis si habeat huiusmodi 
+          <lb ed="#Pa" n="117"/>actum in primo instanti illius temporis habet istum 
+          <lb ed="#Pa" n="118"/>vel aliquid eius post medietatem illius temponis datiz 
+          <lb ed="#Pa" n="119"/>quia dicit augustinus vbi supra quod non cogitur facere 
+          <lb ed="#Pa" n="120"/>aliquid vel non facit istud vel volens facit cum igitur 
+          <lb ed="#Pa" n="121"/>voluntas non cogatur retinere huiusmodi actum post 
+          medie<lb ed="#Pa" n="122" break="no"/>tatem temponis dati vel igitur non retinet eum tunc vel si 
+          <lb ed="#Pa" n="123"/>etinens volens retinet.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e618">
+          ⁋ Ad istud argumentum 
+          pa<lb ed="#Pa" n="124" break="no"/>tet primo quod supponit falsum scilicet quod talis voluntas possit 
+          <lb ed="#Pa" n="125"/>discernere inter medietates illius parui temponis et di 
+          <lb ed="#Pa" n="126"/>stincte percipere quando erit prima medietas et quando se 
+          <lb ed="#Pa" n="127"/>cunda et oe partibus partium eius cuius oppositum 
+          <lb ed="#Pa" n="128"/>probaui supra prima di.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e631">
+          ⁋ Sed hoc non soluit argu 
+          <lb ed="#Pa" n="129"/>mentum dato quod talis intellectus non possit 
+          distin<lb ed="#Pa" n="130" break="no"/>te percipere tempus minus nouit tamen quod illud paruum 
+          <lb ed="#Pa" n="131"/>epris habet infinitas partes et per consequens voluntas 
+          <lb ed="#Pa" n="132"/>potest velle diligere deum precise per medietatem 
+          <!--235.xml-->
+          <pb ed="#Pa" n="96-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>primam istius temponis velit igitur sic et tunc queritur vtrum 
+          <lb ed="#Pa" n="2"/>habebit istum actum post istam medietatem vel non et 
+          con<lb ed="#Pa" n="3" break="no"/>sequenter per omnia arguitur sicut prius Respondetur 
+          <lb ed="#Pa" n="4"/>quod licet intellectus iciat istud tempus paruum habere 
+          <lb ed="#Pa" n="5"/>duas medietates non tamen potest distincte eas per  
+          <lb ed="#Pa" n="6"/>cipere nec etiam in principio illius temponis percipit 
+          in<lb ed="#Pa" n="7" break="no"/>stans medium eiusdem distincte et ideo no est in ptante 
+          <lb ed="#Pa" n="8"/>voluntatis disticte percipere vel scire quando vere fue 
+          <lb ed="#Pa" n="9"/>rit medium illius temponis.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e669">
+          ⁋ Unde concedo quod si ipsa isto 
+          <lb ed="#Pa" n="10"/>modo velit in principio istius temponis a. quando ponit 
+          <lb ed="#Pa" n="11"/>primo actum mediante dictamine iutellectus 
+          si<lb ed="#Pa" n="12" break="no"/>cut exprimitur in argumento quod ipsa non potest 
+          exe<lb ed="#Pa" n="13" break="no"/>qui sicut eligit exequendum ymo si tunc eliciat istam 
+          <lb ed="#Pa" n="14"/>dilectionem quam simul cum vellet non remanere vltra 
+          <lb ed="#Pa" n="15"/>primam medietatem illius temponis ipsa non habet in sua na 
+          <lb ed="#Pa" n="16"/>turali potentia quiz actus ille remaneat plus quam vel 
+          <lb ed="#Pa" n="17"/>let cum ipsa non possit iterum citra finem dati temponis 
+          illu<lb ed="#Pa" n="18" break="no"/>actum deliberate suspendere vnde breuiter in tali 
+          <lb ed="#Pa" n="19"/>casu ipsa vult sibi et tali potentie actiue impossibi 
+          <lb ed="#Pa" n="20"/>le et cum arguitur quod tunc post primam medietatem temponis 
+          <lb ed="#Pa" n="21"/>voluntas diligeret vel vellet inuite.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e698">
+          ⁋ Respondeo 
+          <lb ed="#Pa" n="22"/>sicut alias quod non sequitur quod in secunda perte a. ipsa simplici 
+          <lb ed="#Pa" n="23"/>ter et absolute vellet seu diligeret inuite quia tunc ve 
+          <lb ed="#Pa" n="24"/>let diligere et velle ea dilectione et volitione qua 
+          <lb ed="#Pa" n="25"/>habuit in principio ipsius a. et ideo tunc volens 
+          <lb ed="#Pa" n="26"/>eam habebit et non simpliciter inuite tamen 
+          habe<lb ed="#Pa" n="27" break="no"/>bit eam tunc inuite secundum quid eo quod in principio a. 
+          <lb ed="#Pa" n="28"/>temponis voluntas vult illam dilectionem fore in prima me 
+          <lb ed="#Pa" n="29"/>dietate. a. temponis et non vltra et quia ille actus volendi 
+          <lb ed="#Pa" n="30"/>cum precise durat per totum. a. tempus igitur in secunda me 
+          <lb ed="#Pa" n="31"/>dietate. a. temponis adhuc vult voluntas istam dilectionem 
+          <lb ed="#Pa" n="32"/>tunc non fore et tamen tunc erit per casum igitur tunc 
+          <lb ed="#Pa" n="33"/>erit contra suum velle ideo erit secudum quid inuite. 
+          <lb ed="#Pa" n="34"/>Ansel. autem intelligit quod non posset simpliciter inuite 
+          <lb ed="#Pa" n="35"/>velle volitione libera proprie licet multa velle 
+          na<lb ed="#Pa" n="36" break="no"/>turalia precedentia omnem deliberationem sepissime 
+          <lb ed="#Pa" n="37"/>recipiat vel saltem sit possibile quod recipiat velit nolit 
+          <lb ed="#Pa" n="38"/>⁋Aliter posset dici et forte melius quod ansel intel 
+          <lb ed="#Pa" n="39"/>ligit quod nemo potest inuitus primo causare velle pro 
+          <lb ed="#Pa" n="40"/>prie liberum et tamen velit nolit si recipiat tale retine 
+          <lb ed="#Pa" n="41"/>bit et cum probatur in contrarium per augustinum qui non co 
+          <lb ed="#Pa" n="42"/>gitur etc. Si hec auctoritas applicetur ad primam 
+          pr<lb ed="#Pa" n="43" break="no"/>ductionem instantaneam et liberam illius dilectionis o 
+          <lb ed="#Pa" n="44"/>vocetur .c. de qua et eius continuatione est hic sermo 
+          <lb ed="#Pa" n="45"/>auctoritas facit pro me quia .c. continuatur et libere et 
+          <lb ed="#Pa" n="46"/>non coacte nec necessitate libertati contraria causal 
+          <lb ed="#Pa" n="47"/>et hoc sonat auctoritas que exprimit facere et non 
+          <lb ed="#Pa" n="48"/>continuare vel conseruare.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e759">
+          ⁋ Si vero applicetur 
+          au<lb ed="#Pa" n="49" break="no"/>ctoritas ad continuationem .c. dico quod voluntas liberi 
+          <lb ed="#Pa" n="50"/>in principio a. temponis causando c. cogit seipsam et ne 
+          <lb ed="#Pa" n="51"/>cessitat ad continuandum .c. vel aliquam eius partem nec 
+          <lb ed="#Pa" n="52"/>hoc est inconveniens etiam secundum auctoritates vult enim 
+          <lb ed="#Pa" n="53"/>anselmus quod voluntas posset seipsam necessitare et 
+          <lb ed="#Pa" n="54"/>cogere malum vt inlibello ve cocordia cap. ter. 
+          di<lb ed="#Pa" n="55" break="no"/>cit opus voluntatis cui datum est vt quod vult quod sit et quod 
+          <lb ed="#Pa" n="56"/>non vult non sit voluntarium seu spototaneum est quando sponta 
+          <lb ed="#Pa" n="57"/>nea voluntate fit et vnifariam est nec essarium quia et 
+          vo<lb ed="#Pa" n="58" break="no"/>luntate cogitur fieri
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e783">
+          ⁋ Sed has necessitates facii 
+          <lb ed="#Pa" n="59"/>voluntatis libertas quae prius quam sit eas cauere potest sic 
+          <lb ed="#Pa" n="60"/>dicam in casu isto quod voluntas libere causando actum aliter 
+          <lb ed="#Pa" n="61"/>quem necessitat seipsam et cogit ad continuationem 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e792">
+          <lb ed="#Pa" n="62"/>⁋ Secundo arguit idem doctor sic si voluntas ceteris 
+          <lb ed="#Pa" n="63"/>paribus in dicto casu necessitatur tenere dilectio 
+          <lb ed="#Pa" n="64"/>nem .c. per tempus a. quid igitur necessitat eam non 
+          <lb ed="#Pa" n="65"/>passio aliqua quae ponatur quod nullam habebit nec 
+          co<lb ed="#Pa" n="66" break="no"/>gnitio quia tunc sequaretur quod quanto fortius vellet hare 
+          <lb ed="#Pa" n="67"/> 
+          <lb ed="#Pa" n="68"/> 
+          <lb ed="#Pa" n="69"/> 
+          <lb ed="#Pa" n="70"/> 
+          <lb ed="#Pa" n="71"/> 
+          <lb ed="#Pa" n="72"/> 
+          <!--235.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="73"/>aliquam volitionem huiusmodi tanto fortius et diutius 
+          ha<lb ed="#Pa" n="74" break="no"/>beret istam quia quanto volitionem aliquam nollet tanto 
+          <lb ed="#Pa" n="75"/>uagis cognosceret illud quod nollet habre et per te 
+          co<lb ed="#Pa" n="76" break="no"/>gnitio est causa retentionis igitur fortior cognitio 
+          <lb ed="#Pa" n="77"/>fortioris retentionis nec posset dici quod voluntas 
+          ne<lb ed="#Pa" n="78" break="no"/>cessitet se quia voluntas nollet habree istam nolitionem post 
+          <lb ed="#Pa" n="79"/>medietatem. A temponis.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e838">
+          ⁋ Ad istud dico quod ipsamet 
+          vo<lb ed="#Pa" n="80" break="no"/>luntas supposito vniformi concursu omnim aliorum puta 
+          <lb ed="#Pa" n="81"/>cognitionis concausantis volitionem .c. et huiusmodi 
+          ne<lb ed="#Pa" n="82" break="no"/>cessitat ad continuandum omnes autem alie cause ibi con 
+          <lb ed="#Pa" n="83"/>currentes agunt quantum possunt ex parte earum et ideo 
+          <lb ed="#Pa" n="84"/>si voluntas ponat se libere ad idem sequitur effectus et 
+          <lb ed="#Pa" n="85"/>permanebit et omnia alia vniformiter permanebunt do 
+          <lb ed="#Pa" n="86"/>nec volunta libere cesset ab actu c sicut libere eum 
+          <lb ed="#Pa" n="87"/>causauit non est autem in ptante voluntatis create 
+          feren<lb ed="#Pa" n="88" break="no"/>tis se in aliquid subito et fine medio suspendere to 
+          <lb ed="#Pa" n="89"/>taliter motum illum quia tunc foret instans instanti imme 
+          <lb ed="#Pa" n="90"/>diatum sicut alias declaraui et hoc precise si talis 
+          <lb ed="#Pa" n="91"/>latio in aliquid sit productio vere rei sicut est in proposit o 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e868">
+          <lb ed="#Pa" n="92"/>⁋ Sed quato voluntas omnibus aliis causis partiali 
+          <lb ed="#Pa" n="93"/>bus requisitis principiat dilectionem aliquam iuxta 
+          <lb ed="#Pa" n="94"/>modum predictum tunc velle habitum in principio a. 
+          ten<lb ed="#Pa" n="95" break="no"/>poris de non habenda .c. dilectione vltra primam 
+          me<lb ed="#Pa" n="96" break="no"/>dietatem illius temponis non sufficit siue pluries ad hoc 
+          <lb ed="#Pa" n="97"/>quod dilectio c non retineatur vltra medietatem. a. temponis 
+          <lb ed="#Pa" n="98"/>tum quia hoc est proprium soli die voluntati quod per hoc quod nunc 
+          <lb ed="#Pa" n="99"/>vult aliis aliquid fieri vel destrui eo ipo tunc fiat 
+          <lb ed="#Pa" n="100"/>vel cesset ipse enim solus est qui dicit et facta sunt 
+          <lb ed="#Pa" n="101"/>tum quia velle illud quo vult post medietatem a temponis c. 
+          <lb ed="#Pa" n="102"/>non esse non repugnat ipsi .c. dilecti cum compatiatur .c. in  
+          <lb ed="#Pa" n="103"/>principio a. et per totam primam medietatem a. etiam secundem 
+          <lb ed="#Pa" n="104"/>istum doctonem igitur per istud velle numnquam cessabit .c. 
+          <lb ed="#Pa" n="105"/>nisi aliud sit in causa nec poni poterit aliud in cau 
+          <lb ed="#Pa" n="106"/>sa cum omnia alia ponuntur vniformiter se habre igitur 
+          opor<lb ed="#Pa" n="107" break="no"/>tet quod ipsa voluntas velit isto tunc adueniente aliquid 
+          <lb ed="#Pa" n="108"/>volitione repugnante .c. vel velit tunc .c. non esse
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e907">
+          ⁋ Sed  
+          <lb ed="#Pa" n="109"/>hoc non est possibile voluntati ex se propter impercepti 
+          <lb ed="#Pa" n="110"/>bilitatem vt est dictum igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e914">
+          ⁋ Ad formam igitur argu 
+          <lb ed="#Pa" n="111"/>menti dicitur quod voluntas necessitet seipsam etc. cum dicitur quod 
+          <lb ed="#Pa" n="112"/>voluntas nolet habre etc. dico quod in isto casu voluntas 
+          <lb ed="#Pa" n="113"/>vult sibi impossibile deducere ad effectum quia non est 
+          <lb ed="#Pa" n="114"/>in eius ptante naturali scire quando precise erit lapsa 
+          <lb ed="#Pa" n="115"/>prima medietas a. temponis vt predixi.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e927">
+          ⁋ Tertio 
+          Ar<lb ed="#Pa" n="116" break="no"/>guit doctor iste si stante casu priori oporteat .c. 
+          con<lb ed="#Pa" n="117" break="no"/>tinuare per totum a. vel igitur per totum illud tempus 
+          ma<lb ed="#Pa" n="118" break="no"/>net actus iste eque intensus sicut fuit in primo. in 
+          stan<lb ed="#Pa" n="119" break="no"/>ti vel non si sic tunc lapso isto paruo tempone continuabitur 
+          <lb ed="#Pa" n="120"/>vltra per tantundem tempus nisi aliqua circunstantia 
+          remit<lb ed="#Pa" n="121" break="no"/>tatur quod non oportet contingere voluntas ipsa 
+          conser<lb ed="#Pa" n="122" break="no"/>uans .c. remittetur igitur remanebit actus .c. ita 
+          for<lb ed="#Pa" n="123" break="no"/>tis in fine. a. temponis igitur necesse est ipsum vlterius conti 
+          <lb ed="#Pa" n="124"/>nuare per equale tempus ipsi. a. et pari ratione tertio quar 
+          <lb ed="#Pa" n="125"/>to et sic sine fine.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e951">
+          ⁋ Item si maneret actus vniformiter in  
+          <lb ed="#Pa" n="126"/>tensus per huiusmodi tempouns pari ratione foret in angelis 
+          <lb ed="#Pa" n="127"/>beatis quia non videretur posse dari ratio diuersitatis 
+          <lb ed="#Pa" n="128"/>et si sic tunc si viderent deum velle vnum et postea statim 
+          <lb ed="#Pa" n="129"/>oppositum non possent se conformare volutati dmie infra 
+          <lb ed="#Pa" n="130"/>illud tempuns et per consequens haberent tunc tales actus inuite
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e964">
+          ⁋ Item similiter 
+          <lb ed="#Pa" n="131"/>fuisset in Christo et sic postquam fuit mortuus voluit seite 
+          <lb ed="#Pa" n="132"/>rum mori quia in instanti mortis sue voluit seiqueum mori et 
+          <lb ed="#Pa" n="133"/>si hoc igitur secundem istam responsionem de necessitate ista 
+          <lb ed="#Pa" n="134"/>volitio continuabitur vltra igitur Item si ista volitio. o 
+          <lb ed="#Pa" n="135"/>manet vniformis per totum a. quero autem potest corrum 
+          <lb ed="#Pa" n="136"/>pi subito aut non si subito igitur infra istud tempus potest cor 
+          <lb ed="#Pa" n="137"/>rumpi si non igitur vltra illud instans quod erit finis a. 
+          <lb ed="#Pa" n="138"/>temponis necessario permanebit
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e985">
+          ⁋ Item si sic maneret per ta 
+          <!--236.xml-->
+          <pb ed="#Pa" n="96-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>tum. a. in equali gradu tunc conatus voluntatis quo 
+          <lb ed="#Pa" n="2"/>conaretur in principio talis temponis non intenderet actum 
+          <lb ed="#Pa" n="3"/>illum consequens est falsum igiturct. Si detur alia pars quod 
+          <lb ed="#Pa" n="4"/>actus ille non maneat continuus in equali gradu 
+          <lb ed="#Pa" n="5"/>per illud tempus a. sequitur quod continue naturaliter 
+          <lb ed="#Pa" n="6"/>remittitur per illud tempus donec in fine illius temporis 
+          <lb ed="#Pa" n="7"/>cesset esse quod non videtur verum quia sicut agens 
+          <lb ed="#Pa" n="8"/>istum actum subito potuit producere pro eo quod ad eius re 
+          <lb ed="#Pa" n="9"/>ceptionem erat passum satis dispositum et actuum suffi 
+          <lb ed="#Pa" n="10"/>ciens et sufficienter presens non videtur ratio quin  
+          <lb ed="#Pa" n="11"/>actus iste subito poterit corrumpi igitur non requi 
+          <lb ed="#Pa" n="12"/>ritur quod successiue remittatur et partialiter cesset 
+          <lb ed="#Pa" n="13"/>esse Item sicut ibi non est aliqua resistentia quin c 
+          <lb ed="#Pa" n="14"/>actus subito producatur ita nec quin subito 
+          corrunm<lb ed="#Pa" n="15" break="no"/>pitur et si in tali actus acquisitione vel destructio 
+          <lb ed="#Pa" n="16"/>ne esset verus motus pari ratione foret verus mo 
+          <lb ed="#Pa" n="17"/>tus in productione actus cognitionis vel scientie con 
+          <lb ed="#Pa" n="18"/>tra phsoahum septimo phisicorum nec obstat quod ibi non est 
+          <lb ed="#Pa" n="19"/>materia quia ita vere ista successio mensuratur tempone 
+          <lb ed="#Pa" n="20"/>sicut si ibi esset materia.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1037">
+          ⁋ Ad argumentum cum inqui 
+          <lb ed="#Pa" n="21"/>rituran actus c. manebit eque intensus per totum 
+          <lb ed="#Pa" n="22"/>a. tempons vel non dico quod vtraque pars contingere potest 
+          <lb ed="#Pa" n="23"/>Sic omnes enim alie concause illius actus et circun 
+          <lb ed="#Pa" n="24"/>stantie eius intensiores prouenientes maneant 
+          vni<lb ed="#Pa" n="25" break="no"/>formes per totum tempons a. nec nouiter aliud impediat 
+          <lb ed="#Pa" n="26"/>tunc manebit actus eque intensus vsque ad finem. a 
+          <lb ed="#Pa" n="27"/>temponis exclusiue si aliqua de causis eius actis 
+          remit<lb ed="#Pa" n="28" break="no"/>tatur vel impediatur infra tempus a. tunc vel infra. a. 
+          <lb ed="#Pa" n="29"/>cessabit vel remittetur actus c.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1059">
+          ⁋ Sed hoc non 
+          sta<lb ed="#Pa" n="30" break="no"/>bit per ipsam voluntatem sed aliunde prouenit et 
+          <lb ed="#Pa" n="31"/>tunc non remanebunt omnes et precise eedem 
+          cir<lb ed="#Pa" n="32" break="no"/>cunstantie sicut prius contra casum argumenti.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1068">
+          ⁋ Ad  
+          <lb ed="#Pa" n="33"/>primam igitur formam cum probatur dato quod maneat vni 
+          <lb ed="#Pa" n="34"/>formis tunc pari ratione per tantundem tempus etc. 
+          di<lb ed="#Pa" n="35" break="no"/>co quod non sequitur ymo libere potest voluntas cessa 
+          <lb ed="#Pa" n="36"/>re totaliter ab isto casu in vltimo instanti temponis 
+          a<lb ed="#Pa" n="37" break="no"/>ita quod hoc sit primum instans non esse eius sicut 
+          tota<lb ed="#Pa" n="38" break="no"/>titer produxit ipsum in primo instanti temponis a. Magister au 
+          <lb ed="#Pa" n="39"/>tem iste ymagiatur quod in isto vltimo instanti. a. temponis 
+          <lb ed="#Pa" n="40"/>deberet esse actus intensus sicut ante et hoc non  
+          <lb ed="#Pa" n="41"/>oportet et tamen ita posset contingere et si hoc pla 
+          <lb ed="#Pa" n="42"/>ceat tunc voluntati nouiter tunc adhuc ceteris pa 
+          <lb ed="#Pa" n="43"/>ribus maneret iterum per tantundem tempus infra quod  
+          <lb ed="#Pa" n="44"/>ab isto actu cessare non posset et ita etiam de fine 
+          ten<lb ed="#Pa" n="45" break="no"/>poris vel tertum vel quarti. Non dico tamen quod si ha 
+          <lb ed="#Pa" n="46"/>bet actum istum ita fortem sicut prius in fine temponis dati quod 
+          <lb ed="#Pa" n="47"/>iterum eo ipso haberet per tantundem tempons et sic de aliis 
+          <lb ed="#Pa" n="48"/>quia hoc non oportet.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1105">
+          ⁋ Sed si in fine dati temponis noui 
+          <lb ed="#Pa" n="49"/>ter velit actum huius tunc habere vel retinere et ce 
+          <lb ed="#Pa" n="50"/>tera sint paria que iuuant ad actum conseruandum 
+          <lb ed="#Pa" n="51"/>tunc oportet si vero in isto finali voluntas teneret 
+          <lb ed="#Pa" n="52"/>illum actum non ex noua complacentia et aduertentia tunc 
+          <lb ed="#Pa" n="53"/>esset casuale quantum ad voluntatem actum istum 
+          ces<lb ed="#Pa" n="54" break="no"/>sare ante finem secunditemporis equalis vel non.  
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1121">
+          <lb ed="#Pa" n="55"/>⁋ Ad secundam formam concedo quod ceteris paribus it 
+          <lb ed="#Pa" n="56"/>esset in angelis beatis de actibus illis quos libe 
+          <lb ed="#Pa" n="57"/>re causant et libere dimittunt si cetera sint paria 
+          <lb ed="#Pa" n="58"/>hic et ibi nisi quod minus tempus potest ex natura sua 
+          <lb ed="#Pa" n="59"/>angelus percipere quam purus homo precise pro statu 
+          <lb ed="#Pa" n="60"/>nature lapse in quo corpus quod corrumpitur ag 
+          <lb ed="#Pa" n="61"/>grauat animam et cum probatur quod non quia tunc si deum 
+          <lb ed="#Pa" n="62"/>videret velle vnum in principio istius parui temporias 
+          <lb ed="#Pa" n="63"/>et statim post oppositum ctc. dicendum quod istud antece 
+          <lb ed="#Pa" n="64"/>dens non subest potentie naturali actiue angeli bene 
+          <lb ed="#Pa" n="65"/>tamen subest diuine omnipotentie in medio illius perui 
+          <lb ed="#Pa" n="66"/>temponis facere eos sentire vel firmiter credere quod de 
+          <!--236.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>us vult eos aliud velle et habito tali iudicio possunt 
+          <lb ed="#Pa" n="68"/>se in volito simul cum illo iudicio in eis a deo causa 
+          <lb ed="#Pa" n="69"/>to libere vel necessario conformare et ita potest via 
+          <lb ed="#Pa" n="70"/>tor si simile circa ipsum fieret a deo.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1164">
+          ⁋ Sed tunc 
+          di<lb ed="#Pa" n="71" break="no"/>mittitur casus argumenti quia tunc non habet pre 
+          <lb ed="#Pa" n="72"/>cise ista adiutoria seu circunstantias quas prius. 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1171">
+          <lb ed="#Pa" n="73"/>⁋ Ad tertiam formam dico quod Christus per diuinam volitio 
+          <lb ed="#Pa" n="74"/>nem fortaliter solum pro instanti mortis voluit 
+          pre<lb ed="#Pa" n="75" break="no"/>sentialiter mori supposito quod anima subito separetur 
+          <lb ed="#Pa" n="76"/>a corpore et qualibet eius parte
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1182">
+          ⁋ Et Idem dico 
+          <lb ed="#Pa" n="77"/>de anima Christi si deus ipse fuit illi anime volitio qua for 
+          <lb ed="#Pa" n="78"/>formaliter voluit ipsum mori de hac igitur Christi voli 
+          <lb ed="#Pa" n="79"/>tione nulla est ad prepositum difficultas sed loquems 
+          <lb ed="#Pa" n="80"/>do de creata volitione anime Christi certum est quod ipsa ante 
+          <lb ed="#Pa" n="81"/>mortem voluit tali volitione Christum mori in futuro. 
+          <lb ed="#Pa" n="82"/>Sed vtrum ipsa voluerit tunc praesentialiter Christum mori 
+          <lb ed="#Pa" n="83"/>cum actualiter moriebatur supposito quod Christi mors et 
+          <lb ed="#Pa" n="84"/>aliorum sit instantanea fides non determinat.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1202">
+          ⁋ 
+          Di<lb ed="#Pa" n="85" break="no"/>co tamen quod si in instanti. b. mortis Christi ipsa voluerit 
+          <lb ed="#Pa" n="86"/>Christum tunc mori volitione creata siue a deo siue ab  
+          <lb ed="#Pa" n="87"/>eo causata quod ipsa post istud instans voluit christum 
+          <lb ed="#Pa" n="88"/>mori quia non potuit simul et semel subito resistere 
+          <lb ed="#Pa" n="89"/>ab hoc velle alioquin instans iustanti succedere 
+          <lb ed="#Pa" n="90"/>posset fine medio nec hoc est mirum si attendatur quod 
+          <lb ed="#Pa" n="91"/>christum mori in b. instanti non est nisi animam chri 
+          <lb ed="#Pa" n="92"/>sti esse in b. primo separatam a suo corpore quid enim 
+          <lb ed="#Pa" n="93"/>inconveniens dabitur certe non nisi quam post quam b. tran 
+          <lb ed="#Pa" n="94"/>sut per momentum paruum temponis voluerit ista aimma 
+          <lb ed="#Pa" n="95"/>seipam esse primo in b. a suo corpore separatam 
+          Di<lb ed="#Pa" n="96" break="no"/>ces tunc sequitur quod anima voluerit aliquid esse abso 
+          <lb ed="#Pa" n="97"/>lute vel fieri et tamen suum volitum non obtinuerunt 
+          <lb ed="#Pa" n="98"/>patet consequentia quia post b instans voluit primo 
+          <lb ed="#Pa" n="99"/>esse separata a suo corpore et hoc effici non potuit 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1237">
+          <lb ed="#Pa" n="100"/>⁋ Dicendum quod non sequitur quod non obtinuerunt vo 
+          <lb ed="#Pa" n="101"/>litum sufficit enim quod volitum fuerit tamen ipsa 
+          nun<lb ed="#Pa" n="102" break="no"/>quam voluit quod Christus post. b. moreretur ymo voluit con 
+          <lb ed="#Pa" n="103"/>trarium cum hoc tamen stat quod ipsa diutius voluerit 
+          <lb ed="#Pa" n="104"/>Christum mori in b. quam obtinuerit saltem quantum ad circum 
+          <lb ed="#Pa" n="105"/>stantiam aliquam concurrentem ex parte voliti quia scilicet 
+          ip<lb ed="#Pa" n="106" break="no"/>sum. b. non ita diumansit sicut ipsa voluit christu 
+          <lb ed="#Pa" n="107"/>mori in b. et deus etiam ita voluit eam diutius velle 
+          <lb ed="#Pa" n="108"/>qui aliter non dedit sibi pro posse. Aliter potest dici 
+          <lb ed="#Pa" n="109"/>ad hominem et multum leuiter secudum principia 
+          eius<lb ed="#Pa" n="110" break="no"/>dem doctoris quod ab instanti et deinceps ista 
+          voli<lb ed="#Pa" n="111" break="no"/>tio non remansit volitio sed hanc responsionem non 
+          <lb ed="#Pa" n="112"/>teneo.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1268">
+          ⁋ Ad quartam formam dicendum quod potest 
+          cor<lb ed="#Pa" n="113" break="no"/>rumpi subito vel successiue sed non citra finem. a. temponis 
+          <lb ed="#Pa" n="114"/>ceteris partibus sed primo subito in eius fine. 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1276">
+          <lb ed="#Pa" n="115"/>⁋ Et ad argumentum in contrarium patet ex 
+          responsio<lb ed="#Pa" n="116" break="no"/>ne ad primam formam.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1283">
+          ⁋ Ad quintam formam dicendum 
+          <lb ed="#Pa" n="117"/>quod voluntatem conari non est nisi niti habere perfe 
+          <lb ed="#Pa" n="118"/>ctam contemplationem seu cognitionem secundum optimas 
+          <lb ed="#Pa" n="119"/>et placibilitas et magis electiuas conditiones 
+          <lb ed="#Pa" n="120"/>obiecti sic enim recolligere se et vires alias vt 
+          ha<lb ed="#Pa" n="121" break="no"/>beantur alique circunstantie prime in optimo est 
+          <lb ed="#Pa" n="122"/>conatus magnus ad bene et intense volendu
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1299">
+          ⁋ Quan 
+          <lb ed="#Pa" n="123"/>tum igitur ad formam argumenti neganda est conse 
+          <lb ed="#Pa" n="124"/>quentia quia licet conatus talis ante actum faciat 
+          <lb ed="#Pa" n="125"/>multum ad intensionem actus tum quia facit appone 
+          <lb ed="#Pa" n="126"/>re illa que posita augent actum tum quia facit 
+          amo<lb ed="#Pa" n="127" break="no"/>uere illa que impedirent intensionem actus tum si 
+          <lb ed="#Pa" n="128"/>omnia ista procurentur et maneant vsque in finem a. temponis 
+          <lb ed="#Pa" n="129"/>sicut principale presupponit argumentum actus 
+          re<lb ed="#Pa" n="130" break="no"/>manebit equaliter intensus vsque in finem a.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1319">
+          ⁋ Set 
+          <lb ed="#Pa" n="131"/>tunc suspendi poterit ex libero motu voluntatis 
+          <lb ed="#Pa" n="132"/>sicut est superius declaratum probatur due forme pro¬ 
+          <!--237.xml-->
+          <pb ed="#Pa" n="97-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>bantes quod non opetet actum .c. successiue defficere vel 
+          <lb ed="#Pa" n="2"/>desinere probant verum.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1337">
+          ⁋ Ad tertiam formam qua di 
+          <lb ed="#Pa" n="3"/>citur quod tunc eius corruptio vel productio esset 
+          ve<lb ed="#Pa" n="4" break="no"/>re motus concedo.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1344">
+          ⁋ Ad philosophum dicendum est quod intel 
+          <lb ed="#Pa" n="5"/>ligit quod non est necessarium ex natura talium formarum 
+          <lb ed="#Pa" n="6"/>vel receptionum earum quod ipse producantur vel defficiant 
+          <lb ed="#Pa" n="7"/>successiue quod concedo.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1354">
+          ⁋ Secundo probatur aliter 
+          <lb ed="#Pa" n="8"/>ab isto doctore quod charitas non augetur per meri 
+          <lb ed="#Pa" n="9"/>tum instantaneum quia si sic igitur per meritum temponale 
+          <lb ed="#Pa" n="10"/>augetur in infinitum quia meritum temprorale 
+          excede<lb ed="#Pa" n="11" break="no"/>ret meritum instantaneum improportionabiliter 
+          con<lb ed="#Pa" n="12" break="no"/>sequentia probatur ex hoc quod si augeretur charitas 
+          <lb ed="#Pa" n="13"/>per meritum instantaneum igitur etiam per meritum 
+          <lb ed="#Pa" n="14"/>vltimi instantis quia pro tunc meretur per istum actum 
+          <lb ed="#Pa" n="15"/>premium. eternum aliter eim frustra teneret istum actum 
+          <lb ed="#Pa" n="16"/>pro tunc.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1376">
+          ⁋ Sed constat quod pro quolibet instanti tam 
+          <lb ed="#Pa" n="17"/>tum augeretur sicut pro vltimo instanti quia non  
+          <lb ed="#Pa" n="18"/>est maior ratio oe vno quam de alioymo non est aliquod 
+          <lb ed="#Pa" n="19"/>instans per totum istud quin si desisteret in illo 
+          in<lb ed="#Pa" n="20" break="no"/>stanti ita quod foret vltimum quin in isto mereretur 
+          si<lb ed="#Pa" n="21" break="no"/>cut et modo igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1389">
+          ⁋ Item si actus voluntatis es 
+          <lb ed="#Pa" n="22"/>set pro tunc primo contra preceptum esset demeri 
+          <lb ed="#Pa" n="23"/>torius et modo esset ita bonus sicut tunc malus igi 
+          <lb ed="#Pa" n="24"/>tur modo meritorius.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1398">
+          ⁋ Probatur si actus 
+          continu<lb ed="#Pa" n="25" break="no"/>atus per tale tempus foret demeritorius pro vltimo 
+          <lb ed="#Pa" n="26"/>instanti foret demeritorius.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1405">
+          ⁋ Aliter enim esset 
+          ali<lb ed="#Pa" n="27" break="no"/>quis actus malus pro quo non deberetur pena igitur 
+          <lb ed="#Pa" n="28"/>etiam actus bonus pro tunc foret meritorius.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1412">
+          ⁋ Item 
+          <lb ed="#Pa" n="29"/>si pro illo instanti non deberetur aliquod premium 
+          <lb ed="#Pa" n="30"/>sequeretur quod deus inequaliter merentes equali 
+          <lb ed="#Pa" n="31"/>ter premiaret posito casu communi de duobus 
+          equa<lb ed="#Pa" n="32" break="no"/>liter merentibus vsque ad a. quorum vnus habet 
+          <lb ed="#Pa" n="33"/>actum meritorium in a. et alius non sit a. vltimum 
+          <lb ed="#Pa" n="34"/>instans tempus dandi.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1429">
+          ⁋ Respondetur negando  
+          <lb ed="#Pa" n="35"/>primam consequentiam quia viator per bonum 
+          <lb ed="#Pa" n="36"/>actum tunc solum nouiter meretur quando actus 
+          <lb ed="#Pa" n="37"/>est sublibero dominio voluntatis ita quod pro illa men 
+          <lb ed="#Pa" n="38"/>sura est in naturali libertate voluntatis prima se 
+          <lb ed="#Pa" n="39"/>cundum naturam actui licet forsan simul duratio 
+          <lb ed="#Pa" n="40"/>ne habere vel non habere tenere vel non tenere non 
+          <lb ed="#Pa" n="41"/>autem pro mensura pro qua vel in quae non posset non 
+          <lb ed="#Pa" n="42"/>habere actum talem sicut est in illo paruo tempo 
+          <lb ed="#Pa" n="43"/>re et ideo si precise duret actus per illud tempus 
+          <lb ed="#Pa" n="44"/>tunc nihil plus meretur ex tali continuatione 
+          vl<lb ed="#Pa" n="45" break="no"/>tra eius instantaneam productionem liberam.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1455">
+          ⁋ Et 
+          <lb ed="#Pa" n="46"/>cum arguitur si augetur gratia per meritum 
+          vl<lb ed="#Pa" n="47" break="no"/>timi instantis igitur meritum cuiuslibet nature 
+          ne<lb ed="#Pa" n="48" break="no"/>gatur consequentia quia si ex distractione sola et 
+          <lb ed="#Pa" n="49"/>non ex noua electione nec vere nec interpretatiue 
+          <lb ed="#Pa" n="50"/>perseueret in illo actu bono in vltimo instanti illi 
+          <lb ed="#Pa" n="51"/>us minimi temponis tunc nullum meritum nouiter sibi ex 
+          <lb ed="#Pa" n="52"/>hoc accrescit nec vnquam accrescet donec ex noua ele 
+          <lb ed="#Pa" n="53"/>ctione vere vel interpretatiue habita perseueret in 
+          <lb ed="#Pa" n="54"/>actu huius libere precanto. Sed quotiens nouiter 
+          <lb ed="#Pa" n="55"/>in illum complacuerit in tantum quod illum 
+          princi<lb ed="#Pa" n="56" break="no"/>piaret nouiter si non esset totiens additum sibi 
+          pre<lb ed="#Pa" n="57" break="no"/>miusim sibi ascribitur sicut si nouiter tunc ab ipso li 
+          <lb ed="#Pa" n="58"/>bere causaretur.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1486">
+          ⁋ Et ideo si in vltimo instanti 
+          il<lb ed="#Pa" n="59" break="no"/>lius temporis haberet nouam electionem vel 
+          con<lb ed="#Pa" n="60" break="no"/>placentiam ad continuandum illum actum 
+          novi<lb ed="#Pa" n="61" break="no"/>ter meretur premium et gratiam sibi augeri.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1495">
+          ⁋ Et 
+          <lb ed="#Pa" n="62"/>ideo patet quod non est eadem ratio quo ad hoc de vltio 
+          <lb ed="#Pa" n="63"/>instanti et de aliis precedentibus quia nec citius 
+          pos<lb ed="#Pa" n="64" break="no"/>set illum actum dimittere ex suis naturalibus vt proba 
+          <lb ed="#Pa" n="65"/>ui.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1506">
+          ⁋ Quattuor media que probant quod in vltimo in 
+          <lb ed="#Pa" n="66"/>tanti meretur si aptentur ad posse et non ad esse con 
+          <!--237.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>cessa est conclusio quam deducerenti si autem aptentur 
+          <lb ed="#Pa" n="68"/>ad hoc quod oporteat sic esse non est verum.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1519">
+          ⁋ Et ideo 
+          <lb ed="#Pa" n="69"/>respondeo ad primum quod frustra quo ad crementum 
+          <lb ed="#Pa" n="70"/>meriti continuatur vltimum instans vel etiam habe 
+          <lb ed="#Pa" n="71"/>tur in isto nisi ex electione noua vere vel interpre 
+          <lb ed="#Pa" n="72"/>tatiue tunc habita habeatur per idem ad secundem quia 
+          <lb ed="#Pa" n="73"/> electiue perseueret in vltimo instanti contra 
+          pro<lb ed="#Pa" n="74" break="no"/>hibitionem nouiter vel ab antiquo sibi factam in  
+          <lb ed="#Pa" n="75"/>actu vsque etiam meritorie habito concedo quod esset 
+          <lb ed="#Pa" n="76"/>sibi tunc demeritorius et suo modo est dicendum 
+          <lb ed="#Pa" n="77"/>de meritorio sicut prius.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1542">
+          ⁋ Ad tertium dico quod prece 
+          <lb ed="#Pa" n="78"/>pta negatiua obligant ad semper et ideo nisi talis 
+          <lb ed="#Pa" n="79"/>in vltimo instanti temporis dati cesset ab actu 
+          pro<lb ed="#Pa" n="80" break="no"/>hibito cum tunc cessare possit iudicabitur consen 
+          <lb ed="#Pa" n="81"/>tire et ideo tunc iste actus ceteris paribus est no 
+          <lb ed="#Pa" n="82"/>uiter demeritorius. Sed de actu meritorio non est 
+          <lb ed="#Pa" n="83"/>ita quia nullus viator totiens mereri obligatur 
+          <lb ed="#Pa" n="84"/>sicut posset. Sed si super hoc haberet quis 
+          prece<lb ed="#Pa" n="85" break="no"/>ptum tunc peccaret etiam nisi nouiter talem actum 
+          <lb ed="#Pa" n="86"/>eligeret vel alium meritorium vel non 
+          imprehabi<lb ed="#Pa" n="87" break="no"/>tum complacenter vere vel interpretatiue et si spon 
+          <lb ed="#Pa" n="88"/>tanee non obligatus ad hoc sic se habeat nouiter in  
+          <lb ed="#Pa" n="89"/>illo instanti quod actum huiusmodi nouiter poneret nisi es 
+          <lb ed="#Pa" n="90"/>set prehabitus crescit eius meritum et si non 
+          habe<lb ed="#Pa" n="91" break="no"/>at non decrescit.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1575">
+          ⁋ Ad quartum dicendum est quod si al 
+          <lb ed="#Pa" n="92"/>terum eorum. ex noua electione vera vel interpreta 
+          <lb ed="#Pa" n="93"/>tiua habeat actum in a. et aliter ab eo cessat in eo 
+          <lb ed="#Pa" n="94"/>a non causando aliquem alium eque bonum tunc 
+          <lb ed="#Pa" n="95"/>non equaliter merentur et tunc etiam primo plus 
+          <lb ed="#Pa" n="96"/>correspondet oe premio.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1588">
+          ⁋ Si autem ex sola distra 
+          <lb ed="#Pa" n="97"/>ctione habeatur ille actus ab vno istorum in a. et 
+          <lb ed="#Pa" n="98"/>non ab alio tunc non merentur inequaliter nec eti 
+          <lb ed="#Pa" n="99"/>am premiabuntur inequaliter ceteris paribus. 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1597">
+          <lb ed="#Pa" n="100"/>⁋ Tertio principaliter iste doctor sic si per meritum 
+          <lb ed="#Pa" n="101"/>instantaneum augeatur charitas sequitur quam 
+          ali<lb ed="#Pa" n="102" break="no"/>quis in vna hora posset augere suam charitatem 
+          <lb ed="#Pa" n="103"/>infinite quia in omni parte proportionali posset pl 
+          <lb ed="#Pa" n="104"/>ad hoc facere quam in instanti.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1610">
+          ⁋ Hic respondet olrelcen 
+          <lb ed="#Pa" n="105"/>et ego in parte sustinui quod non in omni parte proportio 
+          <lb ed="#Pa" n="106"/>nali tantum facit ad augmentum gratie actus con 
+          <lb ed="#Pa" n="107"/>tinuatio sicut ipsius instantanea libera causatio ymo 
+          <lb ed="#Pa" n="108"/>nec sola continuatio meriti augmentat gratiam.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1621">
+          ⁋ Con 
+          <lb ed="#Pa" n="109"/>tra tunc ita bonum esset homini semper dormire sicut deum 
+          <lb ed="#Pa" n="110"/>continue summe diligere si continuatio ista non auge 
+          <lb ed="#Pa" n="111"/>ret meritum. Item si sic tunc in casu vnius simplicissimus 
+          <lb ed="#Pa" n="112"/>habens actum remissum magis meretur infra illud 
+          <lb ed="#Pa" n="113"/>tempus quam summe contemplans continue deum per idem tempons 
+          <lb ed="#Pa" n="114"/>consequentia probatur quia actus contemplantis excedit 
+          <lb ed="#Pa" n="115"/>actum simplicitatis in certo gradu sic quod in decuplo 
+          <lb ed="#Pa" n="116"/>igitur si simplex ille infra tempus datum decies replica 
+          <lb ed="#Pa" n="117"/>ret actum suum ipse tantum vel plus meretur sicut 
+          con<lb ed="#Pa" n="118" break="no"/>templans ille per suum continuatum quod non videtur.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1646">
+          ⁋ Item 
+          <lb ed="#Pa" n="119"/>imprudenter continuaret aliquis bonum opus suum quia ma 
+          <lb ed="#Pa" n="120"/>gis esset meritorium sibi dimittere actum et iter 
+          si<lb ed="#Pa" n="121" break="no"/>militer operari. Item tunc illud confilium apostoli non esset pru 
+          <lb ed="#Pa" n="122"/>dnter datum sine intermissione orate. Item agise in cano 
+          <lb ed="#Pa" n="123"/>nica sua multum valet deprecatio iusti assidua. 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1659">
+          <lb ed="#Pa" n="124"/>⁋ Item de moyse legitur quod quando orauit continue 
+          <lb ed="#Pa" n="125"/>vincebat israel quando cessabat orare vincebat 
+          <lb ed="#Pa" n="126"/>amalech. Item. 10. ethicorum laudat philosophus multum 
+          <lb ed="#Pa" n="127"/>felicitatem speculatiuam quia ipsa est continua. Item continu 
+          <lb ed="#Pa" n="128"/>atio in malo est thesaurizatio ire dei. et per consequens auget 
+          <lb ed="#Pa" n="129"/>demeritum. igitur continua boni auget meritum consequens patet 
+          <lb ed="#Pa" n="130"/>acobi. 5 de diuilibus conseruantibus diuitias vsque  
+          <lb ed="#Pa" n="131"/>ad putrefactionem ad ro. 2 An diuitias bonitati 
+          <lb ed="#Pa" n="132"/>eius et paciem et longanimitates eis ontempnunt. Item augustinis  
+          <!--238.xml-->
+          <pb ed="#Pa" n="97-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>de vera et falsa penitentia di. 5 in principio dicit. 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1690">
+          <lb ed="#Pa" n="2"/>⁋ Consideret peccator quantitatem criminis in lo 
+          <lb ed="#Pa" n="3"/>co in tempore in perseuerantia etc. post consideret 
+          <lb ed="#Pa" n="4"/>quantum perseuerauerit et defleat quod 
+          perse<lb ed="#Pa" n="5" break="no"/>uerauerit peccauit. Item tunc summe deum 
+          odi<lb ed="#Pa" n="6" break="no"/>ens continue per aliquod tempus minus 
+          pecca<lb ed="#Pa" n="7" break="no"/>ret quam si interim illud odium corrumperet et iterum 
+          <lb ed="#Pa" n="8"/>resumeret. Item tunc volens occidere mille viros 
+          <lb ed="#Pa" n="9"/>et ex equali malicia continuata exequens non 
+          ma<lb ed="#Pa" n="10" break="no"/>gis peccaret quam qui ceteris paribus occideret unum 
+          <lb ed="#Pa" n="11"/>solum. Si dicas quod ymo quia actus exterior est potior 
+          <lb ed="#Pa" n="12"/>quia est lesiuus plurium.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1716">
+          ⁋ Contra igitur pari ratio	¬ 
+          <lb ed="#Pa" n="13"/>ne est magis offensiua dei executio talis impetus 
+          <lb ed="#Pa" n="14"/>respectu multorum quam respectu vnius. Falsitas pro 
+          <lb ed="#Pa" n="15"/>batur quia si voluntas interior non sit pelor 
+          pro<lb ed="#Pa" n="16" break="no"/>pter continuationem actus interioris mali igitur 
+          <lb ed="#Pa" n="17"/>nec actus exteriores ex eorum continuatione. Item 
+          <lb ed="#Pa" n="18"/>tunc veniale additum mortali precedenti esset 
+          ali<lb ed="#Pa" n="19" break="no"/>cui grauius si nouiter fieret quam continuatio morta 
+          <lb ed="#Pa" n="20"/>lis quia pro veniali deberetur noua pena et pro 
+          <lb ed="#Pa" n="21"/>continuatione mortalis non. Item tunc ecclesia er 
+          <lb ed="#Pa" n="22"/>raret in puniendo continuationem malitie. Item 
+          <lb ed="#Pa" n="23"/>tunc per quemcunque actum satiffactorium posset 
+          <lb ed="#Pa" n="24"/>homo satiffacere pro quolibet constat enim quod ita 
+          <lb ed="#Pa" n="25"/>diu talis actus posset continuari quod esset satiffacto 
+          <lb ed="#Pa" n="26"/>rius pro grauissimo delicto igitur si ita bonus est 
+          <lb ed="#Pa" n="27"/>in principio sicut postea per cotinuationem patet 
+          <lb ed="#Pa" n="28"/>intentum.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1753">
+          ⁋ Item mathei. 5 docet christus petere 
+          <lb ed="#Pa" n="29"/>querere et pulsare et idem luc xi. vbi de hoc 
+          pa<lb ed="#Pa" n="30" break="no"/>nit parabolam de petente amicum suum vt accom 
+          <lb ed="#Pa" n="31"/>modaret sibi tres panes. Item luce 16 dicit chri 
+          <lb ed="#Pa" n="32"/>stus oportet semper orare et non deficere et ponit 
+          <lb ed="#Pa" n="33"/>exemplum de iniquo iudice vindicante viduam 
+          <lb ed="#Pa" n="34"/>de aduersario suo propter instantiam suam in 
+          pe<lb ed="#Pa" n="35" break="no"/>tendo probatur laudantur seculares bene et diu 
+          <lb ed="#Pa" n="36"/>durantes et equi in via non deficientes mirum igitir 
+          <lb ed="#Pa" n="37"/>tur est si non laudantur homines opera bona con 
+          <lb ed="#Pa" n="38"/>tinuantes.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1777">
+          ⁋ Ad ista patet pro maiori parte ex dicti 
+          <lb ed="#Pa" n="39"/>bene enim volo quod longua continuatio boni actus 
+          <lb ed="#Pa" n="40"/>volendi procedentis ex charitate ymo omnis con 
+          <lb ed="#Pa" n="41"/>tinuatio siue breuis siue longa equiualens vere vel 
+          <lb ed="#Pa" n="42"/>interpretatiue pluribus causationibus talis actus 
+          <lb ed="#Pa" n="43"/>auget meritum et charitatem vie et consequenter 
+          <lb ed="#Pa" n="44"/>premium intellectus et quantum pretacta media 
+          <lb ed="#Pa" n="45"/>istius doctoris illud probant illis inhereo. Et 
+          si<lb ed="#Pa" n="46" break="no"/>militer dico ymo fortius multo ve continuatione 
+          <lb ed="#Pa" n="47"/>actus mali quantum ad demeritum quia 
+          tenere<lb ed="#Pa" n="48" break="no"/>tur quilibet citius quomodo posset culpam 
+          mor<lb ed="#Pa" n="49" break="no"/>talem inchoatam dimittere et ideo actio temporis 
+          <lb ed="#Pa" n="50"/>minimi ab ipso distincte perceptibilis quo primo 
+          <lb ed="#Pa" n="51"/>posset aduertere se teneri dimittere tale malum 
+          <lb ed="#Pa" n="52"/>et non dimittit omittit nouiter peccando mortali 
+          <lb ed="#Pa" n="53"/>ter non ponendo actum displicentie talis actus et 
+          <lb ed="#Pa" n="54"/>non cessando ab actu tali citius quo poterit vere 
+          <lb ed="#Pa" n="55"/>vel interpretatiue intelligitur nouiter consentire 
+          <lb ed="#Pa" n="56"/>et hoc quia vt supra dixi pecepta negatiua obligant 
+          <lb ed="#Pa" n="57"/>ad semper.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1822">
+          ⁋ In actibus autem bonis non 
+          continu<lb ed="#Pa" n="58" break="no"/>tis totaliter vadit ita quod ibi continuatio expleta di 
+          <lb ed="#Pa" n="59"/>stracte parum aut nihil prodest.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1829">
+          ⁋ Iteratio autem vo 
+          <lb ed="#Pa" n="60"/>luntaria boni actus ex charitate semper iuuat. 
+          Se<lb ed="#Pa" n="61" break="no"/>cundo tamen dico quod continuatio boni actus per tale 
+          <lb ed="#Pa" n="62"/>tempus minimum ceteris paribus non auget gratiam nec 
+          <lb ed="#Pa" n="63"/>meritum intem siue nisi accedat adiutorium diuinum vel 
+          <lb ed="#Pa" n="64"/>aliud singulare et per ista satis esset obuiandum huic 
+          <lb ed="#Pa" n="65"/>magistro qui nititur probare quod nullum sit meritum instam 
+          <lb ed="#Pa" n="66"/>taneum sed omnem continuu et temporale et quod omnis continua¬ 
+          <!--238.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>tio actus boni ex charitate procedens est nouiter 
+          me<lb ed="#Pa" n="68" break="no"/>ritoria cuius oppositum est secunda conclusio.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1855">
+          ⁋ Ad 
+          pri<lb ed="#Pa" n="69" break="no"/>mum igitur dico quod si homo deliberate eliceret 
+          a<lb ed="#Pa" n="70" break="no"/>ctum bonum et infra terminum dati temponis dormiret non 
+          <lb ed="#Pa" n="71"/>noceret quantum ad meritum dummodo in fine eiusdem 
+          <lb ed="#Pa" n="72"/>temponis aditerato bene volendum vel bene agendum ita 
+          <lb ed="#Pa" n="73"/>vigil existeret sicut prius. Secundum non procedit con 
+          <lb ed="#Pa" n="74"/>tra me cum loquatur de tempore infra quod vnus 
+          <lb ed="#Pa" n="75"/>simplex sepe potest intermittere et resumere actum 
+          <lb ed="#Pa" n="76"/>suum. Tertiu satis est solutum prius.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1875">
+          ⁋ Ad 
+          quar<lb ed="#Pa" n="77" break="no"/>tum consilium illud apostoli et auctoritates sanctorum 
+          <lb ed="#Pa" n="78"/>non recipiunt aliud paruum tempus sed magnam 
+          conti<lb ed="#Pa" n="79" break="no"/>nuationem quia consilium est oe possibilibus fieri 
+          <lb ed="#Pa" n="80"/>et dimitti etc.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1886">
+          ⁋ Ideo dico de aristotele. Et per 
+          il<lb ed="#Pa" n="81" break="no"/>lud patet ad 5 6 et 7 et. 10.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1891">
+          ⁋ Ad 1i est dicendum 
+          <lb ed="#Pa" n="82"/>quod ex malitia voluntatis continuata precise per tem 
+          <lb ed="#Pa" n="83"/>us a. nec mille homines nec vnicum posset quis 
+          <lb ed="#Pa" n="84"/>occidere sine pluri.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1901">
+          ⁋ Ideo argumentum illud non pro 
+          <lb ed="#Pa" n="85"/>cedit oporteret enim non solum semel sed sepissime 
+          <lb ed="#Pa" n="86"/>actus malos interiores renouare antequam malitia 
+          <lb ed="#Pa" n="87"/>voluntatis circa tot homines completur et bene 
+          <lb ed="#Pa" n="88"/>volo quod repetitio voluntaria actuum consimilium ag 
+          <lb ed="#Pa" n="89"/>grauat demeritum frequentatum vnde iste actus solus 
+          <lb ed="#Pa" n="90"/>communis prius quo ex malitia vellet mille homines iniuste 
+          <lb ed="#Pa" n="91"/>occidere nunquam sine pluri circa eorum aliquem con 
+          <lb ed="#Pa" n="92"/>pleretur oportet enim addere actus alios malos 
+          <lb ed="#Pa" n="93"/>quibus de terminat primo occidere nunc istum tunc 
+          <lb ed="#Pa" n="94"/>illum et ita deinceps.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1925">
+          ⁋ Ad 12 per idem.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1928">
+          ⁋ Ad 13 
+          <lb ed="#Pa" n="95"/>negatur consequentia quia citra finem. a. temporis 
+          <lb ed="#Pa" n="96"/>non est in sua potestate nouiter peccare venialiter 
+          <lb ed="#Pa" n="97"/>vel mortaliter. sed continuatio peccati mortalis 
+          vl<lb ed="#Pa" n="98" break="no"/>tra tempus a. plus aggrauat quam aliquod veniale.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1939">
+          ⁋ Ad  
+          <lb ed="#Pa" n="99"/>i4 negatur consequentia quia ecclesia non puniret 
+          <lb ed="#Pa" n="100"/>istam breuem continuationem plusquam instantaneam 
+          <lb ed="#Pa" n="101"/>causationem actus mali per idem patet. Ad 13 et 
+          <lb ed="#Pa" n="102"/>ad alia que sequuntur.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1950">
+          ⁋ Octauum dubium principa 
+          <lb ed="#Pa" n="103"/>e. Utrum aliquis viator possit diligendo deum vel alias 
+          <lb ed="#Pa" n="104"/>bene volendo mereri augmentum gratie in primo 
+          in<lb ed="#Pa" n="105" break="no"/>stanti in quo infunditur gratia sibir et videtur quod sic qui 
+          si<lb ed="#Pa" n="106" break="no"/>cut arguit ma. qudam pro hac conclusione aliquis viator 
+          <lb ed="#Pa" n="107"/>potest extra charitatem vel gratiam recipere diligere 
+          <lb ed="#Pa" n="108"/>deum cum cum aliis circunstantiis bonis ex genere et 
+          <lb ed="#Pa" n="109"/>continuando actum illum vsque ad certumltempus potest in  
+          <lb ed="#Pa" n="110"/>illo instanti et vltra habere actum illum 
+          circustantio<lb ed="#Pa" n="111" break="no"/>natum cum omnibus circunstantius requisitis ad meritum 
+          <lb ed="#Pa" n="112"/>et cum gratia sit igitur ita in illo instanti primo tunc 
+          <lb ed="#Pa" n="113"/>sic talis in illo instanti primo merebitur per actum illum 
+          <lb ed="#Pa" n="114"/>dilectionis sed non potest mereri gratiam primam igitur me 
+          <lb ed="#Pa" n="115"/>rebitur per actum istum gratiam primam augeri in illo instanti 
+          <lb ed="#Pa" n="116"/>quia no differt deus creationem suam et hanc rationem 
+          <lb ed="#Pa" n="117"/>sic intelligo et tunc est bona aliter non concludit 
+          vi<lb ed="#Pa" n="118" break="no"/>delicet quod in isto sensu in quo habuit gratiam sic 
+          ha<lb ed="#Pa" n="119" break="no"/>beat se voluntas circa obiectum istius actus quod istum 
+          <lb ed="#Pa" n="120"/>eliceret si alias non haberet si enim distractus ha 
+          <lb ed="#Pa" n="121"/>beat illum ita quod eius habitio non tunc sit sibi im 
+          <lb ed="#Pa" n="122"/>putabilis nouiter non oportet quod tunc sit nouiter 
+          <lb ed="#Pa" n="123"/>meritorius actus iste.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e1998">
+          ⁋ Secundo sic si Christus 
+          me<lb ed="#Pa" n="124" break="no"/>ruit in primo instanti quedam bona sibi dari licet 
+          <lb ed="#Pa" n="125"/>non gratiam secundum omens quasi si ipse non 
+          re<lb ed="#Pa" n="126" break="no"/>cepisset gratiam summam cuius fuit capax in pri 
+          <lb ed="#Pa" n="127"/>mo instanti ostensis sibi obiectis diligibilibus sicut 
+          <lb ed="#Pa" n="128"/>fuerunt iam et datis sibi naturalibus ita perfectis sicut 
+          <lb ed="#Pa" n="129"/>am habuit defacto eliciendo actus in casu dato 
+          <lb ed="#Pa" n="130"/>quos eliciebat in primo instanti vel remissiones 
+          <lb ed="#Pa" n="131"/>per illos meruisset augmentum gratie sue sicut 
+          vi<lb ed="#Pa" n="132" break="no"/>detur igitur alie creature poterunt in casu proportionali 
+          <!--239.xml-->
+          <pb ed="#Pa" n="98-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>augeri charitatem suam primam. Ista ratio licet 
+          <lb ed="#Pa" n="2"/>sit probabilis tamen capit multa dubia et propter 
+          <lb ed="#Pa" n="3"/>ea sibi non initar.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2034">
+          ⁋ Tertio sic aliquis potest totam gratiam 
+          <lb ed="#Pa" n="4"/>preexistentem in eo in hoc instanti intendere nunc 
+          <lb ed="#Pa" n="5"/>eliciendo dilectionem sed non magis difficile nec 
+          <lb ed="#Pa" n="6"/>plus sequitur inconueniens si nunc primo detur gra 
+          <lb ed="#Pa" n="7"/>tia quod mereatur quis augmentum gratie nunc igitur 
+          <lb ed="#Pa" n="8"/>Quarto sic iste viator cui dabitur gratia in aliquo  
+          <lb ed="#Pa" n="9"/>instanti futuro poterit demereri tunc primo et po 
+          <lb ed="#Pa" n="10"/>nere obicem libere infusioni gratie igitur posset 
+          li<lb ed="#Pa" n="11" break="no"/>bere elicere actum meritorium pro illo instanti pri 
+          <lb ed="#Pa" n="12"/>mo quia non est rationabile quod possit tunc peccare et non 
+          <lb ed="#Pa" n="13"/>non possit tunc mereri ex quo tunc habebit 
+          grati<lb ed="#Pa" n="14" break="no"/>am per casum. Quinto si non augetur eodem 
+          in<lb ed="#Pa" n="15" break="no"/>stanti quo in funditur et hoc retento casu primi 
+          ar<lb ed="#Pa" n="16" break="no"/>gumenti vel casu meliori deus differt dare gratiam 
+          <lb ed="#Pa" n="17"/>quam aliquis meretur eodem instanti consequens 
+          <lb ed="#Pa" n="18"/>est contra ansel. de casu dyaboli capi. 3.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2069">
+          ⁋ In hoc 
+          <lb ed="#Pa" n="19"/>enini casu deus esset causa non acceptationis gratie 
+          <lb ed="#Pa" n="20"/>Similiter si deus sic differret dare gratiam vel 
+          igi<lb ed="#Pa" n="21" break="no"/>tur fine medio daret eam ante omnem actum 
+          me<lb ed="#Pa" n="22" break="no"/>ritorium futurum et gratiam debitam tali actui 
+          <lb ed="#Pa" n="23"/>futuro aut non si sic tunc instans esset immediatum 
+          <lb ed="#Pa" n="24"/>instanti si non tunc differret donec cum ista gratia 
+          <lb ed="#Pa" n="25"/>alia daretur ymo donec infinite darentur. Item tunc 
+          <lb ed="#Pa" n="26"/>fine medio peccaret vel ante instans collationis 
+          <lb ed="#Pa" n="27"/>gratie merite vel primo in illo instanti in quo si non pec 
+          <lb ed="#Pa" n="28"/>caret reciperet gratiam et in peccato huiusmodi perse 
+          <lb ed="#Pa" n="29"/>ueraret nunquam reciperet premium pro illo actu quod 
+          <lb ed="#Pa" n="30"/>non videtur conueniens hic ma. ille in sententia. item 
+          <lb ed="#Pa" n="31"/>vt videtur sequeretur si moreretur ante illud instans 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2100">
+          <lb ed="#Pa" n="32"/>⁋ Item eo ipso quod actuali dilectione habens grati 
+          <lb ed="#Pa" n="33"/>am meretur melior est quam alius habens in eodem instanti gra 
+          <lb ed="#Pa" n="34"/>tiam equalem qui tunc non actualiter meretur et si est me 
+          <lb ed="#Pa" n="35"/>lior isto igitur habet melionem gratiam illo per 
+          regu<lb ed="#Pa" n="36" break="no"/>lam augustini prope finem ench. quem sepe superius 
+          <lb ed="#Pa" n="37"/>allegaui. Sed contra si per actum meritorium 
+          pos<lb ed="#Pa" n="38" break="no"/>set augeri charitas in primo instanti in quo infundi 
+          <lb ed="#Pa" n="39"/>tur cum nullus actus sit meritorius nisi per 
+          charita<lb ed="#Pa" n="40" break="no"/>tem habitam qua ratione charitas cum primo infunditur 
+          <lb ed="#Pa" n="41"/>reddit aliquem actum meliorem quam esset sine illa pa 
+          <lb ed="#Pa" n="42"/>ri ratione et char tas merita reddit actum 
+          gra<lb ed="#Pa" n="43" break="no"/>tiosorem quam esset sine illa et per consequens iterum 
+          <lb ed="#Pa" n="44"/>istud meritum augeret charitatem et charitas 
+          me<lb ed="#Pa" n="45" break="no"/>ritum et sic sine fine consequens est inconueniens 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2133">
+          <lb ed="#Pa" n="46"/>⁋ Hic supponendum est in primis quod alias declara 
+          <lb ed="#Pa" n="47"/>ui 17 q. primi articuli. q. 6 ar. 2 in solutione 
+          pri<lb ed="#Pa" n="48" break="no"/>mi dubii quod portio per quam quis sua priori chari 
+          <lb ed="#Pa" n="49"/>tate prioritate temporis vel nature meretur per bo 
+          <lb ed="#Pa" n="50"/>num actum appositioni non reddit ipsum actum quae 
+          <lb ed="#Pa" n="51"/>acquisita est magis meritorium quam reddatur meri 
+          <lb ed="#Pa" n="52"/>orius per charitatem priorem a. qua processit quia 
+          <lb ed="#Pa" n="53"/>tunc sequeretur mutua talis reflexio fine fine sed  
+          <lb ed="#Pa" n="54"/>bene econuerso actus procedens ex preexistente 
+          <lb ed="#Pa" n="55"/>charitate meretur eam augeri seu potius est 
+          me<lb ed="#Pa" n="56" break="no"/>ritum quo augetur.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2159">
+          ⁋ Et ex hoc ad dubium 
+          dicen<lb ed="#Pa" n="57" break="no"/>dum mihi videtur quod sicut sol in primo instanti sue 
+          <lb ed="#Pa" n="58"/>creationis illuminauit medium ita posset 
+          contin<lb ed="#Pa" n="59" break="no"/>gere vt quis in primo instanti quo sibi infunditur 
+          <lb ed="#Pa" n="60"/>prima charitas ex ipsa tunc actualiter mereatur 
+          <lb ed="#Pa" n="61"/>et per consequens quod ipse sit melior quam si non tunc 
+          <lb ed="#Pa" n="62"/>ex illa mere libere meretur si haberet illam fine 
+          <lb ed="#Pa" n="63"/>merito libere elicito. Sed si est melior quod esset pre 
+          <lb ed="#Pa" n="64"/>cise ex priori charitate igitur habet maionem 
+          cha<lb ed="#Pa" n="65" break="no"/>ritatem quam illa ex regula pretacta in vltimo 
+          argu<lb ed="#Pa" n="66" break="no"/>mento igitur propositum. Argumenta igitur ad  
+          <!--239.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>primam partem concedo concludere verum.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2190">
+          ⁋ Ad  
+          <lb ed="#Pa" n="68"/>argumentum vero in contrarium neganda est con 
+          <lb ed="#Pa" n="69"/>sequentia et ratio negationis patet vbi supra 
+          li<lb ed="#Pa" n="70" break="no"/>bro primo. Contra sit igitur quod quis in illo primo 
+          <lb ed="#Pa" n="71"/>instanti infusionis gratie mereatur tantam quan  
+          <lb ed="#Pa" n="72"/>ta sibi infunditur fine meritis. tunc arguo sic ista 
+          <lb ed="#Pa" n="73"/>gratia aucta simul data est igitur non est ratio qua 
+          <lb ed="#Pa" n="74"/>re aliquid eius detur ex merito plusquam quod tota sic 
+          de<lb ed="#Pa" n="75" break="no"/>tur in primo instanti sed si tota detur ex merito me 
+          <lb ed="#Pa" n="76"/>reretur aliquis primam gratiam consequens est 
+          <lb ed="#Pa" n="77"/>falsum et contra apostolum quia tunc foreti 
+          gra<lb ed="#Pa" n="78" break="no"/>tia et contra ma. et sanctos loquentes contra 
+          pe<lb ed="#Pa" n="79" break="no"/>lagium potest negari consequentia quia deus po 
+          <lb ed="#Pa" n="80"/>test satis sic distinguere inter medietates quarum 
+          <lb ed="#Pa" n="81"/>illarum meruit et quam non. Contra gratia 
+          au<lb ed="#Pa" n="82" break="no"/>cta est forma simplex non habens partes realiter 
+          <lb ed="#Pa" n="83"/>distinctas igitur si aliquid eius habetur ex 
+          meri<lb ed="#Pa" n="84" break="no"/>to tota habetur ex merito dicetur quod ymo habet 
+          <lb ed="#Pa" n="85"/>partes realiter distinctas inter se. Contra deus 
+          <lb ed="#Pa" n="86"/>potest facere vnum angelum perfectiorem in sub 
+          <lb ed="#Pa" n="87"/>stantia quam nunc sit et si hoc potest fieri per 
+          additio<lb ed="#Pa" n="88" break="no"/>nem iste angelus componeretur ex angelis. Item 
+          <lb ed="#Pa" n="89"/>tota gratia data in primo instanti informauit ant 
+          <lb ed="#Pa" n="90"/>mam eque primo quo ad omnes suas partes 
+          igi<lb ed="#Pa" n="91" break="no"/>tur qualemcunque actiuitatem vel meliorationem 
+          <lb ed="#Pa" n="92"/>fecit respectu dilectionis tunc habite vnus gradus 
+          <lb ed="#Pa" n="93"/>illius gratie talem et tantam et aliter igitur si se 
+          <lb ed="#Pa" n="94"/>cundum vnam medietatem fuit principium merem 
+          <lb ed="#Pa" n="95"/>di sequitur et secundum se totam et per consequens 
+          <lb ed="#Pa" n="96"/>ex nullo actu suo esset tunc sua gratia aucta quod  
+          <lb ed="#Pa" n="97"/>propositum alioquin sequitur mutua eorum 
+          au<lb ed="#Pa" n="98" break="no"/>gmentatio sine termino. Item si non tota gratia 
+          <lb ed="#Pa" n="99"/>haberet actiuitatem in illo instanti tunc ista 
+          gra<lb ed="#Pa" n="100" break="no"/>tia secundum aliquid sui esset minus potens quod se 
+          <lb ed="#Pa" n="101"/>cundum aliquid eius equale. Falsitas patet quia 
+          <lb ed="#Pa" n="102"/>nihil deest persectionis vni quam alteri.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2269">
+          ⁋ 
+          Respon<lb ed="#Pa" n="103" break="no"/>det hic ma. qui prius quod non sunt in re distincti 
+          gra<lb ed="#Pa" n="104" break="no"/>dus in charitate sed vnus tantum secundum rem 
+          <lb ed="#Pa" n="105"/>et multi se cundum rationem vnde concedo inquit 
+          <lb ed="#Pa" n="106"/>quod tota ista meretur. Sed non vt tanta est sed 
+          me<lb ed="#Pa" n="107" break="no"/>retur ea qua tanta in potentia quanta est alia cha 
+          <lb ed="#Pa" n="108"/>ritas subdupla in hoc casu et meretur eandem 
+          si<lb ed="#Pa" n="109" break="no"/>mili modo capiendo et dum infertur quod tunc mere 
+          <lb ed="#Pa" n="110"/>ri posset quis primam gratiam nego inquit conse 
+          <lb ed="#Pa" n="111"/>quentiam ad intellectum contra pelagium 
+          acce<lb ed="#Pa" n="112" break="no"/>ptum qui fuit quod per actum preuenientem omnem 
+          <lb ed="#Pa" n="113"/>gratiam gratum facientem posset homo mereri 
+          <lb ed="#Pa" n="114"/>primam gratiam vel appositionem prime gratie 
+          <lb ed="#Pa" n="115"/>quin tamen consequens ad intellectum alium sit 
+          <lb ed="#Pa" n="116"/>verum non video inquit mereretur enim istam gra 
+          <lb ed="#Pa" n="117"/>tiam presuppositam merito suo vnomodo sicut in  
+          <lb ed="#Pa" n="118"/>posterioribus instantibus est concedendum 
+          sup<lb ed="#Pa" n="119" break="no"/>posita continua augmentatione gratie et quod non  
+          <lb ed="#Pa" n="120"/>sit cumulus formarum. Sed vna et eadem 
+          mane<lb ed="#Pa" n="121" break="no"/>at a principio vsque ad finem non tamen meruit pri 
+          <lb ed="#Pa" n="122"/>mam gratiam sibi infundi per actum procedentem 
+          <lb ed="#Pa" n="123"/>eius infusionem nec volo inquit fine modificatio 
+          <lb ed="#Pa" n="124"/>ne dicere quod meruit primam gratiam quia non me 
+          <lb ed="#Pa" n="125"/>ruit quod foret prima enim ipsa precessit origine 
+          <lb ed="#Pa" n="126"/>meritum qui vero ponunt cumulationem 
+          forma<lb ed="#Pa" n="127" break="no"/>rum satis clare possunt euadere inquit iste et 
+          be<lb ed="#Pa" n="128" break="no"/>ne quod talis vno gradu mereretur alium qui licet si 
+          <lb ed="#Pa" n="129"/>mul fuerunt creati suspendit tamen deus ad 
+          pla<lb ed="#Pa" n="130" break="no"/>citum creationem alterius illarum quae est origine posterior 
+          <lb ed="#Pa" n="131"/>respectu huius meriti et ita dicendum est quod si fuerit 
+          ne<lb ed="#Pa" n="132" break="no"/>gata cumulatio forarum quod non poterit ad meritum face 
+          <!--240.xml-->
+          <pb ed="#Pa" n="98-v"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>in primo instanti secundum quod tanta nec poterit ha 
+          <lb ed="#Pa" n="2"/>bere totam causalitatem suam respectu illius actus 
+          <lb ed="#Pa" n="3"/>it a quod possit tota vt tanta vti dum sic creatur. Sic re 
+          <lb ed="#Pa" n="4"/>spondet iste ma. consequenter secundum duas vias 
+          <lb ed="#Pa" n="5"/>quarum tamen primam inid 1 q. huius etiam multiplicitur 
+          <lb ed="#Pa" n="6"/>improbaui ideo secunda eius ratio magis valet et quod 
+          <lb ed="#Pa" n="7"/>dicit quod in charitate sit tantum vnus gradus secundum 
+          <lb ed="#Pa" n="8"/>rem et multi secundum rationem videtur esse damnatum 
+          <lb ed="#Pa" n="9"/>in suo simili per articulum parisieni. 1 q. huius secundi libri 
+          <lb ed="#Pa" n="10"/>positis contra responsionem similem de distinctione 
+          <lb ed="#Pa" n="11"/>secum rationem graduum charitatis etiam quod sicut gra 
+          <lb ed="#Pa" n="12"/>dus realiter adinuicem distingui. 1 q. probaui ideo 
+          <lb ed="#Pa" n="13"/>hec responsio dimittatur.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2371">
+          ⁋ Set contra ista adhuc 
+          insta<lb ed="#Pa" n="14" break="no"/>tur si gratia prima apposita vel data omnino gratu 
+          <lb ed="#Pa" n="15"/>fine meritis in tanto vel tanto gradu cum actu istis 
+          <lb ed="#Pa" n="16"/>circunstantiis circunstantionato potuit facere ad tam 
+          <lb ed="#Pa" n="17"/>tum augmentum gratie gratis date tunc primo et si 
+          <lb ed="#Pa" n="18"/>ne meritis infuse igitur maior gratia dupla vel triple 
+          <lb ed="#Pa" n="19"/>cum eodem actu praecise aliunde eque bene per omnia circunstam 
+          <lb ed="#Pa" n="20"/>tionato potuisset in plus de lege communi et si hoc tunc per  
+          <lb ed="#Pa" n="21"/>gratiam appositam ex vi meriti fuisset actus melior in 
+          <lb ed="#Pa" n="22"/>ratione meriti et ita sequitur mutua melioratio fine fi 
+          <lb ed="#Pa" n="23"/>ne consequentia prima patet quia alioquin actus melius circunstantio 
+          <lb ed="#Pa" n="24"/>natus et minus bene circunstantionatus tantundem seu 
+          <lb ed="#Pa" n="25"/>equale appositioni per viam meriti de gratia meruisset. 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2400">
+          <lb ed="#Pa" n="26"/>⁋ Ista consequentia patet ex hoc duplex gratia est melior circum 
+          <lb ed="#Pa" n="27"/>stationata respectu eiusdem actus omnino quam gratia sub 
+          <lb ed="#Pa" n="28"/>dupla consequens tamen est inconveniens. Igitur hic respon 
+          <lb ed="#Pa" n="29"/>det ma. qui prius negando istam consequentiam tanta gratia 
+          <lb ed="#Pa" n="30"/>facit ad tantum augmentum gratie ergo ceteris paribus 
+          <lb ed="#Pa" n="31"/>et manente eodem actu maior faceret ad maius augmen 
+          <lb ed="#Pa" n="32"/>tum. Ad probationem dicit concedo conclusionem ad quan 
+          <lb ed="#Pa" n="33"/>deducitur non enim video inquit quin si duo habentes 
+          <lb ed="#Pa" n="34"/>gratiam inequalem fecerint actus in omnibus equales 
+          <lb ed="#Pa" n="35"/>e qualiter merebuntur neque sequitur habens maiorem gra 
+          <lb ed="#Pa" n="36"/>tiam est magis acceptus deo ex gratia sua igitur 
+          opera<lb ed="#Pa" n="37" break="no"/>tio sua equalis opationi alterius est plus accepta alio 
+          <lb ed="#Pa" n="38"/>quin in casu habens maiorem gratiam et habens actum remis 
+          <lb ed="#Pa" n="39"/>siorem alicuius generis plus meretur quam alius faciens 
+          in<lb ed="#Pa" n="40" break="no"/>tensionem ceteris paribus consequens est falsum vt videtur. Con 
+          <lb ed="#Pa" n="41"/>tra tamen istum ma. posset argui quia mirum videtur quod ex 
+          <lb ed="#Pa" n="42"/>quo concedit actum eundem vel equalem melius circunstam 
+          <lb ed="#Pa" n="43"/>tionatum aliis circunstantiis esse melionem quare hoc 
+          <lb ed="#Pa" n="44"/>negabitur contra doctores alios de circunstantia cha 
+          <lb ed="#Pa" n="45"/>ritatis quae causetur quasi circunstantia optima actus 
+          <lb ed="#Pa" n="46"/>boni. Item iste actus praecise per gratiam aduenientem in 
+          tan<lb ed="#Pa" n="47" break="no"/>to gradu fit meritorius igitur si maior gratia ades 
+          <lb ed="#Pa" n="48"/>set magis esset meritorius probatur vel intelligit ma. 
+          <lb ed="#Pa" n="49"/>iste dictum suum de actum quem charitas coefficit vel quod  
+          <lb ed="#Pa" n="50"/>non coefficit sed cui superuenit et reddit ipse merito 
+          <lb ed="#Pa" n="51"/>rinm qui alias non esset meritorius sicut in casu sui an 
+          <lb ed="#Pa" n="52"/>gumenti primi pro conclusione affirmatiua huius octa 
+          <lb ed="#Pa" n="53"/>ui dubii principalis. Si primo modo tunc non est possi 
+          <lb ed="#Pa" n="54"/>bile nisi deo impediente quod omnia alia sint paria preter 
+          <lb ed="#Pa" n="55"/>charitates et quod tamen actus sit equalis ex maiori 
+          <lb ed="#Pa" n="56"/>charitate proueniens et qui ex minori si loquitur in se 
+          <lb ed="#Pa" n="57"/>cundo casu tunc conclusio ad quam deducit non esset in 
+          <lb ed="#Pa" n="58"/>conueniens quia si per gratiam superuenientem actui et 
+          <lb ed="#Pa" n="59"/>non efficientem ipsum redditur actus meritorius 
+          vti<lb ed="#Pa" n="60" break="no"/>que per maionem gratiam superuenientem redditur ma 
+          <lb ed="#Pa" n="61"/>gis meritorius. Probatur sequitur quod valde paruus 
+          <lb ed="#Pa" n="62"/>gradus conatus vel cognitionis magis promoueret si 
+          <lb ed="#Pa" n="63"/>bi ratione meriti dilectionem dei vel proximi quam tota 
+          <lb ed="#Pa" n="64"/>charitas seu gratia quam deus posset causare in tali per  
+          <lb ed="#Pa" n="65"/>sona vltra gratiam baptismalem consequens est in  
+          <lb ed="#Pa" n="66"/>conueaiens et consequentia patet cuilibet aduertem 
+          <!--240.xml-->
+          <cb ed="#Pa" n="b"/>
+          <lb ed="#Pa" n="67"/>ti.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2498">
+          ⁋ Item charitas in tali casu ex quo non 
+          princi<lb ed="#Pa" n="68" break="no"/>ptat actum bonum non videtur reddere illum actum 
+          <lb ed="#Pa" n="69"/>acceptum deo seu meritorium nisi pro quanto vltra 
+          <lb ed="#Pa" n="70"/>hoc quod talis actus est ex suo genere moraliter 
+          bo<lb ed="#Pa" n="71" break="no"/>nus reddit personam talem bonam caram et deo 
+          <lb ed="#Pa" n="72"/>acceptam.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2511">
+          ⁋ Unde constat quod homini satis placet 
+          <lb ed="#Pa" n="73"/>opus aliquod in persona sibi chara quod in perso 
+          <lb ed="#Pa" n="74"/>na alia no placeret et ideo respexit deus ad abel et 
+          <lb ed="#Pa" n="75"/>et ad munera eius et ideo quia plus placet deo op 
+          <lb ed="#Pa" n="76"/>quod procedit a persona placente videtur quod si a perso 
+          <lb ed="#Pa" n="77"/>na sibi magis chara procederet plus placeret po 
+          <lb ed="#Pa" n="78"/>namus quod vtraque agat secundum vltimum conatum suum 
+          <lb ed="#Pa" n="79"/>actum talem quem non coefficiat charitas.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2529">
+          ⁋ Ali 
+          <lb ed="#Pa" n="80"/>ter igitur respondeo ad argumentum quod prima con 
+          <lb ed="#Pa" n="81"/>equentia est bona sed secunda non valet et causa 
+          <lb ed="#Pa" n="82"/>reddita est libro primo et hec sint dicta de actu qui  
+          <lb ed="#Pa" n="83"/>non procedit effectiue a charitate sed qui solum 
+          <lb ed="#Pa" n="84"/>ex assisientia charitatis redditur meritorius vt pri 
+          <lb ed="#Pa" n="85"/>us dixi.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2546">
+          ⁋ Sed de actu qui a charitate procedit con 
+          <lb ed="#Pa" n="86"/>cedo cum magistro priori quod non sequitur magis 
+          <lb ed="#Pa" n="87"/>charus habet actum equalem meritorium cum mi 
+          <lb ed="#Pa" n="88"/>nus charo igitur magis charus magis illo mere 
+          <lb ed="#Pa" n="89"/>tur quia si omnia essent paria vtrobique procederet 
+          <lb ed="#Pa" n="90"/>quod actus proueniens a maiori charitate esset 
+          inten<lb ed="#Pa" n="91" break="no"/>sior igitur si precise sit equalis actus tunc procedit 
+          <lb ed="#Pa" n="92"/>a maiori conatu vel ab aliqua alia circunstantia 
+          <lb ed="#Pa" n="93"/>meliori in illo quam in isto et posset contingere quod plus 
+          <lb ed="#Pa" n="94"/>acceptat deus maioritatem conatus respectu hu 
+          <lb ed="#Pa" n="95"/>ius actus equalis super conatum magis chari quam 
+          <lb ed="#Pa" n="96"/>econtra excessum charitatis magis chari super cha 
+          <lb ed="#Pa" n="97"/>ritatem minus chari respectu eiusdem vel 
+          equa<lb ed="#Pa" n="98" break="no"/>lis actus vt prius seriosius declaraui et ita potest 
+          con<lb ed="#Pa" n="99" break="no"/>tingere quod actus magis chari equalis sit magis me 
+          <lb ed="#Pa" n="100"/>ritorius et potest contingere quod eque secundum quod  
+          <lb ed="#Pa" n="101"/>excessus conatus magis chari super conatum 
+          al<lb ed="#Pa" n="102" break="no"/>terius potest preponderare in acceptione diuina 
+          <lb ed="#Pa" n="103"/>respectu huius actus excessus charitatis super 
+          <lb ed="#Pa" n="104"/>charitatem quam excessus conatus super conatum et 
+          <lb ed="#Pa" n="105"/>etiam quod non oporteat equalem actum magis 
+          ea<lb ed="#Pa" n="106" break="no"/>rum esse magis meritorium loquendo de actu quem 
+          <lb ed="#Pa" n="107"/>comprincipiat ipsa charitas actiue bene suadet 
+          <lb ed="#Pa" n="108"/>ma. qui prius sic quia secundum beatum gregori 
+          <lb ed="#Pa" n="109"/>um in omelia ve confes cum augentur dona etc. 
+          <lb ed="#Pa" n="110"/>Et seruum bonum pro apportato lucro 
+          remune<lb ed="#Pa" n="111" break="no"/>rat seruum vero a bono opere torpentem dampnat 
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2605">
+          <lb ed="#Pa" n="112"/>⁋ Ex isto sic arguitur plus exigit deus ab eo cui 
+          <lb ed="#Pa" n="113"/>plus dedit et plus debet qui plus accepit igitur 
+          <lb ed="#Pa" n="114"/>non satiffacit si precise reddat equale cum illo 
+          qui<lb ed="#Pa" n="115" break="no"/>minus accepit et per consequens non solum non  
+          <lb ed="#Pa" n="116"/>est plus remunerandus ymo videtur 
+          vituperan<lb ed="#Pa" n="117" break="no"/>dus de negligentia posset tamen contingere casus 
+          <lb ed="#Pa" n="118"/>vt praedixi quod ex equali actu magis mereretur si 
+          ha<lb ed="#Pa" n="119" break="no"/>beret minus claram cognitionem quam minus 
+          cha<lb ed="#Pa" n="120" break="no"/>rus propter quod forte non obstante excessu 
+          cha<lb ed="#Pa" n="121" break="no"/>ritatis sue super charitatem alterius nisi plus co 
+          <lb ed="#Pa" n="122"/>naretur agere bene quam alter facit non haberet 
+          a<lb ed="#Pa" n="123" break="no"/>ctum dilectionis eque intensum sicut ille et ita ni 
+          <lb ed="#Pa" n="124"/>sus suus preponderaret.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2636">
+          ⁋ Nonum dubium 
+          prin<lb ed="#Pa" n="125" break="no"/>cipale posset esse contra conclusionem 
+          principa<lb ed="#Pa" n="126" break="no"/>lem precedentis dubii quia si aliquis posset 
+          me<lb ed="#Pa" n="127" break="no"/>reri augmentum gratie potentie sue cum primo 
+          <lb ed="#Pa" n="128"/>infunditur tunc aliquis viator posset augere 
+          me<lb ed="#Pa" n="129" break="no"/>ritum suum in hoc instanti per unum tale velle merito 
+          <lb ed="#Pa" n="130"/>rium volo diligen deum post hoc instans.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2652">
+          ⁋ alsitas probatur 
+          <lb ed="#Pa" n="131"/>qui in nullo certo augeret quia non plus esset ista volitio 
+          <lb ed="#Pa" n="132"/>respectu vnius temponis sequentis quam respectu cuiuslibet 
+          <!--241.xml-->
+          <pb ed="#Pa" n="99-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>alterius nec plus respectu vnius gradus dilectionis quam 
+          <lb ed="#Pa" n="2"/>respectu alterius sed maior gradus et maius tempus ha 
+          <lb ed="#Pa" n="3"/>benda in futuro si per velle presens taxentur facient plus 
+          <lb ed="#Pa" n="4"/>ad meritum ceteris paribus quam minora igitur. 
+          Respon<lb ed="#Pa" n="5" break="no"/>det hic ma. qui prius et bene quod voluntas potest 
+          auge<lb ed="#Pa" n="6" break="no"/>re suum meritum per vnam talem volitionem volo 
+          dilige<lb ed="#Pa" n="7" break="no"/>re post hoc instans vel dare pauperibus omnes 
+          de<lb ed="#Pa" n="8" break="no"/>cimas omnium bonorum meorum que habeo in futu 
+          <lb ed="#Pa" n="9"/>ro et quod non est taxandum hoc meritum iuxta vnum gradum 
+          <lb ed="#Pa" n="10"/>future dilectionis plusquam iuxta alium nec iuxta vnum 
+          <lb ed="#Pa" n="11"/>tempus futurum plusquam iuxta aliud.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2689">
+          ⁋ Sed iuxta 
+          <lb ed="#Pa" n="12"/>qualitatem dilectionis quam habet vere vel 
+          inter<lb ed="#Pa" n="13" break="no"/>pretatiue respectu dei dum vult sic confuse.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2696">
+          ⁋ Ad ar 
+          <lb ed="#Pa" n="14"/>gumentum principale. q. patet ex solutione primi dubii 
+          <lb ed="#Pa" n="15"/>principalis quod oe vi vocis loquendo nulla ibi chari 
+          <lb ed="#Pa" n="16"/>tas augetur: sed per augmentationem quae est ibi prouenit vna 
+          <lb ed="#Pa" n="17"/>compositio perfectior praecedente.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2708">
+          ⁋ Contra tunc per talem 
+          suc<lb ed="#Pa" n="18" break="no"/>cessiuam augmentationem ista qualitas aucta 
+          habe<lb ed="#Pa" n="19" break="no"/>bit in fine partes infinitas quaru nulla sit pars alteri 
+          <lb ed="#Pa" n="20"/>us. Falsitas probatur quia omnis pars totius homoge 
+          <lb ed="#Pa" n="21"/>nei est pars alicuius eiusdem totius igitur.
+        </p>
+        <p xml:id="GHYaf3-d1e642-d1e2719">
+          ⁋ Respondetur 
+          <lb ed="#Pa" n="22"/>negando consequentiam sed bene sequitur quod ibi sunt infinite 
+          <lb ed="#Pa" n="23"/>partes quarum nulla est pars alterius earundem etc.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
