@@ -80,14 +80,15 @@
           <!--347.xml-->
           <pb ed="#Pa" n="152-r"/>
           <cb ed="#Pa" n="a"/>
-        </p>
-        <p xml:id="GHYaf3-d1e100-d1e160">
           <lb ed="#Pa" n="1"/>⁋ Tum quia dato quod hec creatura intellectual 
           demonstra<lb ed="#Pa" n="2" break="no"/>ta possit sic repleri quod per nullam potentiam posset simul 
           <lb ed="#Pa" n="3"/>recipe intensionem quia cum omni tali natura possit fieri na 
           <lb ed="#Pa" n="4"/>tura intellectualis nobilior quae posset plus recipe 
           <lb ed="#Pa" n="5"/>igitur adhuc sequitur quod prima generalia non est receptibilis 
-          <lb ed="#Pa" n="6"/>in beato. Secunda conclusio quod de magnitudine perfectionali 
+          <lb ed="#Pa" n="6"/>in beato. 
+        </p>
+        <p xml:id="GHYaf3-d1e100-d1e160">
+          Secunda conclusio quod de magnitudine perfectionali 
           <lb ed="#Pa" n="7"/>quod non est aliqua generalia optima possibilis beato tamen quia omni 
           <lb ed="#Pa" n="8"/>creata generalia receptibili in beato petro est vna in duplo 
           <lb ed="#Pa" n="9"/>nobilioris speciei totidem graduu in sua specie 
@@ -111,7 +112,10 @@
           ⁋ Respondeo concedendo primum consequens 
           <lb ed="#Pa" n="22"/>et negando secundam consequentiam scilicet quod potentia visiua esset 
           in<lb ed="#Pa" n="23" break="no"/>finita et quod deus posset facere in ea visionem infinitam nisi 
-          <lb ed="#Pa" n="24"/>sumeretur infinitum sincatur. et tunc concederetur. Secundo  
+          <lb ed="#Pa" n="24"/>sumeretur infinitum sincatur. et tunc concederetur. 
+        </p>
+        <p xml:id="GHYaf3-d1e100-d1e219">
+          Secundo  
           <lb ed="#Pa" n="25"/>dubitatur contra rationem meam quia arguebama in. p q. 
           <lb ed="#Pa" n="26"/>primi quod sicut simul posset deus iraculose ponere 
           <lb ed="#Pa" n="27"/>duo corpora in eodem loco et etc. quia hec ratio non plus 
