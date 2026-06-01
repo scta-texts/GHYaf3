@@ -240,6 +240,8 @@
           <lb ed="#Pa" n="123"/>virginitatem tunc siue alter siue vterque nubat vel
           <lb ed="#Pa" n="124"/>non sequitur periurium ineuitabile in vtroque vel
           <lb ed="#Pa" n="125"/>in altero vt faciliter patet deducenti.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e390">
           Responde<lb ed="#Pa" n="126" break="no"/>tur quod licet vterque licite iurauerit vel vouerit per
           <lb ed="#Pa" n="127"/>se quia tamen ista vota simul combinata
           repu<lb ed="#Pa" n="128" break="no"/>gnant ideo ex quo vtrumque tantum
@@ -247,103 +249,129 @@
           <lb ed="#Pa" n="130"/>ipleri ideo agant si a capite non nouissent.
         </p>
         <p xml:id="GHYaf3-d1e975-d1e423">
-          ⁋ Quinto 
-          <lb ed="#Pa" n="131"/>argister sit ita quod aliquis peccauerit tantum veniaiter et ex prius 
+          ⁋ Quinto
+          <lb ed="#Pa" n="131"/>argister sit ita quod aliquis peccauerit tantum veniaiter et ex prius
           <!--337.xml-->
           <pb ed="#Pa" n="147-r"/>
           <cb ed="#Pa" n="a"/>
-          <lb ed="#Pa" n="1"/>facto credat se peccasse mortaliter tunc sequitur quod  
-          <lb ed="#Pa" n="2"/>de necessitate salutis tenetur conteri eo quod habet 
-          <lb ed="#Pa" n="3"/>conscientiam de mortati. Falsitas probatur quia 
-          de<lb ed="#Pa" n="4" break="no"/>nullo veniali tenetur quis conteri de necessitate 
-          <lb ed="#Pa" n="5"/>salutis. Respondetur quod conscientia sua obligat eun 
-          <lb ed="#Pa" n="6"/>ad purificandum conscientiam suam vel ad deponem 
-          <lb ed="#Pa" n="7"/>dum eam alias hoc erit sibi mortale. Sexto sic tunc 
-          <lb ed="#Pa" n="8"/>aliquis teneretur conteri de peccato actus 
-          exterio<lb ed="#Pa" n="9" break="no"/>ris. Falsitas probatur quia non addit malitiam 
-          su<lb ed="#Pa" n="10" break="no"/>per interiorem. vnde augu id est deli. ar. ca 7 vel 
-          se<lb ed="#Pa" n="11" break="no"/>cundum alios catulo 6 in fine dicit si cui non 
-          compe<lb ed="#Pa" n="12" break="no"/>tit facultas cubandicum communiuge aliena planum 
-          ta<lb ed="#Pa" n="13" break="no"/>men sit illud eum cupere et si facultas detur illud 
-          <lb ed="#Pa" n="14"/>esse futurum non minus reus est quam si in ipso facto 
-          <lb ed="#Pa" n="15"/>deprehenderetur et ideo clarius nihil est nec mani 
-          <lb ed="#Pa" n="16"/>fertius omnino et iam video non opus esse longua in 
-          <lb ed="#Pa" n="17"/>nouatione vt mihi de homicidio ac sacrilegio aut 
-          <lb ed="#Pa" n="18"/>prorsus de omnibus peccatis suadeatur clarum enim 
-          <lb ed="#Pa" n="19"/>est nihil aliud quam libidinem in toto manendi genere 
-          <lb ed="#Pa" n="20"/>doenentiari et consequenter ostendit ibi quod libido sit 
-          cu<lb ed="#Pa" n="21" break="no"/>piditas. Consequentia probatur quia aliter ille qo 
-          <lb ed="#Pa" n="22"/>emisisset sagittam ad percutiendum clericum et 
-          pe<lb ed="#Pa" n="23" break="no"/>niteret citius quam sagitta percuteret non teneretur 
-          con<lb ed="#Pa" n="24" break="no"/>teri de occisione vel vulneratione tali consequens est 
-          fal<lb ed="#Pa" n="25" break="no"/>sum quia talis est excommunicatus. Dicitur quod non 
-          <lb ed="#Pa" n="26"/>apud deum sed apud ecclesiam militantem. 
-          Con<lb ed="#Pa" n="27" break="no"/>tra illi clerico fit iniuria et non a re in animata quia 
-          <lb ed="#Pa" n="28"/>talis non potest iniuriam facere nec ab alio quam ab  
-          <lb ed="#Pa" n="29"/>emittente sagittam igitur ille meretur penam. Item 
-          <lb ed="#Pa" n="30"/>bonifacius li. 6 sumit contra istum qui mandauit 
-          <lb ed="#Pa" n="31"/>clericum occidere quamuis reuocet antequam fiat non  
-          <lb ed="#Pa" n="32"/>obstante reuocatione dum modo fiat igitur penitem 
-          <lb ed="#Pa" n="33"/>tia media que habetur inter mandatum et mortem 
+          <lb ed="#Pa" n="1"/>facto credat se peccasse mortaliter tunc sequitur quod
+          <lb ed="#Pa" n="2"/>de necessitate salutis tenetur conteri eo quod habet
+          <lb ed="#Pa" n="3"/>conscientiam de mortati. Falsitas probatur quia
+          de<lb ed="#Pa" n="4" break="no"/>nullo veniali tenetur quis conteri de necessitate
+          <lb ed="#Pa" n="5"/>salutis. Respondetur quod conscientia sua obligat eun
+          <lb ed="#Pa" n="6"/>ad purificandum conscientiam suam vel ad deponem
+          <lb ed="#Pa" n="7"/>dum eam alias hoc erit sibi mortale.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e424">
+          Sexto sic tunc
+          <lb ed="#Pa" n="8"/>aliquis teneretur conteri de peccato actus
+          exterio<lb ed="#Pa" n="9" break="no"/>ris. Falsitas probatur quia non addit malitiam
+          su<lb ed="#Pa" n="10" break="no"/>per interiorem. vnde augu id est deli. ar. ca 7 vel
+          se<lb ed="#Pa" n="11" break="no"/>cundum alios catulo 6 in fine dicit si cui non
+          compe<lb ed="#Pa" n="12" break="no"/>tit facultas cubandicum communiuge aliena planum
+          ta<lb ed="#Pa" n="13" break="no"/>men sit illud eum cupere et si facultas detur illud
+          <lb ed="#Pa" n="14"/>esse futurum non minus reus est quam si in ipso facto
+          <lb ed="#Pa" n="15"/>deprehenderetur et ideo clarius nihil est nec mani
+          <lb ed="#Pa" n="16"/>fertius omnino et iam video non opus esse longua in
+          <lb ed="#Pa" n="17"/>nouatione vt mihi de homicidio ac sacrilegio aut
+          <lb ed="#Pa" n="18"/>prorsus de omnibus peccatis suadeatur clarum enim
+          <lb ed="#Pa" n="19"/>est nihil aliud quam libidinem in toto manendi genere
+          <lb ed="#Pa" n="20"/>doenentiari et consequenter ostendit ibi quod libido sit
+          cu<lb ed="#Pa" n="21" break="no"/>piditas. Consequentia probatur quia aliter ille qo
+          <lb ed="#Pa" n="22"/>emisisset sagittam ad percutiendum clericum et
+          pe<lb ed="#Pa" n="23" break="no"/>niteret citius quam sagitta percuteret non teneretur
+          con<lb ed="#Pa" n="24" break="no"/>teri de occisione vel vulneratione tali consequens est
+          fal<lb ed="#Pa" n="25" break="no"/>sum quia talis est excommunicatus.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e425">
+          Dicitur quod non
+          <lb ed="#Pa" n="26"/>apud deum sed apud ecclesiam militantem.
+          Con<lb ed="#Pa" n="27" break="no"/>tra illi clerico fit iniuria et non a re in animata quia
+          <lb ed="#Pa" n="28"/>talis non potest iniuriam facere nec ab alio quam ab
+          <lb ed="#Pa" n="29"/>emittente sagittam igitur ille meretur penam.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e426">
+          Item
+          <lb ed="#Pa" n="30"/>bonifacius li. 6 sumit contra istum qui mandauit
+          <lb ed="#Pa" n="31"/>clericum occidere quamuis reuocet antequam fiat non
+          <lb ed="#Pa" n="32"/>obstante reuocatione dum modo fiat igitur penitem
+          <lb ed="#Pa" n="33"/>tia media que habetur inter mandatum et mortem
           <lb ed="#Pa" n="34"/>non sufficit tali igitur nec priori.
         </p>
         <p xml:id="GHYaf3-d1e975-d1e508">
-          ⁋ Ad illud argum 
-          <lb ed="#Pa" n="35"/>mentum principale concedo quod licet tota pena 
-          pec<lb ed="#Pa" n="36" break="no"/>cati debeatur post hanc vitam pro solis aclibus 
-          ma<lb ed="#Pa" n="37" break="no"/>lis nolendi vel volendi vt alias declaraui per hu 
-          <lb ed="#Pa" n="38"/>gonem et sicut dicam in 10 q. huius quarti tamen 
-          <lb ed="#Pa" n="39"/>qui fornicatus est vel qui commisit homicidium te 
-          <lb ed="#Pa" n="40"/>netur conteri de peccato actus exterioris quia 
-          si<lb ed="#Pa" n="41" break="no"/>ne hoc non posset plene concipere nec exprimere 
-          ma<lb ed="#Pa" n="42" break="no"/>litiam sue voluntatis et eius efficatiam et ideo 
-          con<lb ed="#Pa" n="43" break="no"/>ceditur primum consequens et cum probatur quod non quia 
-          ma<lb ed="#Pa" n="44" break="no"/>litia non additur ex actu exteriori. Dicendum quod  
-          <lb ed="#Pa" n="45"/>ymo occasionaliter non tamen quia actui 
-          exterio<lb ed="#Pa" n="46" break="no"/>ri debeatur aliqua pena prescientia in purgatorio 
-          <lb ed="#Pa" n="47"/>vel in inferno. Et tunc dicendum quod in isto casu actus 
-          <lb ed="#Pa" n="48"/>exterior nec est culpa nec debetur ei pena nisi 
-          hu<lb ed="#Pa" n="49" break="no"/>mana et tamen ibi tenetur dolere quia malitia sua 
-          <lb ed="#Pa" n="50"/>propria praeterita fuit illius mali illatiua. Et apud  
-          <lb ed="#Pa" n="51"/>deum non est excomunicatus iudicatur tamen ab  
-          <lb ed="#Pa" n="52"/>ecclesia militante excommunicatus quia factum 
-          <lb ed="#Pa" n="53"/>est manifestum et sua penitentia interior est 
-          occul<lb ed="#Pa" n="54" break="no"/>ta. Et vlterius dicendum quod non sequitur iste 
-          iniu<lb ed="#Pa" n="55" break="no"/>ste vel iniuriose occiditur igitur aliquis iniuste vel 
-          in<lb ed="#Pa" n="56" break="no"/>iuriose eum occidit. Sed vel hec sequitur vel quod aliquis 
-          <lb ed="#Pa" n="57"/>iniuriose vel iniuste agit. Unde sequitur in iusta mors 
-          <lb ed="#Pa" n="58"/>istius et ita est hic. Sed contra prionem partem solutionis 
-          <lb ed="#Pa" n="59"/>arguitur sic quia licet pateat penitentia illius qui vere 
-          <lb ed="#Pa" n="60"/>conteritur inter emissionem sagitte et percussionem 
-          cle<lb ed="#Pa" n="61" break="no"/>rici toti ecclesie et sic noticia per probationem 
-          legiti<lb ed="#Pa" n="62" break="no"/>mam adhuc ecclesia iudicaret ipsum excommunicatum igitur 
-          <lb ed="#Pa" n="63"/>secundum veritatem et apud deum est excommunicatus vel 
-          ec<lb ed="#Pa" n="64" break="no"/>clesia puerse scienter iudicaret quod non est 
-          praesumen<lb ed="#Pa" n="65" break="no"/>dum uondo antecedens probatur per allegata quia licet mandans 
-          <lb ed="#Pa" n="66"/>peniteat et reuocet mandatum ane iniectionem manuum 
+          ⁋ Ad illud argum
+          <lb ed="#Pa" n="35"/>mentum principale concedo quod licet tota pena
+          pec<lb ed="#Pa" n="36" break="no"/>cati debeatur post hanc vitam pro solis aclibus
+          ma<lb ed="#Pa" n="37" break="no"/>lis nolendi vel volendi vt alias declaraui per hu
+          <lb ed="#Pa" n="38"/>gonem et sicut dicam in 10 q. huius quarti tamen
+          <lb ed="#Pa" n="39"/>qui fornicatus est vel qui commisit homicidium te
+          <lb ed="#Pa" n="40"/>netur conteri de peccato actus exterioris quia
+          si<lb ed="#Pa" n="41" break="no"/>ne hoc non posset plene concipere nec exprimere
+          ma<lb ed="#Pa" n="42" break="no"/>litiam sue voluntatis et eius efficatiam et ideo
+          con<lb ed="#Pa" n="43" break="no"/>ceditur primum consequens.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e509">
+          et cum probatur quod non quia
+          ma<lb ed="#Pa" n="44" break="no"/>litia non additur ex actu exteriori. Dicendum quod
+          <lb ed="#Pa" n="45"/>ymo occasionaliter non tamen quia actui
+          exterio<lb ed="#Pa" n="46" break="no"/>ri debeatur aliqua pena prescientia in purgatorio
+          <lb ed="#Pa" n="47"/>vel in inferno.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e510">
+          Et tunc dicendum quod in isto casu actus
+          <lb ed="#Pa" n="48"/>exterior nec est culpa nec debetur ei pena nisi
+          hu<lb ed="#Pa" n="49" break="no"/>mana et tamen ibi tenetur dolere quia malitia sua
+          <lb ed="#Pa" n="50"/>propria praeterita fuit illius mali illatiua.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e511">
+          Et apud
+          <lb ed="#Pa" n="51"/>deum non est excomunicatus iudicatur tamen ab
+          <lb ed="#Pa" n="52"/>ecclesia militante excommunicatus quia factum
+          <lb ed="#Pa" n="53"/>est manifestum et sua penitentia interior est
+          occul<lb ed="#Pa" n="54" break="no"/>ta.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e512">
+          Et vlterius dicendum quod non sequitur iste
+          iniu<lb ed="#Pa" n="55" break="no"/>ste vel iniuriose occiditur igitur aliquis iniuste vel
+          in<lb ed="#Pa" n="56" break="no"/>iuriose eum occidit. Sed vel hec sequitur vel quod aliquis
+          <lb ed="#Pa" n="57"/>iniuriose vel iniuste agit. Unde sequitur in iusta mors
+          <lb ed="#Pa" n="58"/>istius et ita est hic.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e513">
+          Sed contra prionem partem solutionis
+          <lb ed="#Pa" n="59"/>arguitur sic quia licet pateat penitentia illius qui vere
+          <lb ed="#Pa" n="60"/>conteritur inter emissionem sagitte et percussionem
+          cle<lb ed="#Pa" n="61" break="no"/>rici toti ecclesie et sic noticia per probationem
+          legiti<lb ed="#Pa" n="62" break="no"/>mam adhuc ecclesia iudicaret ipsum excommunicatum igitur
+          <lb ed="#Pa" n="63"/>secundum veritatem et apud deum est excommunicatus vel
+          ec<lb ed="#Pa" n="64" break="no"/>clesia puerse scienter iudicaret quod non est
+          praesumen<lb ed="#Pa" n="65" break="no"/>dum uondo antecedens probatur per allegata quia licet mandans
+          <lb ed="#Pa" n="66"/>peniteat et reuocet mandatum ane iniectionem manuum
           <!--337.xml-->
           <cb ed="#Pa" n="b"/>
-          <lb ed="#Pa" n="67"/>adhuc est e communicatus si talis ex suo mandato verberetur 
-          <lb ed="#Pa" n="68"/>vel occidatur dato quod reuocatio sit nota vel probata 
-          <lb ed="#Pa" n="69"/>facta fuisse ad vnam diem ante illationem mortis 
-          <lb ed="#Pa" n="70"/>nisi citius perueniat reuocatio ad mandatarium vt 
-          <lb ed="#Pa" n="71"/>patet per supradictum casum per bernardum. 
-          Respon<lb ed="#Pa" n="72" break="no"/>sio vt prius quod si vere penituerit apud dei iudicium 
-          <lb ed="#Pa" n="73"/>non incidit in canonem propter causam quam reddidi et 
-          <lb ed="#Pa" n="74"/>nego bernardum in hoc pucto tenens cum domino 
-          inno<lb ed="#Pa" n="75" break="no"/>centio quae vt recitat tabula iuris in vocabulo 
-          excommuni<lb ed="#Pa" n="76" break="no"/>catio dicit quod si aliquis peniteret talis non incideret 
-          <lb ed="#Pa" n="77"/>in canonem etiam si reuocatio non poterit peruenire 
-          <lb ed="#Pa" n="78"/>ad mandatorium pro quo facit Canon et. q. 3 nemo. 
-          <lb ed="#Pa" n="79"/>Opinio tamen bernardi videtur vera ymo videtur quod in  
-          <lb ed="#Pa" n="80"/>dictis casibus tam emittens sagittam etc. quod 
-          man<lb ed="#Pa" n="81" break="no"/>dans occidi clericum sit excommunicatus apud deum a 
-          <lb ed="#Pa" n="82"/>quo regitur ecclesia. eo quod talis fecit actum illicitum 
-          <lb ed="#Pa" n="83"/>ex quo subsecuta est mors clerici et ideo apud deum 
-          <lb ed="#Pa" n="84"/>excommunicatus fuit dum habuit istud velle malum efficacitur 
-          <lb ed="#Pa" n="85"/>et licet tempone actus exterioris nec peccet tamen adhuc 
-          de<lb ed="#Pa" n="86" break="no"/>bet sustinere penam excommunicationis inflictam sibi ab 
-          ec<lb ed="#Pa" n="87" break="no"/>clesia quam iuste et merito sustinet etiam quae ad iudicium 
+          <lb ed="#Pa" n="67"/>adhuc est e communicatus si talis ex suo mandato verberetur
+          <lb ed="#Pa" n="68"/>vel occidatur dato quod reuocatio sit nota vel probata
+          <lb ed="#Pa" n="69"/>facta fuisse ad vnam diem ante illationem mortis
+          <lb ed="#Pa" n="70"/>nisi citius perueniat reuocatio ad mandatarium vt
+          <lb ed="#Pa" n="71"/>patet per supradictum casum per bernardum.
+        </p>
+        <p xml:id="GHYaf3-d1e975-d1e514">
+          Respon<lb ed="#Pa" n="72" break="no"/>sio vt prius quod si vere penituerit apud dei iudicium
+          <lb ed="#Pa" n="73"/>non incidit in canonem propter causam quam reddidi et
+          <lb ed="#Pa" n="74"/>nego bernardum in hoc pucto tenens cum domino
+          inno<lb ed="#Pa" n="75" break="no"/>centio quae vt recitat tabula iuris in vocabulo
+          excommuni<lb ed="#Pa" n="76" break="no"/>catio dicit quod si aliquis peniteret talis non incideret
+          <lb ed="#Pa" n="77"/>in canonem etiam si reuocatio non poterit peruenire
+          <lb ed="#Pa" n="78"/>ad mandatorium pro quo facit Canon et. q. 3 nemo.
+          <lb ed="#Pa" n="79"/>Opinio tamen bernardi videtur vera ymo videtur quod in
+          <lb ed="#Pa" n="80"/>dictis casibus tam emittens sagittam etc. quod
+          man<lb ed="#Pa" n="81" break="no"/>dans occidi clericum sit excommunicatus apud deum a
+          <lb ed="#Pa" n="82"/>quo regitur ecclesia. eo quod talis fecit actum illicitum
+          <lb ed="#Pa" n="83"/>ex quo subsecuta est mors clerici et ideo apud deum
+          <lb ed="#Pa" n="84"/>excommunicatus fuit dum habuit istud velle malum efficacitur
+          <lb ed="#Pa" n="85"/>et licet tempone actus exterioris nec peccet tamen adhuc
+          de<lb ed="#Pa" n="86" break="no"/>bet sustinere penam excommunicationis inflictam sibi ab
+          ec<lb ed="#Pa" n="87" break="no"/>clesia quam iuste et merito sustinet etiam quae ad iudicium
           <lb ed="#Pa" n="88"/>diuinum pro suo peccato precedenti.
         </p>
         <p xml:id="GHYaf3-d1e975-d1e632">
