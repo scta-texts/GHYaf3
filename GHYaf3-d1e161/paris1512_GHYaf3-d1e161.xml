@@ -74,9 +74,11 @@
           dispo<lb ed="#Pa" n="128" break="no"/>sito in quo nulla est resistentia positis cum hoc 
           om<lb ed="#Pa" n="129" break="no"/>nibus causis potest causare effectum suum subito 
           <lb ed="#Pa" n="130"/>sed voluntas est principium tale actiuum et cum hoc 
-          <lb ed="#Pa" n="131"/>tale passiuum igitur circunscriptis 
+          <lb ed="#Pa" n="131"/>tale passiuum igitur circunscriptis impedimentis 
           <!--77.xml-->
-          impedimentis<pb ed="#Pa" n="25-r"/><cb ed="#Pa" n="a"/><lb ed="#Pa" n="1"/>et positis omnibus requisitis subito causabit actum 
+          <pb ed="#Pa" n="25-r"/>
+          <cb ed="#Pa" n="a"/>
+          <lb ed="#Pa" n="1"/>et positis omnibus requisitis subito causabit actum 
           <lb ed="#Pa" n="2"/>sed voluntas est principium tale actiuum et cum hoc 
           <lb ed="#Pa" n="3"/>tale passiuum igitur subito causabit actum suum. 
         </p>
@@ -261,8 +263,8 @@
         <p xml:id="GHYaf3-d1e161-d1e432">
           ⁋ Item illud in permanentibus secunde linee <unclear>pn</unclear> 
           <lb ed="#Pa" n="113"/>esse contigue et ita punctus initiatiuus posterioris 
-          <lb ed="#Pa" n="114"/>immediate erit post punctum terminatiuum prioris qu 
-          <lb ed="#Pa" n="115"/>ibet distincte in situ suo sic etiam deus potest facere i 
+          <lb ed="#Pa" n="114"/>immediate erit post punctum terminatiuum prioris 
+          <sic>qu<lb ed="#Pa" n="115" break="no"/>libet</sic> distincte in situ suo sic etiam deus potest facere i 
           <lb ed="#Pa" n="116"/>successiuis quod vna hora contigue sequatur aliam et per 
           <lb ed="#Pa" n="117"/>consequens instans erit immediatum instanti et etiam aliquid quod habet 
           <lb ed="#Pa" n="118"/>non esse in vno instanti potest subito produci in alio instanti 
@@ -584,8 +586,8 @@
         </p>
         <p xml:id="GHYaf3-d1e161-d1e958">
           ⁋ Respondetur quod magister non dicit quod tunc 
-          <lb ed="#Pa" n="53"/>summe meruit in primo instanti sed ab ipsa sui tan  
-          <lb ed="#Pa" n="54"/>tum meruit quantum post passionem sed non in 
+          <lb ed="#Pa" n="53"/>summe meruit in primo instanti sed ab ipsa sui 
+          tan<lb ed="#Pa" n="54" break="no"/>tum meruit quantum post passionem sed non in 
           ip<lb ed="#Pa" n="55" break="no"/>sa conceptione.
         </p>
         <p xml:id="GHYaf3-d1e161-d1e967">
@@ -607,8 +609,8 @@
           do<lb ed="#Pa" n="62" break="no"/>ctrina Christiana ca. 38 dicit quod cum ad est quod diligitur 
           <lb ed="#Pa" n="63"/>delectationem secum gerere nec esse est sed 
           obie<lb ed="#Pa" n="64" break="no"/>ctum diligibile in instanti potest esse presens 
-          poten<lb ed="#Pa" n="65" break="no"/>tie dilectiue. igitur delectatio potest fieri in instanti 
-          <lb ed="#Pa" n="66"/>ti igitur etiam et dilectio et cognitio.
+          poten<lb ed="#Pa" n="65" break="no"/>tie dilectiue. igitur delectatio potest fieri in 
+          instan<lb ed="#Pa" n="66" break="no"/>ti igitur etiam et dilectio et cognitio.
         </p>
         <p xml:id="GHYaf3-d1e161-d1e995">
           Forte dicitur 
@@ -725,7 +727,7 @@
           tem<lb ed="#Pa" n="6" break="no"/>pore et aliud in instanti quod falsum est quia tunc 
           <lb ed="#Pa" n="7"/>nihil prodesset continuare meritum 
           consequen<lb ed="#Pa" n="8" break="no"/>tia patet quia ponatur quod duo mereantur vnus 
-          tam<lb ed="#Pa" n="9" break="no"/>tum per instans et alius per horam cum omnibus 
+          tan<lb ed="#Pa" n="9" break="no"/>tum per instans et alius per horam cum omnibus 
           <lb ed="#Pa" n="10"/>conditionibus aliis similibus ex parte vtriusque et 
           <lb ed="#Pa" n="11"/>cum equali conatu et equali charitate et intentio 
           <lb ed="#Pa" n="12"/>ne actuum et huiusmodi tunc meritum factum in 
@@ -796,10 +798,9 @@
           merea<lb ed="#Pa" n="63" break="no"/>tur continue in a. tempore et in quolibet 
           instan<lb ed="#Pa" n="64" break="no"/>ti illius et in vltimo et plato omnino equaliter 
           <lb ed="#Pa" n="65"/>mereatur per tempus a. preterquam in vltimo 
-          instan<lb ed="#Pa" n="66" break="no"/>ti ipsius .a.  quod sit .c. tunc si premia ipsorum sunt equa 
+          instan<lb ed="#Pa" n="66" break="no"/>ti ipsius .a. quod sit .c. tunc si premia ipsorum sunt 
           <!--80.xml-->
-          <cb ed="#Pa" n="b"/>
-          <lb ed="#Pa" n="67"/>lia sequitur propositum quia sortes meruit in se 
+          equa<cb ed="#Pa" n="b"/><lb ed="#Pa" n="67" break="no"/>lia sequitur propositum quia sortes meruit in se 
           <lb ed="#Pa" n="68"/>quando plato non meruit si premia sunt 
           inequa<lb ed="#Pa" n="69" break="no"/>lia sequitur quod pro. c. instanti posteriori debetur 
           <lb ed="#Pa" n="70"/>meritum precisum et pari ratione pro quolibet. 
