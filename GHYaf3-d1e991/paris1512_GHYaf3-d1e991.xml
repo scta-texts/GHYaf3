@@ -63,8 +63,8 @@
           <!--341.xml-->
           <pb ed="#Pa" n="149-r"/>
           <cb ed="#Pa" n="a"/>
-          <lb ed="#Pa" n="1"/>VTrum ille qui peccatmor 
-          <lb ed="#Pa" n="2"/>taliter in opre exteriori teneatur plus 
+          <lb ed="#Pa" n="1"/>VTrum ille qui peccat 
+          mor<lb ed="#Pa" n="2" break="no"/>taliter in opre exteriori teneatur plus 
           <lb ed="#Pa" n="3"/>penitere de opere interiori et exteriori 
           <lb ed="#Pa" n="4"/>simul quam de interiori tantum 
         </p>
